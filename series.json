@@ -1,0 +1,819 @@
+{
+  "rows": [
+    {
+      "title": "🎬 PELÍCULAS - ACCIÓN",
+      "items": [
+        {
+          "Title": "ACCION",
+          "Logo": "https://i.imgur.com/6Z8xYkX.png",
+          "type": "series",
+          "description": "Películas de acción, aventura y combate.",
+          "seasons": [
+            {
+              "title": "Películas",
+              "episodes": [
+                {
+                  "Title": "Avatar: Fuego Y Cenizas (2025)",
+                  "Stream": "https://nas1.d.tube/videos/ada9f6dc-e21f-4ffa-a165-feb3ebe670f1/1080p/playlist.m3u8",
+                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/922ad13cf184fff4001ab859810c1481a1a7ffccd84882f9f391855f9ffdc448.jpg",
+                  "description": "El conflicto en Pandora se intensifica cuando la familia de Jake y Neytiri se topa con una nueva y agresiva tribu Na'vi."
+                },
+                {
+                  "Title": "Avatar: El Camino del Agua (2022)",
+                  "Stream": "https://nas1.d.tube/videos/e17458e1-1854-4c25-9372-da3ac6111e2a/720p/playlist.m3u8",
+                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/32296541f5f94f264e7b31c5dbe4d5a56a82cf306b2d22f5807b2154121e2231._UR1920,1080_.jpg",
+                  "description": "Jake Sully y Neytiri forman una familia en Pandora, pero una nueva amenaza los obliga a dejar su hogar."
+                },
+                {
+                  "Title": "Avatar (2009)",
+                  "Stream": "https://nas1.d.tube/videos/18759d68-2949-41af-949a-45c408c8dc9c/1080p/playlist.m3u8",
+                  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwzPYA9798UGOXGmJChcO3VlczpA8xbIwcJY_6pexCjw&s=10",
+                  "description": "Un exmarine parapléjico es enviado a Pandora, donde se infiltra entre los Na'vi usando un avatar."
+                },
+                {
+                  "Title": "Duna (2021)",
+                  "Stream": "https://nas1.d.tube/videos/33a33613-1b48-4162-9e26-b4e176c63605/720p/playlist.m3u8",
+                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/988efc5b607d1fabcbbaa529d8de92105519be363a604ba4e68e736592bf31aa.jpg",
+                  "description": "Paul Atreides viaja al peligroso planeta desértico Arrakis para asegurar el futuro de su familia."
+                },
+                {
+                  "Title": "Duna: Parte 2 (2024)",
+                  "Stream": "https://nas1.d.tube/videos/bccf701a-9270-48ea-8653-d3aa6145fb1b/720p/playlist.m3u8",
+                  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJ2mtHJNolAv97C7ShjxJvrJnD0HQSVhszAPHsmu003a4WqF0LDe6NUNf&s=10",
+                  "description": "Paul Atreides se une a los Fremen en una guerra de venganza mientras enfrenta una elección entre el amor y su destino."
+                },
+                {
+                  "Title": "Depredador: Tierras Salvajes (2025)",
+                  "Stream": "https://rumble.com/hls-vod/75zvnk/playlist.m3u8?u=0&b=0",
+                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/511ecb2aeb4e3be41671c22c2521a777f8b2ae1d424e7452b6884f927460a19c.jpg",
+                  "description": "Un joven Depredador exiliado se alía con una androide dañada para sobrevivir en un planeta lleno de peligros."
+                },
+                {
+                  "Title": "La guerra del mañana (2021)",
+                  "Stream": "https://rumble.com/hls-vod/75yqey/playlist.m3u8?u=0&b=0",
+                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/33a83055d8f3773dc3ad9f4f2180bff71257dcd02cc1bdb18b4569e7f942bd15.png",
+                  "description": "Un grupo de viajeros del tiempo llega desde el año 2051 para advertir que la humanidad está perdiendo una guerra."
+                },
+                {
+                  "Title": "Ninja Assassin (2009)",
+                  "Stream": "https://rumble.com/hls-vod/75yytc/playlist.m3u8?u=0&b=0",
+                  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU3qgvTFuJ4KBdrY72SoEa4tQBvo-gsDSsnb4jr6EvWgfZQhiltTOJqyvX&s=10",
+                  "description": "Raizo es uno de los asesinos más letales entrenados por un clan secreto de ninjas."
+                },
+                {
+                  "Title": "El maestro del Tai Chi (2013)",
+                  "Stream": "https://rumble.com/hls-vod/75z0ew/playlist.m3u8?u=0&b=0",
+                  "Logo": "https://www.findelahistoria.com/web/wp-content/uploads/2013/08/man_of_tai_chi_ver2_xxlg-1024x512.jpg",
+                  "description": "Un joven prodigio del Tai Chi es descubierto por un misterioso empresario que lo introduce en el mundo de las peleas clandestinas."
+                },
+                {
+                  "Title": "Un detective suelto en Hollywood (1984)",
+                  "Stream": "https://rumble.com/hls-vod/75z7cu/playlist.m3u8?u=0&b=0",
+                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/6bc25eb36945ed2aed23961857f828f1084fda7273ca8b45ac462a2f6ca87b61.jpg",
+                  "description": "El detective Axel Foley viaja a Beverly Hills para investigar el asesinato de su mejor amigo."
+                },
+                {
+                  "Title": "Los indestructibles (2010)",
+                  "Stream": "https://rumble.com/hls-vod/75zwtw/playlist.m3u8?u=0&b=0",
+                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/02694268267c79c5974cff87ab06de7868e3e302ad1521e9deb30dc8f459e59c.jpg",
+                  "description": "Un grupo de mercenarios es contratado para infiltrarse en un país sudamericano y derrocar a su dictador."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "🎬 PELÍCULAS - AVENTURA",
+      "items": [
+        {
+          "Title": "AVENTURA",
+          "Logo": "https://i.imgur.com/7kXyZxL.png",
+          "type": "series",
+          "description": "Películas de aventura y fantasía.",
+          "seasons": [
+            {
+              "title": "Películas",
+              "episodes": [
+                {
+                  "Title": "Sonic: La Película (2020)",
+                  "Stream": "https://nas1.d.tube/videos/600d7e81-92af-4390-9143-2e9d8c496931/720p/playlist.m3u8",
+                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/517c5a0519a01b540ebd8aa14ad0c14fe3e159eb7a513fba4cca75bfbff7f114.jpg",
+                  "description": "Sonic, un erizo azul con velocidad supersónica, se alía con el sheriff Tom Wachowski para escapar del malvado Dr. Robotnik."
+                },
+                {
+                  "Title": "Sonic 2: La Película (2022)",
+                  "Stream": "https://nas1.d.tube/videos/f59f2666-a195-44bd-b8b5-498cc7247c5e/720p/playlist.m3u8",
+                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/1cec6ee0900e48fc5a52c6b2d8fc9d64a20b00997801829e2d831397c5ba536b.jpg",
+                  "description": "Sonic forma equipo con Tails para detener al Dr. Robotnik, quien regresa con su nuevo aliado Knuckles."
+                },
+                {
+                  "Title": "Sonic 3: La Película (2024)",
+                  "Stream": "https://nas1.d.tube/videos/5bfbbe81-136f-4436-a49a-b1d29a0cfb6f/720p/playlist.m3u8",
+                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/3b7c1f9506e2900d87ea8eafe5584777f9eb41a8c93338a9eb4662187fa806d4.jpg",
+                  "description": "Sonic, Tails y Knuckles enfrentan a Shadow, un misterioso rival con poderes similares."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "🎬 PELÍCULAS - ANIMES",
+      "items": [
+        {
+          "Title": "ANIMES",
+          "Logo": "https://i.imgur.com/8LyAaYm.png",
+          "type": "series",
+          "description": "Películas de anime japonés.",
+          "seasons": [
+            {
+              "title": "Películas",
+              "episodes": [
+                {
+                  "Title": "Demon Slayer: Kimetsu no Yaiba – Tren Infinito (2020)",
+                  "Stream": "https://nas1.d.tube/videos/675e4c99-27f9-4129-b7f0-8c9d6c869821/1080p/playlist.m3u8",
+                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/6c2cbe6087ef9e1834e213a22b66076bfb23c67dc42f5d03809d4503d2b2b2cd.jpg",
+                  "description": "Tanjiro y sus amigos abordan el Tren Infinito para ayudar al Pilar de Fuego, Rengoku, a enfrentar a Enmu."
+                },
+                {
+                  "Title": "Saint Seiya: La Gran Batalla de los Dioses (1988)",
+                  "Stream": "https://archive.org/download/saint-seiya-anime-archive/MOVIES/Saint%20Seiya%20Movie%202%20-%20Kamigami%20no%20Atsuki%20Tatakai%20%281988%29/Saint%20Seiya%20Movie%202%20-%20Kamigami%20no%20Atsuki%20Tatakai%20%281988%29.mkv",
+                  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv6TimfpkMZ8ieWcxHFP7PKPr12n87N467PjrvD-bgmeQpWAFCWYw9CxU&s=10",
+                  "description": "Los Caballeros viajan a Asgard para rescatar a Hyoga y enfrentarse a poderosos enemigos."
+                },
+                {
+                  "Title": "Saint Seiya: La Leyenda de los Jóvenes Escarlata (1988)",
+                  "Stream": "https://archive.org/download/saint-seiya-anime-archive/MOVIES/Saint%20Seiya%20Movie%203%20-%20Shinku%20no%20Shounen%20Densetsu%20%281988%29/Saint%20Seiya%20Movie%203%20-%20Shinku%20no%20Shounen%20Densetsu%20%281988%29.mkv",
+                  "Logo": "https://i.ytimg.com/vi/8GVAt0oRF44/hq720.jpg",
+                  "description": "El dios Abel regresa con nuevos guerreros para desafiar a Athena y dominar la Tierra."
+                },
+                {
+                  "Title": "Saint Seiya: Los Guerreros de la Última Guerra Santa (1989)",
+                  "Stream": "https://archive.org/download/saint-seiya-anime-archive/MOVIES/Saint%20Seiya%20Movie%204%20-%20Saishuu%20Seisen%20no%20Senshi%20Tachi%20%281989%29/Saint%20Seiya%20Movie%204%20-%20Saishuu%20Seisen%20no%20Senshi%20Tachi%20%281989%29.mkv",
+                  "Logo": "https://i.ytimg.com/vi/5DBq5GasEVg/hq720.jpg",
+                  "description": "Lucifer y sus ángeles caídos regresan para destruir a la humanidad en una batalla épica."
+                },
+                {
+                  "Title": "Saint Seiya: Obertura del Cielo (2004)",
+                  "Stream": "https://archive.org/download/saint-seiya-anime-archive/MOVIES/Saint%20Seiya%20Movie%205%20-%20Tenkai%20Hen%20Josou%20~Overture~%20%282004%29/Saint%20Seiya%20The%20Movie%205%20-%20Tenkai%20Hen%20Josou%20~Overture~%20%282004%29.mkv",
+                  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUJWNX9qB-kARVFXYvOX6mN6XmIlxltsnxdN9zAKTMOFw82Zbys0NxIz4&s=10",
+                  "description": "Los Caballeros enfrentan a los dioses del Olimpo en una batalla final tras la saga de Hades."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "🎬 PELÍCULAS - COMEDIA",
+      "items": [
+        {
+          "Title": "COMEDIA",
+          "Logo": "https://i.imgur.com/9MzBbZn.png",
+          "type": "series",
+          "description": "Películas de comedia y humor.",
+          "seasons": [
+            {
+              "title": "Películas",
+              "episodes": [
+                {
+                  "Title": "El maestro luchador (2012)",
+                  "Stream": "https://rumble.com/hls-vod/75zw94/playlist.m3u8?u=0&b=0",
+                  "Logo": "https://is1-ssl.mzstatic.com/image/thumb/Hl0omKsQVrzRtjkX8WFQeA/1200x675.jpg",
+                  "description": "Un profesor de biología de 42 años se mete en el mundo de las artes marciales mixtas para recaudar dinero y salvar el programa de música de su escuela."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "🎬 PELÍCULAS - DRAMA",
+      "items": [
+        {
+          "Title": "DRAMA",
+          "Logo": "https://i.imgur.com/0NcCdOo.png",
+          "type": "series",
+          "description": "Películas dramáticas e inspiradoras.",
+          "seasons": [
+            {
+              "title": "Películas",
+              "episodes": [
+                {
+                  "Title": "100 Metros (2016)",
+                  "Stream": "https://dl.dropbox.com/scl/fi/ue7i7rvtkc9s0lw418ejg/100.Metros.2025.1080P-Dual-Lat.mkv?rlkey=3i4qsgkiohcx1etp07xt6m0bu&st=3ebpedza&raw=1",
+                  "Logo": "https://i.ytimg.com/vi/GrzqhC6Y-Y8/maxresdefault.jpg",
+                  "description": "Ramón sufre esclerosis múltiple y le dicen que no podrá caminar 100 metros. Contra todo pronóstico, decide entrenar para terminar un Ironman."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "🎬 PELÍCULAS - ANIMACIÓN",
+      "items": [
+        {
+          "Title": "ANIMACIÓN",
+          "Logo": "https://i.imgur.com/1PdEeZp.png",
+          "type": "series",
+          "description": "Películas animadas para toda la familia.",
+          "seasons": [
+            {
+              "title": "Películas",
+              "episodes": [
+                {
+                  "Title": "Nueve (2009)",
+                  "Stream": "https://nas1.d.tube/videos/9053537a-db90-490d-a4ff-417917bbf176/720p/playlist.m3u8",
+                  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ7qWjYKvmtwoLJgwe0lBAYhUPWxBGIUFQ2Zrx-83GlNtxPSS26bVePW0&s=10",
+                  "description": "En un mundo postapocalíptico, un pequeño muñeco de trapo llamado Nueve despierta y lidera a otros ocho seres como él para enfrentarse a máquinas gigantes."
+                },
+                {
+                  "Title": "Elio (2025)",
+                  "Stream": "https://nas1.d.tube/videos/516e384b-01b5-47cc-9c42-323d546cd029/720p/playlist.m3u8",
+                  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU0Llfu6BDWx3pw96Miq3BeFnLB9r_0ErrrSa0W3rs-Fty_HO1CWmMY-A&s=10",
+                  "description": "Un niño fanático del espacio es transportado al Communiverse, una organización interplanetaria, donde es confundido con el líder de la Tierra."
+                },
+                {
+                  "Title": "Mufasa: El Rey León (2024)",
+                  "Stream": "https://dl.dropbox.com/scl/fi/9f6by38ekjvxxilatpm3w/Mufasa-el-rey-leon.mp4?rlkey=fpz2rm46zq3gseafcy4ppv76f&st=h3ccavx6&raw=1",
+                  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMkJWBCf7W5oJ94F78cgkh1tv9U7Brv1XVJraXNqIWu3q9bvnWr1ajBaiq&s=10",
+                  "description": "La historia de los orígenes de Mufasa, desde un cachorro huérfano hasta convertirse en el legendario rey de la Tierra del Orgullo."
+                },
+                {
+                  "Title": "Una Película de Minecraft (2025)",
+                  "Stream": "https://dl.dropbox.com/scl/fi/ka5enl3jaczmkw3sld5wr/Una-Pel-cula-De-Minecraft.mp4?rlkey=o776he0wupm7giedjeq1d3ebn&st=vh3bzv33&raw=1",
+                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/d7653cee711c6d2c45bce553b3342355edd2479cd1ed7d774a8af932be2302b6.jpg",
+                  "description": "En un mundo construido completamente con bloques, un grupo de héroes deberá enfrentarse a peligros inesperados para salvar su universo."
+                },
+                {
+                  "Title": "La era de hielo (2002)",
+                  "Stream": "https://nas1.d.tube/videos/df88aae4-4ca0-42eb-9724-ef5aa184ac7d/360p/playlist.m3u8",
+                  "Logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/27c2824d-b755-4b51-beda-d7c91d3725c2/compose?aspectRatio=1.78&format=webp&width=1200",
+                  "description": "En la era glacial, un perezoso, un mamut y un tigre dientes de sable forman una improbable manada para devolver a un bebé humano perdido."
+                },
+                {
+                  "Title": "La era de hielo 2: El deshielo (2006)",
+                  "Stream": "https://nas1.d.tube/videos/b3d24488-93e4-43ce-8c66-fef3a4a5ad16/1080p/playlist.m3u8",
+                  "Logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/0bf0cea6-1bd5-4af1-a84c-0b014684d492/compose?aspectRatio=1.78&format=webp&width=1200",
+                  "description": "Manny, Sid y Diego descubren que la presa glacial está a punto de romperse y deben llegar al otro extremo del valle para salvarse."
+                },
+                {
+                  "Title": "La era de hielo 3: El origen de los dinosaurios (2009)",
+                  "Stream": "https://nas1.d.tube/videos/02277c46-d6c4-4170-93cf-faf0238f1b9f/720p/playlist.m3u8",
+                  "Logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019b255d-4619-7ad0-8f11-2f3beb92186e/compose?aspectRatio=1.78&format=webp&width=1200",
+                  "description": "Manny, Sid y Diego se aventuran en un mundo subterráneo lleno de dinosaurios para rescatar a Sid."
+                },
+                {
+                  "Title": "La era de hielo 4: La formación de los continentes (2012)",
+                  "Stream": "https://nas1.d.tube/videos/c2af7b27-d425-4390-94a4-3bd054f8f0e4/720p/playlist.m3u8",
+                  "Logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019b256e-6eb7-7ea2-acb2-7bea7b094244/compose?aspectRatio=1.78&format=webp&width=1200",
+                  "description": "La búsqueda de una nuez por parte de Scrat provoca una catástrofe continental que separa a la manada."
+                },
+                {
+                  "Title": "Scooby-Doo: La Película (2002)",
+                  "Stream": "https://dl.dropbox.com/scl/fi/2miqldty5vc2u5sal0tdr/Scooby-Doo-La-Pel-cula-2002-1080p-DUAL-id_9637.mkv?rlkey=vbyv2v1aftxb1syrphwuyoppm&st=dood1gpo&raw=1",
+                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/597e766e16d81965cc4f46decece4e729266bbe6e51fd444c113d4c88064c65b._SX1080_FMjpg_.jpg",
+                  "description": "Scooby-Doo y su pandilla viajan a una isla misteriosa donde deberán resolver un caso lleno de criaturas extrañas."
+                },
+                {
+                  "Title": "Scooby-Doo 2: Monstruos Sueltos (2004)",
+                  "Stream": "https://dl.dropbox.com/scl/fi/196c0uxse9s29eqjrq04n/Scooby-Doo-2-Monstruos-Sueltos-2004-1080p-DUAL-id_11024.mkv?rlkey=t453nerzmuuw9jpopznenyb2z&st=opdyydlz&raw=1",
+                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/bc48687fa3f1a38c4fb143d5800e4a856cb7cae2aac1ddced2769e14f6eb5c02.jpg",
+                  "description": "La pandilla Mystery Inc. regresa para enfrentar a un villano que utiliza antiguos disfraces de monstruos."
+                },
+                {
+                  "Title": "Scooby-Doo 3: El misterio comienza (2009)",
+                  "Stream": "https://dl.dropbox.com/scl/fi/2ofnf3qlk96os7n5in8gb/Scooby-Doo-3-El-misterio-comienza-2009-id_22620.mkv?rlkey=79nwy01lu3qifgz56yei5t568&st=44g1atbk&raw=1",
+                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/791380d85651b9698d21cea89e30f51a2f30cc3ddd02a6e77502343b8bda7f81.jpg",
+                  "description": "La historia del origen de Scooby-Doo y sus amigos, mostrando cómo se conocieron."
+                },
+                {
+                  "Title": "Los Tipos Malos (2022)",
+                  "Stream": "https://rumble.com/hls-vod/75yrn6/playlist.m3u8?u=0&b=0",
+                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/0a7ef103ed12f6267c9e23f8bebd047f356220e202d2ac039cce9ac8cc25605c.jpg",
+                  "description": "Un grupo de animales ladrones intentan convertirse en modelos de la bondad para evitar la cárcel."
+                },
+                {
+                  "Title": "Los Tipos Malos 2 (2025)",
+                  "Stream": "https://rumble.com/hls-vod/75yohw/playlist.m3u8?u=0&b=0",
+                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/89128ed2b414a07ca9df870500cb5e10ce3ce2468188a9c05c47dc4bb413c71b.jpg",
+                  "description": "Los Tipos Malos enfrentan una nueva amenaza mientras intentan mantener su reputación."
+                },
+                {
+                  "Title": "Hotel Transilvania 3: Monstruos de vacaciones (2018)",
+                  "Stream": "https://zerostorage.net/api/files/9d7d8d00-eb18-4f9e-ae23-f95a9d26a91a/stream",
+                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/0b019f45612521126849688a006b3ca08e63b23104020c4e80e2caa7a5616ffb.jpg",
+                  "description": "Drácula y su familia se embarcan en un crucero de lujo para monstruos."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "🎬 PELÍCULAS - TERROR",
+      "items": [
+        {
+          "Title": "TERROR",
+          "Logo": "https://i.imgur.com/2QfFfQq.png",
+          "type": "series",
+          "description": "Películas de terror y suspenso.",
+          "seasons": [
+            {
+              "title": "Películas",
+              "episodes": [
+                {
+                  "Title": "Infectados (2009)",
+                  "Stream": "https://nas1.d.tube/videos/44ca75ac-26b5-485e-8d16-a466dafb1adb/720p/playlist.m3u8",
+                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/9f5e5453eaebf0e69fb5d413c1035cea06209258a57aae8997486905558fa537.jpg",
+                  "description": "Cuatro jóvenes huyen de un virus mortal que ha arrasado el planeta."
+                },
+                {
+                  "Title": "Pesadilla Jurásica (2012)",
+                  "Stream": "https://rumble.com/hls-vod/75zxfq/playlist.m3u8?u=0&b=0",
+                  "Logo": "https://is1-ssl.mzstatic.com/image/thumb/wobscZWXETKR9A17sxdRUw/1200x675.jpg",
+                  "description": "Dos pescadores encuentran videos que revelan el encuentro de exploradores con criaturas prehistóricas."
+                },
+                {
+                  "Title": "El Conjuro (2013)",
+                  "Stream": "https://rumble.com/hls-vod/76052q/playlist.m3u8?u=0&b=0",
+                  "Logo": "https://i0.wp.com/cinedeterror65.wordpress.com/wp-content/uploads/2017/06/the-conjuring-movie-poster-wallpaper.jpg?w=458&h=257&ssl=1",
+                  "description": "Una familia se muda a una granja y comienza a sufrir fenómenos paranormales."
+                },
+                {
+                  "Title": "El Conjuro 2 (2016)",
+                  "Stream": "https://nas1.d.tube/videos/4c8e90c2-bca5-485b-83a1-d9fef66bee8d/720p/playlist.m3u8",
+                  "Logo": "https://noticias.unju.edu.ar/noticias/serv/notis/958_Elconjuro.jpg",
+                  "description": "Los Warren viajan a Londres para ayudar a una madre soltera aterrorizada por un poltergeist."
+                },
+                {
+                  "Title": "El Conjuro 3: El Diablo me obligó a hacerlo (2021)",
+                  "Stream": "https://nas1.d.tube/videos/1fa83b06-f71d-480a-bd0d-bbf1f9a79474/720p/playlist.m3u8",
+                  "Logo": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/5ed8a825-101d-4438-8153-f6d5c9b405f9/6b296408b2561dffca113d566b8c5cd7bfec158f.jpg",
+                  "description": "Los Warren investigan el primer caso donde un asesino alegó posesión demoníaca como defensa."
+                },
+                {
+                  "Title": "La monja (2018)",
+                  "Stream": "https://nas1.d.tube/videos/db63b93e-5457-4bae-9422-82ed6b22f551/1080p/playlist.m3u8",
+                  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQreYMGiUux_ZbbdHkSMZUuA0NKZa5gH1BfBaxIvw--NQrjGtf-BAPr5so&s=10",
+                  "description": "Una joven monja se suicida y el Vaticano envía a un sacerdote a investigar."
+                },
+                {
+                  "Title": "La monja 2 (2023)",
+                  "Stream": "https://nas1.d.tube/videos/bdff87c5-353c-4466-a806-0d819320fd98/1080p/playlist.m3u8",
+                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/b5472fcf3c20db50e0ff8e41ab47d5ba87859aab7f7e2a3bbc394789fb960664.jpg",
+                  "description": "La hermana Irene se enfrenta nuevamente a Valak, la monja demonio, que ahora aterroriza un internado."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "🎬 PELÍCULAS - RELIGIÓN",
+      "items": [
+        {
+          "Title": "RELIGIÓN",
+          "Logo": "https://i.imgur.com/3RgGgRr.png",
+          "type": "series",
+          "description": "Películas religiosas y bíblicas.",
+          "seasons": [
+            {
+              "title": "Películas",
+              "episodes": [
+                {
+                  "Title": "La Pasión de Cristo (2004)",
+                  "Stream": "https://nas1.d.tube/videos/f4da0bf5-93e3-4e19-9120-5ce54806fdf3/1080p/playlist.m3u8",
+                  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQr2WbtC7tU6jzLLw-VKjaoUj14rdLNs-XcEuHjYYcdkfQv6lcmRKTM7c&s=10",
+                  "description": "Las últimas doce horas en la vida de Jesús de Nazaret, desde su agonía hasta su crucifixión."
+                },
+                {
+                  "Title": "Jesús (1979)",
+                  "Stream": "https://nas1.d.tube/videos/a20370d5-7249-4502-84b1-13ce1a2fcf70/1080p/playlist.m3u8",
+                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/c614224c428e7846e8a4a46fa5a085445dde1fc11b148e0f197157855a84dde4.jpg",
+                  "description": "La vida y ministerio de Jesucristo, desde su nacimiento hasta su resurrección, basada en el Evangelio de Lucas."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "📺 TV PREMIUM",
+      "items": [
+        {
+          "Title": "CANALES EN VIVO",
+          "Logo": "https://i.imgur.com/4ShHhSs.png",
+          "type": "series",
+          "description": "Canales de televisión en vivo.",
+          "seasons": [
+            {
+              "title": "Canales",
+              "episodes": [
+                {
+                  "Title": "María Visión México",
+                  "Stream": "https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Italiatre/playlist.m3u8",
+                  "Logo": "https://static.wixstatic.com/media/ae9e39_98c192d6a3754e0188199e96fc46b514~mv2.png",
+                  "description": "Canal de televisión mexicano con programación variada."
+                },
+                {
+                  "Title": "Las Estrellas MX 1",
+                  "Stream": "https://dai.google.com/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8",
+                  "Logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",
+                  "description": "Canal de telenovelas y entretenimiento mexicano."
+                },
+                {
+                  "Title": "Las Estrellas MX 2",
+                  "Stream": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
+                  "Logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",
+                  "description": "Canal de telenovelas y entretenimiento mexicano."
+                },
+                {
+                  "Title": "Telemundo",
+                  "Stream": "http://origin.thetvapp.to/hls/TelemundoEast/index.m3u8",
+                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
+                  "description": "Canal de televisión estadounidense en español."
+                },
+                {
+                  "Title": "Univision",
+                  "Stream": "http://origin.thetvapp.to/hls/UnivisionEast/index.m3u8",
+                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
+                  "description": "Canal de televisión estadounidense en español."
+                },
+                {
+                  "Title": "Azteca Uno",
+                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23300",
+                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
+                  "description": "Canal de televisión mexicano."
+                },
+                {
+                  "Title": "Las Estrellas",
+                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23301",
+                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
+                  "description": "Canal de telenovelas y entretenimiento mexicano."
+                },
+                {
+                  "Title": "Imagen TV",
+                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23302",
+                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
+                  "description": "Canal de televisión mexicano."
+                },
+                {
+                  "Title": "Canal 5",
+                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23303",
+                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
+                  "description": "Canal de televisión abierta mexicano."
+                },
+                {
+                  "Title": "Azteca 7",
+                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23304",
+                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
+                  "description": "Canal de televisión mexicano."
+                },
+                {
+                  "Title": "Star Channel",
+                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23305",
+                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
+                  "description": "Canal de series y películas."
+                },
+                {
+                  "Title": "Universal TV",
+                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23306",
+                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
+                  "description": "Canal de entretenimiento."
+                },
+                {
+                  "Title": "Warner Bros",
+                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23308",
+                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
+                  "description": "Canal de películas de Warner."
+                },
+                {
+                  "Title": "AMC",
+                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23309",
+                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
+                  "description": "Canal de series premium."
+                },
+                {
+                  "Title": "AXN",
+                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23311",
+                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
+                  "description": "Canal de acción y suspenso."
+                },
+                {
+                  "Title": "FX",
+                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23312",
+                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
+                  "description": "Canal de series originales."
+                },
+                {
+                  "Title": "Space",
+                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23313",
+                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
+                  "description": "Canal de ciencia ficción."
+                },
+                {
+                  "Title": "TNT",
+                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23348",
+                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
+                  "description": "Canal de series y películas."
+                },
+                {
+                  "Title": "HBO",
+                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23356",
+                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
+                  "description": "Canal premium de series y películas."
+                },
+                {
+                  "Title": "ESPN",
+                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23342",
+                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
+                  "description": "Canal de deportes."
+                },
+                {
+                  "Title": "Discovery Channel",
+                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23332",
+                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
+                  "description": "Canal de documentales."
+                },
+                {
+                  "Title": "National Geographic",
+                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23334",
+                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
+                  "description": "Canal de naturaleza y ciencia."
+                },
+                {
+                  "Title": "History Channel",
+                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23336",
+                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
+                  "description": "Canal de historia y documentales."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "📺 SERIES",
+      "items": [
+        {
+          "Title": "MALCOLM EL DE ENMEDIO: LA VIDA SIGUE SIENDO INJUSTA (2026)",
+          "Logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ce066-ad4a-7ecd-b1bb-870c057570f1/compose?aspectRatio=1.78&format=webp&width=1200",
+          "type": "series",
+          "description": "Malcolm ha construido una vida perfecta lejos de su familia, pero una videollamada de sus padres lo obliga a enfrentar su pasado.",
+          "seasons": [
+            {
+              "title": "Temporada 1",
+              "episodes": [
+                {
+                  "Title": "S01 E01 - Episodio 1",
+                  "Stream": "https://nas1.d.tube/videos/16c1c769-7b70-42c7-9752-7743d479d0dc/1080p/playlist.m3u8",
+                  "Logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ce066-ad4a-7ecd-b1bb-870c057570f1/compose?aspectRatio=1.78&format=webp&width=1200",
+                  "description": "Malcolm ha construido una vida perfecta lejos de su familia, pero una videollamada de sus padres lo obliga a enfrentar su pasado."
+                },
+                {
+                  "Title": "S01 E02 - Episodio 2",
+                  "Stream": "https://nas1.d.tube/videos/a8427c46-100a-4522-aa64-6a7a0b2cc7a9/1080p/playlist.m3u8",
+                  "Logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ce066-ad4a-7ecd-b1bb-870c057570f1/compose?aspectRatio=1.78&format=webp&width=1200",
+                  "description": "Malcolm intenta mantener su doble vida en secreto mientras su hija Leah sospecha."
+                },
+                {
+                  "Title": "S01 E03 - Episodio 3",
+                  "Stream": "https://nas1.d.tube/videos/4d2d36b9-23b7-4b98-9507-50570fca228b/1080p/playlist.m3u8",
+                  "Logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ce066-ad4a-7ecd-b1bb-870c057570f1/compose?aspectRatio=1.78&format=webp&width=1200",
+                  "description": "La tensión aumenta cuando Malcolm y Leah llegan a la casa familiar."
+                },
+                {
+                  "Title": "S01 E04 - Episodio 4",
+                  "Stream": "https://nas1.d.tube/videos/4d82b8a2-3b3b-40fa-9c2e-1b78bf3ee99b/1080p/playlist.m3u8",
+                  "Logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ce066-ad4a-7ecd-b1bb-870c057570f1/compose?aspectRatio=1.78&format=webp&width=1200",
+                  "description": "En el esperado aniversario de Hal y Lois, la familia se enfrenta a sus diferencias."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "INVENCIBLE (2021)",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/78afe406779795dfbc13b08845a48edcd88a5deb81130a437b358170a1fa8552.png",
+          "type": "series",
+          "description": "Mark Grayson descubre que su padre es el superhéroe más poderoso del planeta.",
+          "seasons": [
+            {
+              "title": "Temporada 1",
+              "episodes": [
+                {
+                  "Title": "S01 E01 - Ya era hora",
+                  "Stream": "https://nas1.d.tube/videos/78eaa6bb-ad7a-4350-80a4-4291428e26c6/1080p/playlist.m3u8",
+                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/78afe406779795dfbc13b08845a48edcd88a5deb81130a437b358170a1fa8552.png",
+                  "description": "Mark Grayson finalmente hereda los poderes de su padre superhéroe."
+                },
+                {
+                  "Title": "S01 E02 - De perdidos al río",
+                  "Stream": "https://nas1.d.tube/videos/9f84bac6-9fba-4ba1-bf7a-b49e7e481ddd/1080p/playlist.m3u8",
+                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/78afe406779795dfbc13b08845a48edcd88a5deb81130a437b358170a1fa8552.png",
+                  "description": "Mark une fuerzas con un equipo de superhéroes adolescentes para detener una invasión interdimensional."
+                },
+                {
+                  "Title": "S01 E03 - ¿A quién llamas feo?",
+                  "Stream": "https://nas1.d.tube/videos/379de3cd-ccb4-4c17-ac63-7f5174a3f139/1080p/playlist.m3u8",
+                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/78afe406779795dfbc13b08845a48edcd88a5deb81130a437b358170a1fa8552.png",
+                  "description": "Mark debe interrumpir una cita para salvar el Monte Rushmore de un científico loco."
+                },
+                {
+                  "Title": "S01 E04 - Chúpate esa, Neil Armstrong",
+                  "Stream": "https://nas1.d.tube/videos/6939c36a-f9ec-440a-a7b7-84e7b226ca31/1080p/playlist.m3u8",
+                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/78afe406779795dfbc13b08845a48edcd88a5deb81130a437b358170a1fa8552.png",
+                  "description": "Dos primeras veces para Mark: una primera cita y su primer viaje a otro planeta."
+                },
+                {
+                  "Title": "S01 E05 - Eso sí que me ha dolido",
+                  "Stream": "https://nas1.d.tube/videos/d6ab1f64-b091-420e-8cc9-a3ebfb429dfd/1080p/playlist.m3u8",
+                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/78afe406779795dfbc13b08845a48edcd88a5deb81130a437b358170a1fa8552.png",
+                  "description": "Mark se arriesga a formar equipo con un villano local para derrocar a un señor del crimen."
+                },
+                {
+                  "Title": "S01 E06 - Te ves algo muerto",
+                  "Stream": "https://nas1.d.tube/videos/609c8f79-dbbb-40e8-8d50-268626d02333/1080p/playlist.m3u8",
+                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/78afe406779795dfbc13b08845a48edcd88a5deb81130a437b358170a1fa8552.png",
+                  "description": "Mark visita una universidad con William y Amber mientras Debbie hace un descubrimiento inquietante."
+                },
+                {
+                  "Title": "S01 E07 - Tenemos que hablar",
+                  "Stream": "https://nas1.d.tube/videos/5eb91f47-ba00-44fe-92ca-b3f6672e01f3/1080p/playlist.m3u8",
+                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/78afe406779795dfbc13b08845a48edcd88a5deb81130a437b358170a1fa8552.png",
+                  "description": "Perdido y confundido, Mark busca el consejo de Eve mientras todo el mundo lo busca."
+                },
+                {
+                  "Title": "S01 E08 - De dónde vengo realmente",
+                  "Stream": "https://nas1.d.tube/videos/2809cf9b-f055-49f1-a95a-aacac06bb5b9/1080p/playlist.m3u8",
+                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/78afe406779795dfbc13b08845a48edcd88a5deb81130a437b358170a1fa8552.png",
+                  "description": "Para demostrar que se ha convertido en el héroe que siempre quiso ser, Mark debe detener una fuerza imparable."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "LOS TIPOS MALOS: MALOS COMIENZOS (2025)",
+          "Logo": "https://i.ytimg.com/vi/Mau7ucTGbUE/maxresdefault.jpg",
+          "type": "series",
+          "description": "Las aventuras de los Tipos Malos en sus inicios.",
+          "seasons": [
+            {
+              "title": "Temporada 1",
+              "episodes": [
+                {
+                  "Title": "S01 E01 - Malos Comienzos",
+                  "Stream": "https://nas1.d.tube/videos/1eb5f577-7c11-46d1-81c3-69bb7d02bf6f/1080p/playlist.m3u8",
+                  "Logo": "https://i.ytimg.com/vi/Mau7ucTGbUE/maxresdefault.jpg",
+                  "description": "Para ganar fama, el Sr. Lobo y su banda planean robar una icónica pintura del museo local."
+                },
+                {
+                  "Title": "S01 E02 - El Robo Más Dulce",
+                  "Stream": "https://nas1.d.tube/videos/2bcd9f29-dce4-4745-83b6-d76660e5927d/1080p/playlist.m3u8",
+                  "Logo": "https://i.ytimg.com/vi/Mau7ucTGbUE/maxresdefault.jpg",
+                  "description": "Los Tipos Malos intentan robar la receta supersecreta de una sospechosa fabricante de dulces."
+                },
+                {
+                  "Title": "S01 E03 - Si No Hay Noticias, Son Malas Noticias",
+                  "Stream": "https://rumble.com/hls-vod/75ynoq/playlist.m3u8?u=0&b=0",
+                  "Logo": "https://i.ytimg.com/vi/Mau7ucTGbUE/maxresdefault.jpg",
+                  "description": "Lobo consigue una entrevista para el equipo en las noticias como una manera de promocionar sus robos."
+                },
+                {
+                  "Title": "S01 E05 - La hacker, el embaucador y los Tipos Malos",
+                  "Stream": "https://rumble.com/hls-vod/75yz4q/playlist.m3u8?u=0&b=0",
+                  "Logo": "https://i.ytimg.com/vi/Mau7ucTGbUE/maxresdefault.jpg",
+                  "description": "Redes teme quedarse fuera de la pandilla, así que recurre a un legendario escapista para que les enseñe nuevos trucos."
+                },
+                {
+                  "Title": "S01 E06 - Misión en la granja",
+                  "Stream": "https://nas1.d.tube/videos/a2384365-6659-42d9-a2be-1113d5c111c5/1080p/playlist.m3u8",
+                  "Logo": "https://i.ytimg.com/vi/wz89LEfBS-0/hq720.jpg",
+                  "description": "Los Tipos Malos intentan robar un valioso huevo de oro de una granja."
+                },
+                {
+                  "Title": "S01 E07 - El escape imposible",
+                  "Stream": "https://nas1.d.tube/videos/ccf4b272-6906-4cce-99e1-b091f02b3a29/1080p/playlist.m3u8",
+                  "Logo": "https://i.ytimg.com/vi/wz89LEfBS-0/hq720.jpg",
+                  "description": "Atrapados en una bóveda de máxima seguridad, la banda deberá usar todas sus habilidades para escapar."
+                },
+                {
+                  "Title": "S01 E08 - El rival misterioso",
+                  "Stream": "https://nas1.d.tube/videos/4a7648fb-4bb5-48f9-ae13-c6df306a2c73/1080p/playlist.m3u8",
+                  "Logo": "https://i.ytimg.com/vi/wz89LEfBS-0/hq720.jpg",
+                  "description": "Un nuevo grupo de villanos aparece en la ciudad y compite con los Tipos Malos por el botín más grande."
+                },
+                {
+                  "Title": "S01 E09 - El gran engaño",
+                  "Stream": "https://nas1.d.tube/videos/dba7f7a9-1483-406d-bbaa-21d6c51aa452/1080p/playlist.m3u8",
+                  "Logo": "https://i.ytimg.com/vi/wz89LEfBS-0/hq720.jpg",
+                  "description": "Los Tipos Malos planean su robo más ambicioso, pero descubren que alguien los ha estado manipulando."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "ROOSTER FIGHTER (2024)",
+          "Logo": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/e25dc87a090a72ecfb0e4476b1853cb7.png",
+          "type": "series",
+          "description": "Un gallo errante protege a la humanidad enfrentándose a criaturas gigantes.",
+          "seasons": [
+            {
+              "title": "Temporada 1",
+              "episodes": [
+                {
+                  "Title": "S01 E01 - Un gallo entre grullas",
+                  "Stream": "https://rumble.com/hls-vod/75z2qu/playlist.m3u8?u=0&b=0",
+                  "Logo": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/e25dc87a090a72ecfb0e4476b1853cb7.png",
+                  "description": "Keiji, un gallo errante, protege a la humanidad enfrentándose a criaturas gigantes que amenazan el mundo."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "LOS DINOSAURIOS (2026)",
+          "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRquKHisgG_9KItZEn-pGVlxvBklvVX6ZNiVvHA1NZu78iKdcWbnXmLZlC&s=10",
+          "type": "series",
+          "description": "Documental sobre la era de los dinosaurios.",
+          "seasons": [
+            {
+              "title": "Temporada 1",
+              "episodes": [
+                {
+                  "Title": "S01 E01 - El origen",
+                  "Stream": "https://rumble.com/hls-vod/75z5hc/playlist.m3u8?u=0&b=0",
+                  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRquKHisgG_9KItZEn-pGVlxvBklvVX6ZNiVvHA1NZu78iKdcWbnXmLZlC&s=10",
+                  "description": "Desde los primeros dinosaurios hasta su dominio de la Tierra."
+                },
+                {
+                  "Title": "S01 E02 - El reinado",
+                  "Stream": "https://rumble.com/hls-vod/75z5x6/playlist.m3u8?u=0&b=0",
+                  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRquKHisgG_9KItZEn-pGVlxvBklvVX6ZNiVvHA1NZu78iKdcWbnXmLZlC&s=10",
+                  "description": "Los dinosaurios alcanzan su máximo esplendor."
+                },
+                {
+                  "Title": "S01 E03 - La extinción",
+                  "Stream": "https://rumble.com/hls-vod/75z3cc/playlist.m3u8?u=0&b=0",
+                  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRquKHisgG_9KItZEn-pGVlxvBklvVX6ZNiVvHA1NZu78iKdcWbnXmLZlC&s=10",
+                  "description": "El cataclismo que acabó con los dinosaurios no aviares."
+                },
+                {
+                  "Title": "S01 E04 - El legado",
+                  "Stream": "https://rumble.com/hls-vod/75z488/playlist.m3u8?u=0&b=0",
+                  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRquKHisgG_9KItZEn-pGVlxvBklvVX6ZNiVvHA1NZu78iKdcWbnXmLZlC&s=10",
+                  "description": "El final de la era de los dinosaurios y el ascenso de los mamíferos."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "ICARLY (2007)",
+          "Logo": "https://img.nm-ovp.nelonenmedia.fi/v1/longbow?src=videoCollection/9e330b02-4a30-413e-bc38-d4125ddc8b61/9bba5400-160e-45f0-aa62-9ff894ac07f2.jpg&width=1920&height=1080",
+          "type": "series",
+          "description": "Carly crea un webshow junto a sus amigos Sam y Freddie.",
+          "seasons": [
+            {
+              "title": "Temporada 1",
+              "episodes": [
+                {
+                  "Title": "S01 E01 - Episodio Piloto",
+                  "Stream": "https://nas1.d.tube/videos/79f58b8b-621f-4525-ae25-82b6bf6d53bd/1080p/playlist.m3u8",
+                  "Logo": "https://img.nm-ovp.nelonenmedia.fi/v1/longbow?src=videoCollection/9e330b02-4a30-413e-bc38-d4125ddc8b61/9bba5400-160e-45f0-aa62-9ff894ac07f2.jpg&width=1920&height=1080",
+                  "description": "Carly crea un webshow junto a sus amigos Sam y Freddie."
+                },
+                {
+                  "Title": "S01 E02 - Quiero más espectadores",
+                  "Stream": "https://nas1.d.tube/videos/2e4f4906-6133-4dda-b668-9c28bd4ccaec/1080p/playlist.m3u8",
+                  "Logo": "https://img.nm-ovp.nelonenmedia.fi/v1/longbow?src=videoCollection/9e330b02-4a30-413e-bc38-d4125ddc8b61/9bba5400-160e-45f0-aa62-9ff894ac07f2.jpg&width=1920&height=1080",
+                  "description": "Carly y sus amigos compiten para ver quién consigue más espectadores."
+                },
+                {
+                  "Title": "S01 E03 - El sueño de bailar",
+                  "Stream": "https://nas1.d.tube/videos/3622aad5-5ff0-4a50-a5f4-6073109a7506/1080p/playlist.m3u8",
+                  "Logo": "https://img.nm-ovp.nelonenmedia.fi/v1/longbow?src=videoCollection/9e330b02-4a30-413e-bc38-d4125ddc8b61/9bba5400-160e-45f0-aa62-9ff894ac07f2.jpg&width=1920&height=1080",
+                  "description": "Carly, Sam y Freddie ven videos de baile y tienen extraños sueños."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
