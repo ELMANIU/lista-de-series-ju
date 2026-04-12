@@ -1,49 +1,66 @@
 {
-  "title": "INVENCIBLE",
-  "items": [
+  "rows": [
     {
-      "Title": "INVENCIBLE",
-      "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg",
-      "type": "series",
-      "description": "Mark Grayson descubre que su padre es el superhéroe más poderoso del planeta.",
-      "seasons": [
+      "title": "SERIES",
+      "items": [
         {
-          "title": "Temporada 1",
-          "episodes": [
+          "Title": "INVENCIBLE",
+          "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg",
+          "type": "series",
+          "description": "Mark Grayson descubre que su padre es el superhéroe más poderoso del planeta.",
+          "seasons": [
             {
-              "Title": "E01 - Ya era hora",
-              "Stream": "https://example.com/invencible_s01e01.mp4",
-              "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg",
-              "description": "Mark comienza a desarrollar sus poderes."
-            },
-            {
-              "Title": "E02 - Aquí vamos",
-              "Stream": "https://example.com/invencible_s01e02.mp4",
-              "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg",
-              "description": "Mark entrena para ser héroe."
-            },
-            {
-              "Title": "E03 - Quién eres tú realmente",
-              "Stream": "https://example.com/invencible_s01e03.mp4",
-              "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg",
-              "description": "Mark enfrenta sus primeras amenazas."
-            }
-          ]
-        },
-        {
-          "title": "Temporada 2",
-          "episodes": [
-            {
-              "Title": "E01 - Un nuevo comienzo",
-              "Stream": "https://example.com/invencible_s02e01.mp4",
-              "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg",
-              "description": "Mark enfrenta las consecuencias del pasado."
-            },
-            {
-              "Title": "E02 - Amenazas mayores",
-              "Stream": "https://example.com/invencible_s02e02.mp4",
-              "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg",
-              "description": "Nuevos enemigos aparecen."
+              "title": "Temporada 1",
+              "episodes": [
+                {
+                  "Title": "E01 - Ya era hora",
+                  "Stream": "PON_AQUI_TU_LINK",
+                  "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg",
+                  "description": "Mark comienza a desarrollar sus poderes."
+                },
+                {
+                  "Title": "E02 - Aquí vamos",
+                  "Stream": "PON_AQUI_TU_LINK",
+                  "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg",
+                  "description": "Mark entrena para ser héroe."
+                },
+                {
+                  "Title": "E03 - Quién eres tú realmente",
+                  "Stream": "PON_AQUI_TU_LINK",
+                  "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg",
+                  "description": "Mark enfrenta sus primeras amenazas."
+                },
+                {
+                  "Title": "E04 - Neil Armstrong, come tu corazón",
+                  "Stream": "PON_AQUI_TU_LINK",
+                  "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg",
+                  "description": "Las cosas se complican para Mark."
+                },
+                {
+                  "Title": "E05 - Eso fue fácil",
+                  "Stream": "PON_AQUI_TU_LINK",
+                  "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg",
+                  "description": "Mark enfrenta nuevos desafíos."
+                },
+                {
+                  "Title": "E06 - No eres tú, soy yo",
+                  "Stream": "PON_AQUI_TU_LINK",
+                  "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg",
+                  "description": "Problemas personales afectan a Mark."
+                },
+                {
+                  "Title": "E07 - Tenemos que hablar",
+                  "Stream": "PON_AQUI_TU_LINK",
+                  "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg",
+                  "description": "La verdad comienza a salir."
+                },
+                {
+                  "Title": "E08 - De dónde vengo realmente",
+                  "Stream": "PON_AQUI_TU_LINK",
+                  "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg",
+                  "description": "Final impactante de temporada."
+                }
+              ]
             }
           ]
         }
