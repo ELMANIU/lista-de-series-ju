@@ -158,7 +158,7 @@
         },
         {
           "Title": "COMEDIA",
-          "Logo": "https://i.imgur.com/9MzBbZn.png",
+          "Logo": "https://img.freepik.com/vector-premium/comedia-pelicula-neon-simbolo_1268-10446.jpg",
           "type": "series",
           "description": "Películas de comedia y humor.",
           "seasons": [
@@ -177,7 +177,7 @@
         },
         {
           "Title": "DRAMA",
-          "Logo": "https://i.imgur.com/0NcCdOo.png",
+          "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ0SVw0TYlNzVlRrVN_tkvxUFn0-T_6XcMpuvcBQELpU6SxNKp7SyRmlHP&s=10",
           "type": "series",
           "description": "Películas dramáticas e inspiradoras.",
           "seasons": [
@@ -196,7 +196,7 @@
         },
         {
           "Title": "ANIMACIÓN",
-          "Logo": "https://i.imgur.com/1PdEeZp.png",
+          "Logo": "https://www.ecartelera.com/images/noticias/73500/73577-h3.jpg",
           "type": "series",
           "description": "Películas animadas para toda la familia.",
           "seasons": [
@@ -293,7 +293,7 @@
         },
         {
           "Title": "TERROR",
-          "Logo": "https://i.imgur.com/2QfFfQq.png",
+          "Logo": "https://img.freepik.com/vector-gratis/efecto-texto-monstruo-halloween-estilo-texto-horror-miedo-editable_314614-5163.jpg",
           "type": "series",
           "description": "Películas de terror y suspenso.",
           "seasons": [
@@ -348,7 +348,7 @@
         },
         {
           "Title": "RELIGIÓN",
-          "Logo": "https://i.imgur.com/3RgGgRr.png",
+          "Logo": "https://cnwebsite.blob.core.windows.net/files/2026/04/peliculas-semana-santa.jpg",
           "type": "series",
           "description": "Películas religiosas y bíblicas.",
           "seasons": [
@@ -378,7 +378,7 @@
       "items": [
         {
           "Title": "CANALES EN VIVO",
-          "Logo": "https://i.imgur.com/4ShHhSs.png",
+          "Logo": "https://png.pngtree.com/png-vector/20250320/ourmid/pngtree-classic-vintage-tv-clipart-old-school-television-png-image_15793935.png",
           "type": "series",
           "description": "Canales de televisión en vivo.",
           "seasons": [
