@@ -1,10 +1,10 @@
 {
   "rows": [
     {
-      "title": "🎬 PELÍCULAS - ACCIÓN",
+      "title": "🎬 PELÍCULAS",
       "items": [
         {
-          "Title": "ACCION",
+          "Title": "ACCIÓN",
           "Logo": "https://i.imgur.com/6Z8xYkX.png",
           "type": "series",
           "description": "Películas de acción, aventura y combate.",
@@ -81,12 +81,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "🎬 PELÍCULAS - AVENTURA",
-      "items": [
+        },
         {
           "Title": "AVENTURA",
           "Logo": "https://i.imgur.com/7kXyZxL.png",
@@ -117,12 +112,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "🎬 PELÍCULAS - ANIMES",
-      "items": [
+        },
         {
           "Title": "ANIMES",
           "Logo": "https://i.imgur.com/8LyAaYm.png",
@@ -165,12 +155,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "🎬 PELÍCULAS - COMEDIA",
-      "items": [
+        },
         {
           "Title": "COMEDIA",
           "Logo": "https://i.imgur.com/9MzBbZn.png",
@@ -189,12 +174,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "🎬 PELÍCULAS - DRAMA",
-      "items": [
+        },
         {
           "Title": "DRAMA",
           "Logo": "https://i.imgur.com/0NcCdOo.png",
@@ -213,12 +193,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "🎬 PELÍCULAS - ANIMACIÓN",
-      "items": [
+        },
         {
           "Title": "ANIMACIÓN",
           "Logo": "https://i.imgur.com/1PdEeZp.png",
@@ -315,12 +290,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "🎬 PELÍCULAS - TERROR",
-      "items": [
+        },
         {
           "Title": "TERROR",
           "Logo": "https://i.imgur.com/2QfFfQq.png",
@@ -375,12 +345,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "🎬 PELÍCULAS - RELIGIÓN",
-      "items": [
+        },
         {
           "Title": "RELIGIÓN",
           "Logo": "https://i.imgur.com/3RgGgRr.png",
