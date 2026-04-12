@@ -12,7 +12,7 @@
             {
               "title": "Temporada 1",
               "episodes": [
-                { "Title": "E01 - Ya era hora", "Stream": "LINK_S01E01", "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg", "description": "Mark descubre sus poderes." },
+                { "Title": "E01 - Ya era hora", "Stream": "https://nas1.d.tube/videos/78eaa6bb-ad7a-4350-80a4-4291428e26c6/1080p/playlist.m3u8", "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg", "description": "Mark descubre sus poderes." },
                 { "Title": "E02 - Aquí vamos", "Stream": "LINK_S01E02", "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg", "description": "Entrenamiento con su padre." },
                 { "Title": "E03 - Quién eres tú realmente", "Stream": "LINK_S01E03", "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg", "description": "Primeras amenazas reales." },
                 { "Title": "E04 - Neil Armstrong, come tu corazón", "Stream": "LINK_S01E04", "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg", "description": "Problemas espaciales." },
