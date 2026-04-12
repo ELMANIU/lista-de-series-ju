@@ -12,54 +12,27 @@
             {
               "title": "Temporada 1",
               "episodes": [
-                {
-                  "Title": "E01 - Ya era hora",
-                  "Stream": "PON_AQUI_TU_LINK",
-                  "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg",
-                  "description": "Mark comienza a desarrollar sus poderes."
-                },
-                {
-                  "Title": "E02 - Aquí vamos",
-                  "Stream": "PON_AQUI_TU_LINK",
-                  "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg",
-                  "description": "Mark entrena para ser héroe."
-                },
-                {
-                  "Title": "E03 - Quién eres tú realmente",
-                  "Stream": "PON_AQUI_TU_LINK",
-                  "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg",
-                  "description": "Mark enfrenta sus primeras amenazas."
-                },
-                {
-                  "Title": "E04 - Neil Armstrong, come tu corazón",
-                  "Stream": "PON_AQUI_TU_LINK",
-                  "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg",
-                  "description": "Las cosas se complican para Mark."
-                },
-                {
-                  "Title": "E05 - Eso fue fácil",
-                  "Stream": "PON_AQUI_TU_LINK",
-                  "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg",
-                  "description": "Mark enfrenta nuevos desafíos."
-                },
-                {
-                  "Title": "E06 - No eres tú, soy yo",
-                  "Stream": "PON_AQUI_TU_LINK",
-                  "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg",
-                  "description": "Problemas personales afectan a Mark."
-                },
-                {
-                  "Title": "E07 - Tenemos que hablar",
-                  "Stream": "PON_AQUI_TU_LINK",
-                  "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg",
-                  "description": "La verdad comienza a salir."
-                },
-                {
-                  "Title": "E08 - De dónde vengo realmente",
-                  "Stream": "PON_AQUI_TU_LINK",
-                  "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg",
-                  "description": "Final impactante de temporada."
-                }
+                { "Title": "E01 - Ya era hora", "Stream": "LINK_S01E01", "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg", "description": "Mark descubre sus poderes." },
+                { "Title": "E02 - Aquí vamos", "Stream": "LINK_S01E02", "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg", "description": "Entrenamiento con su padre." },
+                { "Title": "E03 - Quién eres tú realmente", "Stream": "LINK_S01E03", "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg", "description": "Primeras amenazas reales." },
+                { "Title": "E04 - Neil Armstrong, come tu corazón", "Stream": "LINK_S01E04", "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg", "description": "Problemas espaciales." },
+                { "Title": "E05 - Eso fue fácil", "Stream": "LINK_S01E05", "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg", "description": "Nuevos retos." },
+                { "Title": "E06 - No eres tú, soy yo", "Stream": "LINK_S01E06", "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg", "description": "Conflictos personales." },
+                { "Title": "E07 - Tenemos que hablar", "Stream": "LINK_S01E07", "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg", "description": "La verdad sale a la luz." },
+                { "Title": "E08 - De dónde vengo realmente", "Stream": "LINK_S01E08", "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg", "description": "Final impactante." }
+              ]
+            },
+            {
+              "title": "Temporada 2",
+              "episodes": [
+                { "Title": "E01 - Un nuevo comienzo", "Stream": "LINK_S02E01", "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg", "description": "Consecuencias del pasado." },
+                { "Title": "E02 - Enfrentando el pasado", "Stream": "LINK_S02E02", "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg", "description": "Mark enfrenta sus errores." },
+                { "Title": "E03 - Nuevas amenazas", "Stream": "LINK_S02E03", "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg", "description": "Aparecen enemigos." },
+                { "Title": "E04 - Oscuridad creciente", "Stream": "LINK_S02E04", "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg", "description": "La situación empeora." },
+                { "Title": "E05 - Decisiones difíciles", "Stream": "LINK_S02E05", "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg", "description": "Mark debe decidir." },
+                { "Title": "E06 - La batalla final", "Stream": "LINK_S02E06", "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg", "description": "Gran enfrentamiento." },
+                { "Title": "E07 - Consecuencias", "Stream": "LINK_S02E07", "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg", "description": "Después de la batalla." },
+                { "Title": "E08 - Lo que viene", "Stream": "LINK_S02E08", "Logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTM3Njc2NV5BMl5BanBnXkFtZTgwMDY5MTk2MzE@._V1_FMjpg_UX1000_.jpg", "description": "Preparando el futuro." }
               ]
             }
           ]
