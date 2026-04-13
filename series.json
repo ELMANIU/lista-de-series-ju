@@ -570,7 +570,19 @@
           "Stream": "https://nas1.d.tube/videos/971bb437-7754-4146-b696-89ba61825aa7/1080p/playlist.m3u8",
           "Logo": "https://i.pinimg.com/564x/4a/02/bf/4a02bfec48186f8782ed3a718cc84818.jpg",
           "description": "Uno de los boxeadores duda si seguir adelante al ver el verdadero riesgo."
-        }
+        },
+        {
+  "Title": "S01 E06 - Episodio 6",
+  "Stream": "https://nas1.d.tube/videos/7800968e-9b01-4e0a-9b05-4298c77d993c/1080p/playlist.m3u8",
+  "Logo": "https://i.pinimg.com/564x/4a/02/bf/4a02bfec48186f8782ed3a718cc84818.jpg",
+  "description": "El enfrentamiento con el usurero escala a un nivel inesperado. Los boxeadores se ven obligados a subir al ring bajo nuevas reglas."
+        },
+        {
+  "Title": "S01 E07 - Episodio 7",
+  "Stream": "https://nas1.d.tube/videos/bbd110da-d6a4-48da-b487-c731ad92528b/1080p/playlist.m3u8",
+  "Logo": "https://i.pinimg.com/564x/4a/02/bf/4a02bfec48186f8782ed3a718cc84818.jpg",
+  "description": "Las consecuencias de sus actos empiezan a pasar factura a los protagonistas. Deberán decidir entre la redención o la huida."
+}
       ]
     }
   ]
