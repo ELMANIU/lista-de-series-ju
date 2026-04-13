@@ -533,6 +533,49 @@
       "title": "SERIES",
       "items": [
         {
+  "Title": "PERROS DE CAZA (2021)",
+  "Logo": "https://i.pinimg.com/564x/4a/02/bf/4a02bfec48186f8782ed3a718cc84818.jpg",
+  "type": "series",
+  "description": "Dos jóvenes boxeadores se alían con un prestamista benévolo para acabar con un despiadado usurero que se aprovecha de los más endeudados... y desesperados.",
+  "seasons": [
+    {
+      "title": "Temporada 1",
+      "episodes": [
+        {
+          "Title": "S01 E01 - Episodio 1",
+          "Stream": "https://nas1.d.tube/videos/ac675834-bbff-428c-8891-5ad6808e672f/1080p/playlist.m3u8",
+          "Logo": "https://i.pinimg.com/564x/4a/02/bf/4a02bfec48186f8782ed3a718cc84818.jpg",
+          "description": "Presentación de los dos jóvenes boxeadores y su primer encuentro con el prestamista."
+        },
+        {
+          "Title": "S01 E02 - Episodio 2",
+          "Stream": "https://nas1.d.tube/videos/1cc47656-49f2-44ef-978d-c10e44429cdd/1080p/playlist.m3u8",
+          "Logo": "https://i.pinimg.com/564x/4a/02/bf/4a02bfec48186f8782ed3a718cc84818.jpg",
+          "description": "Los boxeadores conocen la dura realidad de las víctimas del usurero."
+        },
+        {
+          "Title": "S01 E03 - Episodio 3",
+          "Stream": "https://nas1.d.tube/videos/400a5ee1-6f3a-4527-9603-9227324217f3/1080p/playlist.m3u8",
+          "Logo": "https://i.pinimg.com/564x/4a/02/bf/4a02bfec48186f8782ed3a718cc84818.jpg",
+          "description": "Planean su primer golpe contra el usurero, pero las cosas no salen como esperaban."
+        },
+        {
+          "Title": "S01 E04 - Episodio 4",
+          "Stream": "https://nas1.d.tube/videos/d71cf5fc-f533-4401-956b-8c0a90055f6f/1080p/playlist.m3u8",
+          "Logo": "https://i.pinimg.com/564x/4a/02/bf/4a02bfec48186f8782ed3a718cc84818.jpg",
+          "description": "El prestamista benévolo les ofrece una alianza más peligrosa de lo que parece."
+        },
+        {
+          "Title": "S01 E05 - Episodio 5",
+          "Stream": "https://nas1.d.tube/videos/971bb437-7754-4146-b696-89ba61825aa7/1080p/playlist.m3u8",
+          "Logo": "https://i.pinimg.com/564x/4a/02/bf/4a02bfec48186f8782ed3a718cc84818.jpg",
+          "description": "Uno de los boxeadores duda si seguir adelante al ver el verdadero riesgo."
+        }
+      ]
+    }
+  ]
+},
+        {
           "Title": "MALCOLM EL DE ENMEDIO: LA VIDA SIGUE SIENDO INJUSTA (2026)",
           "Logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ce066-ad4a-7ecd-b1bb-870c057570f1/compose?aspectRatio=1.78&format=webp&width=1200",
           "type": "series",
