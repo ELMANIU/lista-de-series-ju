@@ -582,7 +582,13 @@
   "Stream": "https://nas1.d.tube/videos/bbd110da-d6a4-48da-b487-c731ad92528b/1080p/playlist.m3u8",
   "Logo": "https://i.pinimg.com/564x/4a/02/bf/4a02bfec48186f8782ed3a718cc84818.jpg",
   "description": "Las consecuencias de sus actos empiezan a pasar factura a los protagonistas. Deberán decidir entre la redención o la huida."
-}
+},
+        {
+  "Title": "S01 E08 - Episodio 8",
+  "Stream": "https://nas1.d.tube/videos/1da6a248-3cfa-45fb-bfab-8a63b8eeb328/1080p/playlist.m3u8",
+  "Logo": "https://i.pinimg.com/564x/4a/02/bf/4a02bfec48186f8782ed3a718cc84818.jpg",
+  "description": "Final de temporada: La lucha por liberar a los deudores llega a un punto crítico. Los boxeadores se enfrentan al usurero en un último combate que definirá su destino."
+        }
       ]
     }
   ]
