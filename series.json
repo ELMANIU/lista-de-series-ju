@@ -625,6 +625,86 @@
           ]
         },
         {
+  "Title": "RICK Y MORTY (2013)",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/5c49dd4ba2b12e69c8b7046c0138fd448a475ea7f572e5f04ad4697be7252071.jpg",
+  "type": "series",
+  "description": "Un científico alcohólico y algo misántropo arrastra a su ingenuo nieto a través del espacio y el tiempo en aventuras que desafían toda lógica. Una loca comedia animada de ciencia ficción creada por Justin Roiland y Dan Harmon.",
+  "seasons": [
+    {
+      "title": "Temporada 1",
+      "Logo": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/ab553cdc-e15d-4597-b65f-bec9201fd2dd/3dbbcd2e-3e7f-48c0-aca0-6820f4dacc3f?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=500",
+      "episodes": [
+        {
+          "Title": "S01 E01 - Buscando las Semillas",
+          "Stream": "https://nas1.d.tube/videos/cc3ad5c1-cba4-44ec-972e-c649f93ed290/1080p/playlist.m3u8",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/5c49dd4ba2b12e69c8b7046c0138fd448a475ea7f572e5f04ad4697be7252071.jpg",
+          "description": "Rick lleva a Morty a un viaje a otra dimensión para encontrar semillas para megaárboles, mientras Jerry y Beth discuten sobre la influencia de Rick en su hijo."
+        },
+        {
+          "Title": "S01 E02 - Invasión Canina",
+          "Stream": "https://nas1.d.tube/videos/55269ee3-2b1e-42d9-8f4f-516f20b7b54a/1080p/playlist.m3u8",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/5c49dd4ba2b12e69c8b7046c0138fd448a475ea7f572e5f04ad4697be7252071.jpg",
+          "description": "Rick diseña un aparato para que Snuffles, el perro de la familia Smith, sea más inteligente. Rick y Morty invaden los sueños del profesor de matemáticas de Morty."
+        },
+        {
+          "Title": "S01 E03 - Parque Anatómico",
+          "Stream": "",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/5c49dd4ba2b12e69c8b7046c0138fd448a475ea7f572e5f04ad4697be7252071.jpg",
+          "description": "Morty se adentra en un extraño parque temático de enfermedades infecciosas ubicado en el interior de un vagabundo."
+        },
+        {
+          "Title": "S01 E04 - La Simulación Alienígena",
+          "Stream": "",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/5c49dd4ba2b12e69c8b7046c0138fd448a475ea7f572e5f04ad4697be7252071.jpg",
+          "description": "Extraterrestres envían a Rick, Morty y Jerry a una realidad alterna, donde Rick intenta salvarlos mientras el distraído Jerry promueve un eslogan para vender manzanas."
+        },
+        {
+          "Title": "S01 E05 - Meeseeks Destructores",
+          "Stream": "",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/5c49dd4ba2b12e69c8b7046c0138fd448a475ea7f572e5f04ad4697be7252071.jpg",
+          "description": "Morty está cansado de las locuras de Rick, así que propone una aventura supuestamente más tranquila. Jerry conjura a una extraña criatura para ayudarlo en el golf."
+        },
+        {
+          "Title": "S01 E06 - La Poción de Rick",
+          "Stream": "",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/5c49dd4ba2b12e69c8b7046c0138fd448a475ea7f572e5f04ad4697be7252071.jpg",
+          "description": "Morty usa una poción para ser atractivo a las chicas, pero el efecto se vuelve viral y contagia a todos en la Tierra."
+        },
+        {
+          "Title": "S01 E07 - Criando un Gazorpazorp",
+          "Stream": "",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/5c49dd4ba2b12e69c8b7046c0138fd448a475ea7f572e5f04ad4697be7252071.jpg",
+          "description": "Después de que Morty tiene un bebé con un robot sexual, Rick y Summer visitan el planeta de donde proviene la madre."
+        },
+        {
+          "Title": "S01 E08 - Televisión Interdimensional",
+          "Stream": "",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/5c49dd4ba2b12e69c8b7046c0138fd448a475ea7f572e5f04ad4697be7252071.jpg",
+          "description": "Aburrido de la televisión, Rick instala una señal de cable que percibe series de otras dimensiones."
+        },
+        {
+          "Title": "S01 E09 - Cosas Necesarias",
+          "Stream": "",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/5c49dd4ba2b12e69c8b7046c0138fd448a475ea7f572e5f04ad4697be7252071.jpg",
+          "description": "Rick tiene dudas sobre el nuevo trabajo de Summer en una tienda administrada por el diablo. Jerry y Morty discuten sobre si Plutón es un planeta o no."
+        },
+        {
+          "Title": "S01 E10 - Encuentros Cercanos a lo Rick",
+          "Stream": "",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/5c49dd4ba2b12e69c8b7046c0138fd448a475ea7f572e5f04ad4697be7252071.jpg",
+          "description": "Un grupo de Ricks alternativos secuestra a Rick y lo juzga por crímenes contra los Ricks."
+        },
+        {
+          "Title": "S01 E11 - Es Hora de la Fiesta",
+          "Stream": "",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/5c49dd4ba2b12e69c8b7046c0138fd448a475ea7f572e5f04ad4697be7252071.jpg",
+          "description": "Jerry y Beth salen por el día a participar en una recreación del hundimiento del Titanic. Rick y Summer hacen una fiesta intergaláctica que se sale de control."
+        }
+      ]
+    }
+  ]
+},
+        {
           "Title": "INVENCIBLE (2021)",
           "Logo": "https://m.media-amazon.com/images/S/pv-target-images/78afe406779795dfbc13b08845a48edcd88a5deb81130a437b358170a1fa8552.png",
           "type": "series",
