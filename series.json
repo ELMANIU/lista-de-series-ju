@@ -77,8 +77,10 @@
                   "Stream": "https://rumble.com/hls-vod/75zwtw/playlist.m3u8?u=0&b=0",
                   "Logo": "https://m.media-amazon.com/images/S/pv-target-images/02694268267c79c5974cff87ab06de7868e3e302ad1521e9deb30dc8f459e59c.jpg",
                   "description": "Un grupo de mercenarios es contratado para infiltrarse en un país sudamericano y derrocar a su dictador."
-                },
-                {
+                }
+  ]
+},
+            {
   "title": "PELÍCULAS DE ACCIÓN SECCIÓN 2",
   "episodes": [
     {
@@ -88,7 +90,7 @@
       "description": "En el año 2035, los robots son parte de la vida cotidiana. Un detective investiga el aparente suicidio de un científico y descubre una conspiración que amenaza a la humanidad."
     }
   ]
-}
+            }
               ]
             }
           ]
