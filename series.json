@@ -1,100 +1,100 @@
 {
   "rows": [
     {
-      "title": " PELÍCULAS",
-      "items": [
-        {
-          "Title": "ACCIÓN",
-          "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTcvuUAGuzUz2FPm9cN4JQxcENLf11hLMWxjCnNTt6Xg&s=10",
-          "type": "series",
-          "description": "Películas de acción, aventura y combate.",
-          "seasons": [
-            {
-              "title": "PELÍCULAS DE ACCIÓN SECCIÓN 1",
-              "episodes": [
-                {
-                  "Title": "Avatar: Fuego Y Cenizas (2025)",
-                  "Stream": "https://nas1.d.tube/videos/ada9f6dc-e21f-4ffa-a165-feb3ebe670f1/1080p/playlist.m3u8",
-                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/922ad13cf184fff4001ab859810c1481a1a7ffccd84882f9f391855f9ffdc448.jpg",
-                  "description": "El conflicto en Pandora se intensifica cuando la familia de Jake y Neytiri se topa con una nueva y agresiva tribu Na'vi."
-                },
-                {
-                  "Title": "Avatar: El Camino del Agua (2022)",
-                  "Stream": "https://nas1.d.tube/videos/e17458e1-1854-4c25-9372-da3ac6111e2a/720p/playlist.m3u8",
-                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/32296541f5f94f264e7b31c5dbe4d5a56a82cf306b2d22f5807b2154121e2231._UR1920,1080_.jpg",
-                  "description": "Jake Sully y Neytiri forman una familia en Pandora, pero una nueva amenaza los obliga a dejar su hogar."
-                },
-                {
-                  "Title": "Avatar (2009)",
-                  "Stream": "https://nas1.d.tube/videos/18759d68-2949-41af-949a-45c408c8dc9c/1080p/playlist.m3u8",
-                  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwzPYA9798UGOXGmJChcO3VlczpA8xbIwcJY_6pexCjw&s=10",
-                  "description": "Un exmarine parapléjico es enviado a Pandora, donde se infiltra entre los Na'vi usando un avatar."
-                },
-                {
-                  "Title": "Duna (2021)",
-                  "Stream": "https://nas1.d.tube/videos/33a33613-1b48-4162-9e26-b4e176c63605/720p/playlist.m3u8",
-                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/988efc5b607d1fabcbbaa529d8de92105519be363a604ba4e68e736592bf31aa.jpg",
-                  "description": "Paul Atreides viaja al peligroso planeta desértico Arrakis para asegurar el futuro de su familia."
-                },
-                {
-                  "Title": "Duna: Parte 2 (2024)",
-                  "Stream": "https://nas1.d.tube/videos/bccf701a-9270-48ea-8653-d3aa6145fb1b/720p/playlist.m3u8",
-                  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJ2mtHJNolAv97C7ShjxJvrJnD0HQSVhszAPHsmu003a4WqF0LDe6NUNf&s=10",
-                  "description": "Paul Atreides se une a los Fremen en una guerra de venganza mientras enfrenta una elección entre el amor y su destino."
-                },
-                {
-                  "Title": "Depredador: Tierras Salvajes (2025)",
-                  "Stream": "https://rumble.com/hls-vod/75zvnk/playlist.m3u8?u=0&b=0",
-                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/511ecb2aeb4e3be41671c22c2521a777f8b2ae1d424e7452b6884f927460a19c.jpg",
-                  "description": "Un joven Depredador exiliado se alía con una androide dañada para sobrevivir en un planeta lleno de peligros."
-                },
-                {
-                  "Title": "La guerra del mañana (2021)",
-                  "Stream": "https://rumble.com/hls-vod/75yqey/playlist.m3u8?u=0&b=0",
-                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/33a83055d8f3773dc3ad9f4f2180bff71257dcd02cc1bdb18b4569e7f942bd15.png",
-                  "description": "Un grupo de viajeros del tiempo llega desde el año 2051 para advertir que la humanidad está perdiendo una guerra."
-                },
-                {
-                  "Title": "Ninja Assassin (2009)",
-                  "Stream": "https://rumble.com/hls-vod/75yytc/playlist.m3u8?u=0&b=0",
-                  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU3qgvTFuJ4KBdrY72SoEa4tQBvo-gsDSsnb4jr6EvWgfZQhiltTOJqyvX&s=10",
-                  "description": "Raizo es uno de los asesinos más letales entrenados por un clan secreto de ninjas."
-                },
-                {
-                  "Title": "El maestro del Tai Chi (2013)",
-                  "Stream": "https://rumble.com/hls-vod/75z0ew/playlist.m3u8?u=0&b=0",
-                  "Logo": "https://www.findelahistoria.com/web/wp-content/uploads/2013/08/man_of_tai_chi_ver2_xxlg-1024x512.jpg",
-                  "description": "Un joven prodigio del Tai Chi es descubierto por un misterioso empresario que lo introduce en el mundo de las peleas clandestinas."
-                },
-                {
-                  "Title": "Un detective suelto en Hollywood (1984)",
-                  "Stream": "https://rumble.com/hls-vod/75z7cu/playlist.m3u8?u=0&b=0",
-                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/6bc25eb36945ed2aed23961857f828f1084fda7273ca8b45ac462a2f6ca87b61.jpg",
-                  "description": "El detective Axel Foley viaja a Beverly Hills para investigar el asesinato de su mejor amigo."
-                },
-                {
-                  "Title": "Los indestructibles (2010)",
-                  "Stream": "https://rumble.com/hls-vod/75zwtw/playlist.m3u8?u=0&b=0",
-                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/02694268267c79c5974cff87ab06de7868e3e302ad1521e9deb30dc8f459e59c.jpg",
-                  "description": "Un grupo de mercenarios es contratado para infiltrarse en un país sudamericano y derrocar a su dictador."
-                }
-  ]
-},
-            {
-  "title": "PELÍCULAS DE ACCIÓN SECCIÓN 2",
-  "episodes": [
+  "title": "PELÍCULAS",
+  "items": [
     {
-      "Title": "Yo, Robot (2004)",
-      "Stream": "https://nas1.d.tube/videos/7d66ffe8-243e-41d6-b701-a9437e207acc/1080p/playlist.m3u8",
-      "Logo": "https://m.media-amazon.com/images/S/pv-target-images/f85ec34f6661ab14bf9f120452257ac1fc07288d78346e8da8b31a266d86c01e.jpg",
-      "description": "En el año 2035, los robots son parte de la vida cotidiana. Un detective investiga el aparente suicidio de un científico y descubre una conspiración que amenaza a la humanidad."
-    }
-  ]
-            }
-              ]
+      "Title": "ACCIÓN",
+      "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTcvuUAGuzUz2FPm9cN4JQxcENLf11hLMWxjCnNTt6Xg&s=10",
+      "type": "series",
+      "description": "Películas de acción, aventura y combate.",
+      "seasons": [
+        {
+          "title": "PELÍCULAS DE ACCIÓN SECCIÓN 1",
+          "episodes": [
+            {
+              "Title": "Avatar: Fuego Y Cenizas (2025)",
+              "Stream": "https://nas1.d.tube/videos/ada9f6dc-e21f-4ffa-a165-feb3ebe670f1/1080p/playlist.m3u8",
+              "Logo": "https://m.media-amazon.com/images/S/pv-target-images/922ad13cf184fff4001ab859810c1481a1a7ffccd84882f9f391855f9ffdc448.jpg",
+              "description": "El conflicto en Pandora se intensifica cuando la familia de Jake y Neytiri se topa con una nueva y agresiva tribu Na'vi."
+            },
+            {
+              "Title": "Avatar: El Camino del Agua (2022)",
+              "Stream": "https://nas1.d.tube/videos/e17458e1-1854-4c25-9372-da3ac6111e2a/720p/playlist.m3u8",
+              "Logo": "https://m.media-amazon.com/images/S/pv-target-images/32296541f5f94f264e7b31c5dbe4d5a56a82cf306b2d22f5807b2154121e2231._UR1920,1080_.jpg",
+              "description": "Jake Sully y Neytiri forman una familia en Pandora, pero una nueva amenaza los obliga a dejar su hogar."
+            },
+            {
+              "Title": "Avatar (2009)",
+              "Stream": "https://nas1.d.tube/videos/18759d68-2949-41af-949a-45c408c8dc9c/1080p/playlist.m3u8",
+              "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwzPYA9798UGOXGmJChcO3VlczpA8xbIwcJY_6pexCjw&s=10",
+              "description": "Un exmarine parapléjico es enviado a Pandora, donde se infiltra entre los Na'vi usando un avatar."
+            },
+            {
+              "Title": "Duna (2021)",
+              "Stream": "https://nas1.d.tube/videos/33a33613-1b48-4162-9e26-b4e176c63605/720p/playlist.m3u8",
+              "Logo": "https://m.media-amazon.com/images/S/pv-target-images/988efc5b607d1fabcbbaa529d8de92105519be363a604ba4e68e736592bf31aa.jpg",
+              "description": "Paul Atreides viaja al peligroso planeta desértico Arrakis para asegurar el futuro de su familia."
+            },
+            {
+              "Title": "Duna: Parte 2 (2024)",
+              "Stream": "https://nas1.d.tube/videos/bccf701a-9270-48ea-8653-d3aa6145fb1b/720p/playlist.m3u8",
+              "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJ2mtHJNolAv97C7ShjxJvrJnD0HQSVhszAPHsmu003a4WqF0LDe6NUNf&s=10",
+              "description": "Paul Atreides se une a los Fremen en una guerra de venganza mientras enfrenta una elección entre el amor y su destino."
+            },
+            {
+              "Title": "Depredador: Tierras Salvajes (2025)",
+              "Stream": "https://rumble.com/hls-vod/75zvnk/playlist.m3u8?u=0&b=0",
+              "Logo": "https://m.media-amazon.com/images/S/pv-target-images/511ecb2aeb4e3be41671c22c2521a777f8b2ae1d424e7452b6884f927460a19c.jpg",
+              "description": "Un joven Depredador exiliado se alía con una androide dañada para sobrevivir en un planeta lleno de peligros."
+            },
+            {
+              "Title": "La guerra del mañana (2021)",
+              "Stream": "https://rumble.com/hls-vod/75yqey/playlist.m3u8?u=0&b=0",
+              "Logo": "https://m.media-amazon.com/images/S/pv-target-images/33a83055d8f3773dc3ad9f4f2180bff71257dcd02cc1bdb18b4569e7f942bd15.png",
+              "description": "Un grupo de viajeros del tiempo llega desde el año 2051 para advertir que la humanidad está perdiendo una guerra."
+            },
+            {
+              "Title": "Ninja Assassin (2009)",
+              "Stream": "https://rumble.com/hls-vod/75yytc/playlist.m3u8?u=0&b=0",
+              "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU3qgvTFuJ4KBdrY72SoEa4tQBvo-gsDSsnb4jr6EvWgfZQhiltTOJqyvX&s=10",
+              "description": "Raizo es uno de los asesinos más letales entrenados por un clan secreto de ninjas."
+            },
+            {
+              "Title": "El maestro del Tai Chi (2013)",
+              "Stream": "https://rumble.com/hls-vod/75z0ew/playlist.m3u8?u=0&b=0",
+              "Logo": "https://www.findelahistoria.com/web/wp-content/uploads/2013/08/man_of_tai_chi_ver2_xxlg-1024x512.jpg",
+              "description": "Un joven prodigio del Tai Chi es descubierto por un misterioso empresario que lo introduce en el mundo de las peleas clandestinas."
+            },
+            {
+              "Title": "Un detective suelto en Hollywood (1984)",
+              "Stream": "https://rumble.com/hls-vod/75z7cu/playlist.m3u8?u=0&b=0",
+              "Logo": "https://m.media-amazon.com/images/S/pv-target-images/6bc25eb36945ed2aed23961857f828f1084fda7273ca8b45ac462a2f6ca87b61.jpg",
+              "description": "El detective Axel Foley viaja a Beverly Hills para investigar el asesinato de su mejor amigo."
+            },
+            {
+              "Title": "Los indestructibles (2010)",
+              "Stream": "https://rumble.com/hls-vod/75zwtw/playlist.m3u8?u=0&b=0",
+              "Logo": "https://m.media-amazon.com/images/S/pv-target-images/02694268267c79c5974cff87ab06de7868e3e302ad1521e9deb30dc8f459e59c.jpg",
+              "description": "Un grupo de mercenarios es contratado para infiltrarse en un país sudamericano y derrocar a su dictador."
             }
           ]
         },
+        {
+          "title": "PELÍCULAS DE ACCIÓN SECCIÓN 2",
+          "episodes": [
+            {
+              "Title": "Yo, Robot (2004)",
+              "Stream": "https://nas1.d.tube/videos/7d66ffe8-243e-41d6-b701-a9437e207acc/1080p/playlist.m3u8",
+              "Logo": "https://m.media-amazon.com/images/S/pv-target-images/f85ec34f6661ab14bf9f120452257ac1fc07288d78346e8da8b31a266d86c01e.jpg",
+              "description": "En el año 2035, los robots son parte de la vida cotidiana. Un detective investiga el aparente suicidio de un científico y descubre una conspiración que amenaza a la humanidad."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
         {
           "Title": "AVENTURA",
           "Logo": "https://static.wixstatic.com/media/75e197_f7153c7f85494883ba6117d16c289448~mv2.png/v1/fill/w_1920,h_1080,al_c/CineAventura-marca.png",
