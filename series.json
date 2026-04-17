@@ -314,7 +314,19 @@
   "Stream": "https://nas1.d.tube/videos/98afca17-5ab9-4b5f-8d43-22829e165696/1080p/playlist.m3u8",
   "Logo": "https://m.media-amazon.com/images/S/pv-target-images/5354c416eacba893472c3c38451089c7b28d71404958b65fc2773287c48e2c65.jpg",
   "description": "Un supervillano alienígena derrota a su archienemigo héroe, pero sin un oponente digno, su vida pierde sentido. Decide crear un nuevo héroe, pero el plan sale mal y debe convertirse en el héroe más inesperado para salvar la ciudad."
-}
+},
+                {
+  "Title": "Megamente contra el Sindicato de la Perdición (2024)",
+  "Stream": "https://nas1.d.tube/videos/6d26b968-cf2c-48a7-8eaa-db453d986573/1080p/playlist.m3u8",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/c61b6126c4d1fcd5c6c627e8487d6514b50c68a5d4726c5c1a1a50d631f98dd5.jpg",
+  "description": "Megamente debe demostrar que es un verdadero héroe cuando su antiguo compañero y el Sindicato de la Perdición amenazan Metro City."
+                },
+                {
+  "Title": "Depredador: Cazador de Asesinos (2025)",
+  "Stream": "https://nas1.d.tube/videos/14d841dd-60f0-4efb-9aee-80b62ceb958b/1080p/playlist.m3u8",
+  "Logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/480f91fd-066b-42b4-ad16-daa69ec450de/compose?aspectRatio=1.78&format=webp&width=1200",
+  "description": "Tres guerreros legendarios de diferentes épocas (una vikinga, un ninja y un piloto de la Segunda Guerra Mundial) son cazados por un Depredador. Unidos por la fuerza, deberán dejar de lado sus diferencias para enfrentar al cazador definitivo."
+                }
               ]
             }
           ]
