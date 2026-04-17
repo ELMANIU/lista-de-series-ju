@@ -218,7 +218,7 @@
           "description": "Películas animadas para toda la familia.",
           "seasons": [
             {
-              "title": "Películas",
+              "title": "PELÍCULAS DE ANIMACIÓN SECCIÓN 1",
               "episodes": [
                 {
                   "Title": "Nueve (2009)",
@@ -304,6 +304,17 @@
                   "Logo": "https://m.media-amazon.com/images/S/pv-target-images/0b019f45612521126849688a006b3ca08e63b23104020c4e80e2caa7a5616ffb.jpg",
                   "description": "Drácula y su familia se embarcan en un crucero de lujo para monstruos."
                 }
+              ]
+            },
+            {
+              "title": "PELÍCULAS DE ANIMACIÓN SECCIÓN 2",
+              "episodes": [
+                {
+  "Title": "Megamente (2010)",
+  "Stream": "https://nas1.d.tube/videos/98afca17-5ab9-4b5f-8d43-22829e165696/1080p/playlist.m3u8",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/5354c416eacba893472c3c38451089c7b28d71404958b65fc2773287c48e2c65.jpg",
+  "description": "Un supervillano alienígena derrota a su archienemigo héroe, pero sin un oponente digno, su vida pierde sentido. Decide crear un nuevo héroe, pero el plan sale mal y debe convertirse en el héroe más inesperado para salvar la ciudad."
+}
               ]
             }
           ]
