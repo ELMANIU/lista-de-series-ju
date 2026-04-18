@@ -177,6 +177,12 @@
               "title": "Películas",
               "episodes": [
                 {
+  "Title": "Happy Gilmore 2 (2025)",
+  "Stream": "https://nas1.d.tube/videos/dc6f5b48-863b-4cda-9d73-2ecb5af11907/720p/playlist.m3u8",
+  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTUNoslroIB1SsoCPtPfg0EWvB2b1Zn-WeTmacX2WcRjCEmFXicdoSGSti&s=10",
+  "description": "Años después de su victoria en el Tour, Happy Gilmore sale del retiro para ayudar a su hija a cumplir su sueño de estudiar ballet en París. Con la ayuda de viejos amigos y nuevos rivales, deberá recuperar su toque mágico en el golf mientras enfrenta a un empresario que quiere destruir el deporte."
+                },
+                {
                   "Title": "El maestro luchador (2012)",
                   "Stream": "https://rumble.com/hls-vod/75zw94/playlist.m3u8?u=0&b=0",
                   "Logo": "https://is1-ssl.mzstatic.com/image/thumb/Hl0omKsQVrzRtjkX8WFQeA/1200x675.jpg",
@@ -326,6 +332,12 @@
   "Stream": "https://nas1.d.tube/videos/14d841dd-60f0-4efb-9aee-80b62ceb958b/1080p/playlist.m3u8",
   "Logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/480f91fd-066b-42b4-ad16-daa69ec450de/compose?aspectRatio=1.78&format=webp&width=1200",
   "description": "Tres guerreros legendarios de diferentes épocas (una vikinga, un ninja y un piloto de la Segunda Guerra Mundial) son cazados por un Depredador. Unidos por la fuerza, deberán dejar de lado sus diferencias para enfrentar al cazador definitivo."
+                },
+                {
+  "Title": "Happy Feet: El pingüino (2006)",
+  "Stream": "https://nas1.d.tube/videos/9e13fccc-8dbf-46d7-a887-6f19e91cfcb0/720p/playlist.m3u8",
+  "Logo": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/d2ee035c-cf27-486d-844d-138aecd2b88a/52f3221528040ed09d88bdb2c3c51dc2a41abbc0.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+  "description": "Mumble es un pingüino emperador que no puede cantar, pero tiene un increíble talento para el tap. Exiliado por su diferencia, emprende un viaje para descubrir la verdad detrás de la escasez de peces y demostrar que ser fiel a uno mismo es lo más importante."
                 }
               ]
             }
@@ -338,7 +350,7 @@
           "description": "Películas de terror y suspenso.",
           "seasons": [
             {
-              "title": "Películas",
+              "title": "PELÍCULAS DE TERROR SECCIÓN 1",
               "episodes": [
                 {
   "Title": "The Pool (2018)",
@@ -389,14 +401,31 @@
                   "description": "Una joven monja se suicida y el Vaticano envía a un sacerdote a investigar."
                 },
                 {
-                  "Title": "La monja 2 (2023)",
+                 "Title": "La monja 2 (2023)",
                   "Stream": "https://nas1.d.tube/videos/bdff87c5-353c-4466-a806-0d819320fd98/1080p/playlist.m3u8",
                   "Logo": "https://m.media-amazon.com/images/S/pv-target-images/b5472fcf3c20db50e0ff8e41ab47d5ba87859aab7f7e2a3bbc394789fb960664.jpg",
                   "description": "La hermana Irene se enfrenta nuevamente a Valak, la monja demonio, que ahora aterroriza un internado."
                 }
               ]
+            },
+           {
+              "title": "PELÍCULAS DE TERROR SECCIÓN 2",
+              "episodes": [
+                {
+  "Title": "Hogar Dulce Hogar: Renacimiento (2025)",
+  "Stream": "https://nas1.d.tube/videos/abc2cc6b-cf92-4dfd-8e2a-1cb4101d3582/720p/playlist.m3u8",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/2af31abff6f50ebecc66ebd5fb4561e5464592de614bd824131a3a7722d0513d.jpg",
+  "description": "Un intenso thriller de terror sobrenatural. Cuando una ciudad es invadida por una horda poseída por demonios, un policía busca el origen del mal para salvar a su familia y detener el caos."
+},
+                {
+  "Title": "Silent Hill: La Revelación (2012)",
+  "Stream": "https://nas1.d.tube/videos/26d1cf35-cb71-4982-81bf-c360d8ecb347/1080p/playlist.m3u8",
+  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKLA2GKsVSy8_i8Nz82GHDWcSWTk4h7SJK51AyQveSEVazsOyiB9QoAkc&s=10",
+  "description": "Heather Mason y su padre adoptivo han vivido huyendo de un culto religioso. En su decimoctavo cumpleaños, descubre que sus pesadillas son reales y que su destino está ligado al pueblo maldito de Silent Hill, donde deberá enfrentar horrores sobrenaturales para rescatar a su padre."
+                }
+              ]
             }
-          ]
+          ] 
         },
         {
           "Title": "RELIGIÓN",
