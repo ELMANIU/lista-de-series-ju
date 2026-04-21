@@ -541,6 +541,18 @@
               "title": "Canales",
               "episodes": [
                 {
+  "Title": "MUSICA TV",
+  "Stream": "https://cloudvideo.servers10.com:8081/8150/index.m3u8",
+  "Logo": "https://ejemplo.com/logo-musica-tv.jpg",
+  "description": "Canal 24/7 con los mejores videos musicales, éxitos del momento y clásicos inolvidables."
+                },
+                {
+  "Title": "D PELÍCULA",
+  "Stream": "https://cloudvideo.servers10.com:8081/8108/index.m3u8",
+  "Logo": "https://ejemplo.com/logo-d-pelicula.jpg",
+  "description": "Canal de cine con variedad de películas para toda la familia."
+                },
+                {
   "Title": "FMH KIDS",
   "Stream": "https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_720p/chunks.m3u8",
   "Logo": "https://imageserver.srv.win.i.mtvreg.com/jpg?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fstatic%2Fbackdrops%2F949%2F1648949_1280.jpg&width=1280",
