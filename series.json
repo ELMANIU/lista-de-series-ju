@@ -541,6 +541,18 @@
               "title": "Canales",
               "episodes": [
                 {
+  "Title": "FMH KIDS",
+  "Stream": "https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_720p/chunks.m3u8",
+  "Logo": "https://www.fmh.la/images/team/logo_kids.png",
+  "description": "Canal infantil con programación educativa y entretenimiento para toda la familia."
+                },
+                {
+  "Title": "FMH MOVIES",
+  "Stream": "https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_720p/chunks.m3u8",
+  "Logo": "https://www.fmh.la/images/team/logo_movies.png",
+  "description": "Canal de cine con las mejores películas y series."
+                },
+                {
                   "Title": "María Visión México",
                   "Stream": "https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Italiatre/playlist.m3u8",
                   "Logo": "https://static.wixstatic.com/media/ae9e39_98c192d6a3754e0188199e96fc46b514~mv2.png",
