@@ -1073,7 +1073,114 @@
               ]
             }
           ]
+        },
+        {
+  "Title": "NOVELAS",
+  "Logo": "https://ejemplo.com/logo-novelas.jpg",
+  "type": "series",
+  "description": "Adaptaciones de novelas clásicas y contemporáneas.",
+  "seasons": [
+    {
+      "title": "DEJÉMONOS DE VARGAS (2022)",
+      "episodes": [
+        {
+  "Title": "Capítulo 1: La nueva vida de los Vargas Restrepo",
+  "Stream": "https://dl.dropbox.com/scl/fi/3ft2sjs1hydlb2ptfljet/1x1.mp4?rlkey=fpa4432jhu18xfj147p9go9mm&st=m9b2c2wy&raw=1",
+  "Logo": "https://elpopular.cronosmedia.glr.pe/original/2024/05/16/6646be4cd757ca4d3c7bfba5.jpg",
+  "description": "Ramoncito ahora tiene su propia familia. Con 40 años, sigue siendo un soñador, pero la mala suerte lo persigue mientras intenta construir una nueva vida junto a Valentina, su exitosa esposa abogada, y su peculiar hijo adolescente."
+},
+        {
+  "Title": "Capítulo 2: La llegada de Camila afecta a los Vargas Restrepo",
+  "Stream": "https://dl.dropbox.com/scl/fi/k8w4mn6mnvzei7n2b2mk5/1x2.mp4?rlkey=8396b8td3ucvycb3cfvk1w8jy&st=2a346tbg&raw=1",
+  "Logo": "https://elpopular.cronosmedia.glr.pe/original/2024/05/16/6646be4cd757ca4d3c7bfba5.jpg",
+  "description": "La vida de los Vargas se ve sacudida con la aparición de Camila, una hija que Ramón no sabía que tenía. Su llegada trae consigo nuevas aventuras y conflictos a la familia."
+},
+        {
+  "Title": "Capítulo 3: Agustín Julio adopta a un gallo como mascota",
+  "Stream": "https://dl.dropbox.com/scl/fi/2qbkl82klmylxrericd8s/1x3.mp4?rlkey=okmsn4elwnx665cvn28zkm1im&st=99wmw3a2&raw=1",
+  "Logo": "https://elpopular.cronosmedia.glr.pe/original/2024/05/16/6646be4cd757ca4d3c7bfba5.jpg",
+  "description": "Agustín Julio, el hijo de Ramón y Valentina, sorprende a toda la familia al adoptar a un gallo como mascota, desatando el caos y la risa en el hogar de los Vargas Restrepo."
+        },
+        {
+  "Title": "Capítulo 4: Ramón tercero, la nueva mascota de los Vargas Restrepo",
+  "Stream": "https://dl.dropbox.com/scl/fi/m5tpnuez68175zw3vi03j/1x4.mp4?rlkey=441bf04rzyyqtrxkggeowu6p2&st=r8jmsxlg&raw=1",
+  "Logo": "https://elpopular.cronosmedia.glr.pe/original/2024/05/16/6646be4cd757ca4d3c7bfba5.jpg",
+  "description": "El gallo adoptado por Agustín Julio, ahora llamado 'Ramón tercero', se convierte oficialmente en un miembro más de la familia, causando divertidos malentendidos y problemas inesperados."
+        },
+        {
+  "Title": "Capítulo 5: Agustín Julio se niega a perder a Ramón tercero",
+  "Stream": "https://dl.dropbox.com/scl/fi/abu2zp4fp85e2pdat7has/1x5.mp4?rlkey=1u10kiyvdyp4ciopbi8ywz3t0&st=63kw6en4&raw=1",
+  "Logo": "https://elpopular.cronosmedia.glr.pe/original/2024/05/16/6646be4cd757ca4d3c7bfba5.jpg",
+  "description": "La familia considera deshacerse del gallo, pero Agustín Julio se niega rotundamente a perder a su nueva mascota, llevando a una cómica batalla de voluntades entre él y sus padres."
         }
+      ]
+    },
+    {
+      "title": "El Amor en los Tiempos del Cólera - Temporada 1",
+      "episodes": [
+        {
+          "Title": "Capítulo 1",
+          "Stream": "https://ejemplo.com/stream/amor-colera-1",
+          "Logo": "https://ejemplo.com/logo/amor-colera.jpg",
+          "description": "Florentino Ariza declara su amor a Fermina Daza. El inicio de una espera de más de 50 años."
+        }
+      ]
+    }
+  ]
+},
+   {
+  "Title": "SERIES DE ANIME",
+  "Logo": "https://ejemplo.com/logo-anime.jpg",
+  "type": "series",
+  "description": "Las mejores series de anime japonés.",
+  "seasons": [
+    {
+      "title": "Naruto - Temporada 1",
+      "episodes": [
+        {
+          "Title": "Episodio 1: ¡Soy Naruto Uzumaki!",
+          "Stream": "https://ejemplo.com/stream/naruto-1",
+          "Logo": "https://ejemplo.com/logo/naruto.jpg",
+          "description": "Naruto es un niño rechazado por su aldea por contener al Zorro de Nueve Colas. Sueña con convertirse en Hokage."
+        },
+        {
+          "Title": "Episodio 2: Mi nombre es Konohamaru",
+          "Stream": "https://ejemplo.com/stream/naruto-2",
+          "Logo": "https://ejemplo.com/logo/naruto.jpg",
+          "description": "Naruto conoce a Konohamaru, el nieto del Tercer Hokage, y juntos causan problemas en la aldea."
+        }
+      ]
+    },
+    {
+      "title": "Attack on Titan - Temporada 1",
+      "episodes": [
+        {
+          "Title": "Episodio 1: A Ti, dentro de 2000 años",
+          "Stream": "https://ejemplo.com/stream/aot-1",
+          "Logo": "https://ejemplo.com/logo/aot.jpg",
+          "description": "La humanidad vive encerrada en muros para protegerse de los Titanes. El día que todo cambia."
+        },
+        {
+          "Title": "Episodio 2: Ese Día",
+          "Stream": "https://ejemplo.com/stream/aot-2",
+          "Logo": "https://ejemplo.com/logo/aot.jpg",
+          "description": "El Titán Colosal destruye el muro. Eren presencia la muerte de su madre."
+        }
+      ]
+    },
+    {
+      "title": "One Piece - Temporada 1",
+      "episodes": [
+        {
+          "Title": "Episodio 1: ¡Soy Luffy! El Hombre que se Convertirá en Rey de los Piratas",
+          "Stream": "https://ejemplo.com/stream/onepiece-1",
+          "Logo": "https://ejemplo.com/logo/onepiece.jpg",
+          "description": "Luffy comienza su viaje para convertirse en el Rey de los Piratas tras comer la Fruta del Diablo."
+        }
+      ]
+    }
+  ]
+}     
       ]
     }
   ]
