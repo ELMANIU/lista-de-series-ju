@@ -85,6 +85,18 @@
               "title": "PELÍCULAS DE ACCIÓN SECCIÓN 2",
               "episodes": [
                 {
+  "Title": "Godzilla vs Kong: El Nuevo Imperio (2024)",
+  "Stream": "https://dl.dropbox.com/scl/fi/d420pi5ql5sw7boripy3y/Godzilla.Y.Kongel.Nuevo.Imperio.2024.1080P-Dual-Lat.mkv?rlkey=e2exjt1wbo5q83bqm00nw7gzg&st=2wj7llgf&raw=1",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/8cfc5d87a8a729469a7a70b85ac7a95c7a3cf021644241647d239ccc6e8ea7fa._UR1920,1080_.jpg",
+  "description": "Godzilla y Kong se enfrentan en una batalla épica mientras una amenaza oculta acecha en las profundidades de la Tierra Hueca. Juntos, deberán unir fuerzas para derrotar a un enemigo común que pone en peligro la existencia de ambas especies."
+},
+                {
+  "Title": "Godzilla Minus One (2023)",
+  "Stream": "https://dl.dropbox.com/scl/fi/2wfl3nujh3l6sjpts85vh/Godzilla.Minus.One.2023.1080P-Dual-Lat.mkv?rlkey=ozlehakbl9ylwp3kvcnm59n9a&st=gez32tbi&raw=1",
+  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxvoXQAT-F48sB9J7uNmIrg6Gao2IhWBG7AjolCR-y-HcYUKzP3VuZuXc&s=10",
+  "description": "En el Japón de la posguerra, un piloto kamikaze sobrevive al ataque de Godzilla. Ahora, deberá enfrentar sus traumas mientras la bestia emerge nuevamente para sembrar el caos. Una historia de supervivencia, redención y el renacer del rey de los monstruos."
+                },
+                {
                   "Title": "Yo, Robot (2004)",
                   "Stream": "https://nas1.d.tube/videos/7d66ffe8-243e-41d6-b701-a9437e207acc/1080p/playlist.m3u8",
                   "Logo": "https://m.media-amazon.com/images/S/pv-target-images/f85ec34f6661ab14bf9f120452257ac1fc07288d78346e8da8b31a266d86c01e.jpg",
@@ -441,6 +453,12 @@
                   "Stream": "https://nas1.d.tube/videos/26d1cf35-cb71-4982-81bf-c360d8ecb347/1080p/playlist.m3u8",
                   "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKLA2GKsVSy8_i8Nz82GHDWcSWTk4h7SJK51AyQveSEVazsOyiB9QoAkc&s=10",
                   "description": "Heather Mason y su padre adoptivo han vivido huyendo de un culto religioso. En su decimoctavo cumpleaños, descubre que sus pesadillas son reales y que su destino está ligado al pueblo maldito de Silent Hill, donde deberá enfrentar horrores sobrenaturales para rescatar a su padre."
+                },
+                {
+  "Title": "Ginger Snaps (2000)",
+  "Stream": "https://dl.dropbox.com/scl/fi/403mu8rjaqah5mv6drcgv/Ginger-Snaps-I-1080p-TRIAL-id_9871.mkv?rlkey=fuxw8u55kxufwlehm687x06a6&st=8tzoemfm&raw=1",
+  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0jpCDX5Rp9vqzCy8FA0OaKJr6UciJ9mWN3wScL_GLgXVu5-n5BKySWVPP&s=10",
+  "description": "Dos hermanas obsesionadas con la muerte ven cómo su vida cambia cuando una de ellas es atacada por una criatura sobrenatural. Ahora, deberán enfrentar una transformación aterradora mientras luchan por mantener su vínculo. Un clásico de terror licántropo con un toque único."
                 },
                 {
                   "Title": "Un Hombre Lobo Americano en Londres (1981)",
