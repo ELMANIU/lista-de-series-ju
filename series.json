@@ -775,7 +775,32 @@
           "Stream": "https://nas1.d.tube/videos/97c85da6-d472-4977-867a-3dc618e4b42b/720p/playlist.m3u8",
           "Logo": "https://m.media-amazon.com/images/S/pv-target-images/3bb6a465a35f05abd66da4c1b2487871d455803cb0235a946370b578081af34b.jpg",
           "description": "Fatima y Ellis toman una gran decisión sobre su embarazo. Boyd teme por el futuro de su familia. Las tensiones aumentan en la casa de los Matthews."
-        }
+        },
+        ,
+{
+  "Title": "S03 E07 - Estos son los que están",
+  "Stream": "https://nas1.d.tube/videos/9fc74afe-1ebf-4f95-bcc4-38abbe4cc398/1080p/playlist.m3u8",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/06fa57b93841b7d447458b2dc663ee7316075066a2c4d110d8960b74209d197a.jpg",
+  "description": "Los residentes se enfrentan a un duro invierno y la comida empieza a escasear. Boyd toma una decisión desesperada que podría cambiar todo. Tabitha sigue investigando los misterios del pueblo."
+},
+{
+  "Title": "S03 E08 - Umbral",
+  "Stream": "https://nas1.d.tube/videos/a7f9a8d8-61a5-43d5-a758-804f95f7f404/1080p/playlist.m3u8",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/06fa57b93841b7d447458b2dc663ee7316075066a2c4d110d8960b74209d197a.jpg",
+  "description": "Un descubrimiento impactante en el bosque cambia todo lo que los residentes creían saber. Julie experimenta visiones extrañas. Victor se enfrenta a su pasado de una manera que nunca imaginó."
+},
+{
+  "Title": "S03 E09 - Revelaciones",
+  "Stream": "https://nas1.d.tube/videos/808f7681-8f63-445b-8574-8d0131348f5f/1080p/playlist.m3u8",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/06fa57b93841b7d447458b2dc663ee7316075066a2c4d110d8960b74209d197a.jpg",
+  "description": "Las piezas comienzan a encajar mientras Boyd conecta los puntos entre los eventos más extraños del pueblo. Kenny toma una decisión que podría costarle todo. El nuevo refugio revela secretos aterradores."
+},
+{
+  "Title": "S03 E10 - El final del camino",
+  "Stream": "https://nas1.d.tube/videos/e599f491-32e8-453b-8fb6-61920073d11d/1080p/playlist.m3u8",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/06fa57b93841b7d447458b2dc663ee7316075066a2c4d110d8960b74209d197a.jpg",
+  "description": "Final de temporada. Una batalla decisiva se acerca mientras los residentes se enfrentan a la mayor amenaza que han conocido. Alguien no sobrevivirá. Las respuestas llegan, pero a un costo devastador."
+}
       ]
     }
   ]
