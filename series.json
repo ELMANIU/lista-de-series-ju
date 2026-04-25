@@ -730,6 +730,39 @@
       "title": "SERIES",
       "items": [
         {
+  "Title": "THE BOYS (2019)",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/473fd8bc878799c1a035cb13c688edd9eb6d240d426abf34e0bf3c1dde95724b.jpg",
+  "Poster": "https://m.media-amazon.com/images/S/pv-target-images/473fd8bc878799c1a035cb13c688edd9eb6d240d426abf34e0bf3c1dde95724b.jpg",
+  "type": "series",
+  "description": "En un mundo donde los superhéroes son celebridades manipuladas por una corporación, un grupo de vigilantes llamados 'The Boys' decide exponer sus secretos más oscuros y acabar con los corruptos 'Siete'.",
+  "seasons": [
+    {
+      "title": "Temporada 1",
+      "Poster": "https://m.media-amazon.com/images/S/pv-target-images/88a0f6bf4f033bc2fe2e35d0b08b022abf3da66766580dcbc863bb4ca725a740.jpg",
+      "episodes": [
+        {
+          "Title": "S01 E01 - El nombre del juego",
+          "Stream": "https://nas1.d.tube/videos/e199878d-145d-4b8c-8094-73317e6c1eaa/1080p/playlist.m3u8",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/88a0f6bf4f033bc2fe2e35d0b08b022abf3da66766580dcbc863bb4ca725a740.jpg",
+          "description": "Hughie Campbell sufre una tragedia a manos de A-Train, un superhéroe de los Siete. Una misteriosa mujer llamada Billy Butcher lo recluta para unirse a su cruzada contra los superhéroes corruptos."
+        },
+        {
+          "Title": "S01 E02 - La cereza",
+          "Stream": "https://nas1.d.tube/videos/72d0a693-99f3-4f15-bcdf-1e7ae856922b/1080p/playlist.m3u8",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/88a0f6bf4f033bc2fe2e35d0b08b022abf3da66766580dcbc863bb4ca725a740.jpg",
+          "description": "Butcher lleva a Hughie a su primer trabajo de campo. Mientras tanto, Homelander y la directora Madelyn Stillwell enfrentan una crisis de relaciones públicas cuando un avión se estrella y los Siete no pueden salvar a todos."
+        },
+        {
+          "Title": "S01 E03 - Consigue tu carné",
+          "Stream": "https://nas1.d.tube/videos/1260c6aa-e06d-49c8-8b56-97f90c42882a/1080p/playlist.m3u8",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/88a0f6bf4f033bc2fe2e35d0b08b022abf3da66766580dcbc863bb4ca725a740.jpg",
+          "description": "The Boys intentan infiltrarse en una peligrosa instalación de Vought. Frenchie y la Coronel se unen a la misión. Homelander descubre que su jefa Stillwell oculta información crucial sobre su origen."
+        }
+      ]
+    }
+  ]
+},
+        {
   "Title": "FROM (2022)",
   "Logo": "https://m.media-amazon.com/images/S/pv-target-images/06fa57b93841b7d447458b2dc663ee7316075066a2c4d110d8960b74209d197a.jpg",
   "Poster": "https://m.media-amazon.com/images/S/pv-target-images/06fa57b93841b7d447458b2dc663ee7316075066a2c4d110d8960b74209d197a.jpg",
