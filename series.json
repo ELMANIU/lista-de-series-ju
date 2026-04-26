@@ -1994,7 +1994,37 @@
                   "Stream": "https://nas1.d.tube/videos/1260c6aa-e06d-49c8-8b56-97f90c42882a/1080p/playlist.m3u8",
                   "Logo": "https://m.media-amazon.com/images/S/pv-target-images/88a0f6bf4f033bc2fe2e35d0b08b022abf3da66766580dcbc863bb4ca725a740.jpg",
                   "description": "The Boys intentan infiltrarse en una peligrosa instalación de Vought. Frenchie y la Coronel se unen a la misión. Homelander descubre que su jefa Stillwell oculta información crucial sobre su origen."
-                }
+                },
+{
+  "Title": "S01 E04 - La chica de la chica",
+  "Stream": "https://nas1.d.tube/videos/8c120ef7-b902-40b8-859e-f4844d27c970/1080p/playlist.m3u8",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/88a0f6bf4f033bc2fe2e35d0b08b022abf3da66766580dcbc863bb4ca725a740.jpg",
+  "description": "Butcher recluta a un nuevo miembro para el equipo. Hughie se enfrenta a una difícil decisión sobre su vida como vigilante. Homelander y los Siete enfrentan una crisis pública."
+},
+{
+  "Title": "S01 E05 - Buenos para nada",
+  "Stream": "https://nas1.d.tube/videos/54ee67f0-e0aa-4eb1-a298-7c1f867b6c00/1080p/playlist.m3u8",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/88a0f6bf4f033bc2fe2e35d0b08b022abf3da66766580dcbc863bb4ca725a740.jpg",
+  "description": "The Boys intentan infiltrarse en una instalación secreta de Vought. Frenchie demuestra sus habilidades. La relación de Hughie y Annie se complica."
+},
+{
+  "Title": "S01 E06 - Los inocentes",
+  "Stream": "https://nas1.d.tube/videos/4ae6f697-afdf-43ad-9f42-9588b6385b95/1080p/playlist.m3u8",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/88a0f6bf4f033bc2fe2e35d0b08b022abf3da66766580dcbc863bb4ca725a740.jpg",
+  "description": "Butcher descubre un oscuro secreto sobre el pasado de su esposa. Homelander visita una granja de Compuesto V. Annie comienza a dudar sobre su papel como superheroína."
+},
+{
+  "Title": "S01 E07 - El círculo auto-destructivo",
+  "Stream": "https://nas1.d.tube/videos/4d498bed-4eef-40d3-bf20-bbacb9bbd8fd/1080p/playlist.m3u8",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/88a0f6bf4f033bc2fe2e35d0b08b022abf3da66766580dcbc863bb4ca725a740.jpg",
+  "description": "Las mentiras de Butcher salen a la luz y el equipo se enfrenta. Homelander presiona a Stillwell por respuestas. Annie toma una decisión que cambiará su vida."
+},
+{
+  "Title": "S01 E08 - Encontré a alguien",
+  "Stream": "https://nas1.d.tube/videos/acf7be5f-0fb8-4f90-b06a-ab2d220946e4/1080p/playlist.m3u8",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/88a0f6bf4f033bc2fe2e35d0b08b022abf3da66766580dcbc863bb4ca725a740.jpg",
+  "description": "Final de temporada. The Boys se preparan para enfrentar a los Siete en una batalla decisiva. Homelander revela su verdadera naturaleza. Secretos mortales salen a la luz."
+}
               ]
             }
           ]
