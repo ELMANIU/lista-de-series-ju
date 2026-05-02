@@ -122,6 +122,12 @@
               "title": "Películas",
               "episodes": [
                 {
+  "Title": "Jumanji (1995)",
+  "Stream": "https://nas1.d.tube/videos/597cb022-083e-467f-add0-0147c4f1520b/720p/playlist.m3u8",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/aefa083632be10a1a671007a845c111f524464e8fb593813a5c81fd8eb1a75ed.jpg",
+  "description": "Dos niños descubren un misterioso juego de mesa que libera peligrosas criaturas de la selva. Alan Parrish, atrapado en el juego por 26 años, regresa para ayudar a terminar la partida y restaurar el orden."
+                },
+                {
                   "Title": "Volver al futuro (1985)",
                   "Stream": "https://drive.usercontent.google.com/download?id=19XB7KRk3Roj95EE5r5DH3BYvG1DMT3tA&export=download&confirm=t",
                   "Logo": "https://m.media-amazon.com/images/S/pv-target-images/d2d69ea694330c3bafa1f8f80ebca459b8ae95ebec7312befceff6db144a3ed0.jpg",
