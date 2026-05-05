@@ -13,6 +13,12 @@
               "title": "PELÍCULAS DE ACCIÓN SECCIÓN 1",
               "episodes": [
                 {
+  "Title": "Día de la Independencia: Contraataque (2016)",
+  "Stream": "https://nas1.d.tube/videos/03989134-4308-428e-85fa-cffa6b3d3ba1/720p/playlist.m3u8",
+  "Logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/1618d9c4-2674-4a05-889d-7652e30a5fa6/compose?aspectRatio=1.78&format=webp&width=1200",
+  "description": "Veinte años después del ataque original, los alienígenas regresan con una nave más poderosa. La humanidad deberá unirse nuevamente para sobrevivir."
+                },
+                {
                   "Title": "Avatar: Fuego Y Cenizas (2025)",
                   "Stream": "https://nas1.d.tube/videos/ada9f6dc-e21f-4ffa-a165-feb3ebe670f1/1080p/playlist.m3u8",
                   "Logo": "https://m.media-amazon.com/images/S/pv-target-images/922ad13cf184fff4001ab859810c1481a1a7ffccd84882f9f391855f9ffdc448.jpg",
@@ -95,6 +101,12 @@
   "Stream": "https://nas1.d.tube/videos/43368f75-fb87-4315-bfaf-bca8e6b3ddcd/720p/playlist.m3u8",
   "Logo": "https://m.media-amazon.com/images/S/pv-target-images/6647a31b61844959042d9d0767346240163fe8f9cc06360efd680be89dc0f220.jpg",
   "description": "Peter Parker enfrenta al Doctor Octopus mientras sus poderes comienzan a fallar y duda entre ser Spider-Man o llevar una vida normal."
+                },
+                {
+  "Title": "El Hombre Araña 3 (2007)",
+  "Stream": "https://nas1.d.tube/videos/5f07dde2-a473-4583-9113-d9613ea73994/720p/playlist.m3u8",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/527f336bf5f90973a87f173aa2ce3fa8395818f6264d68546e5bf8611a68e774.jpg",
+  "description": "Peter Parker enfrenta al nuevo villano Venom, mientras lidia con la influencia oscura del simbionte que pone en peligro sus relaciones."
                 },
                 {
   "Title": "Apex (2026)",
