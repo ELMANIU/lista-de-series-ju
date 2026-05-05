@@ -2699,6 +2699,44 @@
       "title": "NOVELAS",
       "items": [
         {
+  "Title": "MARÍA DE TODOS LOS ÁNGELES (2009)",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/8b7182651aecdf2ccfb0a8623484de8c787776bea3a2a10fee61165d315049ce.jpg",
+  "type": "series",
+  "description": "María, una mujer romántica y trabajadora, sueña con encontrar el amor verdadero e invoca a todos los ángeles de la corte celestial para que la ayuden. Ellos se le revelan en sueños dándole señales, pero ella siempre las interpreta de manera equivocada. [citation:3][citation:4]",
+  "seasons": [
+    {
+      "title": "Temporada 1",
+      "Poster": "https://m.media-amazon.com/images/S/pv-target-images/8b7182651aecdf2ccfb0a8623484de8c787776bea3a2a10fee61165d315049ce.jpg",
+      "episodes": [
+        {
+          "Title": "Capítulo 1: El Sueño Angélico (Piloto) [citation:1][citation:7]",
+          "Stream": "https://nas1.d.tube/videos/fa85a330-f7cb-4b81-b3e7-5bc6d0adecb0/720p/playlist.m3u8",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/8b7182651aecdf2ccfb0a8623484de8c787776bea3a2a10fee61165d315049ce.jpg",
+          "description": "Mientras duerme, María tiene una revelación divina de sus ángeles de la guarda, quienes le anuncian la llegada de su ser amado. Para encontrarlo, tendrá que seguir una señal que la llevará hasta Albertano, un romántico aspirante a cantante grupero."
+        },
+        {
+          "Title": "Capítulo 2: El Perro de los Focos [citation:1][citation:7]",
+          "Stream": "https://nas1.d.tube/videos/01edab7d-0176-464c-95a9-91bf9660b933/720p/playlist.m3u8",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/8b7182651aecdf2ccfb0a8623484de8c787776bea3a2a10fee61165d315049ce.jpg",
+          "description": "María sueña que los ángeles le dicen que solo mirando directamente a los ojos de Albertano sabrá si él es su amor verdadero. Un accidente en la azotea los acerca, pero su felicidad se nubla al descubrir que él es el hijo de su enemiga, Doña Lucha."
+        },
+        {
+          "Title": "Capítulo 3: Los Chiles de la Discordia [citation:1][citation:7]",
+          "Stream": "https://nas1.d.tube/videos/433dee8f-edd1-4b9b-9cb2-0d265557aa45/720p/playlist.m3u8",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/8b7182651aecdf2ccfb0a8623484de8c787776bea3a2a10fee61165d315049ce.jpg",
+          "description": "Siguiendo las señales de sus ángeles, María intenta ganarse el corazón de Albertano a través de su madre, Doña Lucha. Para ello, le lleva un platillo especial, lo que desata una guerra de cocina entre las dos."
+        },
+        {
+          "Title": "Capítulo 4: San Chambelán [citation:1][citation:7]",
+          "Stream": "https://nas1.d.tube/videos/280eebf6-6599-472e-8cff-94ccc3c4d2f5/720p/playlist.m3u8",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/8b7182651aecdf2ccfb0a8623484de8c787776bea3a2a10fee61165d315049ce.jpg",
+          "description": "María gasta todos sus ahorros en organizar su fiesta de 15 años que nunca tuvo, causando problemas en la tienda de su abuelo. Albertano se ofrece a ser el chambelán de la fiesta para salvar el negocio familiar, provocando un encuentro romántico entre ellos."
+        }
+      ]
+    }
+  ]
+},
+        {
           "Title": "DEJÉMONOS DE VARGAS (2022)",
           "Logo": "https://elpopular.cronosmedia.glr.pe/original/2024/05/16/6646be4cd757ca4d3c7bfba5.jpg",
           "type": "series",
