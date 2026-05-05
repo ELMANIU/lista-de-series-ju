@@ -2821,7 +2821,7 @@
 },
         {
           "Title": "NARUTO",
-          "Logo": "https://ejemplo.com/logo-naruto.jpg",
+          "Logo": "https://is1-ssl.mzstatic.com/image/thumb/aySL3mtcs7IXXHRgT0NIaQ/1200x675.jpg",
           "type": "series",
           "description": "Las aventuras de Naruto Uzumaki, un ninja adolescente que sueña con convertirse en Hokage.",
           "seasons": [
@@ -2830,8 +2830,8 @@
               "episodes": [
                 {
                   "Title": "Episodio 1: ¡Soy Naruto Uzumaki!",
-                  "Stream": "https://ejemplo.com/stream/naruto-1",
-                  "Logo": "https://ejemplo.com/logo-naruto.jpg",
+                  "Stream": "https://stream/naruto-1",
+                  "Logo": "https://is1-ssl.mzstatic.com/image/thumb/aySL3mtcs7IXXHRgT0NIaQ/1200x675.jpg",
                   "description": "Naruto es un niño rechazado por su aldea por contener al Zorro de Nueve Colas. Sueña con convertirse en Hokage."
                 },
                 {
