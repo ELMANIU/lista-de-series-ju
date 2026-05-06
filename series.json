@@ -13,6 +13,12 @@
               "title": "PELÍCULAS DE ACCIÓN SECCIÓN 1",
               "episodes": [
                 {
+  "Title": "Insurgente (2015)",
+  "Stream": "https://nas1.d.tube/videos/656e2d02-2112-4991-8b7f-412e33e48abd/1080p/playlist.m3u8",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/6cd3d6a594aae2f26a779a6b61f1ff5965fdfb6f8f30fb3f5409590f735f531b._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/g-l/lionsgateplusus/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1121,902,720,100_kva804ec4128086f972463d5545c241ee5_SX624_FMjpg_.jpg",
+  "description": "Tris y Four huyen de Jeanine mientras buscan aliados entre los facciones. Tris deberá aceptar su verdadera naturaleza."
+                },
+                {
   "Title": "Día de la Independencia: Contraataque (2016)",
   "Stream": "https://nas1.d.tube/videos/03989134-4308-428e-85fa-cffa6b3d3ba1/720p/playlist.m3u8",
   "Logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/1618d9c4-2674-4a05-889d-7652e30a5fa6/compose?aspectRatio=1.78&format=webp&width=1200",
@@ -48,6 +54,12 @@
                   "Stream": "https://nas1.d.tube/videos/bccf701a-9270-48ea-8653-d3aa6145fb1b/720p/playlist.m3u8",
                   "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJ2mtHJNolAv97C7ShjxJvrJnD0HQSVhszAPHsmu003a4WqF0LDe6NUNf&s=10",
                   "description": "Paul Atreides se une a los Fremen en una guerra de venganza mientras enfrenta una elección entre el amor y su destino."
+                },
+                {
+  "Title": "Depredador: La Presa (2022)",
+  "Stream": "https://nas1.d.tube/videos/5a712d8d-3ebe-4971-b363-32565f6966d8/720p/playlist.m3u8",
+  "Logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/4abc54b8-4f77-425e-97c8-d6d5b920d05d/compose?aspectRatio=1.78&format=webp&width=1200",
+  "description": "Naru, una joven comanche, debe demostrar su valía enfrentando a uno de los primeros Depredadores en la Tierra."
                 },
                 {
                   "Title": "Depredador: Tierras Salvajes (2025)",
@@ -443,6 +455,18 @@
             {
               "title": "PELÍCULAS DE ANIMACIÓN SECCIÓN 2",
               "episodes": [
+                {
+  "Title": "Lluvia de hamburguesas (2009)",
+  "Stream": "https://nas1.d.tube/videos/507cb81d-560d-43ad-81b8-f8056fa942ff/720p/playlist.m3u8",
+  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnFmlNNYngc1s3A7oEm4AXI8TzKhSstcfy2E7xjQlhzevuuA-8GdWaduA&s=10",
+  "description": "Un inventor fracasado crea una máquina que convierte el agua en comida, causando un caos alimenticio en su ciudad."
+                },
+                {
+  "Title": "Lluvia de hamburguesas 2 (2013)",
+  "Stream": "https://nas1.d.tube/videos/5bfe4f00-402e-4635-bcbf-21bc53b2feea/720p/playlist.m3u8",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/331d425d850b1bfd702ec0e7be38992b29ba2e32b9cf6f5841e219a7bc03c141.jpg",
+  "description": "Flint Lockwood regresa para enfrentar a unas criaturas mutantes creadas por su propia máquina de comida."
+                },
                 {
   "Title": "Hopper's: Operación Castor (2026)",
   "Stream": "https://nas1.d.tube/videos/80ba19dd-267f-42d4-94e0-a22382fedd03/720p/playlist.m3u8",
