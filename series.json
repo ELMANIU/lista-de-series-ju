@@ -2515,7 +2515,7 @@
           "description": "Mark Grayson descubre que su padre es el superhéroe más poderoso del planeta.",
           "seasons": [
             {
-              "title": "Temporada 1",
+              "title": "TEMPORADA 1",
               "episodes": [
                 {
                   "Title": "S01 E01 - Ya era hora",
@@ -2566,7 +2566,55 @@
                   "description": "Para demostrar que se ha convertido en el héroe que siempre quiso ser, Mark debe detener una fuerza imparable."
                 }
               ]
-            }
+            },
+            {
+  "title": "TEMPORADA 2",
+  "Poster": "https://m.media-amazon.com/images/S/pv-target-images/4353da035af88ba6b32ec766f741d4f999178743947d85bfaaa70bbb027a2d64.png",
+  "episodes": [
+    {
+      "Title": "S02 E01 - Un asunto de familia",
+      "Stream": "https://nas1.d.tube/videos/189e20b5-a878-4966-9285-c8abd9bd80b0/1080p/playlist.m3u8",
+      "Logo": "https://m.media-amazon.com/images/S/pv-target-images/4353da035af88ba6b32ec766f741d4f999178743947d85bfaaa70bbb027a2d64.png",
+      "description": "Mark intenta seguir adelante después de la partida de su padre, mientras nuevos héroes y amenazas aparecen en la Tierra."
+    },
+    {
+      "Title": "S02 E02 - En territorio desconocido",
+      "Stream": "https://nas1.d.tube/videos/1787b541-aa32-4822-a968-f7a8d54c9c08/1080p/playlist.m3u8",
+      "Logo": "https://m.media-amazon.com/images/S/pv-target-images/4353da035af88ba6b32ec766f741d4f999178743947d85bfaaa70bbb027a2d64.png",
+      "description": "Mark viaja a otra dimensión en busca de respuestas. Debbie lucha por adaptarse a su nueva realidad sin Nolan."
+    },
+    {
+      "Title": "S02 E03 - Esta noche, un hombre murió",
+      "Stream": "https://nas1.d.tube/videos/5cb99b9f-60f5-448c-bbee-54d55a1efbc0/1080p/playlist.m3u8",
+      "Logo": "https://m.media-amazon.com/images/S/pv-target-images/4353da035af88ba6b32ec766f741d4f999178743947d85bfaaa70bbb027a2d64.png",
+      "description": "Un antiguo villano regresa más poderoso que nunca. Mark debe decidir hasta dónde está dispuesto a llegar para proteger a sus seres queridos."
+    },
+    {
+      "Title": "S02 E04 - El pasado te alcanza",
+      "Stream": "https://nas1.d.tube/videos/7798403d-5641-4bbd-9d28-bd472e21777f/1080p/playlist.m3u8",
+      "Logo": "https://m.media-amazon.com/images/S/pv-target-images/4353da035af88ba6b32ec766f741d4f999178743947d85bfaaa70bbb027a2d64.png",
+      "description": "Se revelan secretos del Imperio Viltrumita. Mark enfrenta una difícil decisión sobre su futuro como héroe."
+    },
+    {
+      "Title": "S02 E05 - Un momento de paz",
+      "Stream": "https://nas1.d.tube/videos/21d1409c-685b-45c8-b659-6a47947e6367/1080p/playlist.m3u8",
+      "Logo": "https://m.media-amazon.com/images/S/pv-target-images/4353da035af88ba6b32ec766f741d4f999178743947d85bfaaa70bbb027a2d64.png",
+      "description": "La vida de Mark intenta volver a la normalidad, pero nuevas amenazas se avecinan. Allen el Alien regresa con una misión peligrosa."
+    },
+    {
+      "Title": "S02 E06 - No tan invencible",
+      "Stream": "https://nas1.d.tube/videos/6ffbd38e-c6b7-4bc1-afc3-4434d6a1d18e/1080p/playlist.m3u8",
+      "Logo": "https://m.media-amazon.com/images/S/pv-target-images/4353da035af88ba6b32ec766f741d4f999178743947d85bfaaa70bbb027a2d64.png",
+      "description": "Mark sufre una devastadora derrota. Cecil recluta a nuevos héroes para enfrentar la creciente amenaza."
+    },
+    {
+      "Title": "S02 E07 - El fin de la Tierra",
+      "Stream": "https://nas1.d.tube/videos/6317f23d-2bc1-4c8a-85e4-e953176e6e2c/1080p/playlist.m3u8",
+      "Logo": "https://m.media-amazon.com/images/S/pv-target-images/4353da035af88ba6b32ec766f741d4f999178743947d85bfaaa70bbb027a2d64.png",
+      "description": "Final de temporada. Los Viltrumitas llegan a la Tierra. Mark debe unir fuerzas con aliados inesperados para salvar al planeta."
+    }
+  ]
+}
           ]
         },
         {
