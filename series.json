@@ -2130,6 +2130,93 @@
       "title": "SERIES",
       "items": [
         {
+  "Title": "BOJACK HORSEMAN (2014)",
+  "Logo": "https://is1-ssl.mzstatic.com/image/thumb/Ct9dYtTgga98eX7P1SRH4A/1200x675.jpg",
+  "Poster": "https://is1-ssl.mzstatic.com/image/thumb/Ct9dYtTgga98eX7P1SRH4A/1200x675.jpg",
+  "type": "series",
+  "description": "Un antiguo actor de una famosa sitcom de los 90 intenta recuperar su gloria, mientras lidia con la depresión y las relaciones más complicadas de Hollywood.",
+  "seasons": [
+    {
+      "title": "TEMPORADA 1",
+      "Poster": "https://is1-ssl.mzstatic.com/image/thumb/Ct9dYtTgga98eX7P1SRH4A/1200x675.jpg",
+      "episodes": [
+        {
+          "Title": "S01 E01 - La historia de BoJack",
+          "Stream": "https://nas1.d.tube/videos/8af62ccb-bc8d-4007-9fa3-548a3e8bc3c8/720p/playlist.m3u8",
+          "Logo": "https://is1-ssl.mzstatic.com/image/thumb/Ct9dYtTgga98eX7P1SRH4A/1200x675.jpg",
+          "description": "BoJack contrata una escritora para que lo ayude a escribir sus memorias y así recuperar la popularidad que tuvo alguna vez."
+        },
+        {
+          "Title": "S01 E02 - BoJack odia a las tropas",
+          "Stream": "https://nas1.d.tube/videos/fada452b-e6b5-4edb-8348-7a8243e02b72/720p/playlist.m3u8",
+          "Logo": "https://is1-ssl.mzstatic.com/image/thumb/Ct9dYtTgga98eX7P1SRH4A/1200x675.jpg",
+          "description": "Los comentarios de BoJack sobre el ejército causan un escándalo que lo obliga a dar un discurso frente a los soldados."
+        },
+        {
+          "Title": "S01 E03 - Pippa Pelicana",
+          "Stream": "https://nas1.d.tube/videos/7afaa6f0-f114-41e9-b9fb-df46f5387c4d/720p/playlist.m3u8",
+          "Logo": "https://is1-ssl.mzstatic.com/image/thumb/Ct9dYtTgga98eX7P1SRH4A/1200x675.jpg",
+          "description": "BoJack se obsesiona con localizar a Pippa Pelicana, una pingüino con la que tuvo un encuentro olvidable años atrás."
+        },
+        {
+          "Title": "S01 E04 - Zoey o Zelda",
+          "Stream": "https://nas1.d.tube/videos/ad029825-f779-4931-9074-acdd48638303/720p/playlist.m3u8",
+          "Logo": "https://is1-ssl.mzstatic.com/image/thumb/Ct9dYtTgga98eX7P1SRH4A/1200x675.jpg",
+          "description": "BoJack intenta reconectarse con su hija secreta. Todd lidia con un problema médico inesperado."
+        },
+        {
+          "Title": "S01 E05 - El corazón roto",
+          "Stream": "https://nas1.d.tube/videos/ff7326bb-c0db-49fc-aa9a-f60e740e32ac/720p/playlist.m3u8",
+          "Logo": "https://is1-ssl.mzstatic.com/image/thumb/Ct9dYtTgga98eX7P1SRH4A/1200x675.jpg",
+          "description": "BoJack se reencuentra con su exnovia y debe enfrentar los errores del pasado. Diane y Mr. Peanutbutter consideran casarse."
+        },
+        {
+          "Title": "S01 E06 - Nuestro show favorito",
+          "Stream": "https://nas1.d.tube/videos/43ba688c-3681-492c-b099-9b8fb83d7a90/720p/playlist.m3u8",
+          "Logo": "https://is1-ssl.mzstatic.com/image/thumb/Ct9dYtTgga98eX7P1SRH4A/1200x675.jpg",
+          "description": "Un documental revela secretos oscuros del set de 'Horsin' Around'. BoJack debe confrontar su legado."
+        },
+        {
+          "Title": "S01 E07 - Día de campo",
+          "Stream": "https://nas1.d.tube/videos/9a5f31ae-c167-4c6a-9845-6a4f6a87a968/720p/playlist.m3u8",
+          "Logo": "https://is1-ssl.mzstatic.com/image/thumb/Ct9dYtTgga98eX7P1SRH4A/1200x675.jpg",
+          "description": "BoJack regresa a su ciudad natal para un evento benéfico y se reencuentra con viejos amigos que cambiaron su vida para siempre."
+        },
+        {
+          "Title": "S01 E08 - El telescopio",
+          "Stream": "https://nas1.d.tube/videos/073adc00-1999-422b-b182-e5598a4ef992/720p/playlist.m3u8",
+          "Logo": "https://is1-ssl.mzstatic.com/image/thumb/Ct9dYtTgga98eX7P1SRH4A/1200x675.jpg",
+          "description": "BoJack intenta reconciliarse con su antiguo amigo de 'Horsin' Around' al enterarse de que está muriendo."
+        },
+        {
+          "Title": "S01 E09 - El secreto de BoJack",
+          "Stream": "https://nas1.d.tube/videos/160909ae-b399-4a98-a9a8-a9f8ad822e8f/720p/playlist.m3u8",
+          "Logo": "https://is1-ssl.mzstatic.com/image/thumb/Ct9dYtTgga98eX7P1SRH4A/1200x675.jpg",
+          "description": "Un periodista investiga la vida de BoJack. Secretos oscuros del pasado comienzan a salir a la luz."
+        },
+        {
+          "Title": "S01 E10 - El precio de la fama",
+          "Stream": "https://nas1.d.tube/videos/eeee69ba-997b-495a-aa8f-4c707562b147/720p/playlist.m3u8",
+          "Logo": "https://is1-ssl.mzstatic.com/image/thumb/Ct9dYtTgga98eX7P1SRH4A/1200x675.jpg",
+          "description": "BoJack alcanza el éxito que siempre quiso, pero descubre que la fama tiene un costo mucho más alto de lo que imaginaba."
+        },
+        {
+          "Title": "S01 E11 - Funeral",
+          "Stream": "https://nas1.d.tube/videos/31ce60c4-faa4-4b7c-8a9b-893c8cd5c116/720p/playlist.m3u8",
+          "Logo": "https://is1-ssl.mzstatic.com/image/thumb/Ct9dYtTgga98eX7P1SRH4A/1200x675.jpg",
+          "description": "Una muerte inesperada obliga a BoJack a enfrentar su propia mortalidad y el verdadero significado de sus amistades."
+        },
+        {
+          "Title": "S01 E12 - El final del principio",
+          "Stream": "https://nas1.d.tube/videos/c55d3231-9a8a-4fa4-b456-6f22bed39fc6/720p/playlist.m3u8",
+          "Logo": "https://is1-ssl.mzstatic.com/image/thumb/Ct9dYtTgga98eX7P1SRH4A/1200x675.jpg",
+          "description": "BoJack toma una decisión radical sobre su carrera y su vida personal. El futuro nunca fue tan incierto."
+        }
+      ]
+    }
+  ]
+},
+        {
   "Title": "STRANGER THINGS: RELATOS DEL 85 (2026)",
   "Logo": "https://gestion.pe/resizer/v2/7VMVNIDRDZA6HKHUJTBYL7S33Q.jpg?auth=27f38a032c40356490edafa183c56754dc3a6a48d320b6d8f4cf2de494d371d2&width=2320&height=1320&quality=75&smart=true",
   "Poster": "https://gestion.pe/resizer/v2/7VMVNIDRDZA6HKHUJTBYL7S33Q.jpg?auth=27f38a032c40356490edafa183c56754dc3a6a48d320b6d8f4cf2de494d371d2&width=2320&height=1320&quality=75&smart=true",
