@@ -158,6 +158,12 @@
               "title": "Películas",
               "episodes": [
                 {
+  "Title": "George de la selva (1997)",
+  "Stream": "https://nas1.d.tube/videos/26bc35fc-a601-4e4a-9686-f84e8c45cf0b/720p/playlist.m3u8",
+  "Logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/c45b5f8d-9fda-4865-9eb1-afed66375596/compose?aspectRatio=1.78&format=webp&width=1200",
+  "description": "Un hombre criado por animales en la selva es llevado a la civilización, donde deberá salvar su hogar de los peligros del mundo moderno."
+                },
+                {
   "Title": "Jumanji (1995)",
   "Stream": "https://nas1.d.tube/videos/597cb022-083e-467f-add0-0147c4f1520b/720p/playlist.m3u8",
   "Logo": "https://m.media-amazon.com/images/S/pv-target-images/aefa083632be10a1a671007a845c111f524464e8fb593813a5c81fd8eb1a75ed.jpg",
