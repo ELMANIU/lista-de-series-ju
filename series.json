@@ -13,6 +13,12 @@
               "title": "PELÍCULAS DE ACCIÓN SECCIÓN 1",
               "episodes": [
                 {
+  "Title": "Thor: Ragnarok (2017)",
+  "Stream": "https://nas1.d.tube/videos/6a880312-54dd-420e-b75d-50560aa31483/720p/playlist.m3u8",
+  "Logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/4495a4fe-09ba-4691-a860-0f734da4c281/compose?aspectRatio=1.78&format=webp&width=1200",
+  "description": "Thor queda atrapado en un planeta gobernado por el Hulk. Deberá unir fuerzas con su amigo para detener a Hela y evitar el fin de Asgard."
+                },
+                {
   "Title": "Insurgente (2015)",
   "Stream": "https://nas1.d.tube/videos/656e2d02-2112-4991-8b7f-412e33e48abd/1080p/playlist.m3u8",
   "Logo": "https://m.media-amazon.com/images/S/pv-target-images/6cd3d6a594aae2f26a779a6b61f1ff5965fdfb6f8f30fb3f5409590f735f531b._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/g-l/lionsgateplusus/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1121,902,720,100_kva804ec4128086f972463d5545c241ee5_SX624_FMjpg_.jpg",
@@ -467,6 +473,12 @@
             {
               "title": "PELÍCULAS DE ANIMACIÓN SECCIÓN 2",
               "episodes": [
+                {
+  "Title": "Scooby-Doo en la isla de los zombies (1998)",
+  "Stream": "https://nas1.d.tube/videos/ad1d0894-f509-4e8f-9125-20db6825a413/1080p/playlist.m3u8",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/3ac9259126e37e69466a39288e90eefff63d0493fe27a318cc54dae251a5bda1.jpg",
+  "description": "La pandilla viaja a Nueva Orleans para investigar un misterio en una isla habitada por zombies. Por primera vez, los monstruos resultan ser reales."
+                },
                 {
   "Title": "Lluvia de hamburguesas (2009)",
   "Stream": "https://nas1.d.tube/videos/507cb81d-560d-43ad-81b8-f8056fa942ff/720p/playlist.m3u8",
