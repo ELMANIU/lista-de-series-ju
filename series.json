@@ -2974,6 +2974,81 @@
       "title": "SERIES DE ANIME",
       "items": [
         {
+  "Title": "DRAGON BALL Z KAI (2009)",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/26502aba5ef44ddcc63b5f724cc254e32e388737ee45a8f8d1974cbc4234e3f6.jpg",
+  "Poster": "https://m.media-amazon.com/images/S/pv-target-images/26502aba5ef44ddcc63b5f724cc254e32e388737ee45a8f8d1974cbc4234e3f6.jpg",
+  "type": "series",
+  "description": "Versión remasterizada de Dragon Ball Z que sigue las aventuras de Goku y los Guerreros Z mientras protegen la Tierra de poderosos enemigos como Vegeta, Freezer y Cell.",
+  "seasons": [
+    {
+      "title": "TEMPORADA 1",
+      "Poster": "https://m.media-amazon.com/images/S/pv-target-images/26502aba5ef44ddcc63b5f724cc254e32e388737ee45a8f8d1974cbc4234e3f6.jpg",
+      "episodes": [
+        {
+          "Title": "S01 E01 - ¡Prólogo de batalla! ¡El regreso de Gokú!",
+          "Stream": "https://nas1.d.tube/videos/c1034dd8-8c2e-4ea1-a882-f93a47a36eef/360p/playlist.m3u8",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/26502aba5ef44ddcc63b5f724cc254e32e388737ee45a8f8d1974cbc4234e3f6.jpg",
+          "description": "Un flashback nos lleva al pasado de Gokú en la Tierra y la destrucción del Planeta Vegeta. Cinco años después de vencer a Piccolo, Gokú vive en paz con su hijo Gohan hasta que un misterioso guerrero llega a la Tierra."
+        },
+        {
+          "Title": "S01 E02 - ¿El enemigo es el hermano de Gokú? ¡El secreto de los poderosos guerreros saiyajin!",
+          "Stream": "https://nas1.d.tube/videos/f25186b5-9b65-46fe-8017-70b73d8f86ca/360p/playlist.m3u8",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/26502aba5ef44ddcc63b5f724cc254e32e388737ee45a8f8d1974cbc4234e3f6.jpg",
+          "description": "El extraño se presenta como Raditz, el hermano mayor de Gokú. Le revela que son parte de una raza alienígena llamada Saiyajin y le pide que se una a él para conquistar la Tierra."
+        },
+        {
+          "Title": "S01 E03 - ¡Una batalla de vida o muerte! El ataque desesperado de Gokú y Piccolo",
+          "Stream": "https://nas1.d.tube/videos/ae3b5506-32ed-482f-9925-12fc3117cc03/360p/playlist.m3u8",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/26502aba5ef44ddcc63b5f724cc254e32e388737ee45a8f8d1974cbc4234e3f6.jpg",
+          "description": "Gokú y Piccolo se unen para enfrentar a Raditz. Gohan desata su poder oculto y golpea a Raditz, permitiendo que Piccolo use su técnica Makankosappo."
+        },
+        {
+          "Title": "S01 E04 - ¡Gokú corre en el más allá! El camino de la serpiente de un millón de kilómetros!",
+          "Stream": "https://nas1.d.tube/videos/cf9c86a3-389b-48c2-a798-e79c2ed0b888/360p/playlist.m3u8",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/26502aba5ef44ddcc63b5f724cc254e32e388737ee45a8f8d1974cbc4234e3f6.jpg",
+          "description": "Kami lleva a Gokú al Otro Mundo. Piccolo toma a Gohan bajo su custodia para entrenarlo. Gokú comienza su viaje por el Camino de la Serpiente para entrenar con Kaio-sama."
+        },
+        {
+          "Title": "S01 E05 - ¡Supervivencia en el desierto! ¡Una noche de luna despierta a Gohan!",
+          "Stream": "https://nas1.d.tube/videos/120a5a0f-e115-49fe-9b86-3836612b5c52/360p/playlist.m3u8",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/26502aba5ef44ddcc63b5f724cc254e32e388737ee45a8f8d1974cbc4234e3f6.jpg",
+          "description": "Gohan comienza su entrenamiento de supervivencia. Durante la noche de luna llena, se transforma en un gran mono. Piccolo destruye la luna para detenerlo y le quita la cola."
+        },
+        {
+          "Title": "S01 E06 - ¡El fin del camino de la serpiente! ¡El bizarro examen de Kaio-sama!",
+          "Stream": "https://nas1.d.tube/videos/99f2652b-c4d3-4f34-8075-d86303892680/360p/playlist.m3u8",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/26502aba5ef44ddcc63b5f724cc254e32e388737ee45a8f8d1974cbc4234e3f6.jpg",
+          "description": "Gokú llega al final del Camino de la Serpiente. Kaio-sama le pone pruebas para entrenarlo, incluyendo atrapar a Bubbles y golpear a Gregory."
+        },
+        {
+          "Title": "S01 E07 - ¡Una batalla con diez veces la gravedad! ¡La carrera de Gokú contra el reloj!",
+          "Stream": "https://nas1.d.tube/videos/28242880-e6df-4559-a2e4-1a597b6beed7/360p/playlist.m3u8",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/26502aba5ef44ddcc63b5f724cc254e32e388737ee45a8f8d1974cbc4234e3f6.jpg",
+          "description": "Gokú se adapta finalmente a la gravedad del planeta de Kaio. El maestro le enseña las técnicas del Kaio-ken y la Genki-dama."
+        },
+        {
+          "Title": "S01 E08 - ¡Shenlong aparece! ¡Los saiyajin llegan antes de lo esperado!",
+          "Stream": "https://nas1.d.tube/videos/b5a59db5-aa29-41f8-b957-e7d115bc432e/360p/playlist.m3u8",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/26502aba5ef44ddcc63b5f724cc254e32e388737ee45a8f8d1974cbc4234e3f6.jpg",
+          "description": "Gokú completa su entrenamiento y es revivido con las Esferas del Dragón. Vegeta y Nappa llegan a la Tierra y destruyen una ciudad."
+        },
+        {
+          "Title": "S01 E09 - ¡La pelea de Yamcha! ¡Los terribles Saibaiman!",
+          "Stream": "https://nas1.d.tube/videos/88a6b13e-ab16-4327-8bfe-aa6a3159cc10/360p/playlist.m3u8",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/26502aba5ef44ddcc63b5f724cc254e32e388737ee45a8f8d1974cbc4234e3f6.jpg",
+          "description": "Vegeta y Nappa cultivan a los Saibaiman, quienes atacan a los Guerreros Z. Yamcha lucha valientemente pero cae ante uno de ellos."
+        },
+        {
+          "Title": "S01 E10 - ¡Resiste Chaos! ¡El Kikohu de Tenshinhan!",
+          "Stream": "https://nas1.d.tube/videos/ba42e267-efad-4497-95fc-b9429fb656ff/360p/playlist.m3u8",
+          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/26502aba5ef44ddcc63b5f724cc254e32e388737ee45a8f8d1974cbc4234e3f6.jpg",
+          "description": "Nappa demuestra ser un poderoso oponente. Tenshinhan usa su técnica Kikoho para tratar de detenerlo, mientras Chaos da su vida para ayudar a sus compañeros."
+        }
+      ]
+    }
+  ]
+},
+        {
   "Title": "HOW NOT TO SUMMON A DEMON LORD (2018)",
   "Logo": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/d3d43fab18a7461c24433ec5a42c6f03.jpg",
   "type": "series",
