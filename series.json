@@ -3209,6 +3209,49 @@
           ]
         }
       ]
+    },
+    {
+  "title": "ANIMES +18",
+  "items": [
+    {
+      "Title": "YOWAYOWA SENSEI (2026)",
+      "Logo": "https://m.media-amazon.com/images/S/pv-target-images/42ea17a21b112558d95b44029e6a8e9962b68115ab6717c56b1468145c549b04.jpg",
+      "Poster": "https://m.media-amazon.com/images/S/pv-target-images/42ea17a21b112558d95b44029e6a8e9962b68115ab6717c56b1468145c549b04.jpg",
+      "type": "series",
+      "description": "La nueva maestra Hiyori Hiwamura es conocida por los estudiantes como 'Kowakowa Sensei', la profesora aterradora que puede maldecir a quien la moleste. Pero su alumno Akihito Abikura descubre su secreto: en realidad es 'Yowayowa Sensei', la profesora más débil y adorable, con cero resistencia física y una voz diminuta. Una comedia romántica ligeramente atrevida sobre una maestra débil pero encantadora y su alumno que jura protegerla.",
+      "seasons": [
+        {
+          "title": "Temporada 1",
+          "episodes": [
+            {
+              "Title": "S01 E01 - Kowakowa Sensei",
+              "Stream": "https://nas1.d.tube/videos/1dfed558-d578-4073-8fc6-7a272a2d481a/1080p/playlist.m3u8",
+              "Logo": "https://m.media-amazon.com/images/S/pv-target-images/42ea17a21b112558d95b44029e6a8e9962b68115ab6717c56b1468145c549b04.jpg",
+              "description": "En el primer día del nuevo semestre, la maestra Hiyori Hiwamura aparece en el salón con la frente ensangrentada. Su comportamiento sospechoso hace que corran rumores de que es la 'Kowakowa Sensei' que lanza maldiciones. Sin embargo, después de clases, Akihito Abikura descubre la impactante verdad: en realidad es una adorable inútil de voz baja y sin resistencia física."
+            },
+            {
+              "Title": "S01 E02 - El secreto compartido",
+              "Stream": "https://nas1.d.tube/videos/0d1a8621-7d9d-48f4-a754-1fba3131eac9/1080p/playlist.m3u8",
+              "Logo": "https://m.media-amazon.com/images/S/pv-target-images/42ea17a21b112558d95b44029e6a8e9962b68115ab6717c56b1468145c549b04.jpg",
+              "description": "Abikura decide ayudar a la profesora a ocultar su secreto y a mejorar su imagen ante los estudiantes. Pero mantenerlo en secreto mientras lidian con situaciones cada vez más comprometedoras se vuelve más difícil de lo que parece."
+            },
+            {
+              "Title": "S01 E03 - Situación de riesgo",
+              "Stream": "https://nas1.d.tube/videos/2f9a0e06-1cae-4a3d-b628-23a1d96f9cec/1080p/playlist.m3u8",
+              "Logo": "https://m.media-amazon.com/images/S/pv-target-images/42ea17a21b112558d95b44029e6a8e9962b68115ab6717c56b1468145c549b04.jpg",
+              "description": "Abikura sigue siendo el único que conoce la verdadera personalidad de la maestra. Una serie de malentendidos y situaciones accidentales acerca peligrosamente a ambos."
+            },
+            {
+              "Title": "S01 E04 - La prueba de la piscina",
+              "Stream": "https://nas1.d.tube/videos/bfed3455-6dba-40c9-838f-8fdd72a81ed2/1080p/playlist.m3u8",
+              "Logo": "https://m.media-amazon.com/images/S/pv-target-images/42ea17a21b112558d95b44029e6a8e9962b68115ab6717c56b1468145c549b04.jpg",
+              "description": "La clase tiene una actividad en la piscina. La débil y poco atlética Hiwamura-sensei intenta participar, pero su falta de condición física la llevará a situaciones inesperadamente embarazosas junto a Abikura."
+            }
+          ]
+        }
+      ]
     }
+  ]
+}
   ]
 }
