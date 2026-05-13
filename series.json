@@ -486,6 +486,12 @@
               "title": "PELÍCULAS DE ANIMACIÓN SECCIÓN 2",
               "episodes": [
                 {
+  "Title": "Rango (2011)",
+  "Stream": "https://nas1.d.tube/videos/2e356701-b833-4bf8-8d65-3bd9a841e22b/720p/playlist.m3u8",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/43678d221b82d2e30cf5c871e19ef6d52bf7095fb6f815d88225f128b1ec1aa5._UR1920,1080_.jpg",
+  "description": "Una mascota camaleónica se convierte accidentalmente en el sheriff de un pueblo del Viejo Oeste, enfrentándose a forajidos y una crisis de agua."
+                },
+                {
   "Title": "Sing 2 (2021)",
   "Stream": "https://nas1.d.tube/videos/02d45e1a-4e1e-4394-8523-f48b94350feb/720p/playlist.m3u8",
   "Logo": "https://m.media-amazon.com/images/S/pv-target-images/3601d630d08ca56314fcc4a7a5548d4f5589d3b5154167936574dd02b4d31a1b.jpg",
@@ -552,6 +558,12 @@
             {
               "title": "PELÍCULAS DE TERROR SECCIÓN 1",
               "episodes": [
+                {
+  "Title": "Camino hacia el terror (2003)",
+  "Stream": "https://nas1.d.tube/videos/b2973a40-9780-4a21-9d93-936f49cca7c7/720p/playlist.m3u8",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/391484cf99ae0e7b0a3cbf92583660f653557f41a3937ed9173aa477d08e11fa.jpg",
+  "description": "Seis adolescentes se pierden en los densos bosques de West Virginia, donde serán perseguidos por una familia de caníbales horriblemente desfigurados."
+                },
                 {
                   "Title": "La calle del terror - Parte 1: 1994 (2021)",
                   "Stream": "https://nas1.d.tube/videos/72bb3368-6c36-44ff-bb86-e478db8eda76/1080p/playlist.m3u8",
