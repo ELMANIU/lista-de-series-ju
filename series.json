@@ -296,8 +296,14 @@
           "description": "Películas de comedia y humor.",
           "seasons": [
             {
-              "title": "Películas",
+              "title": "PELÍCULAS SECCIÓN 1",
               "episodes": [
+                {
+  "Title": "Píxeles (2015)",
+  "Stream": "https://dl.dropbox.com/scl/fi/yqlomwnltw3fga4me4819/Pixeles.2015.1080p-dual-lat.mp4?rlkey=txpex45d48wg8g4aed9hmqfkz&st=me0u3kjk&raw=1",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/1f5a02bdb84ce58fa81c7b9a23539ec10bdac8848844896d44ef4329a77ec1ac.jpg",
+  "description": "Unos extraterrestres interpretan grabaciones de videojuegos clásicos como una declaración de guerra y atacan la Tierra con versiones pixeladas de Pac-Man, Donkey Kong y otros personajes."
+                },
                 {
   "Title": "No manches Frida 2 (2019)",
   "Stream": "https://nas1.d.tube/videos/e7adbe57-3a2f-47e2-b007-f2608f60c481/720p/playlist.m3u8",
