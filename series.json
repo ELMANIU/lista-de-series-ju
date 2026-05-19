@@ -341,6 +341,12 @@
               "title": "PELÍCULAS SECCIÓN 1",
               "episodes": [
                 {
+  "Title": "Nacho Libre (2006)",
+  "Stream": "https://nas1.d.tube/videos/1a58db9c-23f3-4de0-b60f-cd9001ea638b/1080p/playlist.m3u8",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/5b12b5c6a4423f5d13d7340f80f9b2e4a08fd56b5204818e6032e930b8cfe945.jpg",
+  "description": "Nacho, un cocinero de un orfanato en México, sueña con convertirse en luchador profesional para ganar dinero y mejorar la comida del lugar. Con la ayuda de un esqueleto callejero, se adentra en el mundo de la lucha libre mexicana."
+                },
+                {
   "Title": "¿Y dónde está el fantasma? (2013)",
   "Stream": "https://nas1.d.tube/videos/3fe1f860-7379-46e6-89ca-f88d29244681/720p/playlist.m3u8",
   "Logo": "https://m.media-amazon.com/images/S/pv-target-images/5df83826fcb992dcd46b46011ebf7548ba6d00dcd9500c22517665f924477c1a.png",
