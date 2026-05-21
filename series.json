@@ -588,6 +588,24 @@
               "title": "PELÍCULAS DE ANIMACIÓN SECCIÓN 2",
               "episodes": [
                 {
+  "Title": "Cars (2006)",
+  "Stream": "https://nas1.d.tube/videos/25e9c084-d3ac-44c7-a156-9064d66e7c0f/720p/playlist.m3u8",
+  "Logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/f8f6479d-0750-4a31-b792-d04e0c278d23/compose?aspectRatio=1.78&format=webp&width=1200",
+  "description": "El arrogante coche de carreras Rayo McQueen termina perdido en la olvidada Ruta 66, donde aprende sobre la amistad y la humildad con la ayuda de sus nuevos amigos."
+                },
+                {
+  "Title": "Cars 2 (2011)",
+  "Stream": "https://nas1.d.tube/videos/e20600b5-c81b-4776-9fd1-a45dcf6d67e9/720p/playlist.m3u8",
+  "Logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/6dd64a64-c7d9-435b-b179-1b30ddfbe007/compose?aspectRatio=1.78&format=webp&width=1200",
+  "description": "Rayo McQueen y Mate viajan a Japón y Europa para competir en el Grand Prix Mundial, mientras Mate se ve envuelto en una misión de espionaje internacional."
+                },
+                {
+  "Title": "Cars 3 (2017)",
+  "Stream": "https://nas1.d.tube/videos/2e574fde-4ef5-471d-ac54-21b543debb72/720p/playlist.m3u8",
+  "Logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/0af8b4cd-4704-4ba2-a74b-7bf56dbeed93/compose?aspectRatio=1.78&format=webp&width=1200",
+  "description": "Rayo McQueen, ya veterano, debe demostrar que todavía puede competir contra una nueva generación de autos de carreras más rápidos y tecnológicos."
+                },
+                {
   "Title": "Rango (2011)",
   "Stream": "https://nas1.d.tube/videos/2e356701-b833-4bf8-8d65-3bd9a841e22b/720p/playlist.m3u8",
   "Logo": "https://m.media-amazon.com/images/S/pv-target-images/43678d221b82d2e30cf5c871e19ef6d52bf7095fb6f815d88225f128b1ec1aa5._UR1920,1080_.jpg",
