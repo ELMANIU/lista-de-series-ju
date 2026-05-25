@@ -2376,6 +2376,69 @@
       "title": "SERIES",
       "items": [
         {
+  "Title": "THE MANDALORIAN (2019)",
+  "Logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/ea78b4f8-f180-41e5-9aac-9e99c96fb4ac/compose?aspectRatio=1.78&format=webp&width=1200",
+  "Poster": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/ea78b4f8-f180-41e5-9aac-9e99c96fb4ac/compose?aspectRatio=1.78&format=webp&width=1200",
+  "type": "series",
+  "description": "Un cazarrecompensas solitario viaja por los confines de la galaxia, lejos de la autoridad de la Nueva República, con el objetivo de recuperar al Niño, un ser de la misma especie que el legendario Yoda.",
+  "seasons": [
+    {
+      "title": "TEMPORADA 1",
+      "Poster": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/ea78b4f8-f180-41e5-9aac-9e99c96fb4ac/compose?aspectRatio=1.78&format=webp&width=1200",
+      "episodes": [
+        {
+          "Title": "S01 E01 - El Mandaloriano",
+          "Stream": "https://nas1.d.tube/videos/280def91-d3f4-4095-bbf4-9b45e77b1603/720p/playlist.m3u8",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/gz1hIpFhZB8tjsdYQQt9MGgPhI.jpg",
+          "description": "Un cazarrecompensas mandaloriano acepta un encargo de un cliente misterioso que le exige traerle a un objetivo de 50 años."
+        },
+        {
+          "Title": "S01 E02 - El Niño",
+          "Stream": "https://nas1.d.tube/videos/2583f1bd-561b-46f5-8b22-606c72c56d18/720p/playlist.m3u8",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/b8y9qAq2ZdU27Ua1lJxyNQbmzQE.jpg",
+          "description": "El Mandaloriano debe proteger al Niño mientras los cazarrecompensas enemigos lo acechan en un duro desierto."
+        },
+        {
+          "Title": "S01 E03 - El Pecado",
+          "Stream": "https://nas1.d.tube/videos/d83a0fe5-0f59-443b-97e9-c19019254988/720p/playlist.m3u8",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/gzunWyk3j7dLbbVUc0CRqlGBxV4.jpg",
+          "description": "El Mandaloriano entrega al Niño, pero su conciencia lo obliga a regresar para salvarlo, convirtiéndose en un fugitivo de su propio gremio."
+        },
+        {
+          "Title": "S01 E04 - El Santuario",
+          "Stream": "https://nas1.d.tube/videos/076f3578-8b9a-42f6-b289-b424325a5a8c/720p/playlist.m3u8",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/cKyE2gtQT5zIpLQHnD3mFNWrKud.jpg",
+          "description": "El Mandaloriano busca refugio en un remoto pueblo donde ayuda a sus habitantes a defenderse de unos agresores."
+        },
+        {
+          "Title": "S01 E05 - El Pistolero",
+          "Stream": "https://nas1.d.tube/videos/6f922772-5060-41f3-bb09-e147e80b14e3/720p/playlist.m3u8",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/bAuXxIGaRPtXmO1qlm7B99PPlCV.jpg",
+          "description": "El Mandaloriano se encuentra con un joven cazarrecompensas novato que busca hacerse un nombre, mientras otros lo acechan."
+        },
+        {
+          "Title": "S01 E06 - La Prisionera",
+          "Stream": "https://nas1.d.tube/videos/267bcadd-79f1-4bdd-b5fa-f444c67ece8e/720p/playlist.m3u8",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/w6PszuncdSiMRw7RrA7XqS8zh5Y.jpg",
+          "description": "Mando acepta un trabajo con un grupo de mercenarios para liberar a un prisionero de una nave de Nueva República."
+        },
+        {
+          "Title": "S01 E07 - El Conflicto",
+          "Stream": "https://nas1.d.tube/videos/9d1abe78-82c7-45f4-a1ba-3e488ed50f65/720p/playlist.m3u8",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/m483Gihn8vAt0cW5RXe5YRtchIQ.jpg",
+          "description": "Mando regresa a Nevarro para enfrentarse a su antiguo gremio. El Niño demuestra su poder cuando están acorralados."
+        },
+        {
+          "Title": "S01 E08 - La Redención",
+          "Stream": "https://nas1.d.tube/videos/fcfca9db-f1a2-4849-b6fe-94db3592df59/720p/playlist.m3u8",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/v36aZwxTsPAvqsssLPVno3VFvg5.jpg",
+          "description": "El Mandaloriano se enfrenta a Moff Gideon mientras intenta escapar de Nevarro con el Niño. Aparece otro mandaloriano para ayudar."
+        }
+      ]
+    }
+  ]
+},
+        {
   "Title": "TIERRA DE ORO (2026)",
   "Logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019dd188-d65d-7b0f-a73a-cadcc863c05d/compose?aspectRatio=1.78&format=webp&width=1200",
   "Poster": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019dd188-d65d-7b0f-a73a-cadcc863c05d/compose?aspectRatio=1.78&format=webp&width=1200",
