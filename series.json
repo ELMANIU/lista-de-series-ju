@@ -13,6 +13,18 @@
               "title": "PELÍCULAS DE ACCIÓN SECCIÓN 1",
               "episodes": [
                 {
+  "Title": "El planeta de los simios (2001)",
+  "Stream": "https://nas1.d.tube/videos/ab17db62-a134-4d9b-aa4d-8ab7edfbce65/720p/playlist.m3u8",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/cfbb35436ae40f90667113061b885acc9bc142b709a2600ac2cb13b05c866165.jpg",
+  "description": "Un astronauta aterriza en un planeta dominado por simios inteligentes que esclavizan a los humanos. Deberá sobrevivir y encontrar la forma de escapar."
+                },
+                {
+  "Title": "Rampage: Devastación (2018)",
+  "Stream": "https://nas1.d.tube/videos/c5072d1e-7305-4ba7-80c0-81095b538cf1/720p/playlist.m3u8",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/2de8bf25d09d7617cca3069735b84ee3f0f5c7166282eeaf333a7d0841352755.jpg",
+  "description": "Un primatólogo y una genetista deben detener a tres criaturas mutantes gigantes que arrasan ciudades de Estados Unidos."
+                },
+                {
   "Title": "Ong Bak 2 (2008)",
   "Stream": "https://nas1.d.tube/videos/6684b655-d4dd-4226-87dc-78b3cd6363b9/1080p/playlist.m3u8",
   "Logo": "https://m.media-amazon.com/images/S/pv-target-images/eb6e19b70f894b0c9892f836c623f3722c002f34c3e05c562b343540b4540424.jpg",
@@ -370,6 +382,12 @@
             {
               "title": "PELÍCULAS SECCIÓN 1",
               "episodes": [
+                {
+  "Title": "Quieren volverme loco (2016)",
+  "Stream": "https://nas1.d.tube/videos/8a8939ae-bdf6-4a03-b54a-ca6aee4278ec/1080p/playlist.m3u8",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/4ede8f92e657fe1223074eb188f0d461673d30a76a9a6dcdb3832f7ddd6076f3.jpg",
+  "description": "Basada en hechos reales, sigue la amistad entre una terapeuta y su paciente, un esquizofrénico paranoico que lucha por demostrar su inocencia tras ser acusado de asesinato."
+                },
                 {
   "Title": "Nacho Libre (2006)",
   "Stream": "https://nas1.d.tube/videos/1a58db9c-23f3-4de0-b60f-cd9001ea638b/1080p/playlist.m3u8",
