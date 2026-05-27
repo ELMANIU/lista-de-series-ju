@@ -3302,6 +3302,69 @@
       "Poster": "https://m.media-amazon.com/images/S/pv-target-images/3c6cc2f1d8c6196d0694ee0a6ac3e64c6fb1e4777c9fbe27d9d3f04a7f8f7641.jpg",
       "episodes": [
         {
+  "Title": "DRAGON BALL (1986)",
+  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDiRAupewtCW7wam1-GaXWMs3WWoGNUod8BhglZb30I1ang_fvb9avFAI&s=10",
+  "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDiRAupewtCW7wam1-GaXWMs3WWoGNUod8BhglZb30I1ang_fvb9avFAI&s=10",
+  "type": "series",
+  "description": "Las aventuras de Son Goku, un niño con cola de mono y una fuerza sobrehumana, que junto a sus amigos Bulma, Krilin y Kame Sen'nin, emprende la búsqueda de las siete esferas del dragón para pedir un deseo. Serie original que dio inicio al fenómeno mundial.",
+  "seasons": [
+    {
+      "title": "TEMPORADA 1 - Saga de Pilaf",
+      "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDiRAupewtCW7wam1-GaXWMs3WWoGNUod8BhglZb30I1ang_fvb9avFAI&s=10",
+      "episodes": [
+        {
+          "Title": "S01 E01 - El secreto de la esfera del dragón",
+          "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/e3/s8/2/g/4/C/r/g4CrA.aaa.mp4",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/nkki81wq8A7UdzCzj5Lvg59DXQC.jpg",
+          "description": "Bulma conoce a Goku, quien vive solo en la montaña. Juntos parten en busca de las siete esferas del dragón. [citation:6]"
+        },
+        {
+          "Title": "S01 E02 - La búsqueda del emperador",
+          "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/9e/s8/2/C/5/C/r/C5CrA.aaa.mp4",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/ekaMGld74BbM4CXHgzo34W2RFo4.jpg",
+          "description": "Goku y Bulma pasan la noche en el desierto. El Emperador Pilaf envía a sus esbirros en busca de una esfera. [citation:6]"
+        },
+        {
+          "Title": "S01 E03 - La nube dorada de Roshi",
+          "Stream": "URL no disponible",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/gPH1WBzPJoiBpdDrjW6aaZUWPaR.jpg",
+          "description": "Goku y Bulma ayudan a una tortuga marina y conocen al Maestro Roshi, quien les regala la Nube Voladora. [citation:6]"
+        },
+        {
+          "Title": "S01 E04 - Oolong, el secuestrador de niñas",
+          "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/5c/s8/2/6/6/C/r/66CrA.aaa.mp4",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/16BdfGeh908M2mNQ5UGdxurn8dD.jpg",
+          "description": "Goku y Bulma llegan a Villa Aru, donde un monstruo llamado Oolong aterroriza a los aldeanos secuestrando niñas. [citation:6]"
+        },
+        {
+          "Title": "S01 E05 - El fuerte y malvado Yamcha vive en el desierto",
+          "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/5d/s8/2/Q/8/C/r/Q8CrA.aaa.mp4",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/b9HYf9UorX5S5upowm5AHT33P5u.jpg",
+          "description": "En el desierto, Goku y sus amigos son emboscados por el bandido Yamcha y su compañero Puar, que también puede transformarse. [citation:6]"
+        },
+        {
+          "Title": "S01 E06 - Llegada al pueblo de los conejos",
+          "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/a9/s8/2/I/a/D/r/IaDrA.aaa.mp4",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/ngZEN8MkKsrRPBIC65t4l4bSiic.jpg",
+          "description": "El grupo llega al Pueblo Conejo, donde un misterioso personaje convierte a las personas en zanahorias."
+        },
+        {
+          "Title": "S01 E07 - Los tipos duros de la montaña del temor",
+          "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/2c/s8/2/-/9/C/r/-9CrA.aaa.mp4",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/kPCS0iqk3Sma01V1Puc2LfhfZTP.jpg",
+          "description": "Goku se enfrenta a los poderosos guerreros de la Montaña del Terror para recuperar una de las esferas."
+        },
+        {
+          "Title": "S01 E08 - La transformación de Kame Sennin",
+          "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/b6/s8/2/Y/b/D/r/YbDrA.aaa.mp4",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/qOvlwYjq3daXWisT2acTWoCoMuY.jpg",
+          "description": "El Maestro Roshi demuestra su increíble poder transformándose para ayudar a Goku en una difícil batalla."
+        }
+      ]
+    }
+  ]
+},
+        {
           "Title": "S01 E01 - Ragnarok",
           "Stream": "https://nas1.d.tube/videos/dd4172a5-66cd-4bd2-a235-bc9e26dd9f3c/1080p/playlist.m3u8",
           "Logo": "https://m.media-amazon.com/images/S/pv-target-images/3c6cc2f1d8c6196d0694ee0a6ac3e64c6fb1e4777c9fbe27d9d3f04a7f8f7641.jpg",
