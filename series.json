@@ -3348,7 +3348,37 @@
           "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/b6/s8/2/Y/b/D/r/YbDrA.aaa.mp4",
           "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/qOvlwYjq3daXWisT2acTWoCoMuY.jpg",
           "description": "El Maestro Roshi demuestra su increíble poder transformándose para ayudar a Goku en una difícil batalla."
-        }
+        },
+{
+  "Title": "S01 E09 - El misterio de la casa embrujada",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/06/s8/2/W/y/D/r/WyDrA.aaa.mp4",
+  "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/b95dhAyrSNB9vIfl93vWHVBDpVO.jpg",
+  "description": "Goku y sus amigos llegan a una mansión encantada donde un joven millonario les ofrece una esfera a cambio de que liberen el lugar de fantasmas."
+},
+{
+  "Title": "S01 E10 - ¡Se invoca a Shen Long, el dragón!",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/52/s8/2/m/A/D/r/mADrA.aaa.mp4",
+  "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/fej4Ka3KqWpHVJfQVQf82qSY4pw.jpg",
+  "description": "El Emperador Pilaf reúne las siete esferas e invoca al dragón Shen Long para pedir su deseo."
+},
+{
+  "Title": "S01 E11 - La transformación de Goku",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/ab/s8/2/a/E/D/r/aEDrA.aaa.mp4",
+  "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/adHkn5IXryhgSDdqktJ7CjIpyaT.jpg",
+  "description": "Goku se transforma en un gigantesco mono al ver la luna llena. La destrucción del castillo de Pilaf parece inevitable."
+},
+{
+  "Title": "S01 E12 - El deseo del emperador Pilaf",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/ec/s8/2/M/F/D/r/MFDrA.aaa.mp4",
+  "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/vCwb6r2iYhSAD7CLss0YQJiuQbJ.jpg",
+  "description": "Goku recupera la conciencia. Pilaf logra escapar y los héroes deberán detener su próximo plan."
+},
+{
+  "Title": "S01 E13 - El plan secreto de Kame Sennin",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/42/s8/2/u/H/D/r/uHDrA.aaa.mp4",
+  "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/p6DgIjt8uQFulnUGCrA6jZSdtwU.jpg",
+  "description": "Los esferas se dispersan por el mundo. Goku decide entrenar con el Maestro Roshi para volverse más fuerte."
+}
       ]
     }
   ]
