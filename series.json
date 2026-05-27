@@ -3291,17 +3291,6 @@
       "title": "SERIES DE ANIME",
       "items": [
         {
-  "Title": "RECORD OF RAGNAROK (2021)",
-  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/3c6cc2f1d8c6196d0694ee0a6ac3e64c6fb1e4777c9fbe27d9d3f04a7f8f7641.jpg",
-  "Poster": "https://m.media-amazon.com/images/S/pv-target-images/3c6cc2f1d8c6196d0694ee0a6ac3e64c6fb1e4777c9fbe27d9d3f04a7f8f7641.jpg",
-  "type": "series",
-  "description": "Cada milenio, los dioses de todo el mundo celebran una asamblea para decidir el destino de la humanidad. Esta vez, proponen su aniquilación total. Las Valkirias proponen una alternativa: el Ragnarok, una serie de 13 combates uno contra uno entre los más grandes héroes de la humanidad y los dioses más poderosos. Si la humanidad gana 7 peleas, se salvará.",
-  "seasons": [
-    {
-      "title": "TEMPORADA 1",
-      "Poster": "https://m.media-amazon.com/images/S/pv-target-images/3c6cc2f1d8c6196d0694ee0a6ac3e64c6fb1e4777c9fbe27d9d3f04a7f8f7641.jpg",
-      "episodes": [
-        {
   "Title": "DRAGON BALL (1986)",
   "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDiRAupewtCW7wam1-GaXWMs3WWoGNUod8BhglZb30I1ang_fvb9avFAI&s=10",
   "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDiRAupewtCW7wam1-GaXWMs3WWoGNUod8BhglZb30I1ang_fvb9avFAI&s=10",
@@ -3364,6 +3353,17 @@
     }
   ]
 },
+        {
+  "Title": "RECORD OF RAGNAROK (2021)",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/3c6cc2f1d8c6196d0694ee0a6ac3e64c6fb1e4777c9fbe27d9d3f04a7f8f7641.jpg",
+  "Poster": "https://m.media-amazon.com/images/S/pv-target-images/3c6cc2f1d8c6196d0694ee0a6ac3e64c6fb1e4777c9fbe27d9d3f04a7f8f7641.jpg",
+  "type": "series",
+  "description": "Cada milenio, los dioses de todo el mundo celebran una asamblea para decidir el destino de la humanidad. Esta vez, proponen su aniquilación total. Las Valkirias proponen una alternativa: el Ragnarok, una serie de 13 combates uno contra uno entre los más grandes héroes de la humanidad y los dioses más poderosos. Si la humanidad gana 7 peleas, se salvará.",
+  "seasons": [
+    {
+      "title": "TEMPORADA 1",
+      "Poster": "https://m.media-amazon.com/images/S/pv-target-images/3c6cc2f1d8c6196d0694ee0a6ac3e64c6fb1e4777c9fbe27d9d3f04a7f8f7641.jpg",
+      "episodes": [
         {
           "Title": "S01 E01 - Ragnarok",
           "Stream": "https://nas1.d.tube/videos/dd4172a5-66cd-4bd2-a235-bc9e26dd9f3c/1080p/playlist.m3u8",
