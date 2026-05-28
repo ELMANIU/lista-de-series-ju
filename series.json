@@ -13,6 +13,12 @@
               "title": "PELÍCULAS DE ACCIÓN SECCIÓN 1",
               "episodes": [
                 {
+  "Title": "Gigantes de acero (2011)",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/ea/s8/2/k/0/G/r/k0GrA.aaa.mp4",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/084d150e12bdc2d8d569f705fec3c51d537499276d0c04c4e4bbf79ca749adb0.png",
+  "description": "En un futuro donde los robots boxean, un exboxeador y su hijo adolescente construyen un robot de segunda categoría para devolverlo a la cima. Juntos pelearán contra los mejores robots del mundo."
+                },
+                {
   "Title": "El planeta de los simios (2001)",
   "Stream": "https://nas1.d.tube/videos/ab17db62-a134-4d9b-aa4d-8ab7edfbce65/720p/playlist.m3u8",
   "Logo": "https://m.media-amazon.com/images/S/pv-target-images/cfbb35436ae40f90667113061b885acc9bc142b709a2600ac2cb13b05c866165.jpg",
@@ -504,6 +510,18 @@
             {
               "title": "PELÍCULAS DE ANIMACIÓN SECCIÓN 1",
               "episodes": [
+                {
+  "Title": "Shrek (2001)",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/9a/s8/2/U/L/V/r/ULVrA.aaa.mp4",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/19a72b97171c71df1df7ad83a56b9acc3861a54829c0daca279c4686de02421d.jpg",
+  "description": "Un ogro solitario llamado Shrek ve su pantano invadido por criaturas de cuento. Para recuperar su hogar, hace un trato con Lord Farquaad y parte en una misión para rescatar a la Princesa Fiona."
+                },
+                {
+  "Title": "Patos (2025)",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/98/s8/2/i/u/M/r/iuMrA.aaa.mp4",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/43c73205490bbc4d2e63bf4a24fdc42930450b65ce7e6f183faf9b9ccb26486b.jpg",
+  "description": "La familia Mallard, atrapada en la rutina, convence a su padre sobreprotector de embarcarse en un viaje a Jamaica. Esta aventura los enfrentará a imprevistos y los unirá más como familia."
+                },
                 {
   "Title": "Elementos (2023)",
   "Stream": "https://nas1.d.tube/videos/53f510a9-57f5-449f-8360-072017c243e5/720p/playlist.m3u8",
