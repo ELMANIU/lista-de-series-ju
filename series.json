@@ -3327,6 +3327,93 @@
       "title": "SERIES DE ANIME",
       "items": [
         {
+  "Title": "ONE PUNCH MAN (2015)",
+  "Logo": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/6bef4ebf2fc7b085a3f1e7753a43b35f.png",
+  "Poster": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/6bef4ebf2fc7b085a3f1e7753a43b35f.png",
+  "type": "series",
+  "description": "Saitama, un héroe que se volvió tan fuerte que puede derrotar a cualquier enemigo de un solo golpe, lucha contra la monotonía y busca un oponente que lo desafíe. Con su discípulo Genos, se une a la Asociación de Héroes.",
+  "seasons": [
+    {
+      "title": "TEMPORADA 1",
+      "Poster": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/6bef4ebf2fc7b085a3f1e7753a43b35f.png",
+      "episodes": [
+        {
+          "Title": "S01 E01 - El hombre más fuerte del mundo",
+          "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/fb/s8/2/6/2/V/r/62VrA.aaa.mp4",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg",
+          "description": "Saitama derrota a un humano con mandíbulas de langosta. Genos, un cyborg, lo busca para convertirse en su discípulo."
+        },
+        {
+          "Title": "S01 E02 - Un cyborg solitario",
+          "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/04/s8/2/i/5/V/r/i5VrA.aaa.mp4",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/mps2UuPnmkxOco5oQePVlwioZKG.jpg",
+          "description": "Genos le cuenta a Saitama su pasado. Ambos se registran en la Asociación de Héroes para obtener una licencia profesional."
+        },
+        {
+          "Title": "S01 E03 - Maestría obsesiva",
+          "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/bb/s8/2/6/8/X/r/68XrA.aaa.mp4",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/ywv8d7mCxSnmnS56LNUBjfPzFRd.jpg",
+          "description": "Saitama y Genos realizan su examen de ingreso a la Asociación de Héroes."
+        },
+        {
+          "Title": "S01 E04 - El ninja moderno",
+          "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/a0/s8/2/s/7/V/r/s7VrA.aaa.mp4",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/kHLdWCkIwT8tw7HPZaNXYoYMpeL.jpg",
+          "description": "Speed-o'-Sound Sonic, un ninja, desafía a Saitana. Un meteorito amenaza la Ciudad Z."
+        },
+        {
+          "Title": "S01 E05 - El último maestro",
+          "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/64/s8/2/U/_/X/r/U_XrA.aaa.mp4",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/5xdo0OwyWm9oNv2tX6aKj9Gr3Tw.jpg",
+          "description": "Saitama se enfrenta a la crisis del meteorito."
+        },
+        {
+          "Title": "S01 E06 - El terror de la ciudad",
+          "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/1d/s8/2/c/9/V/r/c9VrA.aaa.mp4",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/oApEUMM4nfTqyXvaVozqCa3B5uQ.jpg",
+          "description": "El Gran Tirano Carnage Kabuto escapa del laboratorio. Saitama y Genos lo enfrentan."
+        },
+        {
+          "Title": "S01 E07 - El discípulo más fuerte",
+          "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/0d/s8/2/e/h/W/r/ehWrA.aaa.mp4",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/z1Nxh00HGfLCHHPuJ1FcunsR6DY.jpg",
+          "description": "Saitana decide unirse a tiempo completo a la Asociación de Héroes. El Rey Subterráneo aparece."
+        },
+        {
+          "Title": "S01 E08 - El señor del mar",
+          "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/78/s8/2/s/f/W/r/sfWrA.aaa.mp4",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/vFT8L7RU6U5Il9SvTS1oEU9nhj8.jpg",
+          "description": "El Señor del Mar Deep Sea ataca la Ciudad Z. Los héroes de la Asociación luchan por detenerlo."
+        },
+        {
+          "Title": "S01 E09 - Justicia inflexible",
+          "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/fc/s8/2/i/d/W/r/idWrA.aaa.mp4",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/d5h1EgV1xIjlioPnb0exwLYy1ev.jpg",
+          "description": "La batalla contra Deep Sea continúa. Los héroes caen uno a uno hasta que Saitama aparece."
+        },
+        {
+          "Title": "S01 E10 - Crisis de la Tierra",
+          "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/9d/s8/2/k/b/W/r/kbWrA.aaa.mp4",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/AbWf8PdF1stcXiOwQXCAP7qGo8u.jpg",
+          "description": "Un grupo de poderosos alienígenas, los Dark Matter, llegan a la Tierra liderados por Boros."
+        },
+        {
+          "Title": "S01 E11 - El Universo es el límite",
+          "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/e9/s8/2/c/_/V/r/c_VrA.aaa.mp4",
+          "Logo": "hthttps://media.themoviedb.org/t/p/w640_and_h360_face/5QqxkbKwSCQOW2XXaoyEpMaKtiZ.jpg",
+          "description": "Los héroes de clase S enfrentan a los Dark Matter. Genos intenta detener a Boros."
+        },
+        {
+          "Title": "S01 E12 - El comienzo del fin",
+          "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/a7/s8/2/O/l/W/r/OlWrA.aaa.mp4",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/31qHOAENzfEmYmtbhSahPez9MkZ.jpg",
+          "description": "Saitama finalmente se enfrenta a Boros. El Guerrero Dominante del Universo usa su poder máximo."
+        }
+      ]
+    }
+  ]
+},
+        {
   "Title": "DRAGON BALL (1986)",
   "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDiRAupewtCW7wam1-GaXWMs3WWoGNUod8BhglZb30I1ang_fvb9avFAI&s=10",
   "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDiRAupewtCW7wam1-GaXWMs3WWoGNUod8BhglZb30I1ang_fvb9avFAI&s=10",
