@@ -3410,7 +3410,85 @@
           "description": "Saitama finalmente se enfrenta a Boros. El Guerrero Dominante del Universo usa su poder máximo."
         }
       ]
+    },
+    {
+  "title": "TEMPORADA 2",
+  "Poster": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/6bef4ebf2fc7b085a3f1e7753a43b35f.png",
+  "episodes": [
+    {
+      "Title": "S02 E01 - El héroe humano más fuerte",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/d6/s8/2/s/E/Y/r/sEYrA.aaa.mp4",
+      "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/wNeKfTka6lIDQCGpZuOMATv0UJD.jpg",
+      "description": "King, el héroe de clase S más fuerte (en apariencia), se hace amigo de Saitama. La Asociación de Monstruos comienza a hacer sus movimientos."
+    },
+    {
+      "Title": "S02 E02 - La humanidad contra el monstruo",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/54/s8/2/M/J/Y/r/MJYrA.aaa.mp4",
+      "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/b72sZdqHch1PdqUVF86a66KNu09.jpg",
+      "description": "La Asociación de Héroes realiza una reunión de emergencia. Garou, el cazador de héroes, comienza su ataque."
+    },
+    {
+      "Title": "S02 E03 - La cacería comienza",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/33/s8/2/y/K/Y/r/yKYrA.aaa.mp4",
+      "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/gedbotRXMOCUC7P9RblaHgw0LuL.jpg",
+      "description": "Garou continúa su cacería de héroes. La Asociación de Monstruos secuestra a un niño."
+    },
+    {
+      "Title": "S02 E04 - El metal de la justicia",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/d8/s8/2/I/L/Y/r/ILYrA.aaa.mp4",
+      "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/1I29xRhdTy6A1ybdPHc6Ke4fRV2.jpg",
+      "description": "Genos se enfrenta a Garou. El héroe clase S, Metal Bat, entra en acción contra un nivel demonio."
+    },
+    {
+      "Title": "S02 E05 - El torneo de artes marciales",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/f0/s8/2/M/M/Y/r/MMYrA.aaa.mp4",
+      "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/us7myp7Us2h87nZ1f8ACZ6Fcaoz.jpg",
+      "description": "Saitama participa en el Torneo de Artes Marciales Super Fight bajo un nombre falso."
+    },
+    {
+      "Title": "S02 E06 - El monstruo supremo",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/a6/s8/2/o/O/Y/r/oOYrA.aaa.mp4",
+      "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/sN0T4orzh3HgMBFoKqI7xcYNjBI.jpg",
+      "description": "La Asociación de Monstruos libera a un monstruo supremo en la ciudad Z. Garou se enfrenta a los héroes clase S."
+    },
+    {
+      "Title": "S02 E07 - Los héroes clase S",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/37/s8/2/G/P/Y/r/GPYrA.aaa.mp4",
+      "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/c9QhXBPVwOaayJ04FBt3OXjmafV.jpg",
+      "description": "Los héroes clase S se reúnen para planear el asalto a la base de la Asociación de Monstruos."
+    },
+    {
+      "Title": "S02 E08 - La resistencia de los débiles",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/b4/s8/2/C/Q/Y/r/CQYrA.aaa.mp4",
+      "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/tGKbogDzxuL8KlHOkYm6yKlUzFU.jpg",
+      "description": "Garou sigue huyendo de los héroes. Los monstruos se preparan para la guerra final."
+    },
+    {
+      "Title": "S02 E09 - La pelea decisiva",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/e9/s8/2/G/R/Y/r/GRYrA.aaa.mp4",
+      "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/on2YtDbgc6KdbKpRy2DFHShRZP3.jpg",
+      "description": "Garou se enfrenta a los héroes clase A y B. La Asociación de Monstruos lanza su ataque final."
+    },
+    {
+      "Title": "S02 E10 - El fin de la resistencia",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/e1/s8/2/A/S/Y/r/ASYrA.aaa.mp4",
+      "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/zD7LqTECY0MKFVCjsNbdOrBWFQs.jpg",
+      "description": "Garou es derrotado por un héroe clase S. Saitama sigue en el torneo de artes marciales."
+    },
+    {
+      "Title": "S02 E11 - El regreso de Saitama",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/cc/s8/2/2/T/Y/r/2TYrA.aaa.mp4",
+      "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/pILt8SA33A6x06qRg3CgNEiKxs0.jpg",
+      "description": "Saitama gana el torneo. La Asociación de Héroes se prepara para rescatar al niño secuestrado."
+    },
+    {
+      "Title": "S02 E12 - El héroe que no es reconocido",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/d0/s8/2/s/V/Y/r/sVYrA.aaa.mp4",
+      "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/vcZkOnTOa9d5K94DkO604RuRuMU.jpg",
+      "description": "Final de temporada. Saitama sigue siendo ignorado por el público a pesar de sus hazañas. La amenaza de la Asociación de Monstruos crece."
     }
+  ]
+}
   ]
 },
         {
