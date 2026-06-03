@@ -2981,7 +2981,25 @@
                   "description": "Jerry y Beth salen por el día a participar en una recreación del hundimiento del Titanic. Rick y Summer hacen una fiesta intergaláctica que se sale de control."
                 }
               ]
-            }
+            },
+            {
+  "title": "TEMPORADA 9",
+  "Poster": "https://media.themoviedb.org/t/p/w640_and_h360_face/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
+  "episodes": [
+    {
+      "Title": "S09 E01 - Algo sobre Morty",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/22/s8/2/0/h/C/t/0hCtA.aaa.mp4",
+      "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
+      "description": "Morty se ve envuelto en una situación complicada durante una misión rutinaria."
+    },
+    {
+      "Title": "S09 E02 - Los días de Rick, siete noches",
+      "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/c5/s8/2/U/o/C/t/UoCtA.aaa.mp4",
+      "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/nYIyH5KrAxivpFPDTf87Zlgzpf9.jpg",
+      "description": "Rick y Morty se enfrentan a una aventura de proporciones épicas."
+    }
+  ]
+}
           ]
         },
         {
