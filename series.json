@@ -1095,7 +1095,7 @@
                 },
                 {
                   "Title": "Star Channel",
-                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23305",
+                  "Stream": "http://179.60.51.134:8888/STAR-CHANNEL/index.m3u8",
                   "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
                   "description": "Canal de series y películas."
                 },
@@ -1155,7 +1155,7 @@
                 },
                 {
                   "Title": "Discovery Channel",
-                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23332",
+                  "Stream": "http://179.60.51.134:8888/DISCOVERY-CHANNEL/index.m3u8",
                   "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
                   "description": "Canal de documentales."
                 },
@@ -1168,6 +1168,12 @@
                 {
                   "Title": "Paramount",
                   "Stream": "http://179.60.51.134:8888/PARAMOUNT/index.m3u8",
+                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
+                  "description": "Canal de historia y documentales."
+                },
+                {
+                  "Title": "Nick Jr",
+                  "Stream": "http://179.60.51.134:8888/NICK-JR/index.m3u8",
                   "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
                   "description": "Canal de historia y documentales."
                 }
