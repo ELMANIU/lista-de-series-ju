@@ -2418,6 +2418,63 @@
       "title": "SERIES",
       "items": [
         {
+  "Title": "EL ASOMBROSO CIRCO DIGITAL (2023)",
+  "Logo": "https://i0.wp.com/cinemedios.com/wp-content/uploads/2024/01/circo-digital-00.webp?fit=1200%2C675&ssl=1",
+  "Poster": "https://i0.wp.com/cinemedios.com/wp-content/uploads/2024/01/circo-digital-00.webp?fit=1200%2C675&ssl=1",
+  "type": "series",
+  "description": "Pomni, una humana atrapada en un videojuego de circo virtual, debe adaptarse a su nueva vida mientras lucha por mantener su cordura junto a otros humanos atrapados y un misterioso líder llamado Caine.",
+  "seasons": [
+    {
+      "title": "TEMPORADA 1",
+      "Poster": "https://i0.wp.com/cinemedios.com/wp-content/uploads/2024/01/circo-digital-00.webp?fit=1200%2C675&ssl=1",
+      "episodes": [
+        {
+          "Title": "S01 E01 - ¡PILOTO!",
+          "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/af/s8/2/S/c/1/u/Sc1uA.aaa.mp4",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/aoIpwK6Z93dFxgtHTlnFZzamLWk.jpg",
+          "description": "Pomni despierta en el misterioso Mundo Digital sin recordar su pasado. Caine, el líder del circo, le explica las reglas de su nueva prisión virtual."
+        },
+        {
+          "Title": "S01 E02 - El concurso de Cocina",
+          "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/95/s8/2/0/f/1/u/0f1uA.aaa.mp4",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/j5TahVbttd9TjCeo5gdzvVIo9lu.jpg",
+          "description": "Los personajes participan en un concurso de cocina organizado por Caine. Pomni descubre que el mundo tiene reglas extrañas y peligrosas."
+        },
+        {
+          "Title": "S01 E03 - La mascota",
+          "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/cc/s8/2/E/h/1/u/Eh1uA.aaa.mp4",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/4haDAnhTNL6O4jznpuep4uyZxlM.jpg",
+          "description": "Una nueva aventura lleva al grupo a buscar una mascota perdida. La salud mental de algunos personajes comienza a deteriorarse."
+        },
+        {
+          "Title": "S01 E04 - La fábrica",
+          "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/ee/s8/2/g/k/1/u/gk1uA.aaa.mp4",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/wduxOxIVsbgVk6fAggtHQpN0SBE.jpg",
+          "description": "El grupo explora una misteriosa fábrica dentro del mundo digital. Pomni comienza a recordar fragmentos de su vida pasada."
+        },
+        {
+          "Title": "S01 E05 - La fuga",
+          "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/74/s8/2/o/m/1/u/om1uA.aaa.mp4",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/p7QToZAtIUrGtR8AfK1Yrt7MiDc.jpg",
+          "description": "Alguien descubre una posible salida del circo. El grupo se enfrenta a decisiones difíciles sobre si arriesgarse o quedarse."
+        },
+        {
+          "Title": "S01 E06 - El rey del circo",
+          "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/08/s8/2/E/p/1/u/Ep1uA.aaa.mp4",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/r3kfaqbwDrhYYG690ix529MJDeE.jpg",
+          "description": "Se revelan secretos sobre Caine y el verdadero propósito del circo digital. Algunos personajes enfrentan sus peores miedos."
+        },
+        {
+          "Title": "S01 E07 - El final (¿o no?)",
+          "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/12/s8/2/k/s/1/u/ks1uA.aaa.mp4",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/nzFQHkaIEKSlwRpFaZIad5wC9uu.jpg",
+          "description": "Final de temporada. Pomni toma una decisión que cambiará su destino para siempre. ¿Logrará escapar o se quedará atrapada para siempre?"
+        }
+      ]
+    }
+  ]
+},
+        {
   "Title": "THE MANDALORIAN (2019)",
   "Logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/ea78b4f8-f180-41e5-9aac-9e99c96fb4ac/compose?aspectRatio=1.78&format=webp&width=1200",
   "Poster": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/ea78b4f8-f180-41e5-9aac-9e99c96fb4ac/compose?aspectRatio=1.78&format=webp&width=1200",
