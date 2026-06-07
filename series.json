@@ -1161,7 +1161,7 @@
                 },
                 {
                   "Title": "National Geographic",
-                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23334",
+                  "Stream": "http://179.60.51.134:8888/NATGEO/index.m3u8",
                   "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
                   "description": "Canal de naturaleza y ciencia."
                 },
@@ -1174,6 +1174,42 @@
                 {
                   "Title": "Nick Jr",
                   "Stream": "http://179.60.51.134:8888/NICK-JR/index.m3u8",
+                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
+                  "description": "Canal de historia y documentales."
+                },
+                {
+                  "Title": "History",
+                  "Stream": "http://179.60.51.134:8888/HISTORY/index.m3u8",
+                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
+                  "description": "Canal de historia y documentales."
+                },
+                {
+                  "Title": "History 2",
+                  "Stream": "http://179.60.51.134:8888/HISTORY2/index.m3u8",
+                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
+                  "description": "Canal de historia y documentales."
+                },
+                {
+                  "Title": "Cinemax",
+                  "Stream": "http://179.60.51.134:8888/CINEMAX/index.m3u8",
+                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
+                  "description": "Canal de historia y documentales."
+                },
+                {
+                  "Title": "Animal Planet",
+                  "Stream": "http://179.60.51.134:8888/ANIMAL-PLANET/index.m3u8",
+                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
+                  "description": "Canal de historia y documentales."
+                },
+                {
+                  "Title": "Cartonito",
+                  "Stream": "http://179.60.51.134:8888/CARTOONITO/index.m3u8",
+                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
+                  "description": "Canal de historia y documentales."
+                },
+                {
+                  "Title": "Carton Network",
+                  "Stream": "http://179.60.51.134:8888/CARTOON-NETWORK/index.m3u8",
                   "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
                   "description": "Canal de historia y documentales."
                 }
