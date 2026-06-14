@@ -2534,7 +2534,61 @@
           "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/13/s8/2/s/W/5/w/sW5wA.aaa.mp4",
           "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/5CeoJ0YsAtnel9YSqoZ7ctN5Ov8.jpg",
           "description": "El excéntrico Sam-I-Am conoce al gruñón Guy-Am-I y lo convence de embarcarse en una aventura para salvar a un animal."
-        }
+        },
+        {
+  "Title": "S01 E02 - La persecución",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/c4/s8/2/S/y/-/w/Sy-wA.aaa.mp4",
+  "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/ylxm0iL4C2BcnTpby1l07YK18ir.jpg",
+  "description": "Sam y Guy continúan su viaje mientras son perseguidos. Conocen a nuevos personajes que los ayudarán en su misión."
+},
+{
+  "Title": "S01 E03 - El tren",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/06/s8/2/S/B/-/w/SB-wA.aaa.mp4",
+  "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/y4jp79gsUiSsESMFsyb3CKkFOoc.jpg",
+  "description": "La aventura continúa a bordo de un tren. Sam intenta convencer a Guy de probar los huevos verdes con jamón."
+},
+{
+  "Title": "S01 E04 - El túnel",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/a2/s8/2/O/M/-/w/OM-wA.aaa.mp4",
+  "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/y5t9lqh41R8OfY7kzfcYim0PPTR.jpg",
+  "description": "Los protagonistas se adentran en un túnel misterioso. Guy comienza a disfrutar de la aventura."
+},
+{
+  "Title": "S01 E05 - La máquina",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/09/s8/2/k/P/-/w/kP-wA.aaa.mp4",
+  "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/wIr86lh7fUzarXpTlIGp5ZfskwZ.jpg",
+  "description": "Sam y Guy descubren una máquina extraña. La amistad entre ambos comienza a fortalecerse."
+},
+{
+  "Title": "S01 E06 - La fuga",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/14/s8/2/q/-/-/w/q--wA.aaa.mp4",
+  "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/h8wQ0bneUW0wFSzetUo7dRaOvEw.jpg",
+  "description": "Los héroes planean una gran fuga. Guy finalmente se abre a nuevas experiencias."
+},
+{
+  "Title": "S01 E07 - El plan",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/6f/s8/2/2/e/_/w/2e_wA.aaa.mp4",
+  "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/1cuuU9WGDpPd9l45Yrj91PMrusv.jpg",
+  "description": "Se revela un plan para capturar al animal que intentan salvar. Sam y Guy deberán unir fuerzas."
+},
+{
+  "Title": "S01 E08 - La carrera contrarreloj",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/14/s8/2/2/t/_/w/2t_wA.aaa.mp4",
+  "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/ArxCU8FmuJrjh1yBvX6fr3aSzb6.jpg",
+  "description": "La persecución se intensifica. Guy toma una decisión crucial que cambiará su vida."
+},
+{
+  "Title": "S01 E09 - Huevos verdes con jamón",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/2b/s8/2/O/G/_/w/OG_wA.aaa.mp4",
+  "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/hgJwcjuzUzxzZoZg6CPrb8tipR9.jpg",
+  "description": "Final de temporada. Sam y Guy logran su objetivo. Guy finalmente prueba los huevos verdes con jamón."
+},
+{
+  "Title": "S01 E10 - El regreso a casa",
+  "Stream": "",
+  "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/9v7UfRHZbfF0fL16u0qU2azlCWu.jpg",
+  "description": "Final de temporada. Sam y Guy regresan a casa después de su gran aventura. Guy descubre que a veces vale la pena arriesgarse por la amistad."
+}
       ]
     }
   ]
