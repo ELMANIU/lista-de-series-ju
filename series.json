@@ -565,6 +565,24 @@
               "title": "PELÍCULAS DE ANIMACIÓN SECCIÓN 1",
               "episodes": [
                 {
+  "Title": "El gigante de hierro (1999)",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/5e/s8/2/I/9/4/w/I94wA.aaa.mp4",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/7b2f209a38974192be015c572290d28399d41221531f162ac3fff09d8ccba38e.jpg",
+  "description": "Un niño llamado Hogarth descubre y entabla amistad con un gigantesco robot de origen extraterrestre. Juntos, intentarán protegerlo del gobierno que quiere destruirlo."
+                },
+                {
+  "Title": "Los Pitufos (2011)",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/3e/s8/2/-/R/5/w/-R5wA.aaa.mp4",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/39c9a20959590379472197f8d348e519d46436991be7b49da19b0e398d91c670.jpg",
+  "description": "Los Pitufos escapan de su aldea perseguidos por Gargamel y terminan en la ciudad de Nueva York. Con la ayuda de una joven pareja, intentarán regresar a casa."
+                },
+                {
+  "Title": "Spirit: El corcel indomable (2002)",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/d9/s8/2/u/b/9/w/ub9wA.aaa.mp4",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/09198a0084bd82d54b7f0041e39a034d864eac2e753e66429375d88e673ace89.png",
+  "description": "Spirit, un valiente caballo salvaje, viaja a través del Viejo Oeste enfrentándose a jinetes, soldados y traficantes mientras lucha por proteger su libertad y encontrar el camino a casa."
+                },
+                {
   "Title": "Shrek (2001)",
   "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/9a/s8/2/U/L/V/r/ULVrA.aaa.mp4",
   "Logo": "https://m.media-amazon.com/images/S/pv-target-images/19a72b97171c71df1df7ad83a56b9acc3861a54829c0daca279c4686de02421d.jpg",
@@ -2501,6 +2519,26 @@
     {
       "title": "SERIES",
       "items": [
+        {
+  "Title": "HUEVOS VERDES CON JAMÓN (2019)",
+  "Logo": "https://m.media-amazon.com/images/M/MV5BZDQ2NWI5YmMtOTFkMi00NWMxLTliY2YtNDRjM2I5Y2ZkZDMwXkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZDQ2NWI5YmMtOTFkMi00NWMxLTliY2YtNDRjM2I5Y2ZkZDMwXkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg",
+  "type": "series",
+  "description": "Basada en el libro clásico del Dr. Seuss. Sam-I-Am persigue a Guy-Am-I para que pruebe huevos verdes con jamón en una aventura llena de humor y amistad.",
+  "seasons": [
+    {
+      "title": "TEMPORADA 1",
+      "episodes": [
+        {
+          "Title": "S01 E01 - Aquí",
+          "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/13/s8/2/s/W/5/w/sW5wA.aaa.mp4",
+          "Logo": "https://media.themoviedb.org/t/p/w640_and_h360_face/5CeoJ0YsAtnel9YSqoZ7ctN5Ov8.jpg",
+          "description": "El excéntrico Sam-I-Am conoce al gruñón Guy-Am-I y lo convence de embarcarse en una aventura para salvar a un animal."
+        }
+      ]
+    }
+  ]
+        },
         {
   "Title": "EL ASOMBROSO CIRCO DIGITAL (2023)",
   "Logo": "https://i0.wp.com/cinemedios.com/wp-content/uploads/2024/01/circo-digital-00.webp?fit=1200%2C675&ssl=1",
