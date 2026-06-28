@@ -381,6 +381,12 @@
               "title": "Películas",
               "episodes": [
                 {
+  "Title": "El viaje de Chihiro (2001)",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/c7/s8/2/o/3/l/A/o3lAA.aaa.mp4",
+  "Logo": "https://i.ytimg.com/vi/5Fgq4Osh6XQ/maxresdefault.jpg",
+  "description": "Chihiro, una niña de 10 años, se adentra en el mundo de los espíritus donde debe trabajar en un balneario para salvar a sus padres, que han sido convertidos en cerdos. Una aventura mágica sobre el crecimiento y la valentía."
+                },
+                {
   "Title": "Guardianes de la noche: Kimetsu no Yaiba -- la fortaleza infinita (2025)",
   "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/29/s8/2/e/s/O/z/esOzA.aaa.mp4",
   "Logo": "https://res.cloudinary.com/glide/image/fetch/q_auto,f_auto/https%3A%2F%2Fi.imgur.com%2FqBzgvWZ.png",
@@ -900,6 +906,18 @@
             {
               "title": "PELÍCULAS DE TERROR SECCIÓN 1",
               "episodes": [
+                {
+  "Title": "Terror bajo la tierra (1990)",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/b0/s8/2/k/X/Y/A/kXYAA.aaa.mp4",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/6740b1cfd0654d8cd6335a87b3730de6a7484b0bc6b45a1e8188b7539a2b2f04._UR1920,1080_SX624_FMjpg_.jpg",
+  "description": "Un grupo de mineros queda atrapado en una cueva donde una criatura subterránea comienza a cazarlos uno por uno."
+                },
+                {
+  "Title": "Terror bajo la tierra 2 (1996)",
+  "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/c7/s8/2/E/U/4/A/EU4AA.aaa.mp4",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/cd91f260d4264c96cced00a6129c00a617f1a27d3b74e53ff8e3150040fd25ac._UR1920,1080_.jpg",
+  "description": "Una nueva expedición se adentra en las cuevas para buscar a los sobrevivientes, pero la criatura ha evolucionado y es más letal que nunca."
+                },
                 {
   "Title": "Tiburón (1975)",
   "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/e0/s8/2/a/_/j/x/a_jxA.aaa.mp4",
