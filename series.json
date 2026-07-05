@@ -1157,6 +1157,2294 @@
       "title": "TV PREMIUM",
       "items": [
         {
+  "Title": "CANALES ROKU",
+  "Logo": "https://static.vecteezy.com/system/resources/previews/000/931/914/non_2x/retro-television-poster-vector.jpg",
+  "type": "series",
+  "description": "Canales en vivo de la plataforma Roku.",
+  "seasons": [
+    {
+      "title": "ANIMALS",
+      "episodes": [
+        {
+          "Title": "Curiosity Explora",
+          "Stream": "https://jmp2.uk/rok-23cf98a043e9d1336c958e6b707f81dc.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1760568679689_Curiosity-Explora_260_147px.png",
+          "description": "Canal de documentales y naturaleza de Curiosity."
+        },
+        {
+          "Title": "Dinos 24/7",
+          "Stream": "https://jmp2.uk/rok-8152fae2aebf5c228eee6470242174ec.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1734493190895_ROKU_DINOS_247_CHANNEL_HUD2_LOGO_260x147_CENTER.png",
+          "description": "Programación 24/7 sobre dinosaurios y vida prehistórica."
+        },
+        {
+          "Title": "Dog Whisperer With Cesar Millan",
+          "Stream": "https://jmp2.uk/rok-075852fcb99dfe2d55978f807de974ed.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1750272041574_TDW_InfoHUD_Logo_260x147.png",
+          "description": "El famoso entrenador de perros Cesar Millan y sus técnicas."
+        },
+        {
+          "Title": "Love Nature English",
+          "Stream": "https://jmp2.uk/rok-479fe0d11f3f5132a3f36b617547da3b.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1738776545554_LoveNature_logos_HUB_Centered.png",
+          "description": "Documentales de naturaleza y vida salvaje en inglés."
+        },
+        {
+          "Title": "Love Nature Spanish",
+          "Stream": "https://jmp2.uk/rok-03a419fc4dff59b39b176d9f76b09e38.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1659563412501_LoveNature_260x147_HUDenEspanol.png",
+          "description": "Documentales de naturaleza y vida salvaje en español."
+        },
+        {
+          "Title": "MagellanTV Wildest",
+          "Stream": "https://jmp2.uk/rok-0b88dcd80f6a5e838c83a67e7cfa4b3a.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1743518131834_Roku_MGTVWildest_Logo_HUD.png",
+          "description": "Los documentales más salvajes y extremos de MagellanTV."
+        },
+        {
+          "Title": "PBS Nature",
+          "Stream": "https://jmp2.uk/rok-32fa723f285fc238ae786634f051f972.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1772722398726_260x147_CenterAligned.png",
+          "description": "Canal oficial de la serie documental Nature de PBS."
+        },
+        {
+          "Title": "Pet Collective",
+          "Stream": "https://jmp2.uk/rok-69791edb54d953268aa8933e2cb29a32.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1686086019153_TPC_TRC_LOGO_MONOCHROMATIC_260x147_CENTER.png",
+          "description": "Videos y contenido divertido sobre mascotas."
+        },
+        {
+          "Title": "The Jack Hanna Channel",
+          "Stream": "https://jmp2.uk/rok-2b50362a8bbc5a12a203aa48e6ea9fe1.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1655144220271_hud-center_260x147.png",
+          "description": "Aventuras animales con el famoso naturalista Jack Hanna."
+        },
+        {
+          "Title": "WildEarth",
+          "Stream": "https://jmp2.uk/rok-7b9a45d26315568a98a2b136972bde8d.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1666307358347_WildEarth_HUD_logo_260x147_Center_aligned.png",
+          "description": "Transmisiones en vivo de safaris y vida animal."
+        }
+      ]
+    },
+    {
+      "title": "ANIMATED",
+      "episodes": [
+        {
+          "Title": "Animation+",
+          "Stream": "https://jmp2.uk/rok-2b54188672a6acb8d3e4c6b9e71a3a7c.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1731519594723_AnimationPlus_Hud_Logo_260x147_no_frame_alpha.png",
+          "description": "Canal con lo mejor de la animación."
+        },
+        {
+          "Title": "Anime X HiDive",
+          "Stream": "https://jmp2.uk/rok-0b92deed3dd556cf91c911a36e948fde.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1730996857858_Anime_HiDive_HXA_ImageHUD.png",
+          "description": "Anime y series de HiDive."
+        },
+        {
+          "Title": "Pink Panther",
+          "Stream": "https://jmp2.uk/rok-65f83bbbf7a2eb952b798c96300bb329.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1747839527856_PinkPanther_HUDLogo_Centered_260x147.png",
+          "description": "Las clásicas y divertidas aventuras de la Pantera Rosa."
+        },
+        {
+          "Title": "Pitufo TV",
+          "Stream": "https://jmp2.uk/rok-2bc36154da3310eaa692d0ea141ef8e0.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1746832685543_PitufoTV_HUD_260x147_efefef_logo.png",
+          "description": "Canal dedicado a los Pitufos y sus amigos."
+        },
+        {
+          "Title": "Sonic The Hedgehog",
+          "Stream": "https://jmp2.uk/rok-498b53f6f63455bbba27754ceb5fcefc.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1673905008826_Sonic_the_Hedgehog_HUD_Logo_260x147_Monochromatic.png",
+          "description": "Series animadas del erizo azul más famoso de los videojuegos."
+        },
+        {
+          "Title": "Super Mario Brothers",
+          "Stream": "https://jmp2.uk/rok-a3c405bfca9b525983054aa761b10dfb.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1694472710975_SuperMarioBrothers_HUDlogo_260x147.png",
+          "description": "Las series animadas de los hermanos Mario y sus amigos."
+        }
+      ]
+    },
+    {
+      "title": "ANIME",
+      "episodes": [
+        {
+          "Title": "Crunchyroll",
+          "Stream": "https://jmp2.uk/rok-307b3b9ea321539b9688148fc97a8bfd.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1694207383202_RokuImage-HUD-2_260x147px_Wil_Rosser.png",
+          "description": "Canal de anime de Crunchyroll."
+        }
+      ]
+    },
+    {
+      "title": "ART",
+      "episodes": [
+        {
+          "Title": "Cirque du Soleil",
+          "Stream": "https://jmp2.uk/rok-3d0de33bcd7a9560562294ebf7603934.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1778186585571_cirque_infohud.png",
+          "description": "Espectáculos y presentaciones del Cirque du Soleil."
+        },
+        {
+          "Title": "The Bob Ross Channel",
+          "Stream": "https://jmp2.uk/rok-1d3f60995d80521882a379fc06e47679.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1655142477923_TheBobRossChannel_Roku_ChannelLogos_260x147.png",
+          "description": "Aprende a pintar con el legendario Bob Ross."
+        }
+      ]
+    },
+    {
+      "title": "AUCTION",
+      "episodes": [
+        {
+          "Title": "Classic Car Auctions by History",
+          "Stream": "https://jmp2.uk/rok-f862a66d14ccfdde7ba6a14ef412d033.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1744402638636_Classic_Car_Auctions_By_HISTORY_HUD_Center_Align_Light_Gray_260x147.png",
+          "description": "Subastas de autos clásicos por History Channel."
+        },
+        {
+          "Title": "Mecum TV",
+          "Stream": "https://jmp2.uk/rok-11b69d01eadbc0259b0d05042a49f842.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1751557780578_MecumTV-Circle-260x147_HUD-01.png",
+          "description": "Subastas y eventos de autos clásicos de Mecum."
+        },
+        {
+          "Title": "PBS Antiques Roadshow",
+          "Stream": "https://jmp2.uk/rok-856fca464da0544784204ba8f6161dac.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1772722216448_260x147_CenterAligned.png",
+          "description": "El clásico programa de tasación de antigüedades de PBS."
+        },
+        {
+          "Title": "Storage Wars by A&E",
+          "Stream": "https://jmp2.uk/rok-091bf303c7fd2bc2ec6683b1dbbadae1.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1746034081194_Storage_Wars_HUD_logo_260x147_center_aligned.png",
+          "description": "Subastas de unidades de almacenamiento por A&E."
+        }
+      ]
+    },
+    {
+      "title": "AUTO & MOTORSPORTS",
+      "episodes": [
+        {
+          "Title": "FloRacing 24/7",
+          "Stream": "https://jmp2.uk/rok-58e6bfd1c4819af32ead547dbc82e1f8.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1771353198884_FloRacing_HUDLogo.png",
+          "description": "Carreras y eventos de automovilismo 24/7."
+        },
+        {
+          "Title": "Highway Thru Hell",
+          "Stream": "https://jmp2.uk/rok-0b8a86b44ef0780c3b3226a63be07e0f.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1755914093970_HighwayThruHell_HUD_logo_260x147.png",
+          "description": "Camioneros y rescatistas en las carreteras más peligrosas."
+        },
+        {
+          "Title": "Monster Jam",
+          "Stream": "https://jmp2.uk/rok-a361d429db9e46665be277da42af89a4.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1738945799309_MonsterJam_White_Horizontal_Logo_260x147_HUD.png",
+          "description": "Competencias de camiones monstruo."
+        },
+        {
+          "Title": "NASCAR",
+          "Stream": "https://jmp2.uk/rok-2d9aed2049f3c762acbed39bf6b9cc9f.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1753897760102_NASCAR_HUD_hex_efefef_260x147_Roku.png",
+          "description": "Carreras y eventos de NASCAR."
+        },
+        {
+          "Title": "POWERNATION",
+          "Stream": "https://jmp2.uk/rok-ca25dfba8ba45a1bb277c8b0ca8f56c4.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1657584189840_260x147.png",
+          "description": "Programas de automovilismo y motores."
+        },
+        {
+          "Title": "POWERNATION en Español",
+          "Stream": "https://jmp2.uk/rok-ce571f7e2262554b83d93cfc27d21e7c.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1657584288220_260x147.png",
+          "description": "Programas de automovilismo y motores en español."
+        },
+        {
+          "Title": "Speed Sport 1",
+          "Stream": "https://jmp2.uk/rok-f450ca31c0f7dde46cfdccb15d2154cb.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1775162724998_SPEED_SPORT_1_HUD_logo_260x147.png",
+          "description": "Deportes de motor y velocidad."
+        }
+      ]
+    },
+    {
+      "title": "BIOGRAPHY",
+      "episodes": [
+        {
+          "Title": "In Depth with Graham Bensinger",
+          "Stream": "https://jmp2.uk/rok-83c29cbe7b659482a0e9160ff7e4e058.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1755913375030_IDWGB_Roku_InfoHUD_Mono_260x147.png",
+          "description": "Entrevistas en profundidad con figuras famosas."
+        }
+      ]
+    },
+    {
+      "title": "BUS./FINANCIAL",
+      "episodes": [
+        {
+          "Title": "The Prof G Channel",
+          "Stream": "https://jmp2.uk/rok-0a1aa26e3e6316eedf422da44cd0999b.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1775605818359_STV_TPGC-HUD-260x147-W.png",
+          "description": "Finanzas y negocios con el profesor Scott Galloway."
+        }
+      ]
+    },
+    {
+      "title": "CHILDREN-MUSIC",
+      "episodes": [
+        {
+          "Title": "Super Simple Songs",
+          "Stream": "https://jmp2.uk/rok-9aff620ece2457a3a7572886ecae0495.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1657674103329_SuperSimpleSongs_Image_HUD2.png",
+          "description": "Canciones educativas y divertidas para niños."
+        }
+      ]
+    },
+    {
+      "title": "COMEDY",
+      "episodes": [
+        {
+          "Title": "Always Funny Videos",
+          "Stream": "https://jmp2.uk/rok-86c08261fc015a58866210bea63eb8f4.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1723058240057_AF_Logo_EFEFEF_Centered_260x147.png",
+          "description": "Los videos más divertidos de internet."
+        },
+        {
+          "Title": "America's Funniest Home Videos",
+          "Stream": "https://jmp2.uk/rok-20a6aa8be0f3aff9d50f3daf3dfe6ba8.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1769180377871_AFHV_Roku_Info_HUD_Logo_260x147_EFEFEF.png",
+          "description": "El clásico programa de videos caseros más divertidos."
+        },
+        {
+          "Title": "Canela.TV Clásicos",
+          "Stream": "https://jmp2.uk/rok-42ee7ce6165d5342be3e509f0afe5048.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1734562598895_ROKU-Clasicos-InfoHUD-1.png",
+          "description": "Clásicos del entretenimiento en español."
+        },
+        {
+          "Title": "Caracol Mix",
+          "Stream": "https://jmp2.uk/rok-c5c6a54fbd0328b108453e2537b7eee1.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1774999084418_CMIX_Info_Hud_Log_260x147.png",
+          "description": "Comedia y entretenimiento de Caracol."
+        },
+        {
+          "Title": "Comedy Dynamics",
+          "Stream": "https://jmp2.uk/rok-bc68164868385873a0f2b1c649fa2495.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1654727835884_ComedyDynamics_260x147.png",
+          "description": "Stand-up comedy y especiales de los mejores comediantes."
+        },
+        {
+          "Title": "Degrassi",
+          "Stream": "https://jmp2.uk/rok-d89b6124edce5dc0a4dfe42a8026353a.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1775748889190_DEGRASSI_HUD_logo_center_260x147.png.png",
+          "description": "La clásica serie adolescente Degrassi."
+        },
+        {
+          "Title": "Ebony",
+          "Stream": "https://jmp2.uk/rok-d0c6ac240cb8529992ee3340e5b7f102.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1774038479615_EbonyTV_HUDLogo_260x147_HexEFEFEF.png",
+          "description": "Comedia y entretenimiento afroamericano."
+        },
+        {
+          "Title": "FailArmy",
+          "Stream": "https://jmp2.uk/rok-aeef4f63419a5d5fabcf0055585f9ccc.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1663970078857_FA_TRC_LOGO_MONOCHROMATIC_260x147_CENTER.png",
+          "description": "Recopilación de los fracasos y caídas más épicas."
+        },
+        {
+          "Title": "FILMEX Comedia",
+          "Stream": "https://jmp2.uk/rok-8b2c97d22c7fed4d9d302a1796d5e009.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1766446177723_FMXcom_HUD_WHITE.png",
+          "description": "Películas de comedia de FILMEX."
+        },
+        {
+          "Title": "Fluffy TV",
+          "Stream": "https://jmp2.uk/rok-5f6683cf9d615b5cb8b8545307bb86fb.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1781534217853_Roku_4_efefef_260x147.png",
+          "description": "Canal del comediante Gabriel Iglesias, 'Fluffy'."
+        },
+        {
+          "Title": "Great American RomComs",
+          "Stream": "https://jmp2.uk/rok-77672e0655c5540095b1c492c91c37d3.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1768402132746_Great-ROMCOMS-60x147.png",
+          "description": "Comedias románticas americanas."
+        },
+        {
+          "Title": "Lifetime Love & Drama",
+          "Stream": "https://jmp2.uk/rok-8d8befc9060e861eb1bdd5b21c0403b3.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1748881675113_LMLDHUD_logo_efefef_center_aligned_260x147.png",
+          "description": "Dramas y comedias románticas de Lifetime."
+        },
+        {
+          "Title": "LOL Network",
+          "Stream": "https://jmp2.uk/rok-52c137ae3cdc50768ad7ea3cdaf0f2f4.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1779492449719_LOL-HUD_260x147White.png",
+          "description": "Canal de comedia con sketches y programas divertidos."
+        },
+        {
+          "Title": "Mythical 24/7",
+          "Stream": "https://jmp2.uk/rok-51cc9cb7f052534cb6e6f55ac4980b06.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1675453467854_Mythical247_Roku_Hud_LogoCENTERED_Anusha_Chintalapati.png",
+          "description": "Canal de los creadores de Mythical."
+        },
+        {
+          "Title": "Stokes Twins",
+          "Stream": "https://jmp2.uk/rok-be6338f82720cc9d9548acfa377a2aab.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1775670979660_StokesTwins_HUDlogo_centered_260x147.png",
+          "description": "Contenido divertido de los gemelos Stokes."
+        },
+        {
+          "Title": "The Red Green Channel",
+          "Stream": "https://jmp2.uk/rok-4b236d75ad3e5831a1707f53e41beede.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1669146930018_Casey_Murawski_-_1167936_RGS_Roku_Image_HUD1_260x147_(1).png",
+          "description": "El clásico show de comedia canadiense The Red Green Show."
+        },
+        {
+          "Title": "TV Amor",
+          "Stream": "https://jmp2.uk/rok-bdb3cb29453a137748dfaeadae2f9d2b.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1765320641655_jira-generated-image-static-b6689660-306d-406e-adcb-d123fd2f979c.png",
+          "description": "Canal de comedia y entretenimiento romántico."
+        },
+        {
+          "Title": "ViX Cine Club",
+          "Stream": "https://jmp2.uk/rok-017397f76bae510a8a9800c4b94eaa40.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1704751574192_CineClub_RokuHub_260x147_White.png",
+          "description": "Películas de comedia y entretenimiento de ViX."
+        }
+      ]
+    },
+    {
+      "title": "COOKING",
+      "episodes": [
+        {
+          "Title": "America's Test Kitchen",
+          "Stream": "https://jmp2.uk/rok-a96f9c338b3e5ab29ec3b436c01c84da.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1673305860263_americasTestKitchen_HUDlogo_centered_260x147.png",
+          "description": "Recetas y técnicas de cocina de America's Test Kitchen."
+        },
+        {
+          "Title": "Bon Appetit",
+          "Stream": "https://jmp2.uk/rok-bab0626ab5655e569790befb4522806a.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1669078150668_BA_Logo_center.png",
+          "description": "Cocina y recetas de la famosa revista Bon Appetit."
+        },
+        {
+          "Title": "FilmRise Food",
+          "Stream": "https://jmp2.uk/rok-22d9d1cb36e855a2b40ba752313a50d9.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1766158215733_RokuChannel_FilmRiseFood_HUD_Logo_260x147.png",
+          "description": "Programas de cocina y gastronomía de FilmRise."
+        },
+        {
+          "Title": "Hell's Kitchen | Kitchen Nightmares",
+          "Stream": "https://jmp2.uk/rok-b8c4f2efe56a512890042011e5cc0884.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1673453935313_FilmRise-Cooking_260x147_copy.png",
+          "description": "Lo mejor de Gordon Ramsay en Hell's Kitchen y Kitchen Nightmares."
+        },
+        {
+          "Title": "Jamie Oliver",
+          "Stream": "https://jmp2.uk/rok-8fd0bc4f08285a12abb872f0b2e320d4.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1666809121480_JO_ROKU_HUD_LOGO_260X147_copy.png",
+          "description": "Recetas y programas de cocina del chef Jamie Oliver."
+        },
+        {
+          "Title": "So... Real",
+          "Stream": "https://jmp2.uk/rok-b41118f76d1a5abcb701b9cc0a035c5b.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1752502909488_Info_HUD_Logo_260x147_px.png",
+          "description": "Programas de cocina y estilo de vida."
+        },
+        {
+          "Title": "Tastemade Home",
+          "Stream": "https://jmp2.uk/rok-5a1dec25daac971f191b10e808ec0c5d.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1744402817287_260x147_TastemadeHome_LogoInfoHUD_Roku.png",
+          "description": "Cocina, hogar y estilo de vida de Tastemade."
+        },
+        {
+          "Title": "Tastemade Travel",
+          "Stream": "https://jmp2.uk/rok-95a0b94ff13a4dc14fea6e9eb47ecf09.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1744402849683_260x147_TastemadeTravel_LogoInfoHUD_Roku.png",
+          "description": "Gastronomía y viajes de Tastemade."
+        }
+      ]
+    },
+    {
+      "title": "CRIME",
+      "episodes": [
+        {
+          "Title": "A&E Alaska State Troopers",
+          "Stream": "https://jmp2.uk/rok-2fc3353cd214be87e4959643805a4d08.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1775264988905_AlaskaStateTroopers_HUD_logo_efefef_center_aligned_260x147.png",
+          "description": "Sigue a los policías estatales de Alaska en sus peligrosos trabajos."
+        },
+        {
+          "Title": "A&E Live PD Greatest Shifts",
+          "Stream": "https://jmp2.uk/rok-62e84238f51a6b78c3883fbfdfb0cdb0.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1775265344574_LivePD_Greatest_Shifts_HUD_logo_efefef_center_aligned_260x147.png",
+          "description": "Los mejores momentos de Live PD."
+        },
+        {
+          "Title": "COPS en Español",
+          "Stream": "https://jmp2.uk/rok-5b18fd4082c85d698f6f71702d82be28.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1694471259398_COPSenESPANOL_Image_HUD_2_Meela_Hice.png",
+          "description": "El clásico programa COPS en español."
+        },
+        {
+          "Title": "Crímenes Verdaderos",
+          "Stream": "https://jmp2.uk/rok-c7fa77b283b35873aa6f08cf73d75b5f.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1766158130627_RokuChannel_FilmRiseCrimenesVerdaderos_HUD_Logo_260x147.png",
+          "description": "Documentales de crímenes reales en español."
+        },
+        {
+          "Title": "Dr. G: Medical Examiner",
+          "Stream": "https://jmp2.uk/rok-845b77875b6056d192401e10949948d2.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1673450454351_filmRiseDrGMedicalExaminer_HUDlogo_260x147.png",
+          "description": "La Dra. G y sus casos forenses."
+        },
+        {
+          "Title": "Dr. Phil's Merit TV",
+          "Stream": "https://jmp2.uk/rok-f82edff34af287f3d8fe9d9098d45404.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1736960235370_DPMeritTV_Roku_HUD_260x147_Center_WHT.png",
+          "description": "Programas y consejos del Dr. Phil."
+        },
+        {
+          "Title": "FilmRise Forensic Files",
+          "Stream": "https://jmp2.uk/rok-62945e18ab825bfd8b4995d9bd14917b.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1673451317145_FilmRise-ForensicFiles_260x147_copy.png",
+          "description": "Clásico programa de crímenes resueltos con ciencia forense."
+        },
+        {
+          "Title": "FilmRise Mysteries",
+          "Stream": "https://jmp2.uk/rok-16722bc43ef05012afa2297def830266.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1774448547651_RokuChannel_FilmRiseMysteries_HUD_Logo_260x147.png",
+          "description": "Misterios y crímenes de FilmRise."
+        },
+        {
+          "Title": "FilmRise True Crime",
+          "Stream": "https://jmp2.uk/rok-ebb810a8868251f18ac64056834c749a.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1766001493945_RokuChannel_FilmRiseTrueCrime_HUD_Logo_260x147.png",
+          "description": "Documentales de crímenes reales de FilmRise."
+        },
+        {
+          "Title": "First 48",
+          "Stream": "https://jmp2.uk/rok-add7a09bd437e6598057a7c7fc55a81d.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1746567479217_The_First_48_by_AE_HUD_Center_Align_Light_Gray_260x147.png",
+          "description": "Documental que sigue las primeras 48 horas de una investigación de asesinato."
+        },
+        {
+          "Title": "JAIL",
+          "Stream": "https://jmp2.uk/rok-645518dc5f92519688baed84d025b14e.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1709832057729_JAIL_IMAGE_HUD_2_Meela_Hice.png",
+          "description": "Documental sobre la vida en las cárceles."
+        },
+        {
+          "Title": "JAIL en Español",
+          "Stream": "https://jmp2.uk/rok-8d6cc93830ae093f8316777c135237d9.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1770926484163_04_JAIL_ES_ROKU_HUD_CENTERED_260X147VictoriaMiranda.png",
+          "description": "Documental sobre la vida en las cárceles en español."
+        },
+        {
+          "Title": "Live PD: Presents",
+          "Stream": "https://jmp2.uk/rok-b3ad0323cd466f4bb0c04ef9bee54543.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1746641522830_Live_PD_Presents_HUD_logo_efefef_center_aligned_260x147.png",
+          "description": "Especiales y presentaciones de Live PD."
+        },
+        {
+          "Title": "Love After Lockup",
+          "Stream": "https://jmp2.uk/rok-5e8ae9bdd978fbd560811917b847f26d.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1764174839180_ChannelLogo_EPG_260x147_InfoHUD_Vert_Bill_Watts__(1).png",
+          "description": "Reality de parejas después de la liberación de prisión."
+        },
+        {
+          "Title": "Misterios sin resolver",
+          "Stream": "https://jmp2.uk/rok-f2bbfc9566f9519aad982aea41b95f83.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1673454073290_FilmRise_Misterios_SinResolver_HUDlogo_260x147.png",
+          "description": "Misterios y casos sin resolver en español."
+        },
+        {
+          "Title": "Mysteria",
+          "Stream": "https://jmp2.uk/rok-79b8b2c24f6a5680b7670bf2d832bc2b.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1673904972773_LOGO_mysteria_260x147_grey.png",
+          "description": "Documentales de crímenes y misterios."
+        },
+        {
+          "Title": "Real Crime",
+          "Stream": "https://jmp2.uk/rok-cc72c25b76295e07862192d21bbff05b.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1669079132437_RealCrime_White_260x147_Horizontal.png",
+          "description": "Documentales y series sobre crímenes reales."
+        },
+        {
+          "Title": "Runtime Sangre Fría",
+          "Stream": "https://jmp2.uk/rok-c39d021ed8c95682a82ce6077ac0ab47.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1748485001772_Sangre_Fria_HUD_260x147.png",
+          "description": "Crímenes y asesinatos en español."
+        },
+        {
+          "Title": "Silent Witness and New Tricks",
+          "Stream": "https://jmp2.uk/rok-e07a11be574e544a801fac1fc3e716f1.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1743547864436_ROKU_SILENTWITNESSANDNEWTRICKS_HUD_LOGO_260x147.png",
+          "description": "Series policiales británicas."
+        },
+        {
+          "Title": "True Crime Now",
+          "Stream": "https://jmp2.uk/rok-4f4e0f3d9e1f5c8c9e627514fc5a071d.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1780319079670_Roku_TCNow_Logo_HUD_260x147.png",
+          "description": "Canal 24/7 de crímenes reales."
+        },
+        {
+          "Title": "Unsolved Mysteries",
+          "Stream": "https://jmp2.uk/rok-4ecf313b40975382b983c183bf7d86f0.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1673454714451_FilmRise-Crime_Unsolved_Mysteries_260x147.png",
+          "description": "El legendario programa que busca resolver misterios sin explicación."
+        }
+      ]
+    },
+    {
+      "title": "CRIME DRAMA",
+      "episodes": [
+        {
+          "Title": "Britbox Mysteries",
+          "Stream": "https://jmp2.uk/rok-0141916713c53d074650f14e2c9ff61e.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1735672484947_ROKU_BRITBOX_MYSTERIES_CHANNEL_ASSETS_HUD2_LOGO_260x147_CENTER_MONOCHROMATIC.png",
+          "description": "Misterios y dramas criminales británicos de Britbox."
+        }
+      ]
+    },
+    {
+      "title": "DARK COMEDY",
+      "episodes": [
+        {
+          "Title": "The Asylum",
+          "Stream": "https://jmp2.uk/rok-7e202ec14b17515a8e732f662aec155d.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1687376542009_TheAsylum_260x147_copy.png",
+          "description": "Comedia oscura y películas de culto."
+        }
+      ]
+    },
+    {
+      "title": "DOCUMENTARY",
+      "episodes": [
+        {
+          "Title": "Astro Ciencia",
+          "Stream": "https://jmp2.uk/rok-3ee48530e00e0abe8eb40c71fc819aa0.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1774998916966_HUD_260x147.png",
+          "description": "Documentales de astronomía y ciencia en español."
+        },
+        {
+          "Title": "BBC News (North America)",
+          "Stream": "https://jmp2.uk/rok-6183f9f73a64394cf3c55690605af2a7.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1765822678156_ROKU_BBC_NEWS_LOGO_260x147_WHITE.png",
+          "description": "Noticias y documentales de la BBC para Norteamérica."
+        },
+        {
+          "Title": "Mayday: Air Disaster",
+          "Stream": "https://jmp2.uk/rok-a7a15769f0275c0ea9b2064b95637cfd.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1780318718470_MaydayAirDisaster_White_260x147.png",
+          "description": "Documentales sobre investigaciones de accidentes aéreos."
+        },
+        {
+          "Title": "Naturaleza Salvaje",
+          "Stream": "https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1704747063109_NaturalezaSalvaje_Image_HUD2.png",
+          "description": "Documentales de naturaleza y vida salvaje en español."
+        },
+        {
+          "Title": "Nature Moments",
+          "Stream": "https://jmp2.uk/rok-b182852fa5860ed0017de42c7b9ce05a.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1735672320363_NatureMoments_Roku_HUD_260x147_centeraligned.png",
+          "description": "Documentales cortos sobre la naturaleza y sus maravillas."
+        },
+        {
+          "Title": "PBS Genealogy",
+          "Stream": "https://jmp2.uk/rok-3ec371d7730f16b07a55ede8a4472261.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1772722371711_260x147_CenterAligned.png",
+          "description": "Documentales y series sobre genealogía e historia familiar."
+        },
+        {
+          "Title": "Sobreviví",
+          "Stream": "https://jmp2.uk/rok-e4a278e5f27cc0c97aae4ddbefdbc5e6.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1765924286648_ISBA-LATAM_HUD_logo_260x147.png",
+          "description": "Historias de supervivencia en español."
+        },
+        {
+          "Title": "TheGrio",
+          "Stream": "https://jmp2.uk/rok-96bf5b40666353ae919ba1caadc66a1a.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1662135630120_theGrio_logo_HUD_CenterAligned.png",
+          "description": "Noticias y documentales afroamericanos."
+        },
+        {
+          "Title": "TruBlu Crime Channel",
+          "Stream": "https://jmp2.uk/rok-aee4056540505e84a2196b4d2263b745.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1695170771746_Image_HUD_1_Misael_Caraballo.png",
+          "description": "Documentales de crímenes y justicia."
+        }
+      ]
+    },
+    {
+      "title": "EDUCATIONAL",
+      "episodes": [
+        {
+          "Title": "This Old House",
+          "Stream": "https://jmp2.uk/rok-7e9fe2b4c7ba5869af6d60adbf4b7c86.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1657673284299_THIS_OLD_HOUSE_260x147.png",
+          "description": "Programas de renovación y mejoras para el hogar."
+        },
+        {
+          "Title": "This Old House Classic",
+          "Stream": "https://jmp2.uk/rok-c7825e03df4a5bf4bdc87d65b7e3cdbb.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1652917233272_TOHC_HudChannelID_rev.png",
+          "description": "Clásicos de This Old House."
+        },
+        {
+          "Title": "This Old House Makers Channel",
+          "Stream": "https://jmp2.uk/rok-2f7855ad196b57fc8e1dcb9cb74ea161.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1653084604744_Maker_HudChannelID_CenterAlign.png",
+          "description": "Proyectos de bricolaje y manualidades."
+        },
+        {
+          "Title": "This Old House Shorts",
+          "Stream": "https://jmp2.uk/rok-ccfcc3307fa908684a95bf9643b1b935.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1754514295581_TOHShorts_InfoHUD_Mono.png",
+          "description": "Videos cortos de mejoras para el hogar."
+        }
+      ]
+    },
+    {
+      "title": "ENVIRONMENT",
+      "episodes": [
+        {
+          "Title": "EarthDay 365",
+          "Stream": "https://jmp2.uk/rok-0a4f2ecbb9d3f127aa5fc5f31be22842.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1730997018565_Info_HUD_Centered_-_E365.png",
+          "description": "Documentales y contenido sobre el medio ambiente."
+        },
+        {
+          "Title": "Modern Innovations by History",
+          "Stream": "https://jmp2.uk/rok-cd2b8b03da52da0868e63927b54f9e7e.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1747059823625_Modern_Innovations_by_History_General_Market_Launch_HUD.png",
+          "description": "Innovaciones y tecnología moderna por History Channel."
+        }
+      ]
+    },
+    {
+      "title": "FAITH & FAMILY",
+      "episodes": [
+        {
+          "Title": "Dove",
+          "Stream": "https://jmp2.uk/rok-d93912b4b21158fd95af2ceb8979c586.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1738599967209_DoveRefresh_RokuLinear_260X147.png",
+          "description": "Contenido familiar y religioso."
+        },
+        {
+          "Title": "Joel Osteen Network",
+          "Stream": "https://jmp2.uk/rok-e35e1503bdf85e0fbb406b4663137473.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1716575843611_JON-logo-efefef-260x147.png",
+          "description": "Predicaciones y contenido religioso del pastor Joel Osteen."
+        },
+        {
+          "Title": "Modern Wisdom",
+          "Stream": "https://jmp2.uk/rok-6481345ad870a9f94508f32216a59141.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1776815389209_HUD-modernwisdom-white.png",
+          "description": "Sabiduría moderna y contenido inspirador."
+        }
+      ]
+    },
+    {
+      "title": "FOOD",
+      "episodes": [
+        {
+          "Title": "PBS Food",
+          "Stream": "https://jmp2.uk/rok-d8513011aa1c50aa9b08894f5576ad99.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1772722342581_260x147_CenterAligned.png",
+          "description": "Programas de cocina y gastronomía de PBS."
+        },
+        {
+          "Title": "Tastemade",
+          "Stream": "https://jmp2.uk/rok-e6416436e5d6510e9e22c23862deea23.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1732826277678_260x147_hex-efefef_CENTER_TastemadeFood.png",
+          "description": "Cocina, viajes y estilo de vida de Tastemade."
+        }
+      ]
+    },
+    {
+      "title": "GAME SHOW",
+      "episodes": [
+        {
+          "Title": "BUZZR",
+          "Stream": "https://jmp2.uk/rok-562baf35c5da56cc91cdea41537b43f9.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1654733081445_BUZZR_ROKU_HUD-MONO_260X147-2021RB.png",
+          "description": "Clásicos de los concursos de televisión."
+        },
+        {
+          "Title": "Celebrity Name Game",
+          "Stream": "https://jmp2.uk/rok-23427355f7f35851b75a210d7cca22a4.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1683068649411_CNG_Roku_HUD_Center.png",
+          "description": "Concurso de celebridades adivinando nombres."
+        },
+        {
+          "Title": "Let's Make a Deal",
+          "Stream": "https://jmp2.uk/rok-ffe5d9e0480d1c5e1dcead3abd966ac7.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1741793674388_LMAD_HUDLogoCenterAligned_260x147.png",
+          "description": "El famoso concurso de intercambios y sorpresas."
+        },
+        {
+          "Title": "Supermarket Sweep",
+          "Stream": "https://jmp2.uk/rok-62b4eba68f3051c68d2beb22dc94ebbc.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1669151901470_ROKU_SMS_HUD-MONO_260X147.png",
+          "description": "El clásico concurso de compras en el supermercado."
+        },
+        {
+          "Title": "The Price Is Right: The Barker Era",
+          "Stream": "https://jmp2.uk/rok-4ad47ace83b25065955adca3f8e9bdcf.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1669146270546_ROKU_TPIR_LOGO_HUD.png",
+          "description": "Episodios clásicos del Price is Right con Bob Barker."
+        },
+        {
+          "Title": "World Of Love Island",
+          "Stream": "https://jmp2.uk/rok-dacd8aab4ff68232ed9d452aa706e2e6.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1763489824921_ROKU_INFO_HUD.png",
+          "description": "El reality de citas Love Island."
+        }
+      ]
+    },
+    {
+      "title": "GAMING & TECH",
+      "episodes": [
+        {
+          "Title": "Estrella Games",
+          "Stream": "https://jmp2.uk/rok-417de64d5d2255119088209d40ebfee6.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1652302122079_260x147-center.png",
+          "description": "Videojuegos y contenido gamer de Estrella TV."
+        },
+        {
+          "Title": "Preston & Brianna",
+          "Stream": "https://jmp2.uk/rok-e88ce0afc4f05acc1c35e625128c43e5.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1775671198477_RadialPrestonAndBrianna_HUDlogo_260x147.png",
+          "description": "Contenido de los creadores Preston & Brianna."
+        },
+        {
+          "Title": "Sensical Gaming",
+          "Stream": "https://jmp2.uk/rok-ac7629367b3f5fae93753623469c440d.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1667323738009_Sensical_Gaming_Logo_EFEFEF-CENTER.png",
+          "description": "Contenido de videojuegos para niños y familias."
+        },
+        {
+          "Title": "Team Liquid",
+          "Stream": "https://jmp2.uk/rok-f17c82792f7cab26596e1a84ebc82a8b.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1750722575713_TL_HUD_Logo_-_260x147-1.png",
+          "description": "Esports y contenido del equipo Team Liquid."
+        }
+      ]
+    },
+    {
+      "title": "HEALTH",
+      "episodes": [
+        {
+          "Title": "The Doctors",
+          "Stream": "https://jmp2.uk/rok-1a2266aeb6892914c687ebb3b58c2324.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1731689588052_xDoctors_Roku_Image_HUD.png",
+          "description": "Consejos de salud y bienestar de The Doctors."
+        },
+        {
+          "Title": "Untold Stories Of The ER",
+          "Stream": "https://jmp2.uk/rok-28b13463c3cf9b26eb0f87ff11c2a8ec.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1736192853756_UntoldStoriesoftheER_HUDlogo_centered_260x147.png",
+          "description": "Historias reales de emergencias médicas."
+        }
+      ]
+    },
+    {
+      "title": "HOME IMPROVEMENT",
+      "episodes": [
+        {
+          "Title": "At Home With Family Handyman",
+          "Stream": "https://jmp2.uk/rok-58673c6e05455569978456bdc210f9d7.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1665788721370_HUD_Logo_At-Home-w-FHM_260x147.png",
+          "description": "Mejoras y reparaciones para el hogar."
+        },
+        {
+          "Title": "Homeful en Español",
+          "Stream": "https://jmp2.uk/rok-5dd7bdd7b320a81dd501cfac172db9c1.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1762753422169_Homeful_Roku_ChannelAssets_Espanol_InfoHudLogo_260x147.png",
+          "description": "Mejoras para el hogar en español."
+        },
+        {
+          "Title": "Places & Spaces",
+          "Stream": "https://jmp2.uk/rok-65506c44c9535b3787d255f333e7b1f7.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1687441710940_1666809188462_P%2526S_ROKU_HUD_LOGO_260X147_copy.png",
+          "description": "Diseño de interiores y espacios."
+        }
+      ]
+    },
+    {
+      "title": "HOUSE/GARDEN",
+      "episodes": [
+        {
+          "Title": "GARDEN with Monty Don",
+          "Stream": "https://jmp2.uk/rok-ada4254a1dd65c138f62e7c45affb45c.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1777303688429_GWMD_Rebrand_HUD_Logo.png",
+          "description": "Jardinería con el experto Monty Don."
+        }
+      ]
+    },
+    {
+      "title": "LAW",
+      "episodes": [
+        {
+          "Title": "Court TV Legendary Trials",
+          "Stream": "https://jmp2.uk/rok-586bd3d19f6e4b7a5cf3458722984b82.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1753726975635_25-CTV-1681835828-Court-TV-Legendary-Trials---OTT-CTV---Legendary-Trials-Logos---Roku-Channel-Launch_CourtTVLT_Roku_HUD1.png",
+          "description": "Juicios legendarios de Court TV."
+        }
+      ]
+    },
+    {
+      "title": "MOVIES",
+      "episodes": [
+        {
+          "Title": "Alien Nation by DUST",
+          "Stream": "https://jmp2.uk/rok-aa16704e1ee052dea67cee1f79618754.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1693585686439_AlienNation_HUD_260x147.png",
+          "description": "Ciencia ficción y extraterrestres de DUST."
+        },
+        {
+          "Title": "Cine de Horror",
+          "Stream": "https://jmp2.uk/rok-308d792301e9897cbd41d0390abef68f.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1758347646934_Logo_Cine_de_horror_260-x-147px_color_efefef_alineado_al_borde_superior.png",
+          "description": "Canal de películas de terror y suspenso."
+        },
+        {
+          "Title": "Danger TV",
+          "Stream": "https://jmp2.uk/rok-447d63b6da208bb796b69f0383c474a1.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1728505178821_dangertv_hud.png",
+          "description": "Películas de acción y peligro."
+        },
+        {
+          "Title": "FilmRise Horror",
+          "Stream": "https://jmp2.uk/rok-6a0629e467b5502c906136dadac290a0.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1774448513257_RokuChannel_FilmRiseHorror_HUD_Logo_260x147.png",
+          "description": "Películas de terror de la colección FilmRise."
+        },
+        {
+          "Title": "Lassie",
+          "Stream": "https://jmp2.uk/rok-8c36c765b4415db78a85078c37df4a5f.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1701819906521_Lassie-ROKU-HUD-LOGO-260x147.png",
+          "description": "Las clásicas películas y series de Lassie."
+        },
+        {
+          "Title": "PBS Travel",
+          "Stream": "https://jmp2.uk/rok-94598743eeb76f0dae3caf86ed026deb.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1772722452122_260x147_CenterAligned.png",
+          "description": "Documentales y películas de viajes de PBS."
+        },
+        {
+          "Title": "Scares by Shudder",
+          "Stream": "https://jmp2.uk/rok-349e0f0840cf21b888bff327b41a2413.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1734485619426_SHUD_FastChanel_Roku_Image_HUD2BillWatts_.png",
+          "description": "Lo mejor del terror y suspenso por Shudder."
+        }
+      ]
+    },
+    {
+      "title": "MUSIC",
+      "episodes": [
+        {
+          "Title": "Circle",
+          "Stream": "https://jmp2.uk/rok-f208a84047865b16820dd7110ec2e17f.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1775050955880_Circle-White-260x147.png",
+          "description": "Música country y entretenimiento."
+        },
+        {
+          "Title": "iHeartCountry Classics",
+          "Stream": "https://jmp2.uk/rok-3395d3b6c6e895a495fd12a2c719b21c.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1728501104207_260x147_Image_HUD_2.png",
+          "description": "Clásicos de la música country de iHeart."
+        },
+        {
+          "Title": "LaMúsica TV",
+          "Stream": "https://jmp2.uk/rok-17ee6c346f0888dbb217971516686d56.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1748293487350_center-logo-infoHUD-260x147.png",
+          "description": "Música latina y videos musicales."
+        },
+        {
+          "Title": "Shades of Black",
+          "Stream": "https://jmp2.uk/rok-34e2d8f442ab5fa3aed29436c2f8ed63.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1665448180798_ShadesOfBlack_Logo_Roku_EFEF_260x147_(1).png",
+          "description": "Música y cultura afroamericana."
+        },
+        {
+          "Title": "Stingray Free Riding",
+          "Stream": "https://jmp2.uk/rok-d90a57a66251fdda967c2e2b9e6aa25d.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1753727436599_StingrayFreeRiding_HUDlogo_centered_260x147.png",
+          "description": "Música y deportes extremos."
+        },
+        {
+          "Title": "TikTok Radio",
+          "Stream": "https://jmp2.uk/rok-8e04e4c0e2cd5fe49b087a6ce5fd0d91.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1719497617582_11110_SM_TikTokRadio_Logo_260x147_V02.png",
+          "description": "Los mejores éxitos de TikTok."
+        },
+        {
+          "Title": "Vevo '70s",
+          "Stream": "https://jmp2.uk/rok-e5dcad2b1c055d4d86a9f7bba9438da7.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1675112924287_Info_HUD_Logo_260X147_center_(18).png",
+          "description": "Videos musicales de los años 70."
+        },
+        {
+          "Title": "Vevo '80s",
+          "Stream": "https://jmp2.uk/rok-fd8d765f98605129914b581147e7e8b2.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1675112947403_Info_HUD_Logo_260X147_center_(17).png",
+          "description": "Videos musicales de los años 80."
+        },
+        {
+          "Title": "Vevo '90s",
+          "Stream": "https://jmp2.uk/rok-4c0772ef75e1565183843b37e91591f8.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1675113345580_Info_HUD_Logo_260X147_center_(16).png",
+          "description": "Videos musicales de los años 90."
+        },
+        {
+          "Title": "Vevo 2K",
+          "Stream": "https://jmp2.uk/rok-94759dbd58a65682bcc573932f725f46.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1675113375186_Info_HUD_Logo_260X147_center_(19).png",
+          "description": "Videos musicales de los años 2000."
+        },
+        {
+          "Title": "Vevo Country",
+          "Stream": "https://jmp2.uk/rok-1db9c603bb4e5d87b015f9963da1093e.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1675113404058_Info_HUD_Logo_260X147_center_(4).png",
+          "description": "Los mejores videos de música country."
+        },
+        {
+          "Title": "Vevo Hip-Hop",
+          "Stream": "https://jmp2.uk/rok-8dc44c8fdea45f039c68f75bda233850.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1675113465461_Info_HUD_Logo_260X147_center_(3).png",
+          "description": "Los mejores videos de hip-hop."
+        },
+        {
+          "Title": "Vevo Latino",
+          "Stream": "https://jmp2.uk/rok-0d5283959d3a59bf87411e7077fd9e58.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1675113444761_Info_HUD_Logo_260X147_center_(15).png",
+          "description": "Los mejores videos musicales latinos."
+        },
+        {
+          "Title": "Vevo Pop",
+          "Stream": "https://jmp2.uk/rok-e50a8f06d3245c95a4e250dc5c33c2be.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1675113520589_Info_HUD_Logo_260X147_center_(14).png",
+          "description": "Los mejores videos de música pop."
+        },
+        {
+          "Title": "Vevo R&B",
+          "Stream": "https://jmp2.uk/rok-6be3083b8ec2508495684e5087f8f86a.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1675113546717_Info_HUD_Logo_260X147_center_(13).png",
+          "description": "Los mejores videos de R&B."
+        },
+        {
+          "Title": "Vevo Reggaeton & Trap",
+          "Stream": "https://jmp2.uk/rok-60db737695c95b599dad50d2c5595fe3.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1675113591743_Info_HUD_Logo_260X147_center_(1)_(1).png",
+          "description": "Los mejores videos de reggaetón y trap."
+        }
+      ]
+    },
+    {
+      "title": "MUSIC TALK",
+      "episodes": [
+        {
+          "Title": "FOX Soul",
+          "Stream": "https://jmp2.uk/rok-bdf6b34e48585f588789f7e7857a84a6.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1693448159612_1687189414430_FOXSOUL_260x147.png",
+          "description": "Talk shows y música de FOX Soul."
+        }
+      ]
+    },
+    {
+      "title": "NEWS",
+      "episodes": [
+        {
+          "Title": "ABC7 Sarasota",
+          "Stream": "https://jmp2.uk/rok-50b18dea9c5c51568c1343fcd3d88ec9.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1746557592232_WWSB_EPG_Hud_LogoWWSB_HUD_logo_260x147_Centered.png",
+          "description": "Noticias locales de Sarasota."
+        },
+        {
+          "Title": "AmericaTeve",
+          "Stream": "https://jmp2.uk/rok-0e9a0d968d225a5eb93784404f7edadf.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1675112610226_americateve_260x147.png",
+          "description": "Noticias y entretenimiento en español."
+        },
+        {
+          "Title": "Arizona's Family",
+          "Stream": "https://jmp2.uk/rok-ec2faed50af3503e934f0c342a7952fe.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1746557956357_KPHO_EPG_Hud_LogoKPHO_HUD_logo_260x147_Centered.png",
+          "description": "Noticias locales de Arizona."
+        },
+        {
+          "Title": "Atlanta News First",
+          "Stream": "https://jmp2.uk/rok-1672824c4fd55e5dbfcb57f147910270.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1684345590463_WANF_EPGHud_LogoWANF_HUD_logo_260x147.png",
+          "description": "Noticias locales de Atlanta."
+        },
+        {
+          "Title": "Azteca Noticias",
+          "Stream": "https://jmp2.uk/rok-46eb1feb60da2bc45bee66f313b564de.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1773259750272_Azteca_Noticias_260x147_ef.png",
+          "description": "Noticias de México y el mundo por Azteca."
+        },
+        {
+          "Title": "C4 en Alerta",
+          "Stream": "https://jmp2.uk/rok-5cbb91d07dbd5b92ae3ef3e37be7f2ce.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1695173043846_C4_centeraligned_monocromatico_HUD_260x147.png",
+          "description": "Noticias y análisis con enfoque en seguridad."
+        },
+        {
+          "Title": "CBC News",
+          "Stream": "https://jmp2.uk/rok-8db0f9f4abf6542ba95f97a545f98513.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1731443569102_CBC-News-hosts_infohud-centered.png",
+          "description": "Noticias de Canadá por CBC."
+        },
+        {
+          "Title": "Channel 3 Eyewitness News",
+          "Stream": "https://jmp2.uk/rok-307cbde3d30957828ff68b3b979d6958.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1746558269828_WFSB_EPG_Hud_LogoWFSB_HUD_logo_260x147_Centered.png",
+          "description": "Noticias locales de Connecticut."
+        },
+        {
+          "Title": "Cleveland 19 News Plus",
+          "Stream": "https://jmp2.uk/rok-d0d9af56b7735c318b66afe21089d028.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1684345937107_WOIO_EPG%2526Hud_LogoWOIO_HUD_logo_260x147.png",
+          "description": "Noticias locales de Cleveland."
+        },
+        {
+          "Title": "CTV News",
+          "Stream": "https://jmp2.uk/rok-52ed4fc0c2635136b6ea44e2dc4a8a00.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1720621983863_CTVNews_HUD_Logo_260x147.png",
+          "description": "Noticias de Canadá por CTV."
+        },
+        {
+          "Title": "Estrella News",
+          "Stream": "https://jmp2.uk/rok-0af429c36c6b517e8df2025e809b3964.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1652921499084_RoKu_260x147_Estrella_NEWS.png",
+          "description": "Noticias y entretenimiento de Estrella TV."
+        },
+        {
+          "Title": "Estrella TV",
+          "Stream": "https://jmp2.uk/rok-91dff2b8a62b5fe1bdf64de721032cba.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1652921946998_RoKu_260x147_Estrella_TV.png",
+          "description": "Canal de entretenimiento y noticias de Estrella TV."
+        },
+        {
+          "Title": "Euronews Español",
+          "Stream": "https://jmp2.uk/rok-8acb4f9b8a255216966db355daaa1749.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1678136277077_euronews_espanol_260x147.png",
+          "description": "Noticias de Europa y el mundo en español."
+        },
+        {
+          "Title": "Euronews World",
+          "Stream": "https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1776110117061_Euronews_Info_HUD_Logo_EN.png",
+          "description": "Noticias internacionales de Euronews en inglés."
+        },
+        {
+          "Title": "First Alert 4 St. Louis",
+          "Stream": "https://jmp2.uk/rok-e8f8972f377a598590592ecd079e7cc4.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1703177116537_KMOV_EPG%2526Hud_LogoKMOV_HUD_logo_260x147_.png",
+          "description": "Noticias locales de St. Louis."
+        },
+        {
+          "Title": "FOX Weather",
+          "Stream": "https://jmp2.uk/rok-0838d5ccb1d5564d98fb804ab314c85e.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1693442655370_1688568641143_FWX_HUD_1.png",
+          "description": "Canal de noticias del clima de FOX."
+        },
+        {
+          "Title": "GrowthDay Network",
+          "Stream": "https://jmp2.uk/rok-182b6ef4e015e33d0f34d53fbc4524cc.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1761657522100_GDN_260x147_HUD.png",
+          "description": "Noticias y contenido para el crecimiento personal."
+        },
+        {
+          "Title": "KPTV FOX 12 Oregon News",
+          "Stream": "https://jmp2.uk/rok-5c8d77c2f6b85da3a7e74223b769ef5c.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1684345991989_KPTV_EPG%2526Hud_LogoKPTV_HUD_logo_260x147.png",
+          "description": "Noticias locales de Oregon."
+        },
+        {
+          "Title": "Law & Crime",
+          "Stream": "https://jmp2.uk/rok-8ba514251e1a58b7b53368177baa1041.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1705443337284_lc-roku-epg-infohud-260x147.png",
+          "description": "Noticias legales y crímenes."
+        },
+        {
+          "Title": "Leadstory Breaking News",
+          "Stream": "https://jmp2.uk/rok-5dedf641315cd44f0f2ec96b99855110.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1774999007651_LS_Breaking-News_Transparent-monochromatic-260x147.png",
+          "description": "Noticias de última hora."
+        },
+        {
+          "Title": "LiveNOW from FOX",
+          "Stream": "https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1693442636429_1688568583363_177281_LiveNow-Monochromatic_Banner_Logo_260x147_001.png",
+          "description": "Noticias en vivo de FOX."
+        },
+        {
+          "Title": "Local Now Las Vegas",
+          "Stream": "https://jmp2.uk/rok-0b285303dd2fbf7a851db13ce53d5d1f.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1779473509268_local_now_las_vegas_logo_hud.png",
+          "description": "Noticias locales de Las Vegas."
+        },
+        {
+          "Title": "N+ Univision 24/7",
+          "Stream": "https://jmp2.uk/rok-5a28fbf15c135b51b3638e8bd02d6577.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1772737218229_NMasUnivision247_RokuHUD_260x147_White.png",
+          "description": "Noticias 24/7 de Univision."
+        },
+        {
+          "Title": "News 12 New York",
+          "Stream": "https://jmp2.uk/rok-6abe7dcc96d5d834853c8d1c93d97230.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1727118344457_N12NY_Roku_Info_HUD.png",
+          "description": "Noticias locales de Nueva York."
+        },
+        {
+          "Title": "Newsmax 2",
+          "Stream": "https://jmp2.uk/rok-28844a800a4e54909eec9695aa3762b2.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1705586944532_N2_HUD_logo.png",
+          "description": "Noticias y opinión de Newsmax."
+        },
+        {
+          "Title": "Noticias Telemundo AHORA",
+          "Stream": "https://jmp2.uk/rok-e6f5a623c45d5757a50e602eb0591f62.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1718135290274_noticias-telemundo-ahora-fclogo-72-dpi-260-x-147-260-147-roku-hud-logo-center-align-efefef-w-trans-bkgd-1.png",
+          "description": "Noticias de última hora de Telemundo."
+        },
+        {
+          "Title": "OAN Plus",
+          "Stream": "https://jmp2.uk/rok-e29e205ea1fb529f996ad862a2d6724e.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1655144553363_OAN-Plus-hud_centered.png",
+          "description": "Noticias y opinión de One America News."
+        },
+        {
+          "Title": "RCN Noticias",
+          "Stream": "https://jmp2.uk/rok-a9aae4e62e6fd8e401033cd14ceeaaa2.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1744238957605_RCNNoticiaslogoefefef260x147copyJuanMVelasquez.png",
+          "description": "Noticias de Colombia y el mundo por RCN."
+        },
+        {
+          "Title": "Salem News Channel",
+          "Stream": "https://jmp2.uk/rok-db6c45e4d0c856d9a88f76bf5ac6db26.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1771354407610_Roku_For_Info_HUD_Logo_Salem_260x147-.png",
+          "description": "Noticias y opinión de Salem."
+        },
+        {
+          "Title": "Scripps News",
+          "Stream": "https://jmp2.uk/rok-d3f36d4a35fa5f40a24b96a51556b9b5.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1672770149812_Scripps-News_Roku-Channel_Hud-Logo-2_260x147.png",
+          "description": "Noticias nacionales e internacionales de Scripps."
+        },
+        {
+          "Title": "Telediario Now",
+          "Stream": "https://jmp2.uk/rok-ceb64d994c7756c2a8f09ace94c3e43f.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1715804997455_Logtipo_TDNOW_260x147_centradoaleje.png",
+          "description": "Noticias de México y el mundo."
+        },
+        {
+          "Title": "Telemundo Al Día",
+          "Stream": "https://jmp2.uk/rok-8e0bb4b7ca7c5ea1af52427462297f38.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1746812594347_TELEMUNDO_AL_DIA_260x147_2x1_logo_center_align_EFEFEF_transparent_bkgd_roku.png",
+          "description": "Noticias y actualidad de Telemundo."
+        },
+        {
+          "Title": "The Hill",
+          "Stream": "https://jmp2.uk/rok-8bfd3a488b59590eb2fa5602c2120168.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1761580779479_TheHill_260x147_HUD.png",
+          "description": "Noticias políticas de Estados Unidos."
+        },
+        {
+          "Title": "TYT-Go",
+          "Stream": "https://jmp2.uk/rok-ee70e4ad68b55abb88e7b95b8940566a.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1657585611417_TYTLogo_ForInfoHUD.png",
+          "description": "Noticias y opinión de The Young Turks."
+        },
+        {
+          "Title": "WBTV News 3",
+          "Stream": "https://jmp2.uk/rok-bf7ee95e6a905222a1d24174120cc106.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1746558434543_WBTV_EPG_Hud_LogoWBTV_HUD_logo_260x147_Centered.png",
+          "description": "Noticias locales de Charlotte."
+        },
+        {
+          "Title": "WSMV 4 News",
+          "Stream": "https://jmp2.uk/rok-d53b1fb8c41f574387cde82d084515ea.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1703177208613_WSMV_EPG%2526Hud_LogoWSMV_HUD_logo_260x147_.png",
+          "description": "Noticias locales de Nashville."
+        }
+      ]
+    },
+    {
+      "title": "OTHER",
+      "episodes": [
+        {
+          "Title": "BABY SHARK TV",
+          "Stream": "https://jmp2.uk/rok-40d73ba5be775428a377908b02033b4c.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1700073147593_Roku_BABY_SHARK_TV_Image_HUD_2_260x147.png",
+          "description": "El famoso Baby Shark y sus amigos."
+        },
+        {
+          "Title": "Like Nastya",
+          "Stream": "https://jmp2.uk/rok-c0de867f29485305b9197b14cd08240f.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1666305411241_RC_likeNastya_HUD_logo_260x147-mono.png",
+          "description": "Contenido infantil de la youtuber Nastya."
+        },
+        {
+          "Title": "Moonbug Kids",
+          "Stream": "https://jmp2.uk/rok-b5cde121f98257329346020e2a60295a.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1684954939211_MOONBUG_ROKU_LOGO_EPG_2023MONO.png",
+          "description": "Contenido educativo y entretenido para niños."
+        },
+        {
+          "Title": "Ninja Kidz TV",
+          "Stream": "https://jmp2.uk/rok-9dd23031622757d1944e4782b2a192ef.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1689296014024_NKTV_Roku_260x147_ImageHUD2_David_Preisman.png",
+          "description": "Aventuras y desafíos para niños y familias."
+        },
+        {
+          "Title": "Pocket.watch Game-On",
+          "Stream": "https://jmp2.uk/rok-d8b7e94b7edc53918e6afa251822df14.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1725978776066_pocket.watchGame-On_Info_HUD_260x147.png",
+          "description": "Contenido de videojuegos de Pocket.watch."
+        },
+        {
+          "Title": "Ryan and Friends",
+          "Stream": "https://jmp2.uk/rok-d1bfe824cfee5369a493d7a8bbd96ec1.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1661554205530_RYAN_AND_FRIENDS_260x147.png",
+          "description": "El famoso Ryan's World y sus amigos."
+        }
+      ]
+    },
+    {
+      "title": "PARANORMAL",
+      "episodes": [
+        {
+          "Title": "Haunt TV",
+          "Stream": "https://jmp2.uk/rok-285f3ba210e8561fa5261af0871ace90.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1659563088420_HauntTVLogo_260x147_copy.png",
+          "description": "Contenido paranormal y de fantasmas."
+        }
+      ]
+    },
+    {
+      "title": "ROMANCE",
+      "episodes": [
+        {
+          "Title": "Cine Romantico",
+          "Stream": "https://jmp2.uk/rok-79eb3a43680e5a9f9689fee074502a3b.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1661549410243_cineRomantico_HUDlogo_centered_260x147.png",
+          "description": "Películas románticas en español."
+        },
+        {
+          "Title": "Novelísima",
+          "Stream": "https://jmp2.uk/rok-5d1c16bba82b53e69bf979c2fdca4ca8.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1707517468219_Novelisima_informational_HUD_centered.png",
+          "description": "Novelas y telenovelas románticas."
+        },
+        {
+          "Title": "SPARK TV",
+          "Stream": "https://jmp2.uk/rok-eb1dbd690001553eacdf32d7b155b933.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1659742235158_Whitt_Hansen_-_SparkTVLogo_HUD_2_v2.png",
+          "description": "Contenido romántico e inspirador."
+        },
+        {
+          "Title": "ViX Novelas de romance",
+          "Stream": "https://jmp2.uk/rok-396f57d10b5d5ec98648f810dcbe1f11.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1704751803812_NovelasDeRomance_RokuHub_260x147_White.png",
+          "description": "Novelas románticas de ViX."
+        }
+      ]
+    },
+    {
+      "title": "SHOPPING",
+      "episodes": [
+        {
+          "Title": "QVC 365",
+          "Stream": "https://jmp2.uk/rok-ef298726c27d1157fedd8cb0b9367159.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1779313057063_qvc_365_logo_hud.png",
+          "description": "Canal de compras QVC 24/7."
+        },
+        {
+          "Title": "QVC2 HD",
+          "Stream": "https://jmp2.uk/rok-9cb058af15a0fdacf5aa87b78b2e3d33.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1747160713948_Hud_Logo_QVC2-1.png",
+          "description": "Canal de compras QVC2 en HD."
+        }
+      ]
+    },
+    {
+      "title": "SPORTS",
+      "episodes": [
+        {
+          "Title": "ACC Digital Network",
+          "Stream": "https://jmp2.uk/rok-409951b52fa75a1684ba8efe5b724e91.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1657669780439_ACCDigitalNetwork_260x147_centered.png",
+          "description": "Canal oficial de la Atlantic Coast Conference."
+        },
+        {
+          "Title": "American Gladiators",
+          "Stream": "https://jmp2.uk/rok-cf7c191b9f2a4207cf119fb095e965e7.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1749753112642_AmericanGladiators_HUDLogo_Centered_260x147.png",
+          "description": "El clásico programa de competencias American Gladiators."
+        },
+        {
+          "Title": "Azteca Deportes Network LITE 3",
+          "Stream": "https://jmp2.uk/rok-04be54c79d1f55d0909e684f64f9fb57.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1718994621239_AI_Roku_260x147_Mono_DEPORTES_TB_Oct23.png",
+          "description": "Deportes y eventos de Azteca Deportes."
+        },
+        {
+          "Title": "Bassmaster",
+          "Stream": "https://jmp2.uk/rok-9210a8fbeab66e9d1ce20c187804ee7d.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1749678868866_BassmasterChannel_InfoHUDChannelIdentifier_260x147.png",
+          "description": "Competencias de pesca de Bassmaster."
+        },
+        {
+          "Title": "Baywatch",
+          "Stream": "https://jmp2.uk/rok-ab47c5037be851e6a929a4d09daafeac.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1669077442140_Baywatch-HUDLOGO-CENTER-260x147-ROKU.png",
+          "description": "La clásica serie de los salvavidas de Baywatch."
+        },
+        {
+          "Title": "Big 12 Studios",
+          "Stream": "https://jmp2.uk/rok-955058d03806e22dbb37bf1ee8d681a1.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1724089069456_big12studios_HUD_centered.png",
+          "description": "Contenido oficial de la Big 12 Conference."
+        },
+        {
+          "Title": "Billiard TV",
+          "Stream": "https://jmp2.uk/rok-0b4814b9a5e53029e2b9aba64ddc1df0.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1755563498113_BilliardTV_Logo_HUDLogo.png",
+          "description": "Competencias de billar y pool."
+        },
+        {
+          "Title": "Canela.TV Deportes",
+          "Stream": "https://jmp2.uk/rok-735c2b7253c551ae9f07b07ea5278b75.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1779312530486_ROKU-Deportes-InfoHUD-1.png",
+          "description": "Deportes y eventos en español de Canela.TV."
+        },
+        {
+          "Title": "Canela.TV Hollywood y Más",
+          "Stream": "https://jmp2.uk/rok-02cdd68d6244543b83ff35d990891463.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1734562662522_ROKU-CanelaTV-InfoHUD-1.png",
+          "description": "Entretenimiento y celebridades de Canela.TV."
+        },
+        {
+          "Title": "Canela.TV Novelas y Dramas",
+          "Stream": "https://jmp2.uk/rok-0a85a15f5ee75646bf386d3de3083a94.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1777923998815_ROKU-NovelasyDramas-InfoHUD-1.png",
+          "description": "Novelas y dramas de Canela.TV."
+        },
+        {
+          "Title": "CHGO Sports",
+          "Stream": "https://jmp2.uk/rok-b238edf1869657abb47970bc9b7bfce1.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1720447133788_Roku_HUD_CHGO.png",
+          "description": "Deportes de Chicago con CHGO Sports."
+        },
+        {
+          "Title": "Cine EstrellaTV",
+          "Stream": "https://jmp2.uk/rok-5dbf591219b15aa8bb3a7b73b59307f0.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1729603771429_LogoCINEEstrellaTV_ForHUD.png",
+          "description": "Películas de EstrellaTV."
+        },
+        {
+          "Title": "Cinépolis Channel",
+          "Stream": "https://jmp2.uk/rok-acf637e8292736265712e3be566c0e5a.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1752626860506_HUD-Logo-260x147.png",
+          "description": "Canal de cine de Cinépolis."
+        },
+        {
+          "Title": "DraftKings",
+          "Stream": "https://jmp2.uk/rok-5976983fa00953dab911a0ebea932943.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1694201368177_Roku_DKN_HUD_Logo_Centered.png",
+          "description": "Deportes y apuestas de DraftKings."
+        },
+        {
+          "Title": "El Rey Rebel",
+          "Stream": "https://jmp2.uk/rok-31d5929928835b90af7bee669e6dd217.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1702918419829_ElReyRebel_Logo_Center_Alligned_260x147.png",
+          "description": "Canal de entretenimiento de El Rey."
+        },
+        {
+          "Title": "Electric Now",
+          "Stream": "https://jmp2.uk/rok-15cc44e50d8453e18f21ea37713319c5.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1660071204893_1605145912343_EN_Logo_WhiteonBlack_260x147.png",
+          "description": "Entretenimiento y cultura pop."
+        },
+        {
+          "Title": "Esports Edge",
+          "Stream": "https://jmp2.uk/rok-8f7350535325c7fad29cb140ef240ed7.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1748009508329_HUD-Logo-Centered.png",
+          "description": "Esports y competiciones de videojuegos."
+        },
+        {
+          "Title": "FILMEX",
+          "Stream": "https://jmp2.uk/rok-1e2a4ec82eb65f729ad7484337c0bcd4.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1659744073738_FMXHD_HUD_WHITE.png",
+          "description": "Películas de FILMEX."
+        },
+        {
+          "Title": "FILMEX Acción",
+          "Stream": "https://jmp2.uk/rok-f53e794f65b781ff1a0d37843c704827.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1766446354112_FMXac_HUD_WHITE.png",
+          "description": "Películas de acción de FILMEX."
+        },
+        {
+          "Title": "FILMEX Clásico",
+          "Stream": "https://jmp2.uk/rok-50cd4d6c632d5172834eb5b77fa395c6.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1659744349180_FMXCHD_HUD_WHITE.png",
+          "description": "Películas clásicas de FILMEX."
+        },
+        {
+          "Title": "FilmRise Western",
+          "Stream": "https://jmp2.uk/rok-c5a72a598a355db4b1781ca075280773.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1673453694643_FilmRiseWestern_HUDlogo_260x147_copy.png",
+          "description": "Películas del oeste de FilmRise."
+        },
+        {
+          "Title": "FOX Sports",
+          "Stream": "https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1697817997944_FOXsports_Logo-monchromtic.png",
+          "description": "Eventos deportivos en vivo y análisis de FOX Sports."
+        },
+        {
+          "Title": "FreeTV Acción",
+          "Stream": "https://jmp2.uk/rok-9fc6583c28985e15b3f05b46f5d77957.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1710282473878_FREETV_Accion_260x147.png",
+          "description": "Películas de acción de FreeTV."
+        },
+        {
+          "Title": "FreeTV Asia",
+          "Stream": "https://jmp2.uk/rok-9b3f0b588b03c9126a053d3eebfc58db.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1736789758464_FreeTV_Asia_HUD_Logo_.png",
+          "description": "Contenido asiático de FreeTV."
+        },
+        {
+          "Title": "Fubo Sports Network",
+          "Stream": "https://jmp2.uk/rok-b4273871759a5631bd536d2214f175e5.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1761774127737_Roku-FSN-Logo-efefef.png",
+          "description": "Deportes en vivo de Fubo Sports."
+        },
+        {
+          "Title": "FUEL TV",
+          "Stream": "https://jmp2.uk/rok-10b859e5e8a1e710680c11dfdfb85c11.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1769180701803_FUEL_TV_HUD__LOGO_260x147_3_pixel_top_and_bottom_border.png",
+          "description": "Deportes de acción y estilo de vida."
+        },
+        {
+          "Title": "Game & Fish TV",
+          "Stream": "https://jmp2.uk/rok-ce9099ad242b5c81c43d513c20d343f7.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1774364040411_Game_Fish_TV_260x147_HUD_EFEFEF.png",
+          "description": "Caza y pesca con Game & Fish TV."
+        },
+        {
+          "Title": "GOLFPASS",
+          "Stream": "https://jmp2.uk/rok-e08aa3af93f95c9db062ce237e90f6d1.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1764960071124_golfpass-fclogo-72-dpi-260-x-147-260-147-roku-hud-logo-center-align-efefef-w-trans-bkgd-1.png",
+          "description": "Golf y contenido de GOLFPASS."
+        },
+        {
+          "Title": "HBCUGO SPORTS",
+          "Stream": "https://jmp2.uk/rok-d5ac470e48d355c19371733b18be8925.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1667009297911_ROKU_Info_HUD_Asset_HBCUGO_260x147_Center.png",
+          "description": "Deportes de universidades históricamente afroamericanas."
+        },
+        {
+          "Title": "Hi-YAH!",
+          "Stream": "https://jmp2.uk/rok-2deae9b4e83550f88f6776c45df08315.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1669078606058_Hi-YAH_260x147.png",
+          "description": "Películas de artes marciales."
+        },
+        {
+          "Title": "Hong Kong Fight Club",
+          "Stream": "https://jmp2.uk/rok-5e73572a69bcac238ce1a9a705050a30.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1754586305562_Roku_HUD_260x147_HKFC.png",
+          "description": "Artes marciales y peleas de Hong Kong."
+        },
+        {
+          "Title": "In The Heat of the Night",
+          "Stream": "https://jmp2.uk/rok-108bd1c824eaca47592ec02c00f0a18a.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1747839494339_InTheHeatOfTheNight_HUDLogo_Centered_260x147.png",
+          "description": "La clásica serie policial In the Heat of the Night."
+        },
+        {
+          "Title": "Maverick Black Cinema",
+          "Stream": "https://jmp2.uk/rok-834e2a09799752b3be7ecaab726b7242.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1657585042524_Kelcie_Schwab_-_Image_HUD_(v2).png",
+          "description": "Cine afroamericano de Maverick."
+        },
+        {
+          "Title": "MGM Presents",
+          "Stream": "https://jmp2.uk/rok-5263332f746c6b1bed25aa6c105a79d9.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1747061592882_MGMPresents_HUDLogo_Centered_260x147.png",
+          "description": "Películas de MGM."
+        },
+        {
+          "Title": "Movie Hub",
+          "Stream": "https://jmp2.uk/rok-d32267711c6a5cf36520716c96b5b3fa.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1741793656039_Movie_Hub_260x147.png",
+          "description": "Películas y contenido de Movie Hub."
+        },
+        {
+          "Title": "Movie Hub Action",
+          "Stream": "https://jmp2.uk/rok-c5cbd4129753f5732d7160596440404f.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1741793611093_Movie_Hub_Action_260x147.png",
+          "description": "Películas de acción de Movie Hub."
+        },
+        {
+          "Title": "MSG SportsZone",
+          "Stream": "https://jmp2.uk/rok-8a55c26c63bdd14653c2b02230b4ac64.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1730998042302_MSGSPORTZONE_Image_HUD.png",
+          "description": "Deportes de MSG SportsZone."
+        },
+        {
+          "Title": "NBC Sports NOW",
+          "Stream": "https://jmp2.uk/rok-a90a91570ce0536cbb22b591ad7e0da2.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1736299139819_nbc-sports-now-fclogo-72-dpi-260-x-147-260-147-roku-hud-logo-center-align-efefef-w-trans-bkgd-1.png",
+          "description": "Canal de deportes en vivo y noticias de NBC."
+        },
+        {
+          "Title": "NESN NATION",
+          "Stream": "https://jmp2.uk/rok-1d720f86119e6cb8d2a8eae051242554.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1734483969379_NESNNATION_ICON_260x147BillWatts.png",
+          "description": "Deportes de Nueva Inglaterra de NESN."
+        },
+        {
+          "Title": "NHRA TV",
+          "Stream": "https://jmp2.uk/rok-82bd10ceb52152a7adb6bdc5d776e794.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1669151466290_NHRA-RokuChannel-260x147-hud_centered.png",
+          "description": "Carreras de dragsters de NHRA."
+        },
+        {
+          "Title": "Overtime",
+          "Stream": "https://jmp2.uk/rok-52451c26422c45e087820bb0a13a69ab.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1764174960741_HUD_Logo_Centered_Bill_Watts.png",
+          "description": "Deportes y contenido de Overtime."
+        },
+        {
+          "Title": "Pam Grier's Soul Flix",
+          "Stream": "https://jmp2.uk/rok-e7b30e2a58409242100d0edd2bfebbfd.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1734494082178_PGSF_HUDAthanasiosTsiris.png",
+          "description": "Películas de culto de Pam Grier."
+        },
+        {
+          "Title": "PBR: Ride Pass",
+          "Stream": "https://jmp2.uk/rok-262b9a3f6220e5c070cb0ab316ee1128.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1744402737715_PBRRidepass_CenterAlign_260x147.png",
+          "description": "Competencias de rodeo y monta de toros de PBR."
+        },
+        {
+          "Title": "PFL MMA",
+          "Stream": "https://jmp2.uk/rok-e46ac8cd0299b4c5f1403d999a432561.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1746567430962_PFL_260x147_Logo_Center.png",
+          "description": "Artes marciales mixtas de la Professional Fighters League."
+        },
+        {
+          "Title": "PHLY Sports",
+          "Stream": "https://jmp2.uk/rok-9ec48964d9b9502396f19fcb3a527074.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1720539914940_Roku_HUD_PHLY.png",
+          "description": "Deportes de Philadelphia de PHLY."
+        },
+        {
+          "Title": "PopCorn Central",
+          "Stream": "https://jmp2.uk/rok-a208207740dabd5e846e107b84db9123.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1778891092269_Info-HUD-channel-Identifier_260x147.png",
+          "description": "Películas y contenido de entretenimiento."
+        },
+        {
+          "Title": "Power Rangers",
+          "Stream": "https://jmp2.uk/rok-f66aa243a9465896ac3e7eaef7cba3fd.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1683056022523_PWR_FAST_HUD_Logo_top_260x147.png",
+          "description": "La clásica serie de Power Rangers."
+        },
+        {
+          "Title": "PursuitUP",
+          "Stream": "https://jmp2.uk/rok-330e3534b1614aad9cc2740c522a5b59.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1755563221837_InfoHUD.png",
+          "description": "Contenido de deportes y estilo de vida."
+        },
+        {
+          "Title": "Red Bull TV",
+          "Stream": "https://jmp2.uk/rok-c5e8a74546771de365652cd053f73351.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1747061731258_260x147_hud_rbtv_logo.png",
+          "description": "Deportes extremos, música y cultura de Red Bull."
+        },
+        {
+          "Title": "Ryz Sports Network",
+          "Stream": "https://jmp2.uk/rok-5f9c59c52f0ad475d90a33fdfd14d651.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1755024648037_Ryz_Roku_EPG_DarkBG_V3.png",
+          "description": "Deportes y eventos de Ryz Sports."
+        },
+        {
+          "Title": "Scripps Sports Network",
+          "Stream": "https://jmp2.uk/rok-2aefb6659b573e55d0eb5fd2ff580079.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1774543313680_Roku_HUD-LOGO_CENTER_260x147.png",
+          "description": "Deportes de Scripps Sports."
+        },
+        {
+          "Title": "SI TV",
+          "Stream": "https://jmp2.uk/rok-43cf05708aedb8418dbdb286e28c4c1b.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1778868180085_SITV_Roku_Logo_infoHUD_260x147.png",
+          "description": "Deportes de Sports Illustrated."
+        },
+        {
+          "Title": "SPORTSGRID",
+          "Stream": "https://jmp2.uk/rok-62f1cd0d4c395a2a8ab72cff688666a0.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1668537442136_ROKU-SPORTSGRID-LIVE-HUD-LOGO-EFEFEF.png",
+          "description": "Noticias y análisis deportivos 24/7."
+        },
+        {
+          "Title": "Stargate",
+          "Stream": "https://jmp2.uk/rok-11c7c3660c6b6f18a21838fd404a7a1d.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1749756384598_Stargate_HUDLogo_Centered_260x147.png",
+          "description": "La serie de ciencia ficción Stargate."
+        },
+        {
+          "Title": "Stingray Hooked",
+          "Stream": "https://jmp2.uk/rok-17059eafd4718bca691ba93aacb3fa8d.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1775671015363_StingrayHooked_HUDlogo_centered_260x147.png",
+          "description": "Pesca y deportes acuáticos de Stingray."
+        },
+        {
+          "Title": "Swerve Combat",
+          "Stream": "https://jmp2.uk/rok-8c48bcf59acd57779977b83a41fac919.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1697035676086_Swerve_Combat_Logo_260x147_Center_Align_White.png",
+          "description": "Artes marciales y combates de Swerve."
+        },
+        {
+          "Title": "Swerve Women’s Sports",
+          "Stream": "https://jmp2.uk/rok-51dea927355343df5a6f26545d07adc8.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1764599519489_Swerve_Womens_Sports_260x147_Info_HUD_Channel_Identifier.png",
+          "description": "Deportes femeninos de Swerve."
+        },
+        {
+          "Title": "Team USA TV",
+          "Stream": "https://jmp2.uk/rok-257afd66cee15a1ca2125fc377e87cc2.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1718724430937_TeamUSATV_HUDLogo_260x147.png",
+          "description": "Contenido del equipo olímpico de Estados Unidos."
+        },
+        {
+          "Title": "Tennis+",
+          "Stream": "https://jmp2.uk/rok-c938a72f44eca56206b4b585ab01cad5.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1763502607268_MR-25-027Tennis_Plus_Roku_HUD_260x147px.png",
+          "description": "Tenis y contenido de Tennis+."
+        },
+        {
+          "Title": "The Women's Sports Network",
+          "Stream": "https://jmp2.uk/rok-11f70f2cc59750f4ad9a019d72ad17b1.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1705940612752_WSNLogo_HUDCenter.png",
+          "description": "Deportes femeninos de The Women's Sports Network."
+        },
+        {
+          "Title": "TNA Wrestling Channel",
+          "Stream": "https://jmp2.uk/rok-6d8659091f745b8b864f438f06c56fae.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1709314978559_TNAWrestling_Roku_WhiteLogo_CenterAligned_260x147.png",
+          "description": "Lucha libre y combates de TNA."
+        },
+        {
+          "Title": "Todo Cine",
+          "Stream": "https://jmp2.uk/rok-b015fcbafb496320954672321e746f8a.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1758347842585_LOGO_Todocine_Roku_HUD-verticalRoxannaTork.png",
+          "description": "Películas de todo género en español."
+        },
+        {
+          "Title": "Top Rank Classics",
+          "Stream": "https://jmp2.uk/rok-c0b79a332cfd90b8eeb6d4a0dcb63674.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1730998467166_TRClassics_HUD.png",
+          "description": "Boxeo clásico de Top Rank."
+        },
+        {
+          "Title": "Universal Westerns",
+          "Stream": "https://jmp2.uk/rok-8346cc0f3d415e39875fca80b67fd951.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1701820121460_Universal-Western-ROKU-HUD-LOGO-260x147.png",
+          "description": "Películas del oeste de Universal."
+        },
+        {
+          "Title": "ViX Lo Mejor de Liga MX",
+          "Stream": "https://jmp2.uk/rok-35633f08c98857cb9e85c91eae17c0d5.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1749856192932_LoMejorDeLigaMX_HUD_ChannelLogo_260x147px.png",
+          "description": "Lo mejor de la Liga MX por ViX."
+        },
+        {
+          "Title": "World Surf League",
+          "Stream": "https://jmp2.uk/rok-4152241b9d223469e331491b1afad685.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1778863419296_world_surf_league_logo_hud.png",
+          "description": "Competencias y eventos de surf de clase mundial."
+        },
+        {
+          "Title": "X Games TV",
+          "Stream": "https://jmp2.uk/rok-0128b5f756acf1e1c488509fd76b0a61.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1758735344999_X_Games_TV_260x147_White.png",
+          "description": "Deportes extremos de los X Games."
+        },
+        {
+          "Title": "Xena",
+          "Stream": "https://jmp2.uk/rok-302d8d86738c0ab83d0ca3a5e2df3492.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1757537081513_Xena_260x147_2x1_channel_logo_center_align_EFEFEF_transparent_bkgd_roku_PNG.png",
+          "description": "La serie de aventuras de Xena: Warrior Princess."
+        },
+        {
+          "Title": "Yahoo! Sports Network",
+          "Stream": "https://jmp2.uk/rok-0a1fae7f18a56923219beb5b34b098f3.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1755563347829_YahooSportsNetwork_HUD_logo_260x147_centre_aligned.png",
+          "description": "Deportes y contenido de Yahoo! Sports."
+        }
+      ]
+    },
+    {
+      "title": "TV & ENTERTAINMENT",
+      "episodes": [
+        {
+          "Title": "About K-Content by CJ ENM",
+          "Stream": "https://jmp2.uk/rok-ed1ad60fa9a05f34bf5d4e8b09460d6b.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1665780149983_INFO_HUD_72dpi_copy.png",
+          "description": "Contenido coreano de CJ ENM."
+        },
+        {
+          "Title": "Acorn TV Mysteries",
+          "Stream": "https://jmp2.uk/rok-fb8579bf16248ce630f42f129ed2e8d5.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1761252500000_ACORNTV_MYSTERIES_hud_efefef_center_260x147_Bill_Watts.png",
+          "description": "Misterios y dramas de Acorn TV."
+        },
+        {
+          "Title": "America's Got Talent",
+          "Stream": "https://jmp2.uk/rok-3580b15015379c4256440b0e119d46ed.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1775265472400_AGT_HUD_260x147_CenterAligned.png",
+          "description": "El famoso concurso de talentos America's Got Talent."
+        },
+        {
+          "Title": "American Ninja Warrior",
+          "Stream": "https://jmp2.uk/rok-eec9d131b4095083a23c485d804c8b2d.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1713548868549_ANW_260x147_2x1_logo_center_align_EFEFEF_transparent_bkgd_roku_PNG.png",
+          "description": "El desafiante programa de obstáculos American Ninja Warrior."
+        },
+        {
+          "Title": "Ancient Aliens",
+          "Stream": "https://jmp2.uk/rok-fe08b9ce5c80c8a52c5253d026d9395c.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1746641426935_Ancient_Aliens_GM_HUD_logoefefef_center_aligned_260x147.png",
+          "description": "Documentales sobre la teoría de los antiguos alienígenas."
+        },
+        {
+          "Title": "Artflix",
+          "Stream": "https://jmp2.uk/rok-205560cb5f4b7d87ad7073c53a81f931.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1774998796214_Artflix_monochromatic_logo_260x147.png",
+          "description": "Arte y cultura en Artflix."
+        },
+        {
+          "Title": "Azteca Internacional",
+          "Stream": "https://jmp2.uk/rok-5e709cfe55d955ec899903cde681a5a4.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1698120582938_AI_Roku_260x147_Mono_INTERNACIONAL_CB_Oct23.png",
+          "description": "Señal internacional de Azteca."
+        },
+        {
+          "Title": "Best of Dr. Phil",
+          "Stream": "https://jmp2.uk/rok-6d4ae9d9d0df5122a0811cff961b24b2.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1720707124410_DR-Phil_HUD-v2.png",
+          "description": "Lo mejor del Dr. Phil."
+        },
+        {
+          "Title": "Braxton Family Values",
+          "Stream": "https://jmp2.uk/rok-83d43dc731781826c0e004c1fa879a5f.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1763398151629_WEtv_BFV_ChannelLogo_EPG_260x147_InfoHUD2_Horiz_efefef_Bill_Watts.png",
+          "description": "El reality de la familia Braxton."
+        },
+        {
+          "Title": "Bridezillas",
+          "Stream": "https://jmp2.uk/rok-9736abd83294d5fc1663fe8cfe3fcec8.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1763398177011_WEtv_BZ_ChannelLogo_EPG_260x147_InfoHUD2_Horiz_efefef_Bill_Watts.png",
+          "description": "El reality de novias extremas Bridezillas."
+        },
+        {
+          "Title": "Canal ViX",
+          "Stream": "https://jmp2.uk/rok-e3823bb513585861904499a21a736c4f.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1743194357309_CanalViX_HUD_ChannelLogo_260x147px.png",
+          "description": "Canal de entretenimiento de ViX."
+        },
+        {
+          "Title": "Canela.TV Narco-Drama",
+          "Stream": "https://jmp2.uk/rok-3bc1756db0ef525b9cab86edcd426c55.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1734562691721_ROKU-NarcoDrama-InfoHUD-1.png",
+          "description": "Narco-dramas de Canela.TV."
+        },
+        {
+          "Title": "Canela.TV Novelas Turcas",
+          "Stream": "https://jmp2.uk/rok-7913b5796de15cb9ab8dfd392d769dec.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1777924120812_ROKU-Novelas_turcas-InfoHUD-1.png",
+          "description": "Novelas turcas de Canela.TV."
+        },
+        {
+          "Title": "Caso Cerrado",
+          "Stream": "https://jmp2.uk/rok-0de9839c79b758589c580dcdd4b40a8a.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1747831065584_CASO_CERRADO_260x147_2x1_logo_center_align_EFEFEF_transparent_bkgd_roku.png",
+          "description": "El famoso programa de casos legales de la Dra. Polo."
+        },
+        {
+          "Title": "Chaos on Cam by A&E",
+          "Stream": "https://jmp2.uk/rok-99e44ea6699928b32c444dce774b9b32.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1751556977789_Chaos_On_Cam_by_AE_HUD_logo__efefef_center_aligned_260x147.png",
+          "description": "Caos y situaciones extremas captadas en cámara por A&E."
+        },
+        {
+          "Title": "Cheaters",
+          "Stream": "https://jmp2.uk/rok-363301aa078e555ebd034290488bc9cf.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1659118071445_TRC_xumoTile_FilmRiseCheaters_LogoFilesFilmRiseCheaters_HUD_logo_260x147.png",
+          "description": "El programa de infidelidades Cheaters."
+        },
+        {
+          "Title": "Complex TV",
+          "Stream": "https://jmp2.uk/rok-2a243861dea754eabb13a92e1106a4af.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1775050519108_ROKU_Editable_260x147_Cente.png",
+          "description": "Entretenimiento y cultura pop de Complex."
+        },
+        {
+          "Title": "Confess by Nosey",
+          "Stream": "https://jmp2.uk/rok-390053bfbc6858999cb0d6354b57d938.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1685734780162_Confess-by-NoseyImage-HUD-1_260x147px_1_Tayler_Petrowski.png",
+          "description": "Confesiones y testimonios de Nosey."
+        },
+        {
+          "Title": "Cuando Los Angeles Caen",
+          "Stream": "https://jmp2.uk/rok-a61227fe8ede21ffc0e223763ccbe42f.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1760152096030_CLAC_260X147_EFEFEF.png",
+          "description": "Drama y romance en español."
+        },
+        {
+          "Title": "EMOCIÓN ATRES TV",
+          "Stream": "https://jmp2.uk/rok-770c7e1794505869b1ce94c84905ecea.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1764947814081_LOGO_EA3TV-HUD-HORIZONTAL.png",
+          "description": "Emoción y entretenimiento de ATRES TV."
+        },
+        {
+          "Title": "Fear Zone",
+          "Stream": "https://jmp2.uk/rok-28d3ed9e6ad36c56204da57cd84d2036.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1741793631371_Fear_Zone_260x147.png",
+          "description": "Terror y suspenso en Fear Zone."
+        },
+        {
+          "Title": "FGTeeV",
+          "Stream": "https://jmp2.uk/rok-e63d49e8acd7557596d091b3fa262999.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1716490196649_FGTeeV_HUD_logo_260x147.png",
+          "description": "Contenido de la familia de youtubers FGTeeV."
+        },
+        {
+          "Title": "FilmRise Autopista al Cielo",
+          "Stream": "https://jmp2.uk/rok-b602b0edb0cd58a5a5be2b7554166c07.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1661549850767_FR_AutopistaAlCielo_HUD_CenterAligned.png",
+          "description": "Series y películas en español de FilmRise."
+        },
+        {
+          "Title": "FilmRise Black TV",
+          "Stream": "https://jmp2.uk/rok-885d5897052b53709a83c4947174cd09.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1766158148154_RokuChannel_FilmRiseBlackTV_HUD_Logo_260x147.png",
+          "description": "Contenido afroamericano de FilmRise."
+        },
+        {
+          "Title": "FilmRise British TV",
+          "Stream": "https://jmp2.uk/rok-dead0e7a46da533c94c61c8710ef3418.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1766001306928_RokuChannel_FilmRiseBritishTV_HUD_Logo_260x147.png",
+          "description": "Series británicas de FilmRise."
+        },
+        {
+          "Title": "FilmRise Classic TV",
+          "Stream": "https://jmp2.uk/rok-e2e10d08139b56aba73a448f5555b6fd.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1673450928764_FilmRise-ClassicTV_260x147_copy.png",
+          "description": "Clásicos de la televisión de FilmRise."
+        },
+        {
+          "Title": "FilmRise Creators",
+          "Stream": "https://jmp2.uk/rok-067e6b6fa36352ad8984a8d97c9a39d4.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1766158180785_RokuChannel_FilmRiseCreators_HUD_Logo_260x147.png",
+          "description": "Contenido de creadores de FilmRise."
+        },
+        {
+          "Title": "FilmRise Free Movies",
+          "Stream": "https://jmp2.uk/rok-d6f71998860459eca1bed73db5988330.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1766001381678_RokuChannel_FilmRiseFreeMovies_HUD_Logo_260x147.png",
+          "description": "Películas gratis de FilmRise."
+        },
+        {
+          "Title": "FilmRise Películas Gratis",
+          "Stream": "https://jmp2.uk/rok-5b4b59af18ff5686916ef5eb3574de46.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1766158247861_RokuChannel_FilmRisePeliculasGratis_HUD_Logo_260x147.png",
+          "description": "Películas gratis en español de FilmRise."
+        },
+        {
+          "Title": "FilmRise Series Gratis",
+          "Stream": "https://jmp2.uk/rok-4010582bb66b58a69151a4f552de0823.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1772664425410_RokuChannel_FilmRiseSeriesGratis_HUD_Logo_260x147.png",
+          "description": "Series gratis en español de FilmRise."
+        },
+        {
+          "Title": "FreeTV Estelar",
+          "Stream": "https://jmp2.uk/rok-beb2be3222295798a8828458bea458ba.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1710282592041_FREETV_Estelar_center_260x147.png",
+          "description": "Entretenimiento estelar de FreeTV."
+        },
+        {
+          "Title": "FreeTV Sureño",
+          "Stream": "https://jmp2.uk/rok-59d2dbddc997559bb7b689a7c887cba4.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1707769538137_FreeTVSureno260x147.png",
+          "description": "Contenido sureño de FreeTV."
+        },
+        {
+          "Title": "Ghost Hunters",
+          "Stream": "https://jmp2.uk/rok-e3a9171a7b9155ca89ba9f7f3e1a6bde.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1692646351368_Ghosthunters_Roku_HUD_Center.png",
+          "description": "El programa de cazadores de fantasmas Ghost Hunters."
+        },
+        {
+          "Title": "Grit Xtra",
+          "Stream": "https://jmp2.uk/rok-923cd8e7aa1e5a5898aad41fdf6a0f0f.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1666130988945_GRITX_HUD_EFEFEF.png",
+          "description": "Películas de acción y aventura de Grit."
+        },
+        {
+          "Title": "Growing Up Hip Hop WeTV",
+          "Stream": "https://jmp2.uk/rok-a4d5fe37a0f5592dee5dbbb242d73fac.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1731689489118_Roku_GUHH_WEtv_HUD1_260x147_efefef.png",
+          "description": "El reality Growing Up Hip Hop de WeTV."
+        },
+        {
+          "Title": "Highway To Heaven",
+          "Stream": "https://jmp2.uk/rok-dcecb48012b5c99824cb0b1667f4499c.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1755912293749_HighwaytoHeaven_HUDlogo_centered_260x147.png",
+          "description": "La clásica serie Highway to Heaven."
+        },
+        {
+          "Title": "Homeful",
+          "Stream": "https://jmp2.uk/rok-9c7a717f25a15b9997c6e3fd5f43a1a6.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1684959086175_Homeful_Roku_HUDLogo_Centred_260x147.png",
+          "description": "Hogar y estilo de vida de Homeful."
+        },
+        {
+          "Title": "Hot Ones",
+          "Stream": "https://jmp2.uk/rok-fb29ccf15bc8583ca1db8c42902eeae8.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1704849123507_TRC_xumoTile_FilmRiseHotOnes_HUD_logo_260x147.png",
+          "description": "El famoso show de entrevistas con alitas picantes, Hot Ones."
+        },
+        {
+          "Title": "HSN HD",
+          "Stream": "https://jmp2.uk/rok-0057bb20ce6c5717a5a025f2a73b682a.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1666302963501_RokuChannel_HUD_Image-2_260x147.png",
+          "description": "Canal de compras HSN en HD."
+        },
+        {
+          "Title": "Jesser",
+          "Stream": "https://jmp2.uk/rok-3e3a190fdc49eb3b256dc2b5bb30bc5b.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1779300192122_jesser_logo_hud.png",
+          "description": "Contenido del creador Jesser."
+        },
+        {
+          "Title": "Johnny Carson TV",
+          "Stream": "https://jmp2.uk/rok-92b50144a69f5862a6d398c478fa6aa0.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1653092678249_JCARTVChannel_RokuLogo_260x147.png",
+          "description": "Clásicos del show de Johnny Carson."
+        },
+        {
+          "Title": "JoySauce Network",
+          "Stream": "https://jmp2.uk/rok-c286329d1f29a733310084d34ad01f3c.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1779409759874_nfo_HUD_logo_260x147.png",
+          "description": "Contenido asiático-americano de JoySauce."
+        },
+        {
+          "Title": "Kanal D Drama",
+          "Stream": "https://jmp2.uk/rok-e498eb91cd01d4c0c0acdb5ea7c736ab.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1771623196005_VIVE-KANAL-D-DRAMA-HUD_260x147.png",
+          "description": "Dramas turcos de Kanal D."
+        },
+        {
+          "Title": "Life with Derek",
+          "Stream": "https://jmp2.uk/rok-223627443ebe5007b1b9461cc1ea297e.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1673908127607_Roku_HUD_Logo_2_Life_With_Derek_260x147_Jeff_Cooke.png",
+          "description": "La serie adolescente Life with Derek."
+        },
+        {
+          "Title": "Lucha Plus",
+          "Stream": "https://jmp2.uk/rok-43623368b9c3704a5ea138fbaac14735.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1741654115050_Roku_260x147_White_Channel_Lucha_Plus_Logo.png",
+          "description": "Lucha libre mexicana de Lucha Plus."
+        },
+        {
+          "Title": "Midsomer Murders",
+          "Stream": "https://jmp2.uk/rok-d1e4e369eda359c897e1fdfd8286b19b.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1663971266370_MIDSOMER_MURDERS_260Wx147H_EPG_IMAGE_HUD_2.png",
+          "description": "La serie británica de misterio Midsomer Murders."
+        },
+        {
+          "Title": "MrBeast",
+          "Stream": "https://jmp2.uk/rok-bcd2f34b280f5bae874ed3b487a96e96.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1691089927361_mrBeastHUD-Logo-horizontal.png",
+          "description": "Canal del famoso youtuber MrBeast."
+        },
+        {
+          "Title": "My Time Movie Network",
+          "Stream": "https://jmp2.uk/rok-be3c81de355c56f89cbf99301735cfd2.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1654727499791_MyTime_Roku_ChannelLogos_260x147.png",
+          "description": "Películas de My Time Movie Network."
+        },
+        {
+          "Title": "Nomad Travel",
+          "Stream": "https://jmp2.uk/rok-fe7b038fa20279cab55f8625ebe31d02.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1775595369068_Nomad_Logo_Mono_260x147.png",
+          "description": "Viajes y aventura de Nomad Travel."
+        },
+        {
+          "Title": "Nosey",
+          "Stream": "https://jmp2.uk/rok-d216c2141a835cfcbe34a7d1b7d2e078.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1657584797446_Nosey_TRC_Logo_260x147.png",
+          "description": "Entretenimiento de Nosey."
+        },
+        {
+          "Title": "Nosey Daytime Talk",
+          "Stream": "https://jmp2.uk/rok-be0ab85669d41bc5f60de22bace4ac5a.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1779299707273_nosey_daytime_talk_logo_hud.png",
+          "description": "Talk shows diurnos de Nosey."
+        },
+        {
+          "Title": "Paternity Court",
+          "Stream": "https://jmp2.uk/rok-ce8a61a75e94b71f52ad51ed92b1ec65.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1749753178405_PaternityCourt_HUDLogo_Centered_260x147.png",
+          "description": "El programa de tribunales de paternidad."
+        },
+        {
+          "Title": "PBS Retro",
+          "Stream": "https://jmp2.uk/rok-34335ef32c02519d897664a78767cc59.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1772722428276_260x147_CenterAligned.png",
+          "description": "Clásicos de PBS."
+        },
+        {
+          "Title": "Portlandia IFC",
+          "Stream": "https://jmp2.uk/rok-753bb09547f701d2e6d0f66bee0ee589.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1730998272708_AMCN_PortlandiaIFC_Roku_HUD2_260x147.png",
+          "description": "La serie de comedia Portlandia de IFC."
+        },
+        {
+          "Title": "Property Brothers",
+          "Stream": "https://jmp2.uk/rok-a368317a32af553793c90d3ce1a09afa.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1697827635537_propertybros260-147.png",
+          "description": "El reality de renovaciones Property Brothers."
+        },
+        {
+          "Title": "QVC",
+          "Stream": "https://jmp2.uk/rok-015c83c4485a597d9e2132252e2a75ae.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1666303047488_QVC_RokuChannel_HUD_Image-2_260x147.png",
+          "description": "Canal de compras en vivo."
+        },
+        {
+          "Title": "Reelz Famous and Infamous",
+          "Stream": "https://jmp2.uk/rok-8abbea29b86a5a5da299c7ef2e288cab.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1733326414482_ReelzFI_260x147_v1.png",
+          "description": "Documentales sobre famosos e infames de Reelz."
+        },
+        {
+          "Title": "Revolt Mixtape",
+          "Stream": "https://jmp2.uk/rok-07143b8eb2940144933e5faadb8c19e2.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1748884189656_REVOLTMIXTAPE_EFEFEF_260x147.png",
+          "description": "Música y cultura de Revolt."
+        },
+        {
+          "Title": "Revry",
+          "Stream": "https://jmp2.uk/rok-5199d161259a5f3c93c3c5d3532d3732.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1748880492330_Roku_HUD_Revry_260x147.png",
+          "description": "Contenido LGBTQ+ de Revry."
+        },
+        {
+          "Title": "Runtime Español",
+          "Stream": "https://jmp2.uk/rok-eaeb1f4ef8ed510e8bc2a3fd78510c30.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1752267199574_Runtime_USH_HUD_260x147.png",
+          "description": "Películas y series en español de Runtime."
+        },
+        {
+          "Title": "SNL Vault",
+          "Stream": "https://jmp2.uk/rok-9349c516ca6456b9b5ed7e20cb1c1384.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1758302529388_snlvault_260x147_HUD.png",
+          "description": "Lo mejor de Saturday Night Live."
+        },
+        {
+          "Title": "Spark TV - Luz & Amor",
+          "Stream": "https://jmp2.uk/rok-b0d5db7f498f56fcaf1f8289eea6ea4d.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1658958888898_1651872075315_Anthony_Straga_-_SparkTV_ROKU-US-SPANISH_HUD-2_v2.png",
+          "description": "Contenido inspirador y romántico en español."
+        },
+        {
+          "Title": "Stingray Cityscapes",
+          "Stream": "https://jmp2.uk/rok-73991aa61267bcc005a855c7b6303afc.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1750260327511_StingrayCityscapes_HUDlogo_centered_260x147.png",
+          "description": "Paisajes urbanos relajantes de Stingray."
+        },
+        {
+          "Title": "Stingray Cozy Cafe",
+          "Stream": "https://jmp2.uk/rok-f8f717f72440fb688192f83faa71a8ab.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1750260347726_CozyCafe_HUDlogo_centered_260x147.png",
+          "description": "Música y ambiente acogedor de Stingray."
+        },
+        {
+          "Title": "Stingray Naturescape",
+          "Stream": "https://jmp2.uk/rok-d12329eda6e3dcc1f42ce2a350a4623d.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1750260369972_Stingray_naturescape_HUDlogo_centered_260x147.png",
+          "description": "Paisajes naturales relajantes de Stingray."
+        },
+        {
+          "Title": "Stingray Stargaze",
+          "Stream": "https://jmp2.uk/rok-8b564fb868f8f1d49a1986123724ef18.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1750260428060_StingrayStargaze_HUDlogo_centered_260x147.png",
+          "description": "Observación de estrellas de Stingray."
+        },
+        {
+          "Title": "Stingray Zen Life",
+          "Stream": "https://jmp2.uk/rok-79876f8f79d0394ba8982259393e5e32.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1750260443435_StingrayZENlife_HUDlogo_centered_260x147.png",
+          "description": "Vida zen y relajación de Stingray."
+        },
+        {
+          "Title": "Telemundo Acción",
+          "Stream": "https://jmp2.uk/rok-5ae9fb0c6e015b0d951063f6a6b39ee5.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1711394905485_telemundo-acci-n-fclogo-72-dpi-260-x-147-260-147-roku-hud-logo-center-align-efefef-w-trans-bkgd-1_(1).png",
+          "description": "Películas de acción de Telemundo."
+        },
+        {
+          "Title": "The Carol Burnett Show",
+          "Stream": "https://jmp2.uk/rok-e3cd976116d5578ab9be32baa738ade2.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1653087138529_TCBS_260x147_centered.png",
+          "description": "Clásicos del legendario show de Carol Burnett."
+        },
+        {
+          "Title": "The Dick Van Dyke Show",
+          "Stream": "https://jmp2.uk/rok-b84d4953c086589c9d5202b7895552a7.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1673454632549_Dick_Van_Dyke_HUDlogo_centered_260x147.png",
+          "description": "La clásica serie de comedia The Dick Van Dyke Show."
+        },
+        {
+          "Title": "The Ed Sullivan Show",
+          "Stream": "https://jmp2.uk/rok-707e6e216be8369fb30f6960f8cf667e.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1731437958811_Ed_Sullivan-HUD-Logo.png",
+          "description": "Clásicos del legendario show de Ed Sullivan."
+        },
+        {
+          "Title": "The Graham Norton Show",
+          "Stream": "https://jmp2.uk/rok-5934441271a0583124d84d704f600bcc.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1731009344280_GrahamNorton_HUD_Logo.png",
+          "description": "El famoso talk show de Graham Norton."
+        },
+        {
+          "Title": "The Masked Singer",
+          "Stream": "https://jmp2.uk/rok-34b686f999ecaacfbcd91bb5195c3124.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1739302196547_MS_ROKU_HUD_Logo_2.png",
+          "description": "El concurso de canto con celebridades enmascaradas."
+        },
+        {
+          "Title": "Todo Novelas Más Pasiones",
+          "Stream": "https://jmp2.uk/rok-db95a237643ea0eea113c6c024515df2.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1728506237013_LOGO_TODO_NOVELAS_HUD_260x147SusyGomez.png",
+          "description": "Novelas y pasiones en español."
+        },
+        {
+          "Title": "Top Barça",
+          "Stream": "https://jmp2.uk/rok-b3eb95a883bfcd7b458d9ec965cedb35.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1744407060327_Roku_EPS_LogoHUD_260x147__.png",
+          "description": "Contenido del FC Barcelona."
+        },
+        {
+          "Title": "Tribeca Channel",
+          "Stream": "https://jmp2.uk/rok-2547ef42e2f45bbaa84752657cffe3c9.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1669147007249_tribeca_HUDlogo_centered_260x147.png",
+          "description": "Cine independiente de Tribeca."
+        },
+        {
+          "Title": "TVOAI Channel",
+          "Stream": "https://jmp2.uk/rok-a77b94bceefad7df653d27acc05ae420.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1738699180944_hud_logo-2.png",
+          "description": "Entretenimiento de TVOAI."
+        },
+        {
+          "Title": "Unspeakable",
+          "Stream": "https://jmp2.uk/rok-11a0e337ea9b53d4b7a9517e219d7f5b.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1704849191652_TRC_xumoTile_FilmRiseUnspeakable_HUD_logo_260x147.png",
+          "description": "Contenido del youtuber Unspeakable."
+        },
+        {
+          "Title": "Vas O No Vas USA",
+          "Stream": "https://jmp2.uk/rok-cdfd1ee39343a406984976d2687e894d.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1765921837825_DealOrNoDealUSA-LATAM_HUD_logo_260x147.png",
+          "description": "El concurso Deal or No Deal en español."
+        },
+        {
+          "Title": "Venevisión Internacional",
+          "Stream": "https://jmp2.uk/rok-cc04d77fd589a818cd036c850b6be867.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1744240561744_LogoVVI260-147NoBKG.png",
+          "description": "Canal internacional de la cadena venezolana Venevisión."
+        },
+        {
+          "Title": "ViX Grandes Parejas",
+          "Stream": "https://jmp2.uk/rok-09430bcd30bf5b30a96ca22ecb87e3e1.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1678481080081_GrandesParejas_HUD_Logo_260x147.png",
+          "description": "Novelas de grandes parejas de ViX."
+        },
+        {
+          "Title": "ViX Jajaja",
+          "Stream": "https://jmp2.uk/rok-c51c18ade0bd5b68b5e9bfa83410e372.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1678481111596_JAJAJA_HUD_Logo_260x147.png",
+          "description": "Comedia de ViX."
+        },
+        {
+          "Title": "ViX Novelas de oro",
+          "Stream": "https://jmp2.uk/rok-ab6cd6569bf6557a8c5d9798cfce202b.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1704751782970_NovelasdeOro_RokuHub_260x147_White.png",
+          "description": "Novelas clásicas de ViX."
+        },
+        {
+          "Title": "ViX Novelas en familia",
+          "Stream": "https://jmp2.uk/rok-1d889b474b205fe385a2c552aa909b94.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1704751831441_NovelasEnFamilia_RokuHub_260x147_White.png",
+          "description": "Novelas familiares de ViX."
+        },
+        {
+          "Title": "ViX Villanos de Novela",
+          "Stream": "https://jmp2.uk/rok-7b5699f58b2b54be9da4d23fe354fb59.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1678481229409_VillanosDeNovela_HUD_Logo_260x147.png",
+          "description": "Villanos de novelas de ViX."
+        },
+        {
+          "Title": "Wapa+",
+          "Stream": "https://jmp2.uk/rok-34beeb8efcb656f08d91298bb94e1815.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1709832111326_Logo_wapaplus_260x147px_dark_29feb_marketing_HMTV.png",
+          "description": "Entretenimiento de Wapa+."
+        },
+        {
+          "Title": "ÚNICA TV",
+          "Stream": "https://jmp2.uk/rok-427be38e736e5c6e92bd1cec086e941a.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1763491674042_LOGO_uNICATV-HUD-HORIZONTALefefef.png",
+          "description": "Entretenimiento en español de ÚNICA TV."
+        }
+      ]
+    },
+    {
+      "title": "WEATHER",
+      "episodes": [
+        {
+          "Title": "AccuWeather NOW",
+          "Stream": "https://jmp2.uk/rok-f95c40a17cfe5b9fb1970192e378fb0c.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1655146991984_Roku_HUD.png",
+          "description": "Clima y pronósticos de AccuWeather."
+        },
+        {
+          "Title": "Weathernation",
+          "Stream": "https://jmp2.uk/rok-a1e38b83ae2a56f09f4d2ee8ed206b35.m3u8",
+          "Logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1670264331925_WN_Roku_EPG_centered.png",
+          "description": "Noticias del clima de Weathernation."
+        }
+      ]
+    }
+  ]
+},
+        {
           "Title": "CANALES EN VIVO",
           "Logo": "https://static.vecteezy.com/system/resources/previews/000/931/914/non_2x/retro-television-poster-vector.jpg",
           "type": "series",
