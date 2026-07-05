@@ -1166,6 +1166,12 @@
               "title": "Canales",
               "episodes": [
                 {
+  "Title": "TELEMUNDO COPA MUNDIAL 2026",
+  "Stream": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
+  "Logo": "https://i.pinimg.com/736x/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg",
+  "description": "Transmisión en vivo de la Copa Sub 2026. Sigue todos los partidos del torneo de fútbol Sub-20."
+                },
+                {
                   "Title": "GOLDEN",
                   "Stream": "http://179.60.51.134:8888/GOLDEN/index.m3u8",
                   "Logo": "https://ejemplo.com/logo-musica-tv.jpg",
