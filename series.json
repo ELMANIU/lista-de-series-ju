@@ -4,6 +4,49 @@
       "title": "PELÍCULAS",
       "items": [
         {
+  "Title": "AGREGADO RECIENTEMENTE",
+  "Logo": "https://img.magnific.com/vector-gratis/fondo-super-cine_52683-1698.jpg?semt=ais_hybrid&w=740&q=80",
+  "type": "series",
+  "description": "Las películas más recientes y destacadas.",
+  "seasons": [
+    {
+      "title": "NOVEDADES",
+      "episodes": [
+        {
+          "Title": "El límite del placer (2023)",
+          "Stream": "https://1a-1791.com/video/fwe2/b6/s8/2/0/8/u/C/08uCA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/w500/fLHXk8eN7Rh2snjjB5KhEE9tqgo.jpg",
+          "description": "Una historia de pasión y peligro donde los protagonistas exploran los límites del placer."
+        },
+        {
+          "Title": "Misión de rescate 2 (2023)",
+          "Stream": "https://1a-1791.com/video/fww1/18/s8/2/S/r/A/C/SrACA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/original/ugO3UXyFx2fPUquxfRd7EP1bRC2.jpg",
+          "description": "Secuela de la exitosa película de acción. Un equipo de élite debe rescatar a un rehén en una misión imposible."
+        },
+        {
+          "Title": "30 días de oscuridad (2007)",
+          "Stream": "https://1a-1791.com/video/fww1/1f/s8/2/s/i/A/C/siACA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/original/pOPW3GaJ1DgQrlNTzGHvctHMumx.jpg",
+          "description": "Un thriller de terror que sigue a un grupo de personas atrapadas en un pueblo de Alaska que queda sumido en la oscuridad durante 30 días."
+        },
+        {
+          "Title": "Herida (1992)",
+          "Stream": "https://1a-1791.com/video/fww1/e4/s8/2/k/f/v/C/kfvCA.aaa.mp4",
+          "Logo": "https://m.media-amazon.com/images/M/MV5BMTUyMDg4MzIxNF5BMl5BanBnXkFtZTYwMDc0NzQ5._V1_.jpg",
+          "description": "Un drama intenso sobre una mujer que lucha por superar un trauma profundo."
+        },
+        {
+          "Title": "El padrino (1972)",
+          "Stream": "https://1a-1791.com/video/fww1/6f/s8/2/E/K/A/C/EKACA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/w500/ApiEfzSkrqS4m1L5a2GwWXzIiAs.jpg",
+          "description": "El patriarca de una familia de la mafia de Nueva York transfiere el control de su imperio a su hijo Michael."
+        }
+      ]
+    }
+  ]
+        },
+        {
           "Title": "ACCIÓN",
           "Logo": "https://img.magnific.com/vector-gratis/fondo-super-cine_52683-1698.jpg?semt=ais_hybrid&w=740&q=80",
           "type": "series",
