@@ -6047,8 +6047,27 @@
       "title": "SERIES DE ANIME",
       "items": [
         {
+  "Title": "THE GHOST IN THE SHELL (2026)",
+  "Logo": "https://m.media-amazon.com/images/M/MV5BODVlMDUwMmUtNTg4Ny00NWI1LWI5YTQtOGNmZWQ3NzViNzg4XkEyXkFqcGc@._V1_.jpg",
+  "type": "series",
+  "description": "En el año 2029, la ciborg Motoko Kusanagi lidera la unidad de élite de la Sección de Seguridad Pública 9 para combatir crímenes cibernéticos mientras persigue a un misterioso hacker conocido como el 'Títere'. Una nueva adaptación del clásico manga de Masamune Shirow por Science SARU.",
+  "seasons": [
+    {
+      "title": "TEMPORADA 1",
+      "episodes": [
+        {
+          "Title": "S01 E01 - PRÓLOGO + SUPERESPARTANO i",
+          "Stream": "https://1a-1791.com/video/fww1/48/s8/2/-/a/s/E/-asEA.aaa.mp4",
+          "Logo": "https://media.themoviedb.org/t/p/w440_and_h660_face/eGRZ1JHbJHe02UCOsV5MUlVRAEO.jpg",
+          "description": "El oficial Aramaki allana una reunión de representantes de un estado sospechoso y se encuentra con la misteriosa cyborg Motoko Kusanagi. Ella le propone al Ministro del Interior la creación de una nueva unidad de fuerzas especiales y Aramaki le pide ayuda para una investigación."
+        }
+      ]
+    }
+  ]
+        },
+        {
   "Title": "ONE PUNCH MAN (2015)",
-  "Logo": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/6bef4ebf2fc7b085a3f1e7753a43b35f.png",
+  "Logo": "https://image.tmdb.org/t/p/original/oJB3QgMxb6ABdVI3iVMZSyAyDx7.jpg",
   "Poster": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/6bef4ebf2fc7b085a3f1e7753a43b35f.png",
   "type": "series",
   "description": "Saitama, un héroe que se volvió tan fuerte que puede derrotar a cualquier enemigo de un solo golpe, lucha contra la monotonía y busca un oponente que lo desafíe. Con su discípulo Genos, se une a la Asociación de Héroes.",
@@ -6213,7 +6232,7 @@
 },
         {
   "Title": "DRAGON BALL (1986)",
-  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDiRAupewtCW7wam1-GaXWMs3WWoGNUod8BhglZb30I1ang_fvb9avFAI&s=10",
+  "Logo": "https://image.tmdb.org/t/p/original/dJlS1BsXxGEemIxs1uv4jqisJFQ.jpg",
   "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDiRAupewtCW7wam1-GaXWMs3WWoGNUod8BhglZb30I1ang_fvb9avFAI&s=10",
   "type": "series",
   "description": "Las aventuras de Son Goku, un niño con cola de mono y una fuerza sobrehumana, que junto a sus amigos Bulma, Krilin y Kame Sen'nin, emprende la búsqueda de las siete esferas del dragón para pedir un deseo. Serie original que dio inicio al fenómeno mundial.",
@@ -6306,7 +6325,7 @@
 },
         {
   "Title": "RECORD OF RAGNAROK (2021)",
-  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/3c6cc2f1d8c6196d0694ee0a6ac3e64c6fb1e4777c9fbe27d9d3f04a7f8f7641.jpg",
+  "Logo": "https://image.tmdb.org/t/p/w500/v4la9QpSgcbEUZUUxvdIRCo5rsY.jpg",
   "Poster": "https://m.media-amazon.com/images/S/pv-target-images/3c6cc2f1d8c6196d0694ee0a6ac3e64c6fb1e4777c9fbe27d9d3f04a7f8f7641.jpg",
   "type": "series",
   "description": "Cada milenio, los dioses de todo el mundo celebran una asamblea para decidir el destino de la humanidad. Esta vez, proponen su aniquilación total. Las Valkirias proponen una alternativa: el Ragnarok, una serie de 13 combates uno contra uno entre los más grandes héroes de la humanidad y los dioses más poderosos. Si la humanidad gana 7 peleas, se salvará.",
@@ -6465,7 +6484,7 @@
 },
         {
   "Title": "HOW NOT TO SUMMON A DEMON LORD (2018)",
-  "Logo": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/d3d43fab18a7461c24433ec5a42c6f03.jpg",
+  "Logo": "https://image.tmdb.org/t/p/w500/oVozVLWMTej4CRBpfu0ehxofBHS.jpg",
   "type": "series",
   "description": "Takuma, un poderoso jugador solitario, es invocado a un mundo de fantasía con la apariencia de su personaje. Dos chicas intentan esclavizarlo, pero el hechizo se refleja y ahora ellas son sus sirvientas. Para sobrevivir, decide actuar como el Rey Demonio que era en el juego.",
   "seasons": [
@@ -6550,7 +6569,7 @@
 },
         {
           "Title": "DRAGON BALL Z (1989)",
-          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/60584038eb68581eb517142cd2e75cf10fd54303bcd539d52d3dce7de09d04f5.jpg",
+          "Logo": "https://image.tmdb.org/t/p/w500/ogH4r9HsimigseBNLzHn4uVNOxh.jpg",
           "Poster": "https://m.media-amazon.com/images/S/pv-target-images/60584038eb68581eb517142cd2e75cf10fd54303bcd539d52d3dce7de09d04f5.jpg",
           "type": "series",
           "description": "Las aventuras de Goku y los Guerreros Z mientras protegen la Tierra de poderosos enemigos como Vegeta, Freezer, Cell y Majin Boo.",
@@ -6625,7 +6644,7 @@
         },
         {
           "Title": "DRAGON BALL Z KAI (2009)",
-          "Logo": "https://m.media-amazon.com/images/S/pv-target-images/26502aba5ef44ddcc63b5f724cc254e32e388737ee45a8f8d1974cbc4234e3f6.jpg",
+          "Logo": "https://image.tmdb.org/t/p/original/je57jXdeWeJO9tGoWSJi4MCuXbN.jpg",
           "Poster": "https://m.media-amazon.com/images/S/pv-target-images/26502aba5ef44ddcc63b5f724cc254e32e388737ee45a8f8d1974cbc4234e3f6.jpg",
           "type": "series",
           "description": "Versión remasterizada de Dragon Ball Z que sigue las aventuras de Goku y los Guerreros Z mientras protegen la Tierra de poderosos enemigos como Vegeta, Freezer y Cell.",
@@ -6705,7 +6724,7 @@
   "items": [
     {
   "Title": "YANDERE DARK ELF: ME PERSIGUIÓ DESDE OTRO MUNDO (2025)",
-  "Logo": "https://assets.sentaifilmworks.com/titles/YDE/YDE_Yandere-Dark-Elf-She-Chased-Me-All-the-Way-From-Another-World_SEASON1_V1_KEY_2048x768.jpg",
+  "Logo": "https://image.tmdb.org/t/p/w500/eCWtp80MCEBPMuRmAjm2zNMgOSW.jpg",
   "Poster": "https://assets.sentaifilmworks.com/titles/YDE/YDE_Yandere-Dark-Elf-She-Chased-Me-All-the-Way-From-Another-World_SEASON1_V1_KEY_2048x768.jpg",
   "type": "series",
   "description": "Hinata Sunohara pensó que derrotar al malvado señor supremo y regresar a la escuela secundaria en Japón marcaba el fin de sus aventuras en otro mundo. Pero cuando Mariabell, su ferviente aliada del reino mágico, lo sigue a casa, su vida da un giro inesperado. Ahora, Hinata debe vivir con una elfa oscura ligeramente obsesiva que lleva el 'amor escolar' a un nivel completamente nuevo. [citation:3][citation:6]",
@@ -6791,7 +6810,7 @@
 },
     {
       "Title": "YOWAYOWA SENSEI (2026)",
-      "Logo": "https://m.media-amazon.com/images/S/pv-target-images/42ea17a21b112558d95b44029e6a8e9962b68115ab6717c56b1468145c549b04.jpg",
+      "Logo": "https://image.tmdb.org/t/p/w500/kQHDOE9vjqJh2mCh2CFlMzSjMrd.jpg",
       "Poster": "https://m.media-amazon.com/images/S/pv-target-images/42ea17a21b112558d95b44029e6a8e9962b68115ab6717c56b1468145c549b04.jpg",
       "type": "series",
       "description": "La nueva maestra Hiyori Hiwamura es conocida por los estudiantes como 'Kowakowa Sensei', la profesora aterradora que puede maldecir a quien la moleste. Pero su alumno Akihito Abikura descubre su secreto: en realidad es 'Yowayowa Sensei', la profesora más débil y adorable, con cero resistencia física y una voz diminuta. Una comedia romántica ligeramente atrevida sobre una maestra débil pero encantadora y su alumno que jura protegerla.",
