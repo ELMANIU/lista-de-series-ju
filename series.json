@@ -1266,6 +1266,2678 @@
       "title": "TV PREMIUM",
       "items": [
         {
+  "Title": "TV 1",
+  "Logo": "https://static.vecteezy.com/system/resources/previews/000/931/914/non_2x/retro-television-poster-vector.jpg",
+  "type": "series",
+  "description": "Canales en vivo de la plataforma TV 1.",
+  "seasons": [
+    {
+      "title": "ENTRETENIMIENTO",
+      "episodes": [
+        {
+          "Title": "ATV: Novelas Turcas",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1120.m3u8",
+          "Logo": "http://i.tvcluboficial.com/atv.png",
+          "description": "Canal de novelas turcas."
+        },
+        {
+          "Title": "A&E",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/5.m3u8",
+          "Logo": "http://i.tvcluboficial.com/ae.png",
+          "description": "Canal de entretenimiento A&E."
+        },
+        {
+          "Title": "AMC",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/29.m3u8",
+          "Logo": "http://i.tvcluboficial.com/amc.png",
+          "description": "Canal de entretenimiento AMC."
+        },
+        {
+          "Title": "AXN",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/54.m3u8",
+          "Logo": "http://i.tvcluboficial.com/axn.png",
+          "description": "Canal de entretenimiento AXN."
+        },
+        {
+          "Title": "Az Clic",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/64.m3u8",
+          "Logo": "http://i.tvcluboficial.com/azclic.png",
+          "description": "Canal Az Clic."
+        },
+        {
+          "Title": "AZ Corazon",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/66.m3u8",
+          "Logo": "http://i.tvcluboficial.com/azcorazon.png",
+          "description": "Canal AZ Corazón."
+        },
+        {
+          "Title": "Az Mundo",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/70.m3u8",
+          "Logo": "http://i.tvcluboficial.com/azmundo.png",
+          "description": "Canal Az Mundo."
+        },
+        {
+          "Title": "BitMe",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/92.m3u8",
+          "Logo": "http://i.tvcluboficial.com/bitme.png",
+          "description": "Canal BitMe."
+        },
+        {
+          "Title": "Caracol Internacional",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/127.m3u8",
+          "Logo": "http://i.tvcluboficial.com/caracol.png",
+          "description": "Señal internacional de Caracol."
+        },
+        {
+          "Title": "Comedy Central",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/216.m3u8",
+          "Logo": "http://i.tvcluboficial.com/comedycentral.png",
+          "description": "Canal de comedia Comedy Central."
+        },
+        {
+          "Title": "Distrito Comedia",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/293.m3u8",
+          "Logo": "http://i.tvcluboficial.com/distritocomedia.png",
+          "description": "Canal Distrito Comedia."
+        },
+        {
+          "Title": "E!",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/333.m3u8",
+          "Logo": "http://i.tvcluboficial.com/e.png",
+          "description": "Canal de entretenimiento E!"
+        },
+        {
+          "Title": "El Gourmet",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/349.m3u8",
+          "Logo": "http://i.tvcluboficial.com/elgourmet.png",
+          "description": "Canal de cocina El Gourmet."
+        },
+        {
+          "Title": "Estrella TV",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/409.m3u8",
+          "Logo": "http://i.tvcluboficial.com/estrellatv.png",
+          "description": "Canal Estrella TV."
+        },
+        {
+          "Title": "Europa Europa",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/413.m3u8",
+          "Logo": "http://i.tvcluboficial.com/europa.png",
+          "description": "Canal Europa Europa."
+        },
+        {
+          "Title": "Food Network",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/424.m3u8",
+          "Logo": "http://i.tvcluboficial.com/foodnetwork.png",
+          "description": "Canal de cocina Food Network."
+        },
+        {
+          "Title": "FX",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/474.m3u8",
+          "Logo": "http://i.tvcluboficial.com/fx.png",
+          "description": "Canal de entretenimiento FX."
+        },
+        {
+          "Title": "Hola TV",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/564.m3u8",
+          "Logo": "http://i.tvcluboficial.com/hola.png",
+          "description": "Canal Hola TV."
+        },
+        {
+          "Title": "Lifetime",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/615.m3u8",
+          "Logo": "http://i.tvcluboficial.com/lifetime.png",
+          "description": "Canal Lifetime."
+        },
+        {
+          "Title": "Más chic",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/643.m3u8",
+          "Logo": "http://i.tvcluboficial.com/maschic.png",
+          "description": "Canal Más Chic."
+        },
+        {
+          "Title": "Novelisima",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1149.m3u8",
+          "Logo": "http://i.tvcluboficial.com/novelisima.png",
+          "description": "Canal Novelísima."
+        },
+        {
+          "Title": "PakaPaka",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/748.m3u8",
+          "Logo": "http://i.tvcluboficial.com/pakapaka.png",
+          "description": "Canal PakaPaka."
+        },
+        {
+          "Title": "Pasiones",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/757.m3u8",
+          "Logo": "http://i.tvcluboficial.com/pasiones.png",
+          "description": "Canal Pasiones."
+        },
+        {
+          "Title": "Sony Channel",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/776.m3u8",
+          "Logo": "http://i.tvcluboficial.com/sony.png",
+          "description": "Canal Sony Channel."
+        },
+        {
+          "Title": "Space",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/780.m3u8",
+          "Logo": "http://i.tvcluboficial.com/space.png",
+          "description": "Canal Space."
+        },
+        {
+          "Title": "Studio Universal",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/786.m3u8",
+          "Logo": "http://i.tvcluboficial.com/studiouniversal.png",
+          "description": "Canal Studio Universal."
+        },
+        {
+          "Title": "Syfy",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/788.m3u8",
+          "Logo": "http://i.tvcluboficial.com/syfy.png",
+          "description": "Canal Syfy."
+        },
+        {
+          "Title": "TBS",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/795.m3u8",
+          "Logo": "http://i.tvcluboficial.com/tbs.png",
+          "description": "Canal TBS."
+        },
+        {
+          "Title": "Telemundo Internacional",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/802.m3u8",
+          "Logo": "http://i.tvcluboficial.com/telemundo.png",
+          "description": "Señal internacional de Telemundo."
+        },
+        {
+          "Title": "TL Novelas",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/810.m3u8",
+          "Logo": "http://i.tvcluboficial.com/tlnovelas.png",
+          "description": "Canal TL Novelas."
+        },
+        {
+          "Title": "TNT",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/812.m3u8",
+          "Logo": "http://i.tvcluboficial.com/tnt.png",
+          "description": "Canal TNT."
+        },
+        {
+          "Title": "TNT Series",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/818.m3u8",
+          "Logo": "http://i.tvcluboficial.com/tntseries.png",
+          "description": "Canal TNT Series."
+        },
+        {
+          "Title": "TruTV",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/819.m3u8",
+          "Logo": "http://i.tvcluboficial.com/trutv.png",
+          "description": "Canal TruTV."
+        },
+        {
+          "Title": "TV Chile",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/822.m3u8",
+          "Logo": "http://i.tvcluboficial.com/tvchile.png",
+          "description": "Señal de TV Chile."
+        },
+        {
+          "Title": "Unicable",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/828.m3u8",
+          "Logo": "http://i.tvcluboficial.com/unicable.png",
+          "description": "Canal Unicable."
+        },
+        {
+          "Title": "Univision",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/829.m3u8",
+          "Logo": "http://i.tvcluboficial.com/univision.png",
+          "description": "Canal Univision."
+        },
+        {
+          "Title": "Universal TV",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/831.m3u8",
+          "Logo": "http://i.tvcluboficial.com/universal.png",
+          "description": "Canal Universal TV."
+        },
+        {
+          "Title": "Warner Channel",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/835.m3u8",
+          "Logo": "http://i.tvcluboficial.com/warnerchannel.png",
+          "description": "Canal Warner Channel."
+        }
+      ]
+    },
+    {
+      "title": "DEPORTES",
+      "episodes": [
+        {
+          "Title": "AyM Sports",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/62.m3u8",
+          "Logo": "http://i.tvcluboficial.com/aymsports.png",
+          "description": "Canal AyM Sports."
+        },
+        {
+          "Title": "BeinSports",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/88.m3u8",
+          "Logo": "http://i.tvcluboficial.com/beinsports.png",
+          "description": "Canal BeinSports."
+        },
+        {
+          "Title": "BeinSports Ñ",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/90.m3u8",
+          "Logo": "http://i.tvcluboficial.com/beinsportsn.png",
+          "description": "Canal BeinSports en español."
+        },
+        {
+          "Title": "Canal+ Toros",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/121.m3u8",
+          "Logo": "http://i.tvcluboficial.com/toros.png",
+          "description": "Canal de toros."
+        },
+        {
+          "Title": "CDN Sportsmax",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/146.m3u8",
+          "Logo": "http://i.tvcluboficial.com/cdnsportsmax.png",
+          "description": "Canal CDN Sportsmax."
+        },
+        {
+          "Title": "Claro Sports",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/201.m3u8",
+          "Logo": "http://i.tvcluboficial.com/clarosports.png",
+          "description": "Canal Claro Sports."
+        },
+        {
+          "Title": "DAZN",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1148.m3u8",
+          "Logo": "http://i.tvcluboficial.com/dazn.png",
+          "description": "Canal DAZN."
+        },
+        {
+          "Title": "Deportes TVC | Honduras",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1071.m3u8",
+          "Logo": "http://i.tvcluboficial.com/ho_deportestvc.png",
+          "description": "Canal Deportes TVC de Honduras."
+        },
+        {
+          "Title": "DSports",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/312.m3u8",
+          "Logo": "http://i.tvcluboficial.com/directvsports.png",
+          "description": "Canal DSports."
+        },
+        {
+          "Title": "DSports +",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/314.m3u8",
+          "Logo": "http://i.tvcluboficial.com/directvplus.png",
+          "description": "Canal DSports +."
+        },
+        {
+          "Title": "DSports 2",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/315.m3u8",
+          "Logo": "http://i.tvcluboficial.com/directvsports2.png",
+          "description": "Canal DSports 2."
+        },
+        {
+          "Title": "El Canal del Futbol",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/342.m3u8",
+          "Logo": "http://i.tvcluboficial.com/canaldelfutbol.png",
+          "description": "Canal El Canal del Fútbol (Ecuador)."
+        },
+        {
+          "Title": "El Canal del Futbol (ECDF)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1133.m3u8",
+          "Logo": "http://i.tvcluboficial.com/canaldelfutbol.png",
+          "description": "Canal ECDF."
+        },
+        {
+          "Title": "ESPN (México)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/401.m3u8",
+          "Logo": "http://i.tvcluboficial.com/espn.png",
+          "description": "Canal ESPN para México."
+        },
+        {
+          "Title": "ESPN (Sur)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/368.m3u8",
+          "Logo": "http://i.tvcluboficial.com/espn.png",
+          "description": "Canal ESPN para Sudamérica."
+        },
+        {
+          "Title": "ESPN (Argentina)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1111.m3u8",
+          "Logo": "http://i.tvcluboficial.com/espn.png",
+          "description": "Canal ESPN para Argentina."
+        },
+        {
+          "Title": "ESPN (Chile)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1132.m3u8",
+          "Logo": "http://i.tvcluboficial.com/espn.png",
+          "description": "Canal ESPN para Chile."
+        },
+        {
+          "Title": "ESPN (Colombia)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1107.m3u8",
+          "Logo": "http://i.tvcluboficial.com/espn.png",
+          "description": "Canal ESPN para Colombia."
+        },
+        {
+          "Title": "ESPN 2 (México)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/378.m3u8",
+          "Logo": "http://i.tvcluboficial.com/espn2.png",
+          "description": "Canal ESPN 2 para México."
+        },
+        {
+          "Title": "ESPN 2 (Sur)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/372.m3u8",
+          "Logo": "http://i.tvcluboficial.com/espn2.png",
+          "description": "Canal ESPN 2 para Sudamérica."
+        },
+        {
+          "Title": "ESPN 3 (México)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1110.m3u8",
+          "Logo": "http://i.tvcluboficial.com/espn3.png",
+          "description": "Canal ESPN 3 para México."
+        },
+        {
+          "Title": "ESPN 3 (Sur)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1127.m3u8",
+          "Logo": "http://i.tvcluboficial.com/espn3.png",
+          "description": "Canal ESPN 3 para Sudamérica."
+        },
+        {
+          "Title": "ESPN 4 (Sur)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1069.m3u8",
+          "Logo": "http://i.tvcluboficial.com/espn4.png",
+          "description": "Canal ESPN 4 para Sudamérica."
+        },
+        {
+          "Title": "ESPN Deportes",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1165.m3u8",
+          "Logo": "http://i.tvcluboficial.com/espn.png",
+          "description": "Canal ESPN Deportes."
+        },
+        {
+          "Title": "ESPN Plus",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/404.m3u8",
+          "Logo": "http://i.tvcluboficial.com/espnplus.png",
+          "description": "Canal ESPN Plus."
+        },
+        {
+          "Title": "ESPN Premium",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/408.m3u8",
+          "Logo": "http://i.tvcluboficial.com/espnpremium.png",
+          "description": "Canal ESPN Premium."
+        },
+        {
+          "Title": "Eventos (Solo Premium)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1130.m3u8",
+          "Logo": "http://i.tvcluboficial.com/directvsports.png",
+          "description": "Canal de eventos en vivo."
+        },
+        {
+          "Title": "Evento 2 (Solo Premium)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1177.m3u8",
+          "Logo": "http://i.tvcluboficial.com/telemundo.png",
+          "description": "Canal de eventos 2."
+        },
+        {
+          "Title": "Formula 1 TV (F1)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/427.m3u8",
+          "Logo": "http://i.tvcluboficial.com/f1.png",
+          "description": "Canal de Fórmula 1."
+        },
+        {
+          "Title": "Fox Deportes",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1114.m3u8",
+          "Logo": "http://i.tvcluboficial.com/foxdeportes.png",
+          "description": "Canal Fox Deportes."
+        },
+        {
+          "Title": "Fox Sports 1 (México)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/456.m3u8",
+          "Logo": "http://i.tvcluboficial.com/foxsports.png",
+          "description": "Canal Fox Sports 1 para México."
+        },
+        {
+          "Title": "Fox Sports 1 (Sur)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/435.m3u8",
+          "Logo": "http://i.tvcluboficial.com/foxsportssur.png",
+          "description": "Canal Fox Sports 1 para Sudamérica."
+        },
+        {
+          "Title": "Fox Sports 2 (México)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/441.m3u8",
+          "Logo": "http://i.tvcluboficial.com/foxsports2.png",
+          "description": "Canal Fox Sports 2 para México."
+        },
+        {
+          "Title": "Fox Sports 2 (Sur)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/436.m3u8",
+          "Logo": "http://i.tvcluboficial.com/foxsports2sur.png",
+          "description": "Canal Fox Sports 2 para Sudamérica."
+        },
+        {
+          "Title": "Fox Sports 3 (México)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/448.m3u8",
+          "Logo": "http://i.tvcluboficial.com/foxsports3.png",
+          "description": "Canal Fox Sports 3 para México."
+        },
+        {
+          "Title": "Fox Sports 3 (Sur)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/468.m3u8",
+          "Logo": "http://i.tvcluboficial.com/foxsports3sur.png",
+          "description": "Canal Fox Sports 3 para Sudamérica."
+        },
+        {
+          "Title": "Fox Sports Premium",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/463.m3u8",
+          "Logo": "http://i.tvcluboficial.com/foxsportspremium.png",
+          "description": "Canal Fox Sports Premium."
+        },
+        {
+          "Title": "Futv (Costa Rica)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1074.m3u8",
+          "Logo": "http://i.tvcluboficial.com/cr_futv.png",
+          "description": "Canal Futv de Costa Rica."
+        },
+        {
+          "Title": "Gol Peru",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/490.m3u8",
+          "Logo": "http://i.tvcluboficial.com/golperu.png",
+          "description": "Canal Gol Perú."
+        },
+        {
+          "Title": "Gol TV (Ecuador)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1060.m3u8",
+          "Logo": "http://i.tvcluboficial.com/golperu.png",
+          "description": "Canal Gol TV para Ecuador."
+        },
+        {
+          "Title": "Gol TV (España)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1125.m3u8",
+          "Logo": "http://i.tvcluboficial.com/goltv.png",
+          "description": "Canal Gol TV para España."
+        },
+        {
+          "Title": "Golf Channel",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/504.m3u8",
+          "Logo": "http://i.tvcluboficial.com/golfchannel.png",
+          "description": "Canal de Golf."
+        },
+        {
+          "Title": "Liga 1 Max (Peru)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1070.m3u8",
+          "Logo": "http://i.tvcluboficial.com/pe_liga1max.png",
+          "description": "Canal Liga 1 Max de Perú."
+        },
+        {
+          "Title": "Liga de Campeones",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/616.m3u8",
+          "Logo": "http://i.tvcluboficial.com/ligadecampeones.png",
+          "description": "Canal de la Liga de Campeones."
+        },
+        {
+          "Title": "Liga de Campeones 2",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/617.m3u8",
+          "Logo": "http://i.tvcluboficial.com/ligadecampeones.png",
+          "description": "Canal de la Liga de Campeones 2."
+        },
+        {
+          "Title": "Morbido TV",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/659.m3u8",
+          "Logo": "http://i.tvcluboficial.com/morbidotv.png",
+          "description": "Canal Morbido TV."
+        },
+        {
+          "Title": "Movistar Deportes HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/665.m3u8",
+          "Logo": "http://i.tvcluboficial.com/movistar_deportes.png",
+          "description": "Canal Movistar Deportes."
+        },
+        {
+          "Title": "Movistar Deportes (Peru)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/666.m3u8",
+          "Logo": "http://i.tvcluboficial.com/movistar_deportes.png",
+          "description": "Canal Movistar Deportes para Perú."
+        },
+        {
+          "Title": "Movistar Deportes 2 HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/664.m3u8",
+          "Logo": "http://i.tvcluboficial.com/movistar_deportes2.png",
+          "description": "Canal Movistar Deportes 2."
+        },
+        {
+          "Title": "Movistar LaLiga",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1100.m3u8",
+          "Logo": "http://i.tvcluboficial.com/movistar_laliga.png",
+          "description": "Canal Movistar LaLiga."
+        },
+        {
+          "Title": "Mundial - Evento 1",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1178.m3u8",
+          "Logo": "https://i.tvcluboficial.com/mundial2026.png",
+          "description": "Canal del Mundial 2026."
+        },
+        {
+          "Title": "Mundial - Evento 2",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1179.m3u8",
+          "Logo": "https://i.tvcluboficial.com/mundial2026.png",
+          "description": "Canal del Mundial 2026."
+        },
+        {
+          "Title": "NBC Golf",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/712.m3u8",
+          "Logo": "http://i.tvcluboficial.com/nbcgolf.png",
+          "description": "Canal NBC Golf."
+        },
+        {
+          "Title": "NBA",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/710.m3u8",
+          "Logo": "http://i.tvcluboficial.com/nba.png",
+          "description": "Canal de la NBA."
+        },
+        {
+          "Title": "NFL Network",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/720.m3u8",
+          "Logo": "http://i.tvcluboficial.com/nfl.png",
+          "description": "Canal de la NFL."
+        },
+        {
+          "Title": "PAC12",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/746.m3u8",
+          "Logo": "http://i.tvcluboficial.com/pac12.png",
+          "description": "Canal PAC12."
+        },
+        {
+          "Title": "RPC (Panamá)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/766.m3u8",
+          "Logo": "http://i.tvcluboficial.com/rpc.png",
+          "description": "Canal RPC de Panamá."
+        },
+        {
+          "Title": "Tigo Sports (Bolivia)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/807.m3u8",
+          "Logo": "http://i.tvcluboficial.com/tigosports.png",
+          "description": "Canal Tigo Sports de Bolivia."
+        },
+        {
+          "Title": "Tigo Sports (Paraguay)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/805.m3u8",
+          "Logo": "http://i.tvcluboficial.com/tigosports.png",
+          "description": "Canal Tigo Sports de Paraguay."
+        },
+        {
+          "Title": "TNT Sports 4",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/815.m3u8",
+          "Logo": "http://i.tvcluboficial.com/tntsports.png",
+          "description": "Canal TNT Sports 4."
+        },
+        {
+          "Title": "TNT Sports HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/816.m3u8",
+          "Logo": "http://i.tvcluboficial.com/tntsports.png",
+          "description": "Canal TNT Sports."
+        },
+        {
+          "Title": "TV MAX Deportes",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/821.m3u8",
+          "Logo": "http://i.tvcluboficial.com/tvmax.png",
+          "description": "Canal TV MAX Deportes."
+        },
+        {
+          "Title": "Win Sports (Colombia)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/840.m3u8",
+          "Logo": "http://i.tvcluboficial.com/winsports.png",
+          "description": "Canal Win Sports de Colombia."
+        },
+        {
+          "Title": "Win Sports + (Colombia)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/841.m3u8",
+          "Logo": "http://i.tvcluboficial.com/winsports.png",
+          "description": "Canal Win Sports + de Colombia."
+        }
+      ]
+    },
+    {
+      "title": "PELÍCULAS",
+      "episodes": [
+        {
+          "Title": "A3Cine",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/14.m3u8",
+          "Logo": "http://i.tvcluboficial.com/a3cine.png",
+          "description": "Canal de cine de Antena 3 (España)."
+        },
+        {
+          "Title": "Az Cinema",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/63.m3u8",
+          "Logo": "http://i.tvcluboficial.com/azcinema.png",
+          "description": "Canal Az Cinema."
+        },
+        {
+          "Title": "Cine Latino",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/173.m3u8",
+          "Logo": "http://i.tvcluboficial.com/cinelatino.png",
+          "description": "Canal Cine Latino."
+        },
+        {
+          "Title": "Cinecanal",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/185.m3u8",
+          "Logo": "http://i.tvcluboficial.com/cinecanal.png",
+          "description": "Canal Cinecanal."
+        },
+        {
+          "Title": "Cinema Dinamita",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1153.m3u8",
+          "Logo": "http://i.tvcluboficial.com/cinemadinamita.png",
+          "description": "Canal Cinema Dinamita."
+        },
+        {
+          "Title": "Cinemax",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/190.m3u8",
+          "Logo": "http://i.tvcluboficial.com/cinemax.png",
+          "description": "Canal Cinemax."
+        },
+        {
+          "Title": "De Pelicula",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/234.m3u8",
+          "Logo": "http://i.tvcluboficial.com/depelicula.png",
+          "description": "Canal De Película."
+        },
+        {
+          "Title": "De Pelicula Clasico",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/236.m3u8",
+          "Logo": "http://i.tvcluboficial.com/dpeliculaclasico.png",
+          "description": "Canal De Película Clásico."
+        },
+        {
+          "Title": "DHE",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/242.m3u8",
+          "Logo": "http://i.tvcluboficial.com/dhe.png",
+          "description": "Canal DHE."
+        },
+        {
+          "Title": "Film & Arts",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/419.m3u8",
+          "Logo": "http://i.tvcluboficial.com/filmarts.png",
+          "description": "Canal Film & Arts."
+        },
+        {
+          "Title": "FXM",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/478.m3u8",
+          "Logo": "http://i.tvcluboficial.com/fxm.png",
+          "description": "Canal FXM."
+        },
+        {
+          "Title": "Golden",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/494.m3u8",
+          "Logo": "http://i.tvcluboficial.com/golden.png",
+          "description": "Canal Golden."
+        },
+        {
+          "Title": "Golden Edge",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/495.m3u8",
+          "Logo": "http://i.tvcluboficial.com/goldenedge.png",
+          "description": "Canal Golden Edge."
+        },
+        {
+          "Title": "Golden Premier",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/500.m3u8",
+          "Logo": "http://i.tvcluboficial.com/golden.png",
+          "description": "Canal Golden Premier."
+        },
+        {
+          "Title": "Golden Premier 2",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/502.m3u8",
+          "Logo": "http://i.tvcluboficial.com/golden.png",
+          "description": "Canal Golden Premier 2."
+        },
+        {
+          "Title": "HBO",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/512.m3u8",
+          "Logo": "http://i.tvcluboficial.com/hbo.png",
+          "description": "Canal HBO."
+        },
+        {
+          "Title": "HBO 2",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/518.m3u8",
+          "Logo": "http://i.tvcluboficial.com/hbo2.png",
+          "description": "Canal HBO 2."
+        },
+        {
+          "Title": "HBO Family",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/525.m3u8",
+          "Logo": "http://i.tvcluboficial.com/hbofamily.png",
+          "description": "Canal HBO Family."
+        },
+        {
+          "Title": "HBO Mundi",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1101.m3u8",
+          "Logo": "https://i.tvcluboficial.com/hbomundi.png",
+          "description": "Canal HBO Mundi."
+        },
+        {
+          "Title": "HBO Plus",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/531.m3u8",
+          "Logo": "http://i.tvcluboficial.com/hboplus.png",
+          "description": "Canal HBO Plus."
+        },
+        {
+          "Title": "HBO Pop",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/538.m3u8",
+          "Logo": "http://i.tvcluboficial.com/hbopop.png",
+          "description": "Canal HBO Pop."
+        },
+        {
+          "Title": "HBO Xtreme",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/543.m3u8",
+          "Logo": "http://i.tvcluboficial.com/hboxtreme.png",
+          "description": "Canal HBO Xtreme."
+        },
+        {
+          "Title": "Movie Max",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/660.m3u8",
+          "Logo": "http://i.tvcluboficial.com/moviemax.png",
+          "description": "Canal Movie Max."
+        },
+        {
+          "Title": "Movistar Acción HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/661.m3u8",
+          "Logo": "http://i.tvcluboficial.com/maccion.png",
+          "description": "Canal Movistar Acción."
+        },
+        {
+          "Title": "Movistar Cine Ñ",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/662.m3u8",
+          "Logo": "http://i.tvcluboficial.com/movistar_comedia.png",
+          "description": "Canal Movistar Cine Ñ."
+        },
+        {
+          "Title": "Movistar Comedia",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/663.m3u8",
+          "Logo": "http://i.tvcluboficial.com/movistar_comedia.png",
+          "description": "Canal Movistar Comedia."
+        },
+        {
+          "Title": "Movistar Estrenos HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/667.m3u8",
+          "Logo": "http://i.tvcluboficial.com/movistar_estrenos.png",
+          "description": "Canal Movistar Estrenos."
+        },
+        {
+          "Title": "MultiPremier",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/696.m3u8",
+          "Logo": "http://i.tvcluboficial.com/multipremier.png",
+          "description": "Canal MultiPremier."
+        },
+        {
+          "Title": "Paramount",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/753.m3u8",
+          "Logo": "http://i.tvcluboficial.com/paramount.png",
+          "description": "Canal Paramount."
+        },
+        {
+          "Title": "TCM",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/800.m3u8",
+          "Logo": "http://i.tvcluboficial.com/tcm.png",
+          "description": "Canal TCM."
+        }
+      ]
+    },
+    {
+      "title": "NOTICIAS",
+      "episodes": [
+        {
+          "Title": "ADN 40",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/20.m3u8",
+          "Logo": "http://i.tvcluboficial.com/adn40.png",
+          "description": "Canal de noticias ADN 40 (México)."
+        },
+        {
+          "Title": "Al Jazeera",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/27.m3u8",
+          "Logo": "http://i.tvcluboficial.com/aljazeera.png",
+          "description": "Canal de noticias internacional Al Jazeera."
+        },
+        {
+          "Title": "C5N",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1162.m3u8",
+          "Logo": "http://i.tvcluboficial.com/c5n.png",
+          "description": "Canal C5N (Argentina)."
+        },
+        {
+          "Title": "CBS HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/140.m3u8",
+          "Logo": "http://i.tvcluboficial.com/cbs.png",
+          "description": "Canal CBS."
+        },
+        {
+          "Title": "CNN",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/223.m3u8",
+          "Logo": "http://i.tvcluboficial.com/cnn.png",
+          "description": "Canal CNN."
+        },
+        {
+          "Title": "Foro TV",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/429.m3u8",
+          "Logo": "http://i.tvcluboficial.com/forotv.png",
+          "description": "Canal Foro TV."
+        },
+        {
+          "Title": "Fox News",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/433.m3u8",
+          "Logo": "http://i.tvcluboficial.com/foxnews.png",
+          "description": "Canal Fox News."
+        },
+        {
+          "Title": "NBC HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/713.m3u8",
+          "Logo": "http://i.tvcluboficial.com/nbc.png",
+          "description": "Canal NBC."
+        },
+        {
+          "Title": "Teleantioquia (Colombia)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/799.m3u8",
+          "Logo": "http://i.tvcluboficial.com/teleantioquia.png",
+          "description": "Canal Teleantioquia."
+        },
+        {
+          "Title": "Telemundo 51",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/803.m3u8",
+          "Logo": "http://i.tvcluboficial.com/telemundo51.png",
+          "description": "Canal Telemundo 51."
+        }
+      ]
+    },
+    {
+      "title": "INFANTILES",
+      "episodes": [
+        {
+          "Title": "Baby TV",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/79.m3u8",
+          "Logo": "http://i.tvcluboficial.com/babytv.png",
+          "description": "Canal Baby TV."
+        },
+        {
+          "Title": "Cartoon Network",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/128.m3u8",
+          "Logo": "http://i.tvcluboficial.com/cartoonnetwork.png",
+          "description": "Canal Cartoon Network."
+        },
+        {
+          "Title": "Cartoonito",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/134.m3u8",
+          "Logo": "http://i.tvcluboficial.com/cartoonito.png",
+          "description": "Canal Cartoonito."
+        },
+        {
+          "Title": "CBeebies",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/139.m3u8",
+          "Logo": "http://i.tvcluboficial.com/cbeebies.png",
+          "description": "Canal CBeebies."
+        },
+        {
+          "Title": "Discovery Kids",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/264.m3u8",
+          "Logo": "http://i.tvcluboficial.com/discoverykids.png",
+          "description": "Canal Discovery Kids."
+        },
+        {
+          "Title": "Disney Channel",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/280.m3u8",
+          "Logo": "http://i.tvcluboficial.com/disneychannel.png",
+          "description": "Canal Disney Channel."
+        },
+        {
+          "Title": "Disney Junior",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/284.m3u8",
+          "Logo": "http://i.tvcluboficial.com/disneyjr.png",
+          "description": "Canal Disney Junior."
+        },
+        {
+          "Title": "Disney XD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/289.m3u8",
+          "Logo": "http://i.tvcluboficial.com/disneyxd.png",
+          "description": "Canal Disney XD."
+        },
+        {
+          "Title": "Nick JR",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/729.m3u8",
+          "Logo": "http://i.tvcluboficial.com/nickjr.png",
+          "description": "Canal Nick JR."
+        },
+        {
+          "Title": "Nick Toons",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/735.m3u8",
+          "Logo": "http://i.tvcluboficial.com/nicktoons.png",
+          "description": "Canal Nick Toons."
+        },
+        {
+          "Title": "Nickelodeon",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/736.m3u8",
+          "Logo": "http://i.tvcluboficial.com/nickelodeon.png",
+          "description": "Canal Nickelodeon."
+        },
+        {
+          "Title": "Teletubbies 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/804.m3u8",
+          "Logo": "http://i.tvcluboficial.com/teletubbies.png",
+          "description": "Canal 24/7 de Teletubbies."
+        }
+      ]
+    },
+    {
+      "title": "CULTURA / DOCUMENTALES",
+      "episodes": [
+        {
+          "Title": "Animal Planet",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/41.m3u8",
+          "Logo": "http://i.tvcluboficial.com/animalplanet.png",
+          "description": "Canal Animal Planet."
+        },
+        {
+          "Title": "Discovery Channel",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/247.m3u8",
+          "Logo": "http://i.tvcluboficial.com/discoverychannel.png",
+          "description": "Canal Discovery Channel."
+        },
+        {
+          "Title": "Discovery Civilization",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/252.m3u8",
+          "Logo": "http://i.tvcluboficial.com/discoverycivilization.png",
+          "description": "Canal Discovery Civilization."
+        },
+        {
+          "Title": "Discovery H&H",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/254.m3u8",
+          "Logo": "http://i.tvcluboficial.com/discoveryhh.png",
+          "description": "Canal Discovery H&H."
+        },
+        {
+          "Title": "Discovery SCI",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/267.m3u8",
+          "Logo": "http://i.tvcluboficial.com/discoverysci.png",
+          "description": "Canal Discovery SCI."
+        },
+        {
+          "Title": "Discovery Theater",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/271.m3u8",
+          "Logo": "http://i.tvcluboficial.com/discoverytheater.png",
+          "description": "Canal Discovery Theater."
+        },
+        {
+          "Title": "Discovery Turbo",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/274.m3u8",
+          "Logo": "http://i.tvcluboficial.com/discoveryturbo.png",
+          "description": "Canal Discovery Turbo."
+        },
+        {
+          "Title": "Discovery World",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/276.m3u8",
+          "Logo": "http://i.tvcluboficial.com/discoveryworld.png",
+          "description": "Canal Discovery World."
+        },
+        {
+          "Title": "DW",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1091.m3u8",
+          "Logo": "http://i.tvcluboficial.com/dw.png",
+          "description": "Canal DW (Documentales)."
+        },
+        {
+          "Title": "H2",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/509.m3u8",
+          "Logo": "http://i.tvcluboficial.com/h2.png",
+          "description": "Canal H2."
+        },
+        {
+          "Title": "History Channel",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/558.m3u8",
+          "Logo": "http://i.tvcluboficial.com/history.png",
+          "description": "Canal History Channel."
+        },
+        {
+          "Title": "Investigation Discovery",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/579.m3u8",
+          "Logo": "http://i.tvcluboficial.com/investigationdiscovery.png",
+          "description": "Canal Investigation Discovery."
+        },
+        {
+          "Title": "Nat Geo",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/703.m3u8",
+          "Logo": "http://i.tvcluboficial.com/natgeo.png",
+          "description": "Canal National Geographic."
+        },
+        {
+          "Title": "Nat Geo Wild",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/709.m3u8",
+          "Logo": "http://i.tvcluboficial.com/natgeowild.png",
+          "description": "Canal National Geographic Wild."
+        }
+      ]
+    },
+    {
+      "title": "MÚSICA",
+      "episodes": [
+        {
+          "Title": "Bandamax",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/83.m3u8",
+          "Logo": "http://i.tvcluboficial.com/bandamax.png",
+          "description": "Canal Bandamax."
+        },
+        {
+          "Title": "HTV",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/568.m3u8",
+          "Logo": "http://i.tvcluboficial.com/htv.png",
+          "description": "Canal HTV."
+        },
+        {
+          "Title": "MTV Live",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/683.m3u8",
+          "Logo": "http://i.tvcluboficial.com/mtvlive.png",
+          "description": "Canal MTV Live."
+        },
+        {
+          "Title": "Much Music",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/686.m3u8",
+          "Logo": "http://i.tvcluboficial.com/muchmusic.png",
+          "description": "Canal Much Music."
+        },
+        {
+          "Title": "Music Now",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/698.m3u8",
+          "Logo": "http://i.tvcluboficial.com/play.png",
+          "description": "Canal Music Now."
+        },
+        {
+          "Title": "Music Top",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/699.m3u8",
+          "Logo": "http://i.tvcluboficial.com/musictop.png",
+          "description": "Canal Music Top."
+        },
+        {
+          "Title": "Telehit",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/801.m3u8",
+          "Logo": "http://i.tvcluboficial.com/telehit.png",
+          "description": "Canal Telehit."
+        },
+        {
+          "Title": "VH1",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/833.m3u8",
+          "Logo": "http://i.tvcluboficial.com/vh1.png",
+          "description": "Canal VH1."
+        },
+        {
+          "Title": "VH1 Classic",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/834.m3u8",
+          "Logo": "http://i.tvcluboficial.com/vh1clasico.png",
+          "description": "Canal VH1 Classic."
+        }
+      ]
+    },
+    {
+      "title": "SERIES 24/7",
+      "episodes": [
+        {
+          "Title": "Alf 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/28.m3u8",
+          "Logo": "http://i.tvcluboficial.com/alf.png",
+          "description": "Canal 24/7 de Alf."
+        },
+        {
+          "Title": "Animaniacs 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/43.m3u8",
+          "Logo": "http://i.tvcluboficial.com/animaniacs.png",
+          "description": "Canal 24/7 de Animaniacs."
+        },
+        {
+          "Title": "Bayblade 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/85.m3u8",
+          "Logo": "http://i.tvcluboficial.com/247.png",
+          "description": "Canal 24/7 de Bayblade."
+        },
+        {
+          "Title": "Bob Esponja 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/96.m3u8",
+          "Logo": "http://i.tvcluboficial.com/bobesponja.png",
+          "description": "Canal 24/7 de Bob Esponja."
+        },
+        {
+          "Title": "Breaking Bad 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/98.m3u8",
+          "Logo": "http://i.tvcluboficial.com/breakingbad.png",
+          "description": "Canal 24/7 de Breaking Bad."
+        },
+        {
+          "Title": "Caballeros del Zodiaco 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/100.m3u8",
+          "Logo": "http://i.tvcluboficial.com/caballeroszodiaco.png",
+          "description": "Canal 24/7 de Caballeros del Zodiaco."
+        },
+        {
+          "Title": "Calabozos y Dragones 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/103.m3u8",
+          "Logo": "http://i.tvcluboficial.com/247.png",
+          "description": "Canal 24/7 de Calabozos y Dragones."
+        },
+        {
+          "Title": "Cantinflas 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/123.m3u8",
+          "Logo": "http://i.tvcluboficial.com/cantinflas.png",
+          "description": "Canal 24/7 de Cantinflas."
+        },
+        {
+          "Title": "Caso Cerrado 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/138.m3u8",
+          "Logo": "http://i.tvcluboficial.com/casocerrado.png",
+          "description": "Canal 24/7 de Caso Cerrado."
+        },
+        {
+          "Title": "Celebrity Deathmatch 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/150.m3u8",
+          "Logo": "http://i.tvcluboficial.com/celebritydeathmatch.png",
+          "description": "Canal 24/7 de Celebrity Deathmatch."
+        },
+        {
+          "Title": "Chapulin Colorado 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/152.m3u8",
+          "Logo": "http://i.tvcluboficial.com/chapulincolorado.png",
+          "description": "Canal 24/7 del Chapulín Colorado."
+        },
+        {
+          "Title": "Chespirito 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/153.m3u8",
+          "Logo": "http://i.tvcluboficial.com/chespirito.jpg",
+          "description": "Canal 24/7 de Chespirito."
+        },
+        {
+          "Title": "Coraje el Perro Cobarde 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/223.m3u8",
+          "Logo": "http://i.tvcluboficial.com/coraje.png",
+          "description": "Canal 24/7 de Coraje, el Perro Cobarde."
+        },
+        {
+          "Title": "Dinosaurios 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/244.m3u8",
+          "Logo": "http://i.tvcluboficial.com/dinosaurios.png",
+          "description": "Canal 24/7 de la serie Dinosaurios."
+        },
+        {
+          "Title": "Doraemon 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/297.m3u8",
+          "Logo": "http://i.tvcluboficial.com/doraemon.png",
+          "description": "Canal 24/7 de Doraemon."
+        },
+        {
+          "Title": "Dr. House 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/299.m3u8",
+          "Logo": "http://i.tvcluboficial.com/drhouse.png",
+          "description": "Canal 24/7 de Dr. House."
+        },
+        {
+          "Title": "Dragon Ball 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/301.m3u8",
+          "Logo": "http://i.tvcluboficial.com/dragonball.png",
+          "description": "Canal 24/7 de Dragon Ball."
+        },
+        {
+          "Title": "Dragon Ball GT 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/303.m3u8",
+          "Logo": "http://i.tvcluboficial.com/dragonballgt.png",
+          "description": "Canal 24/7 de Dragon Ball GT."
+        },
+        {
+          "Title": "Dragon Ball Super 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/305.m3u8",
+          "Logo": "http://i.tvcluboficial.com/dragonballsuper.png",
+          "description": "Canal 24/7 de Dragon Ball Super."
+        },
+        {
+          "Title": "Dragon Ball Z 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/307.m3u8",
+          "Logo": "http://i.tvcluboficial.com/dragonballz.png",
+          "description": "Canal 24/7 de Dragon Ball Z."
+        },
+        {
+          "Title": "Dragon Ball Z 24/7 Op.2",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/308.m3u8",
+          "Logo": "https://puu.sh/xdUYa/051eb44501.png",
+          "description": "Canal 24/7 de Dragon Ball Z (Opción 2)."
+        },
+        {
+          "Title": "Duelo Xiaolin 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/330.m3u8",
+          "Logo": "http://i.tvcluboficial.com/247.png",
+          "description": "Canal 24/7 de Duelo Xiaolin."
+        },
+        {
+          "Title": "Ed, Edd y Eddy 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/339.m3u8",
+          "Logo": "http://i.tvcluboficial.com/247.png",
+          "description": "Canal 24/7 de Ed, Edd y Eddy."
+        },
+        {
+          "Title": "El Chavo del 8 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/344.m3u8",
+          "Logo": "http://i.tvcluboficial.com/elchavodel8.png",
+          "description": "Canal 24/7 de El Chavo del 8."
+        },
+        {
+          "Title": "El Conde Patula 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/345.m3u8",
+          "Logo": "http://i.tvcluboficial.com/elcondepatula.png",
+          "description": "Canal 24/7 de El Conde Patula."
+        },
+        {
+          "Title": "El Coyote y el Correcaminos 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/346.m3u8",
+          "Logo": "http://i.tvcluboficial.com/elcoyote.png",
+          "description": "Canal 24/7 de El Coyote y el Correcaminos."
+        },
+        {
+          "Title": "El Gallo Claudio 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/347.m3u8",
+          "Logo": "http://i.tvcluboficial.com/elgalloclaudio.png",
+          "description": "Canal 24/7 de El Gallo Claudio."
+        },
+        {
+          "Title": "El Pajaro Loco 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/355.m3u8",
+          "Logo": "http://i.tvcluboficial.com/elpajaroloco.png",
+          "description": "Canal 24/7 de El Pájaro Loco."
+        },
+        {
+          "Title": "El Pato Darkwing 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/356.m3u8",
+          "Logo": "http://i.tvcluboficial.com/247.png",
+          "description": "Canal 24/7 de El Pato Darkwing."
+        },
+        {
+          "Title": "El Principe del Rap 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/357.m3u8",
+          "Logo": "http://i.tvcluboficial.com/elprincipedelrap.png",
+          "description": "Canal 24/7 de El Príncipe del Rap."
+        },
+        {
+          "Title": "Elementary 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/363.m3u8",
+          "Logo": "http://i.tvcluboficial.com/247.png",
+          "description": "Canal 24/7 de Elementary."
+        },
+        {
+          "Title": "Fear The Walking Dead 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/415.m3u8",
+          "Logo": "http://i.tvcluboficial.com/fearthewalkingdead.png",
+          "description": "Canal 24/7 de Fear The Walking Dead."
+        },
+        {
+          "Title": "Friends 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/470.m3u8",
+          "Logo": "http://i.tvcluboficial.com/247.png",
+          "description": "Canal 24/7 de Friends."
+        },
+        {
+          "Title": "Futurama 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/473.m3u8",
+          "Logo": "",
+          "description": "Canal 24/7 de Futurama."
+        },
+        {
+          "Title": "Game of Thrones 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/484.m3u8",
+          "Logo": "http://i.tvcluboficial.com/gameofthrones.png",
+          "description": "Canal 24/7 de Game of Thrones."
+        },
+        {
+          "Title": "Garfield 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/486.m3u8",
+          "Logo": "",
+          "description": "Canal 24/7 de Garfield."
+        },
+        {
+          "Title": "Greys Anatomy 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/505.m3u8",
+          "Logo": "http://i.tvcluboficial.com/greysanatomy.png",
+          "description": "Canal 24/7 de Grey's Anatomy."
+        },
+        {
+          "Title": "Happy Tree Friends 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/511.m3u8",
+          "Logo": "http://i.tvcluboficial.com/happytreefriends.png",
+          "description": "Canal 24/7 de Happy Tree Friends."
+        },
+        {
+          "Title": "Hercules 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/550.m3u8",
+          "Logo": "http://i.tvcluboficial.com/247.png",
+          "description": "Canal 24/7 de Hércules."
+        },
+        {
+          "Title": "Hey Arnold 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/551.m3u8",
+          "Logo": "http://i.tvcluboficial.com/heyarnold.png",
+          "description": "Canal 24/7 de Hey Arnold."
+        },
+        {
+          "Title": "Ironman 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/582.m3u8",
+          "Logo": "http://i.tvcluboficial.com/ironman.png",
+          "description": "Canal 24/7 de Iron Man."
+        },
+        {
+          "Title": "Johnny Bravo 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/584.m3u8",
+          "Logo": "http://i.tvcluboficial.com/johnnybravo.png",
+          "description": "Canal 24/7 de Johnny Bravo."
+        },
+        {
+          "Title": "La Casa de los Dibujos 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/590.m3u8",
+          "Logo": "http://i.tvcluboficial.com/247.png",
+          "description": "Canal 24/7 de La Casa de los Dibujos."
+        },
+        {
+          "Title": "La Familia Monster 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/591.m3u8",
+          "Logo": "http://i.tvcluboficial.com/lafamiliamonster.png",
+          "description": "Canal 24/7 de La Familia Monster."
+        },
+        {
+          "Title": "La Hora Pico 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/593.m3u8",
+          "Logo": "http://i.tvcluboficial.com/lahorapico.png",
+          "description": "Canal 24/7 de La Hora Pico."
+        },
+        {
+          "Title": "La Pantera Rosa 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/597.m3u8",
+          "Logo": "http://i.tvcluboficial.com/lapanterarosa.png",
+          "description": "Canal 24/7 de La Pantera Rosa."
+        },
+        {
+          "Title": "La Vaca y El Pollito 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/606.m3u8",
+          "Logo": "http://i.tvcluboficial.com/lavacayelpollito.png",
+          "description": "Canal 24/7 de La Vaca y El Pollito."
+        },
+        {
+          "Title": "Las Aventuras de Tom Sawyer 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/607.m3u8",
+          "Logo": "http://i.tvcluboficial.com/247.png",
+          "description": "Canal 24/7 de Las Aventuras de Tom Sawyer."
+        },
+        {
+          "Title": "Las Chicas Super Poderosas 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/608.m3u8",
+          "Logo": "http://i.tvcluboficial.com/247.png",
+          "description": "Canal 24/7 de Las Chicas Super Poderosas."
+        },
+        {
+          "Title": "Le Temes a la Oscuridad 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/611.m3u8",
+          "Logo": "http://i.tvcluboficial.com/letemesalaoscuridad.png",
+          "description": "Canal 24/7 de Le Temes a la Oscuridad."
+        },
+        {
+          "Title": "Looney Tunes 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/618.m3u8",
+          "Logo": "http://i.tvcluboficial.com/looneytunes.png",
+          "description": "Canal 24/7 de Looney Tunes."
+        },
+        {
+          "Title": "Los 3 Chiflados 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/619.m3u8",
+          "Logo": "http://i.tvcluboficial.com/los3chiflados.png",
+          "description": "Canal 24/7 de Los 3 Chiflados."
+        },
+        {
+          "Title": "Los Años Maravillosos 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/621.m3u8",
+          "Logo": "http://i.tvcluboficial.com/losaniosmaravillosos.png",
+          "description": "Canal 24/7 de Los Años Maravillosos."
+        },
+        {
+          "Title": "Los Chicos del Barrio 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/622.m3u8",
+          "Logo": "http://i.tvcluboficial.com/247.png",
+          "description": "Canal 24/7 de Los Chicos del Barrio."
+        },
+        {
+          "Title": "Los Expedientes Secretos X 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/623.m3u8",
+          "Logo": "http://i.tvcluboficial.com/247.png",
+          "description": "Canal 24/7 de Los Expedientes Secretos X."
+        },
+        {
+          "Title": "Los Picapiedra 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/625.m3u8",
+          "Logo": "http://i.tvcluboficial.com/lospicapiedra.png",
+          "description": "Canal 24/7 de Los Picapiedra."
+        },
+        {
+          "Title": "Los Pinguinos de Madagascar 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/626.m3u8",
+          "Logo": "http://i.tvcluboficial.com/lospinguinosdemadagascar.png",
+          "description": "Canal 24/7 de Los Pinguinos de Madagascar."
+        },
+        {
+          "Title": "Los Pitufos 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/627.m3u8",
+          "Logo": "http://i.tvcluboficial.com/lospitufos.png",
+          "description": "Canal 24/7 de Los Pitufos."
+        },
+        {
+          "Title": "Los Simpson 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/635.m3u8",
+          "Logo": "http://i.tvcluboficial.com/lossimpsons.png",
+          "description": "Canal 24/7 de Los Simpson."
+        },
+        {
+          "Title": "Los Vengadores Unidos 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/638.m3u8",
+          "Logo": "http://i.tvcluboficial.com/losvengadoresunidos.png",
+          "description": "Canal 24/7 de Los Vengadores Unidos."
+        },
+        {
+          "Title": "Malcolm 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/640.m3u8",
+          "Logo": "http://i.tvcluboficial.com/malcolm.png",
+          "description": "Canal 24/7 de Malcolm."
+        },
+        {
+          "Title": "Malcolm HD 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/641.m3u8",
+          "Logo": "http://i.tvcluboficial.com/malcolm.png",
+          "description": "Canal 24/7 de Malcolm en HD."
+        },
+        {
+          "Title": "Max Steel 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/647.m3u8",
+          "Logo": "http://i.tvcluboficial.com/maxsteel.png",
+          "description": "Canal 24/7 de Max Steel."
+        },
+        {
+          "Title": "Mazinger Z 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/649.m3u8",
+          "Logo": "http://i.tvcluboficial.com/mazingerz.png",
+          "description": "Canal 24/7 de Mazinger Z."
+        },
+        {
+          "Title": "Mr. Bean 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/670.m3u8",
+          "Logo": "http://i.tvcluboficial.com/mrbean.png",
+          "description": "Canal 24/7 de Mr. Bean."
+        },
+        {
+          "Title": "Naruto 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/702.m3u8",
+          "Logo": "http://i.tvcluboficial.com/naruto.png",
+          "description": "Canal 24/7 de Naruto."
+        },
+        {
+          "Title": "Neon Genesis Evangelion 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/716.m3u8",
+          "Logo": "http://i.tvcluboficial.com/neongenesis.png",
+          "description": "Canal 24/7 de Neon Genesis Evangelion."
+        },
+        {
+          "Title": "Nosotros los Guapos 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/739.m3u8",
+          "Logo": "http://i.tvcluboficial.com/247.png",
+          "description": "Canal 24/7 de Nosotros los Guapos."
+        },
+        {
+          "Title": "One Punch Man 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/744.m3u8",
+          "Logo": "http://i.tvcluboficial.com/onepunchman.png",
+          "description": "Canal 24/7 de One Punch Man."
+        },
+        {
+          "Title": "Padre de Familia 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/747.m3u8",
+          "Logo": "http://i.tvcluboficial.com/padredefamilia.png",
+          "description": "Canal 24/7 de Padre de Familia."
+        },
+        {
+          "Title": "Patoaventuras 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/758.m3u8",
+          "Logo": "http://i.tvcluboficial.com/patoaventuras.png",
+          "description": "Canal 24/7 de Patoaventuras."
+        },
+        {
+          "Title": "Patrulla Canina 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/759.m3u8",
+          "Logo": "http://i.tvcluboficial.com/patrullacanina.png",
+          "description": "Canal 24/7 de Patrulla Canina."
+        },
+        {
+          "Title": "Peppa Pig 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/760.m3u8",
+          "Logo": "http://i.tvcluboficial.com/peppapig.png",
+          "description": "Canal 24/7 de Peppa Pig."
+        },
+        {
+          "Title": "Pokemon 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/762.m3u8",
+          "Logo": "http://i.tvcluboficial.com/pokemon.png",
+          "description": "Canal 24/7 de Pokemon."
+        },
+        {
+          "Title": "Popeye 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/763.m3u8",
+          "Logo": "http://i.tvcluboficial.com/popeye.png",
+          "description": "Canal 24/7 de Popeye."
+        },
+        {
+          "Title": "Rugrats 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/768.m3u8",
+          "Logo": "http://i.tvcluboficial.com/rugrats.png",
+          "description": "Canal 24/7 de Rugrats."
+        },
+        {
+          "Title": "Samurai X 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/772.m3u8",
+          "Logo": "http://i.tvcluboficial.com/samuraix.png",
+          "description": "Canal 24/7 de Samurai X."
+        },
+        {
+          "Title": "South Park 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/778.m3u8",
+          "Logo": "http://i.tvcluboficial.com/southpark.png",
+          "description": "Canal 24/7 de South Park."
+        },
+        {
+          "Title": "Super Mario 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/787.m3u8",
+          "Logo": "http://i.tvcluboficial.com/supermario.png",
+          "description": "Canal 24/7 de Super Mario."
+        },
+        {
+          "Title": "Superman 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/789.m3u8",
+          "Logo": "http://i.tvcluboficial.com/superman.png",
+          "description": "Canal 24/7 de Superman."
+        },
+        {
+          "Title": "That '70s Show 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/806.m3u8",
+          "Logo": "http://i.tvcluboficial.com/that70s.png",
+          "description": "Canal 24/7 de That '70s Show."
+        },
+        {
+          "Title": "The Big Bang Theory 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1160.m3u8",
+          "Logo": "http://i.tvcluboficial.com/bigbang.png",
+          "description": "Canal 24/7 de The Big Bang Theory."
+        },
+        {
+          "Title": "The Simpsons 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/809.m3u8",
+          "Logo": "http://i.tvcluboficial.com/simpsons.png",
+          "description": "Canal 24/7 de Los Simpson (opción 2)."
+        },
+        {
+          "Title": "The Walking Dead 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/811.m3u8",
+          "Logo": "http://i.tvcluboficial.com/thewalkingdead.png",
+          "description": "Canal 24/7 de The Walking Dead."
+        },
+        {
+          "Title": "Thundercats 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/813.m3u8",
+          "Logo": "http://i.tvcluboficial.com/thundercats.png",
+          "description": "Canal 24/7 de Thundercats."
+        },
+        {
+          "Title": "Tom y Jerry 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/814.m3u8",
+          "Logo": "http://i.tvcluboficial.com/tomyjerry.png",
+          "description": "Canal 24/7 de Tom y Jerry."
+        },
+        {
+          "Title": "Transformers 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/820.m3u8",
+          "Logo": "http://i.tvcluboficial.com/transformers.png",
+          "description": "Canal 24/7 de Transformers."
+        },
+        {
+          "Title": "Two and a Half Men 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/825.m3u8",
+          "Logo": "http://i.tvcluboficial.com/twoandahalf.png",
+          "description": "Canal 24/7 de Two and a Half Men."
+        },
+        {
+          "Title": "Yugioh 24/7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/843.m3u8",
+          "Logo": "http://i.tvcluboficial.com/yugioh.png",
+          "description": "Canal 24/7 de Yugioh."
+        }
+      ]
+    },
+    {
+      "title": "HD",
+      "episodes": [
+        {
+          "Title": "A&E HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/8.m3u8",
+          "Logo": "http://i.tvcluboficial.com/ae.png",
+          "description": "Canal A&E en HD."
+        },
+        {
+          "Title": "AMC HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/33.m3u8",
+          "Logo": "http://i.tvcluboficial.com/amc.png",
+          "description": "Canal AMC en HD."
+        },
+        {
+          "Title": "AXN HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/58.m3u8",
+          "Logo": "http://i.tvcluboficial.com/axn.png",
+          "description": "Canal AXN en HD."
+        },
+        {
+          "Title": "Az Corazón HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/68.m3u8",
+          "Logo": "http://i.tvcluboficial.com/azcorazon.png",
+          "description": "Canal AZ Corazón en HD."
+        },
+        {
+          "Title": "Azteca 7 HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/74.m3u8",
+          "Logo": "http://i.tvcluboficial.com/azteca7.png",
+          "description": "Canal Azteca 7 en HD."
+        },
+        {
+          "Title": "Azteca Uno HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/78.m3u8",
+          "Logo": "http://i.tvcluboficial.com/azteca1.png",
+          "description": "Canal Azteca Uno en HD."
+        },
+        {
+          "Title": "Bandamax HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/84.m3u8",
+          "Logo": "http://i.tvcluboficial.com/bandamax.png",
+          "description": "Canal Bandamax en HD."
+        },
+        {
+          "Title": "Canal 5 HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/108.m3u8",
+          "Logo": "http://i.tvcluboficial.com/canal5.png",
+          "description": "Canal 5 en HD."
+        },
+        {
+          "Title": "Canal de las Estrellas HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/118.m3u8",
+          "Logo": "http://i.tvcluboficial.com/mx_lasestrellas.png",
+          "description": "Canal de las Estrellas en HD."
+        },
+        {
+          "Title": "Cartoon Network HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/132.m3u8",
+          "Logo": "http://i.tvcluboficial.com/cartoonnetwork.png",
+          "description": "Canal Cartoon Network en HD."
+        },
+        {
+          "Title": "Cartoonito HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/137.m3u8",
+          "Logo": "http://i.tvcluboficial.com/cartoonito.png",
+          "description": "Canal Cartoonito en HD."
+        },
+        {
+          "Title": "CBS HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/140.m3u8",
+          "Logo": "http://i.tvcluboficial.com/cbs.png",
+          "description": "Canal CBS en HD."
+        },
+        {
+          "Title": "CDF Premium HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/143.m3u8",
+          "Logo": "http://i.tvcluboficial.com/cdfpremium.png",
+          "description": "Canal CDF Premium en HD."
+        },
+        {
+          "Title": "Cinecanal HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/188.m3u8",
+          "Logo": "http://i.tvcluboficial.com/cinecanal.png",
+          "description": "Canal Cinecanal en HD."
+        },
+        {
+          "Title": "Cinemax HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/196.m3u8",
+          "Logo": "http://i.tvcluboficial.com/cinemax.png",
+          "description": "Canal Cinemax en HD."
+        },
+        {
+          "Title": "Comedy Central HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/220.m3u8",
+          "Logo": "http://i.tvcluboficial.com/comedycentral.png",
+          "description": "Canal Comedy Central en HD."
+        },
+        {
+          "Title": "De Pelicula HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/237.m3u8",
+          "Logo": "http://i.tvcluboficial.com/depelicula.png",
+          "description": "Canal De Película en HD."
+        },
+        {
+          "Title": "De Pelicula Plus HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/239.m3u8",
+          "Logo": "http://i.tvcluboficial.com/dpeliculaplus.png",
+          "description": "Canal De Película Plus en HD."
+        },
+        {
+          "Title": "Discovery Channel HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/251.m3u8",
+          "Logo": "http://i.tvcluboficial.com/discoverychannel.png",
+          "description": "Canal Discovery Channel en HD."
+        },
+        {
+          "Title": "Discovery H&H HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/258.m3u8",
+          "Logo": "http://i.tvcluboficial.com/discoveryhh.png",
+          "description": "Canal Discovery H&H en HD."
+        },
+        {
+          "Title": "Discovery Kids HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/266.m3u8",
+          "Logo": "http://i.tvcluboficial.com/discoverykids.png",
+          "description": "Canal Discovery Kids en HD."
+        },
+        {
+          "Title": "Discovery Theater HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/271.m3u8",
+          "Logo": "http://i.tvcluboficial.com/discoverytheater.png",
+          "description": "Canal Discovery Theater en HD."
+        },
+        {
+          "Title": "Discovery Turbo HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/275.m3u8",
+          "Logo": "http://i.tvcluboficial.com/discoveryturbo.png",
+          "description": "Canal Discovery Turbo en HD."
+        },
+        {
+          "Title": "Disney Junior HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/287.m3u8",
+          "Logo": "http://i.tvcluboficial.com/disneyjr.png",
+          "description": "Canal Disney Junior en HD."
+        },
+        {
+          "Title": "DSports 2 HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/317.m3u8",
+          "Logo": "http://i.tvcluboficial.com/directvsports2.png",
+          "description": "Canal DSports 2 en HD."
+        },
+        {
+          "Title": "DSports HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/324.m3u8",
+          "Logo": "http://i.tvcluboficial.com/directvsports.png",
+          "description": "Canal DSports en HD."
+        },
+        {
+          "Title": "E! HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/336.m3u8",
+          "Logo": "http://i.tvcluboficial.com/e.png",
+          "description": "Canal E! en HD."
+        },
+        {
+          "Title": "El Chavo del 8 HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1173.m3u8",
+          "Logo": "http://i.tvcluboficial.com/elchavodel8.png",
+          "description": "Canal El Chavo del 8 en HD."
+        },
+        {
+          "Title": "ESPN 2 HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/375.m3u8",
+          "Logo": "http://i.tvcluboficial.com/espn2.png",
+          "description": "Canal ESPN 2 en HD."
+        },
+        {
+          "Title": "ESPN 3 HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/386.m3u8",
+          "Logo": "http://i.tvcluboficial.com/espn3.png",
+          "description": "Canal ESPN 3 en HD."
+        },
+        {
+          "Title": "ESPN HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/400.m3u8",
+          "Logo": "http://i.tvcluboficial.com/espn.png",
+          "description": "Canal ESPN en HD."
+        },
+        {
+          "Title": "ESPN Plus HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/405.m3u8",
+          "Logo": "http://i.tvcluboficial.com/espnplus.png",
+          "description": "Canal ESPN Plus en HD."
+        },
+        {
+          "Title": "Film & Arts HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/419.m3u8",
+          "Logo": "http://i.tvcluboficial.com/filmarts.png",
+          "description": "Canal Film & Arts en HD."
+        },
+        {
+          "Title": "Fox (ES) HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/430.m3u8",
+          "Logo": "http://i.tvcluboficial.com/fox.png",
+          "description": "Canal Fox (España) en HD."
+        },
+        {
+          "Title": "Fox Sports 1 HD Sur",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/452.m3u8",
+          "Logo": "http://i.tvcluboficial.com/foxsports.png",
+          "description": "Canal Fox Sports 1 HD (Sur)."
+        },
+        {
+          "Title": "Fox Sports 2 HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/439.m3u8",
+          "Logo": "http://i.tvcluboficial.com/foxsports2.png",
+          "description": "Canal Fox Sports 2 en HD."
+        },
+        {
+          "Title": "Fox Sports 3 HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/446.m3u8",
+          "Logo": "http://i.tvcluboficial.com/foxsports3.png",
+          "description": "Canal Fox Sports 3 en HD."
+        },
+        {
+          "Title": "Fox Sports HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/454.m3u8",
+          "Logo": "http://i.tvcluboficial.com/foxsports.png",
+          "description": "Canal Fox Sports en HD."
+        },
+        {
+          "Title": "Fox Sports Premium HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/464.m3u8",
+          "Logo": "http://i.tvcluboficial.com/foxsportspremium.png",
+          "description": "Canal Fox Sports Premium en HD."
+        },
+        {
+          "Title": "FS1 USA HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/471.m3u8",
+          "Logo": "http://i.tvcluboficial.com/fs1.png",
+          "description": "Canal FS1 USA en HD."
+        },
+        {
+          "Title": "FS2 USA HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/472.m3u8",
+          "Logo": "http://i.tvcluboficial.com/fs2.png",
+          "description": "Canal FS2 USA en HD."
+        },
+        {
+          "Title": "FX HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/477.m3u8",
+          "Logo": "http://i.tvcluboficial.com/fx.png",
+          "description": "Canal FX en HD."
+        },
+        {
+          "Title": "FXM HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/480.m3u8",
+          "Logo": "http://i.tvcluboficial.com/fxm.png",
+          "description": "Canal FXM en HD."
+        },
+        {
+          "Title": "Gala TV HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/482.m3u8",
+          "Logo": "http://i.tvcluboficial.com/galatv.png",
+          "description": "Canal Gala TV en HD."
+        },
+        {
+          "Title": "Garage TV HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/485.m3u8",
+          "Logo": "http://i.tvcluboficial.com/garagetv.png",
+          "description": "Canal Garage TV en HD."
+        },
+        {
+          "Title": "Gol TV HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/492.m3u8",
+          "Logo": "http://i.tvcluboficial.com/goltv.png",
+          "description": "Canal Gol TV en HD."
+        },
+        {
+          "Title": "Golden HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/497.m3u8",
+          "Logo": "http://i.tvcluboficial.com/golden.png",
+          "description": "Canal Golden en HD."
+        },
+        {
+          "Title": "HBO 2 HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/520.m3u8",
+          "Logo": "http://i.tvcluboficial.com/hbo2.png",
+          "description": "Canal HBO 2 en HD."
+        },
+        {
+          "Title": "HBO Family HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/526.m3u8",
+          "Logo": "http://i.tvcluboficial.com/hbofamily.png",
+          "description": "Canal HBO Family en HD."
+        },
+        {
+          "Title": "HBO HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/527.m3u8",
+          "Logo": "http://i.tvcluboficial.com/hbo.png",
+          "description": "Canal HBO en HD."
+        },
+        {
+          "Title": "HBO Plus HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/534.m3u8",
+          "Logo": "http://i.tvcluboficial.com/hboplus.png",
+          "description": "Canal HBO Plus en HD."
+        },
+        {
+          "Title": "History Channel HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/560.m3u8",
+          "Logo": "http://i.tvcluboficial.com/history.png",
+          "description": "Canal History Channel en HD."
+        },
+        {
+          "Title": "Imagen Televisión HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/577.m3u8",
+          "Logo": "http://i.tvcluboficial.com/imagentv.png",
+          "description": "Canal Imagen Televisión en HD."
+        },
+        {
+          "Title": "Investigation Discovery HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/581.m3u8",
+          "Logo": "http://i.tvcluboficial.com/investigationdiscovery.png",
+          "description": "Canal Investigation Discovery en HD."
+        },
+        {
+          "Title": "La 1 HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/588.m3u8",
+          "Logo": "http://i.tvcluboficial.com/la1.png",
+          "description": "Canal La 1 (España) en HD."
+        },
+        {
+          "Title": "La 2 HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/589.m3u8",
+          "Logo": "http://i.tvcluboficial.com/la2hd.png",
+          "description": "Canal La 2 (España) en HD."
+        },
+        {
+          "Title": "La Sexta HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/603.m3u8",
+          "Logo": "http://i.tvcluboficial.com/lasexta.png",
+          "description": "Canal La Sexta (España) en HD."
+        },
+        {
+          "Title": "Max Prime HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/646.m3u8",
+          "Logo": "http://i.tvcluboficial.com/play.png",
+          "description": "Canal Max Prime en HD."
+        },
+        {
+          "Title": "Max Up HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/648.m3u8",
+          "Logo": "http://i.tvcluboficial.com/play.png",
+          "description": "Canal Max Up en HD."
+        },
+        {
+          "Title": "Mega ES HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/653.m3u8",
+          "Logo": "http://i.tvcluboficial.com/mega.png",
+          "description": "Canal Mega (España) en HD."
+        },
+        {
+          "Title": "MLB Network",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/658.m3u8",
+          "Logo": "http://i.tvcluboficial.com/mlb.png",
+          "description": "Canal MLB Network en HD."
+        },
+        {
+          "Title": "Multimedios HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/693.m3u8",
+          "Logo": "http://i.tvcluboficial.com/multimedios.png",
+          "description": "Canal Multimedios en HD."
+        },
+        {
+          "Title": "Nat Geo HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/706.m3u8",
+          "Logo": "http://i.tvcluboficial.com/natgeo.png",
+          "description": "Canal National Geographic en HD."
+        },
+        {
+          "Title": "Nick 2 HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/726.m3u8",
+          "Logo": "http://i.tvcluboficial.com/nick2.png",
+          "description": "Canal Nick 2 en HD."
+        },
+        {
+          "Title": "Nick HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/728.m3u8",
+          "Logo": "http://i.tvcluboficial.com/nick.png",
+          "description": "Canal Nick en HD."
+        },
+        {
+          "Title": "Nick JR HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/732.m3u8",
+          "Logo": "http://i.tvcluboficial.com/nickjr.png",
+          "description": "Canal Nick JR en HD."
+        },
+        {
+          "Title": "Novelisima HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1150.m3u8",
+          "Logo": "http://i.tvcluboficial.com/novelisima.png",
+          "description": "Canal Novelísima en HD."
+        },
+        {
+          "Title": "Paramount HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/753.m3u8",
+          "Logo": "http://i.tvcluboficial.com/paramount.png",
+          "description": "Canal Paramount en HD."
+        },
+        {
+          "Title": "Pasiones HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/757.m3u8",
+          "Logo": "http://i.tvcluboficial.com/pasiones.png",
+          "description": "Canal Pasiones en HD."
+        },
+        {
+          "Title": "RCN HD (Colombia)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/767.m3u8",
+          "Logo": "http://i.tvcluboficial.com/rcn.png",
+          "description": "Canal RCN de Colombia en HD."
+        },
+        {
+          "Title": "Sony Channel HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/777.m3u8",
+          "Logo": "http://i.tvcluboficial.com/sony.png",
+          "description": "Canal Sony Channel en HD."
+        },
+        {
+          "Title": "Space HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/781.m3u8",
+          "Logo": "http://i.tvcluboficial.com/space.png",
+          "description": "Canal Space en HD."
+        },
+        {
+          "Title": "Star Channel HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/783.m3u8",
+          "Logo": "http://i.tvcluboficial.com/star.png",
+          "description": "Canal Star Channel en HD."
+        },
+        {
+          "Title": "Studio Universal HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/785.m3u8",
+          "Logo": "http://i.tvcluboficial.com/studiouniversal.png",
+          "description": "Canal Studio Universal en HD."
+        },
+        {
+          "Title": "Syfy HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/792.m3u8",
+          "Logo": "http://i.tvcluboficial.com/syfy.png",
+          "description": "Canal Syfy en HD."
+        },
+        {
+          "Title": "TBS HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/796.m3u8",
+          "Logo": "http://i.tvcluboficial.com/tbs.png",
+          "description": "Canal TBS en HD."
+        },
+        {
+          "Title": "TNT HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/817.m3u8",
+          "Logo": "http://i.tvcluboficial.com/tnt.png",
+          "description": "Canal TNT en HD."
+        },
+        {
+          "Title": "TNT Series HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/818.m3u8",
+          "Logo": "http://i.tvcluboficial.com/tntseries.png",
+          "description": "Canal TNT Series en HD."
+        },
+        {
+          "Title": "Universal TV HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/832.m3u8",
+          "Logo": "http://i.tvcluboficial.com/universal.png",
+          "description": "Canal Universal TV en HD."
+        },
+        {
+          "Title": "Warner Channel HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/837.m3u8",
+          "Logo": "http://i.tvcluboficial.com/warnerchannel.png",
+          "description": "Canal Warner Channel en HD."
+        }
+      ]
+    },
+    {
+      "title": "MÉXICO",
+      "episodes": [
+        {
+          "Title": "A+",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/9.m3u8",
+          "Logo": "http://i.tvcluboficial.com/aplus.png",
+          "description": "Canal A+ (México)."
+        },
+        {
+          "Title": "Azteca 7",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/72.m3u8",
+          "Logo": "http://i.tvcluboficial.com/azteca7.png",
+          "description": "Canal Azteca 7."
+        },
+        {
+          "Title": "Azteca Uno",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/76.m3u8",
+          "Logo": "http://i.tvcluboficial.com/azteca1.png",
+          "description": "Canal Azteca Uno."
+        },
+        {
+          "Title": "Canal 5",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/106.m3u8",
+          "Logo": "http://i.tvcluboficial.com/canal5.png",
+          "description": "Canal 5 (México)."
+        },
+        {
+          "Title": "Canal de las Estrellas",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/114.m3u8",
+          "Logo": "http://i.tvcluboficial.com/mx_lasestrellas.png",
+          "description": "Canal de las Estrellas."
+        },
+        {
+          "Title": "Gala TV",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/481.m3u8",
+          "Logo": "http://i.tvcluboficial.com/galatv.png",
+          "description": "Canal Gala TV."
+        },
+        {
+          "Title": "Imagen Television",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/576.m3u8",
+          "Logo": "http://i.tvcluboficial.com/imagentv.png",
+          "description": "Canal Imagen Televisión."
+        },
+        {
+          "Title": "Multimedios",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/690.m3u8",
+          "Logo": "http://i.tvcluboficial.com/multimedios.png",
+          "description": "Canal Multimedios."
+        },
+        {
+          "Title": "Multimedios (Monterrey)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/691.m3u8",
+          "Logo": "http://i.tvcluboficial.com/multimedios.png",
+          "description": "Canal Multimedios (Monterrey)."
+        },
+        {
+          "Title": "Multimedios Plus",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/694.m3u8",
+          "Logo": "http://i.tvcluboficial.com/multimedios.png",
+          "description": "Canal Multimedios Plus."
+        },
+        {
+          "Title": "NU9VE",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/718.m3u8",
+          "Logo": "http://i.tvcluboficial.com/nueve.png",
+          "description": "Canal NU9VE."
+        }
+      ]
+    },
+    {
+      "title": "ESPAÑA",
+      "episodes": [
+        {
+          "Title": "A3Cine",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/14.m3u8",
+          "Logo": "http://i.tvcluboficial.com/a3cine.png",
+          "description": "Canal de cine de Antena 3."
+        },
+        {
+          "Title": "A3Series",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/17.m3u8",
+          "Logo": "http://i.tvcluboficial.com/a3series.png",
+          "description": "Canal de series de Antena 3."
+        },
+        {
+          "Title": "AMC (ES)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/32.m3u8",
+          "Logo": "http://i.tvcluboficial.com/amc.png",
+          "description": "Canal AMC (España)."
+        },
+        {
+          "Title": "Antena 3",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/45.m3u8",
+          "Logo": "http://i.tvcluboficial.com/antena3.png",
+          "description": "Canal Antena 3 (España)."
+        },
+        {
+          "Title": "AXN HD (ES)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/59.m3u8",
+          "Logo": "http://i.tvcluboficial.com/axn.png",
+          "description": "Canal AXN HD (España)."
+        },
+        {
+          "Title": "AXN WHITE HD (ES)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/61.m3u8",
+          "Logo": "http://i.tvcluboficial.com/axn.png",
+          "description": "Canal AXN White HD (España)."
+        },
+        {
+          "Title": "Comedy Central (ES)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/219.m3u8",
+          "Logo": "http://i.tvcluboficial.com/comedycentral.png",
+          "description": "Canal Comedy Central (España)."
+        },
+        {
+          "Title": "Fox (ES) HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/430.m3u8",
+          "Logo": "http://i.tvcluboficial.com/fox.png",
+          "description": "Canal Fox (España) en HD."
+        },
+        {
+          "Title": "Gol TV (España)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1125.m3u8",
+          "Logo": "http://i.tvcluboficial.com/goltv.png",
+          "description": "Canal Gol TV para España."
+        },
+        {
+          "Title": "Historia (ES)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/554.m3u8",
+          "Logo": "http://i.tvcluboficial.com/history.png",
+          "description": "Canal History (España)."
+        },
+        {
+          "Title": "La 1 HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/588.m3u8",
+          "Logo": "http://i.tvcluboficial.com/la1.png",
+          "description": "Canal La 1 (España)."
+        },
+        {
+          "Title": "La 2 HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/589.m3u8",
+          "Logo": "http://i.tvcluboficial.com/la2hd.png",
+          "description": "Canal La 2 (España)."
+        },
+        {
+          "Title": "La Sexta HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/603.m3u8",
+          "Logo": "http://i.tvcluboficial.com/lasexta.png",
+          "description": "Canal La Sexta (España)."
+        },
+        {
+          "Title": "Mega ES HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/653.m3u8",
+          "Logo": "http://i.tvcluboficial.com/mega.png",
+          "description": "Canal Mega (España)."
+        },
+        {
+          "Title": "Movistar Acción HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/661.m3u8",
+          "Logo": "http://i.tvcluboficial.com/maccion.png",
+          "description": "Canal Movistar Acción."
+        },
+        {
+          "Title": "Movistar Cine Ñ",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/662.m3u8",
+          "Logo": "http://i.tvcluboficial.com/movistar_comedia.png",
+          "description": "Canal Movistar Cine Ñ."
+        },
+        {
+          "Title": "Movistar Comedia",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/663.m3u8",
+          "Logo": "http://i.tvcluboficial.com/movistar_comedia.png",
+          "description": "Canal Movistar Comedia."
+        },
+        {
+          "Title": "Movistar Estrenos HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/667.m3u8",
+          "Logo": "http://i.tvcluboficial.com/movistar_estrenos.png",
+          "description": "Canal Movistar Estrenos."
+        },
+        {
+          "Title": "Movistar Series HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/669.m3u8",
+          "Logo": "http://i.tvcluboficial.com/movistar_series.png",
+          "description": "Canal Movistar Series."
+        },
+        {
+          "Title": "MTV (ES)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/674.m3u8",
+          "Logo": "http://i.tvcluboficial.com/mtv.png",
+          "description": "Canal MTV (España)."
+        },
+        {
+          "Title": "Nova (ES)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/740.m3u8",
+          "Logo": "http://i.tvcluboficial.com/nova.png",
+          "description": "Canal Nova (España)."
+        },
+        {
+          "Title": "Paramount HD (ES)",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/754.m3u8",
+          "Logo": "http://i.tvcluboficial.com/paramount.png",
+          "description": "Canal Paramount (España)."
+        }
+      ]
+    },
+    {
+      "title": "ARGENTINA",
+      "episodes": [
+        {
+          "Title": "A24",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1163.m3u8",
+          "Logo": "http://i.tvcluboficial.com/a24.png",
+          "description": "Canal A24 (Argentina)."
+        },
+        {
+          "Title": "America | Argentina",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1068.m3u8",
+          "Logo": "http://i.tvcluboficial.com/ar_america.png",
+          "description": "Canal América (Argentina)."
+        },
+        {
+          "Title": "C5N",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1162.m3u8",
+          "Logo": "http://i.tvcluboficial.com/c5n.png",
+          "description": "Canal C5N (Argentina)."
+        },
+        {
+          "Title": "El Nueve (9) | Argentina",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/353.m3u8",
+          "Logo": "http://i.tvcluboficial.com/elnueveargentina.png",
+          "description": "Canal El Nueve (Argentina)."
+        },
+        {
+          "Title": "El Trece (13) Argentina",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/362.m3u8",
+          "Logo": "http://i.tvcluboficial.com/el13argentina.png",
+          "description": "Canal El Trece (Argentina)."
+        },
+        {
+          "Title": "ESPN | Argentina",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1111.m3u8",
+          "Logo": "http://i.tvcluboficial.com/espn.png",
+          "description": "Canal ESPN (Argentina)."
+        },
+        {
+          "Title": "Telefe | Argentina",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/798.m3u8",
+          "Logo": "http://i.tvcluboficial.com/telefe.png",
+          "description": "Canal Telefe (Argentina)."
+        },
+        {
+          "Title": "TN (Todo Noticias) | Argentina",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/811.m3u8",
+          "Logo": "http://i.tvcluboficial.com/tn.png",
+          "description": "Canal Todo Noticias (Argentina)."
+        }
+      ]
+    },
+    {
+      "title": "COLOMBIA",
+      "episodes": [
+        {
+          "Title": "Canal Uno (1) | Colombia",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1014.m3u8",
+          "Logo": "http://i.tvcluboficial.com/co_uno.png",
+          "description": "Canal Uno (Colombia)."
+        },
+        {
+          "Title": "Caracol | Colombia",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/126.m3u8",
+          "Logo": "http://i.tvcluboficial.com/caracol.png",
+          "description": "Canal Caracol (Colombia)."
+        },
+        {
+          "Title": "ESPN | Colombia",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1107.m3u8",
+          "Logo": "http://i.tvcluboficial.com/espn.png",
+          "description": "Canal ESPN (Colombia)."
+        },
+        {
+          "Title": "RCN | Colombia",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/767.m3u8",
+          "Logo": "http://i.tvcluboficial.com/rcn.png",
+          "description": "Canal RCN (Colombia)."
+        },
+        {
+          "Title": "Teleantioquia | Colombia",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/799.m3u8",
+          "Logo": "http://i.tvcluboficial.com/teleantioquia.png",
+          "description": "Canal Teleantioquia (Colombia)."
+        },
+        {
+          "Title": "Win Sports | Colombia",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/840.m3u8",
+          "Logo": "http://i.tvcluboficial.com/winsports.png",
+          "description": "Canal Win Sports (Colombia)."
+        },
+        {
+          "Title": "Win Sports + | Colombia",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/841.m3u8",
+          "Logo": "http://i.tvcluboficial.com/winsports.png",
+          "description": "Canal Win Sports + (Colombia)."
+        }
+      ]
+    },
+    {
+      "title": "PERÚ",
+      "episodes": [
+        {
+          "Title": "America TV | Peru",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/35.m3u8",
+          "Logo": "http://i.tvcluboficial.com/americaperu.png",
+          "description": "Canal América TV (Perú)."
+        },
+        {
+          "Title": "ATV | Peru",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1063.m3u8",
+          "Logo": "http://i.tvcluboficial.com/pe_atv.png",
+          "description": "Canal ATV (Perú)."
+        },
+        {
+          "Title": "Canal N | Peru",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1065.m3u8",
+          "Logo": "http://i.tvcluboficial.com/pe_canaln.png",
+          "description": "Canal N (Perú)."
+        },
+        {
+          "Title": "Gol Peru",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/490.m3u8",
+          "Logo": "http://i.tvcluboficial.com/golperu.png",
+          "description": "Canal Gol Perú."
+        },
+        {
+          "Title": "Latina | Peru",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/765.m3u8",
+          "Logo": "http://i.tvcluboficial.com/latinatv.png",
+          "description": "Canal Latina (Perú)."
+        },
+        {
+          "Title": "Liga 1 Max | Peru",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1070.m3u8",
+          "Logo": "http://i.tvcluboficial.com/pe_liga1max.png",
+          "description": "Canal Liga 1 Max (Perú)."
+        },
+        {
+          "Title": "Panamericana | Peru",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1064.m3u8",
+          "Logo": "http://i.tvcluboficial.com/pe_panamericana.png",
+          "description": "Canal Panamericana (Perú)."
+        }
+      ]
+    },
+    {
+      "title": "CHILE",
+      "episodes": [
+        {
+          "Title": "Chilevision (CHV) | Chile",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/155.m3u8",
+          "Logo": "http://i.tvcluboficial.com/ch_chilevision.png",
+          "description": "Canal Chilevisión (Chile)."
+        },
+        {
+          "Title": "El Trece (13) Chile",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/360.m3u8",
+          "Logo": "http://i.tvcluboficial.com/eltrecechile.png",
+          "description": "Canal El Trece (Chile)."
+        },
+        {
+          "Title": "ESPN | Chile",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1132.m3u8",
+          "Logo": "http://i.tvcluboficial.com/espn.png",
+          "description": "Canal ESPN (Chile)."
+        },
+        {
+          "Title": "Fox Sports 2 | Chile",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1123.m3u8",
+          "Logo": "http://i.tvcluboficial.com/foxsports2sur.png",
+          "description": "Canal Fox Sports 2 (Chile)."
+        },
+        {
+          "Title": "Mega | Chile",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/651.m3u8",
+          "Logo": "http://i.tvcluboficial.com/mega.png",
+          "description": "Canal Mega (Chile)."
+        }
+      ]
+    },
+    {
+      "title": "CENTROAMÉRICA",
+      "episodes": [
+        {
+          "Title": "Azteca Guate",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1098.m3u8",
+          "Logo": "http://i.tvcluboficial.com/aztecaguate.png",
+          "description": "Canal Azteca Guate (Guatemala)."
+        },
+        {
+          "Title": "Canal 10 | Nicaragua",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1076.m3u8",
+          "Logo": "http://i.tvcluboficial.com/ni_canal10.png",
+          "description": "Canal 10 (Nicaragua)."
+        },
+        {
+          "Title": "Canal 12 | El Salvador",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1083.m3u8",
+          "Logo": "http://i.tvcluboficial.com/sa_canal12.png",
+          "description": "Canal 12 (El Salvador)."
+        },
+        {
+          "Title": "Canal 2 | El Salvador",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1078.m3u8",
+          "Logo": "http://i.tvcluboficial.com/sa_canal2.png",
+          "description": "Canal 2 (El Salvador)."
+        },
+        {
+          "Title": "Canal 2 | Nicaragua",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1075.m3u8",
+          "Logo": "http://i.tvcluboficial.com/ni_canal2.png",
+          "description": "Canal 2 (Nicaragua)."
+        },
+        {
+          "Title": "Canal 3 | El Salvador",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1080.m3u8",
+          "Logo": "http://i.tvcluboficial.com/sa_canal3.png",
+          "description": "Canal 3 (El Salvador)."
+        },
+        {
+          "Title": "Canal 4 | El Salvador",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1081.m3u8",
+          "Logo": "http://i.tvcluboficial.com/sa_canal4.png",
+          "description": "Canal 4 (El Salvador)."
+        },
+        {
+          "Title": "Canal 5 Honduras",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/109.m3u8",
+          "Logo": "http://i.tvcluboficial.com/ho_canal5.png",
+          "description": "Canal 5 (Honduras)."
+        },
+        {
+          "Title": "Canal 6 | Costa Rica",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1084.m3u8",
+          "Logo": "http://i.tvcluboficial.com/cr_canal6.png",
+          "description": "Canal 6 (Costa Rica)."
+        },
+        {
+          "Title": "Canal 6 | El Salvador",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1082.m3u8",
+          "Logo": "http://i.tvcluboficial.com/sa_canal6.png",
+          "description": "Canal 6 (El Salvador)."
+        },
+        {
+          "Title": "Futv | Costa Rica",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1074.m3u8",
+          "Logo": "http://i.tvcluboficial.com/cr_futv.png",
+          "description": "Canal Futv (Costa Rica)."
+        },
+        {
+          "Title": "Guatevision",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1089.m3u8",
+          "Logo": "http://i.tvcluboficial.com/guatevision.png",
+          "description": "Canal Guatevisión (Guatemala)."
+        },
+        {
+          "Title": "HCH",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/547.m3u8",
+          "Logo": "http://i.tvcluboficial.com/hchhonduras.png",
+          "description": "Canal HCH (Honduras)."
+        },
+        {
+          "Title": "RPC | Panamá",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/766.m3u8",
+          "Logo": "http://i.tvcluboficial.com/rpc.png",
+          "description": "Canal RPC (Panamá)."
+        }
+      ]
+    },
+    {
+      "title": "RELIGIÓN",
+      "episodes": [
+        {
+          "Title": "Enlace",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1092.m3u8",
+          "Logo": "http://i.tvcluboficial.com/enlace.png",
+          "description": "Canal Enlace."
+        },
+        {
+          "Title": "EWTN",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1093.m3u8",
+          "Logo": "http://i.tvcluboficial.com/ewtn.png",
+          "description": "Canal EWTN."
+        },
+        {
+          "Title": "Maria Vision",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/1097.m3u8",
+          "Logo": "http://i.tvcluboficial.com/mariavision.png",
+          "description": "Canal María Visión."
+        }
+      ]
+    },
+    {
+      "title": "USA",
+      "episodes": [
+        {
+          "Title": "FS1 USA HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/471.m3u8",
+          "Logo": "http://i.tvcluboficial.com/fs1.png",
+          "description": "Canal FS1 USA."
+        },
+        {
+          "Title": "FS2 USA HD",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/472.m3u8",
+          "Logo": "http://i.tvcluboficial.com/fs2.png",
+          "description": "Canal FS2 USA."
+        },
+        {
+          "Title": "MLB Network",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/658.m3u8",
+          "Logo": "http://i.tvcluboficial.com/mlb.png",
+          "description": "Canal MLB Network."
+        },
+        {
+          "Title": "NBC Universo",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/714.m3u8",
+          "Logo": "http://i.tvcluboficial.com/nbcuniverso.png",
+          "description": "Canal NBC Universo."
+        },
+        {
+          "Title": "NFL Network",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/720.m3u8",
+          "Logo": "http://i.tvcluboficial.com/nfl.png",
+          "description": "Canal NFL Network."
+        },
+        {
+          "Title": "NHL Network",
+          "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/723.m3u8",
+          "Logo": "http://i.tvcluboficial.com/nhl.png",
+          "description": "Canal NHL Network."
+        }
+      ]
+    }
+  ]
+},
+        {
   "Title": "CANALES ROKU",
   "Logo": "https://static.vecteezy.com/system/resources/previews/000/931/914/non_2x/retro-television-poster-vector.jpg",
   "type": "series",
