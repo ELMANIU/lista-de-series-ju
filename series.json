@@ -13,6 +13,12 @@
       "title": "NOVEDADES",
       "episodes": [
         {
+  "Title": "Píxeles (2015)",
+  "Stream": "https://1a-1791.com/video/fwe2/44/s8/2/O/j/6/E/Oj6EA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/original/d45faoiDeZsrdIdYpLy34vtYf3S.jpg",
+  "description": "Extraterrestres atacan la Tierra con versiones pixeladas de videojuegos clásicos. Excampeones de arcade deben salvar el mundo."
+        },
+        {
   "Title": "Constantine (2005)",
   "Stream": "https://1a-1791.com/video/fwe2/e5/s8/2/W/_/G/E/W_GEA.aaa.mp4",
   "Logo": "https://image.tmdb.org/t/p/original/1y1n7ZVlNyol4U26yZZAnhcqqfb.jpg",
@@ -551,6 +557,12 @@
             {
               "title": "PELÍCULAS SECCIÓN 1",
               "episodes": [
+                {
+  "Title": "Píxeles (2015)",
+  "Stream": "https://1a-1791.com/video/fwe2/44/s8/2/O/j/6/E/Oj6EA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/original/d45faoiDeZsrdIdYpLy34vtYf3S.jpg",
+  "description": "Extraterrestres atacan la Tierra con versiones pixeladas de videojuegos clásicos. Excampeones de arcade deben salvar el mundo."
+                },
                 {
   "Title": "Este cuerpo no es mío (2002)",
   "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/3c/s8/2/G/2/E/z/G2EzA.aaa.mp4",
@@ -5006,6 +5018,55 @@
     {
       "title": "SERIES",
       "items": [
+        {
+  "Title": "No tengo miedo (2026)",
+  "Logo": "https://m.media-amazon.com/images/M/MV5BZjc0OWM0OWQtY2NiNi00YmM3LWFjOTQtZWJmNDVmMDM3MzQxXkEyXkFqcGc@._V1_.jpg",
+  "type": "series",
+  "description": "Serie de terror de Netflix. Sinopsis no disponible.",
+  "seasons": [
+    {
+      "title": "TEMPORADA 1",
+      "episodes": [
+        {
+          "Title": "S01 E01 - La bruja",
+          "Stream": "https://1a-1791.com/video/fwe2/ce/s8/2/m/N/W/E/mNWEA.aaa.mp4",
+          "Logo": "https://m.media-amazon.com/images/M/MV5BYTlmNTc1YWQtNWVkOC00YTVjLTliMWQtZWVjOGYxYWVlOTg3XkEyXkFqcGc@._V1_.jpg",
+          "description": "Episodio 1."
+        },
+        {
+          "Title": "S01 E02 - El fantasma",
+          "Stream": "https://1a-1791.com/video/fwe2/30/s8/2/E/Q/W/E/EQWEA.aaa.mp4",
+          "Logo": "https://m.media-amazon.com/images/M/MV5BYTlmNTc1YWQtNWVkOC00YTVjLTliMWQtZWVjOGYxYWVlOTg3XkEyXkFqcGc@._V1_.jpg",
+          "description": "Episodio 2."
+        },
+        {
+          "Title": "S01 E03 - El señor de los gusanos",
+          "Stream": "https://1a-1791.com/video/fwe2/15/s8/2/G/g/X/E/GgXEA.aaa.mp4",
+          "Logo": "https://m.media-amazon.com/images/M/MV5BYTlmNTc1YWQtNWVkOC00YTVjLTliMWQtZWVjOGYxYWVlOTg3XkEyXkFqcGc@._V1_.jpg",
+          "description": "Episodio 3."
+        },
+        {
+          "Title": "S01 E04 - Huezquixtles",
+          "Stream": "https://1a-1791.com/video/fwe2/1c/s8/2/G/t/Y/E/GtYEA.aaa.mp4",
+          "Logo": "https://m.media-amazon.com/images/M/MV5BYTlmNTc1YWQtNWVkOC00YTVjLTliMWQtZWVjOGYxYWVlOTg3XkEyXkFqcGc@._V1_.jpg",
+          "description": "Episodio 4."
+        },
+        {
+          "Title": "S01 E05 - Chaneques",
+          "Stream": "https://1a-1791.com/video/fww1/d3/s8/2/K/L/0/E/KL0EA.aaa.mp4",
+          "Logo": "https://m.media-amazon.com/images/M/MV5BYTlmNTc1YWQtNWVkOC00YTVjLTliMWQtZWVjOGYxYWVlOTg3XkEyXkFqcGc@._V1_.jpg",
+          "description": "Episodio 5."
+        },
+        {
+          "Title": "S01 E06 - Bosque de niebla",
+          "Stream": "https://1a-1791.com/video/fww1/e1/s8/2/Q/2/5/E/Q25EA.aaa.mp4",
+          "Logo": "https://m.media-amazon.com/images/M/MV5BYTlmNTc1YWQtNWVkOC00YTVjLTliMWQtZWVjOGYxYWVlOTg3XkEyXkFqcGc@._V1_.jpg",
+          "description": "Episodio 6."
+        }
+      ]
+    }
+  ]
+},
         {
   "Title": "HUEVOS VERDES CON JAMÓN (2019)",
   "Logo": "https://image.tmdb.org/t/p/original/kw3XjAqWEHnCYonvGNbbtDRpLmb.jpg",
