@@ -13,6 +13,18 @@
       "title": "NOVEDADES",
       "episodes": [
         {
+  "Title": "Grandes héroes (2014)",
+  "Stream": "https://1a-1791.com/video/fwe2/cf/s8/2/g/Z/m/F/gZmFA.aaa.mp4",
+  "Logo": "https://m.media-amazon.com/images/M/MV5BYjQ3YzUyOGQtNjdlYS00YmRhLWIyOWYtMGQ3YjkwMjJiYzRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "description": "Un niño prodigio crea robots para combatir el crimen en la futurista ciudad de San Fransokyo."
+},
+{
+  "Title": "El grito 2 (2026)",
+  "Stream": "https://1a-1791.com/video/fww1/26/s8/2/Q/b/n/F/QbnFA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/w500/9JfMvY6NRQIzSRTXJwvsl7xbeBZ.jpg",
+  "description": "Secuela del terror sobrenatural. Una maldición resurge con más fuerza."
+},
+        {
   "Title": "Píxeles (2015)",
   "Stream": "https://1a-1791.com/video/fwe2/44/s8/2/O/j/6/E/Oj6EA.aaa.mp4",
   "Logo": "https://image.tmdb.org/t/p/original/d45faoiDeZsrdIdYpLy34vtYf3S.jpg",
@@ -710,6 +722,12 @@
               "title": "PELÍCULAS DE ANIMACIÓN SECCIÓN 1",
               "episodes": [
                 {
+  "Title": "Grandes héroes (2014)",
+  "Stream": "https://1a-1791.com/video/fwe2/cf/s8/2/g/Z/m/F/gZmFA.aaa.mp4",
+  "Logo": "https://m.media-amazon.com/images/M/MV5BYjQ3YzUyOGQtNjdlYS00YmRhLWIyOWYtMGQ3YjkwMjJiYzRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "description": "Un niño prodigio crea robots para combatir el crimen en la futurista ciudad de San Fransokyo."
+                },
+                {
   "Title": "Los tipos malos 2 (2025)",
   "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/63/s8/2/4/U/8/z/4U8zA.aaa.mp4",
   "Logo": "https://m.media-amazon.com/images/S/pv-target-images/89128ed2b414a07ca9df870500cb5e10ce3ce2468188a9c05c47dc4bb413c71b._UR1920,1080_.jpg",
@@ -1015,6 +1033,12 @@
             {
               "title": "PELÍCULAS DE TERROR SECCIÓN 1",
               "episodes": [
+                {
+  "Title": "El grito 2 (2026)",
+  "Stream": "https://1a-1791.com/video/fww1/26/s8/2/Q/b/n/F/QbnFA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/w500/9JfMvY6NRQIzSRTXJwvsl7xbeBZ.jpg",
+  "description": "Secuela del terror sobrenatural. Una maldición resurge con más fuerza."
+                },
                 {
   "Title": "Terror bajo la tierra (1990)",
   "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/b0/s8/2/k/X/Y/A/kXYAA.aaa.mp4",
