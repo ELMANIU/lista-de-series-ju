@@ -7613,6 +7613,117 @@
       "title": "SERIES",
       "items": [
         {
+  "Title": "MALCOLM EL DE ENMEDIO (2000)",
+  "Logo": "https://image.tmdb.org/t/p/w500/fiHv0SXSdW3SqnviTHn8dVVPnOh.jpg",
+  "Poster": "https://image.tmdb.org/t/p/w500/fiHv0SXSdW3SqnviTHn8dVVPnOh.jpg",
+  "type": "series",
+  "description": "La vida de Malcolm, un niño prodigio que vive en una familia disfuncional, donde es el único sensato entre sus excéntricos hermanos y padres.",
+  "seasons": [
+    {
+      "title": "TEMPORADA 1",
+      "Poster": "https://image.tmdb.org/t/p/w500/fiHv0SXSdW3SqnviTHn8dVVPnOh.jpg",
+      "episodes": [
+        {
+          "Title": "S01 E01 - Piloto",
+          "Stream": "https://1a-1791.com/video/fww1/46/s8/2/-/_/G/F/-_GFA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/w500/miN3sdpJWCoZ32BInKopiUtIHwq.jpg",
+          "description": "Malcolm es trasladado a una clase para niños superdotados después de descubrir que tiene un coeficiente intelectual de 165."
+        },
+        {
+          "Title": "S01 E02 - El vestido rojo",
+          "Stream": "https://1a-1791.com/video/fwe2/36/s8/2/K/d/H/F/KdHFA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/w500/miN3sdpJWCoZ32BInKopiUtIHwq.jpg",
+          "description": "Lois encuentra su vestido favorito arruinado justo antes de su aniversario. La familia intenta descubrir al culpable."
+        },
+        {
+          "Title": "S01 E03 - Mis pobres angelitos",
+          "Stream": "https://1a-1791.com/video/fwe2/70/s8/2/y/I/J/F/yIJFA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/w500/miN3sdpJWCoZ32BInKopiUtIHwq.jpg",
+          "description": "Hal y Lois dejan a Francis a cargo de sus hermanos mientras asisten a una boda. El regreso de Francis a casa depende de su buen comportamiento."
+        },
+        {
+          "Title": "S01 E04 - Vergüenza",
+          "Stream": "https://1a-1791.com/video/fww1/2e/s8/2/M/L/J/F/MLJFA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/w500/miN3sdpJWCoZ32BInKopiUtIHwq.jpg",
+          "description": "Malcolm golpea a un niño sin saber que solo tiene 7 años. Hal tala un árbol y enfurece a todo el vecindario."
+        },
+        {
+          "Title": "S01 E05 - Malcolm niñera",
+          "Stream": "https://1a-1791.com/video/fww1/0a/s8/2/g/Q/J/F/gQJFA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/w500/miN3sdpJWCoZ32BInKopiUtIHwq.jpg",
+          "description": "Malcolm trabaja como niñera para una familia rica. Mientras tanto, la casa de los Wilkerson es infestada por termitas."
+        },
+        {
+          "Title": "S01 E06 - Pijamada",
+          "Stream": "https://1a-1791.com/video/fww1/d8/s8/2/S/S/J/F/SSJFA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/w500/miN3sdpJWCoZ32BInKopiUtIHwq.jpg",
+          "description": "Malcolm asiste a una pijamada en casa de Stevie y ambos se escapan para jugar videojuegos, pero la silla de ruedas de Stevie es robada."
+        },
+        {
+          "Title": "S01 E07 - Francis se escapa",
+          "Stream": "https://1a-1791.com/video/fwe2/fa/s8/2/4/V/J/F/4VJFA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/w500/miN3sdpJWCoZ32BInKopiUtIHwq.jpg",
+          "description": "Francis se escapa de la academia militar para ver a su novia. Malcolm accidentalmente se lo dice a Lois."
+        },
+        {
+          "Title": "S01 E08 - El día de campo",
+          "Stream": "https://1a-1791.com/video/fww1/2d/s8/2/S/Y/J/F/SYJFA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/w500/miN3sdpJWCoZ32BInKopiUtIHwq.jpg",
+          "description": "Malcolm trata de sabotear el día de ciencias para no tener que presentar su proyecto en público."
+        },
+        {
+          "Title": "S01 E09 - Lois contra el mal",
+          "Stream": "https://1a-1791.com/video/fwe2/28/s8/2/M/7/J/F/M7JFA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/w500/miN3sdpJWCoZ32BInKopiUtIHwq.jpg",
+          "description": "Lois es despedida de su trabajo después de que Dewey robara una botella de licor. Ella enfrenta a su jefe para recuperarlo."
+        },
+        {
+          "Title": "S01 E10 - Las carreras",
+          "Stream": "https://1a-1791.com/video/fww1/65/s8/2/K/e/K/F/KeKFA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/w500/miN3sdpJWCoZ32BInKopiUtIHwq.jpg",
+          "description": "Hal lleva a los niños a ver carreras de autos en un día de escuela. Lois limpia la casa y encuentra pruebas para castigarlos de por vida."
+        },
+        {
+          "Title": "S01 E11 - El funeral",
+          "Stream": "https://1a-1791.com/video/fwe2/31/s8/2/g/K/K/F/gKKFA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/w500/miN3sdpJWCoZ32BInKopiUtIHwq.jpg",
+          "description": "Malcolm trata de evitar ir al funeral de su tía para poder asistir a un concierto con Julie Houlerman."
+        },
+        {
+          "Title": "S01 E12 - El animador",
+          "Stream": "https://1a-1791.com/video/fwe2/b1/s8/2/O/N/K/F/ONKFA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/w500/miN3sdpJWCoZ32BInKopiUtIHwq.jpg",
+          "description": "Reese se une al equipo de animadoras para impresionar a una chica. Malcolm lo ayuda, sintiéndose avergonzado.[citation:10][citation:12]"
+        },
+        {
+          "Title": "S01 E13 - Los patinadores",
+          "Stream": "https://1a-1791.com/video/fww1/f7/s8/2/e/Q/K/F/eQKFA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/w500/miN3sdpJWCoZ32BInKopiUtIHwq.jpg",
+          "description": "Malcolm quiere aprender a patinar y Hal intenta enseñarle con métodos poco ortodoxos, lo que lleva a Malcolm a cuestionar sus técnicas."
+        },
+        {
+          "Title": "S01 E14 - De Robots y Abejas",
+          "Stream": "https://1a-1791.com/video/fwe2/bf/s8/2/m/T/K/F/mTKFA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/w500/miN3sdpJWCoZ32BInKopiUtIHwq.jpg",
+          "description": "Lois visita a Francis en la academia militar. Hal se apodera del proyecto de robot de los compañeros de Malcolm."
+        },
+        {
+          "Title": "S01 E15 - Domingo lunes",
+          "Stream": "https://1a-1791.com/video/fww1/9c/s8/2/4/V/K/F/4VKFA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/w500/miN3sdpJWCoZ32BInKopiUtIHwq.jpg",
+          "description": "Lois está enferma y confunde el día, por lo que los niños se toman el día libre para vengarse de Francis."
+        },
+        {
+          "Title": "S01 E16 - Parque Acuático",
+          "Stream": "https://1a-1791.com/video/fww1/e4/s8/2/O/Y/K/F/OYKFA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/w500/miN3sdpJWCoZ32BInKopiUtIHwq.jpg",
+          "description": "La familia va al parque acuático, pero Dewey se queda con una niñera. Malcolm y Reese se pelean durante todo el día.[citation:8]"
+        }
+      ]
+    }
+  ]
+},
+        {
   "Title": "No tengo miedo (2026)",
   "Logo": "https://m.media-amazon.com/images/M/MV5BZjc0OWM0OWQtY2NiNi00YmM3LWFjOTQtZWJmNDVmMDM3MzQxXkEyXkFqcGc@._V1_.jpg",
   "type": "series",
