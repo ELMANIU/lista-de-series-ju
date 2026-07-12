@@ -13,6 +13,24 @@
       "title": "NOVEDADES",
       "episodes": [
         {
+  "Title": "La novia de Chucky (1998)",
+  "Stream": "https://1a-1791.com/video/fww1/6b/s8/2/8/m/A/F/8mAFA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/w500/lf8hJ7cvF5jQ8xzAH4in9NaGDtR.jpg",
+  "description": "Chucky se reencuentra con su exnovia Tiffany, quien lo revive para continuar su reinado de terror."
+        },
+        {
+  "Title": "Hansel y Gretel: Cazadores de brujas (2013)",
+  "Stream": "https://1a-1791.com/video/fwe2/52/s8/2/I/P/G/F/IPGFA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/original/xI2NYRRybxztFvvOdf5ZmOfiML6.jpg",
+  "description": "Los hermanos Hansel y Gretel son ahora cazadores de brujas que enfrentan a una poderosa hechicera."
+},
+        {
+  "Title": "Metegol (2013)",
+  "Stream": "https://1a-1791.com/video/fwe2/64/s8/2/-/v/G/F/-vGFA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/w500/JsVAm9FAw1A9qlTw3zNNR8zhLP.jpg",
+  "description": "Un joven con talento para el fútbol de mesa debe vencer a su rival para salvar su pueblo."
+        },
+        {
   "Title": "Grandes héroes (2014)",
   "Stream": "https://1a-1791.com/video/fwe2/cf/s8/2/g/Z/m/F/gZmFA.aaa.mp4",
   "Logo": "https://m.media-amazon.com/images/M/MV5BYjQ3YzUyOGQtNjdlYS00YmRhLWIyOWYtMGQ3YjkwMjJiYzRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -441,6 +459,12 @@
               "title": "Películas",
               "episodes": [
                 {
+  "Title": "Hansel y Gretel: Cazadores de brujas (2013)",
+  "Stream": "https://1a-1791.com/video/fwe2/52/s8/2/I/P/G/F/IPGFA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/original/xI2NYRRybxztFvvOdf5ZmOfiML6.jpg",
+  "description": "Los hermanos Hansel y Gretel son ahora cazadores de brujas que enfrentan a una poderosa hechicera."
+                },
+                {
   "Title": "Star Wars: The Mandalorian and Grogu (2026)",
   "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/e7/s8/2/E/7/J/w/E7JwA.aaa.mp4",
   "Logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCG0WR-PSJGjJxti1SWjpwmEFJs6-ZpLPg2T0nBGOxrnFijg8R7nk7g72kgyWULM34PVWGpPI9AjCPHfPsPP3IKA6olNH4PZfn4Ms21Kd9DkEBEBwnPOfOJ6nk9dfY7whnonsJ_m7HFAEp3zcLng7sLXeJdv7IdR2YLJ8cj8Y0kYOyRz6BFZSUvpLP75Q9/s16000/din-djarin-and-grogu-head-to-the-big-screen-in-the-first-trailer-for-the-mandalorian-and-grogu.jpeg",
@@ -721,6 +745,12 @@
             {
               "title": "PELÍCULAS DE ANIMACIÓN SECCIÓN 1",
               "episodes": [
+                {
+  "Title": "Metegol (2013)",
+  "Stream": "https://1a-1791.com/video/fwe2/64/s8/2/-/v/G/F/-vGFA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/w500/JsVAm9FAw1A9qlTw3zNNR8zhLP.jpg",
+  "description": "Un joven con talento para el fútbol de mesa debe vencer a su rival para salvar su pueblo."
+},
                 {
   "Title": "Grandes héroes (2014)",
   "Stream": "https://1a-1791.com/video/fwe2/cf/s8/2/g/Z/m/F/gZmFA.aaa.mp4",
@@ -1033,6 +1063,18 @@
             {
               "title": "PELÍCULAS DE TERROR SECCIÓN 1",
               "episodes": [
+                {
+  "Title": "La novia de Chucky (1998)",
+  "Stream": "https://1a-1791.com/video/fww1/6b/s8/2/8/m/A/F/8mAFA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/w500/lf8hJ7cvF5jQ8xzAH4in9NaGDtR.jpg",
+  "description": "Chucky se reencuentra con su exnovia Tiffany, quien lo revive para continuar su reinado de terror."
+},
+                {
+  "Title": "El grito (2004)",
+  "Stream": "https://1a-1791.com/video/fwe2/00/s8/2/W/8/z/F/W8zFA.aaa.mp4",
+  "Logo": "https://media.themoviedb.org/t/p/w440_and_h660_face/qNBzIoK5f5YxroprnnoQvDbN37W.jpg",
+  "description": "Una maldición sobrenatural persigue a quienes entran en una casa embrujada en Tokio."
+                },
                 {
   "Title": "El grito 2 (2026)",
   "Stream": "https://1a-1791.com/video/fww1/26/s8/2/Q/b/n/F/QbnFA.aaa.mp4",
