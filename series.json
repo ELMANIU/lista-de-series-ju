@@ -6315,43 +6315,43 @@
                 {
                   "Title": "UNIVISION 24/7",
                   "Stream": "https://linear-254.frequency.stream:443/mt/studio/254/hls/master/playlist_1280x720.m3u8",
-                  "Logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg",
+                  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
                   "description": "Canal 24/7 con los mejores videos musicales, éxitos del momento y clásicos inolvidables."
                 },
                 {
                   "Title": "TELEFORMULA",
                   "Stream": "https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8",
-                  "Logo": "https://m.media-amazon.com/images/I/619X4kMohBL.png",
+                  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
                   "description": "Canal de cine con variedad de películas para toda la familia."
                 },
                 {
                   "Title": "CLARO SPORT",
                   "Stream": "https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8",
-                  "Logo": "https://media.muckrack.com/groups/icons/Screenshot_2024-08-22_at_3.16.27PM.png",
+                  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
                   "description": "Canal infantil con programación educativa y entretenimiento para toda la familia."
                 },
                 {
                   "Title": "IMAGEN TV",
                   "Stream": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149",
-                  "Logo": "https://img.utdstc.com/icon/76e/b75/76eb75a7dc44c516a9b2c9f7b124bf51a55c5366d87d8e834b52285e065ca70b:600",
+                  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
                   "description": "Canal de cine con las mejores películas y series."
                 },
                 {
                   "Title": "María Visión México",
                   "Stream": "https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Italiatre/playlist.m3u8",
-                  "Logo": "https://static.wixstatic.com/media/ae9e39_98c192d6a3754e0188199e96fc46b514~mv2.png",
+                  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
                   "description": "Canal de televisión mexicano con programación variada."
                 },
                 {
                   "Title": "Las Estrellas MX 1",
                   "Stream": "https://dai.google.com/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8",
-                  "Logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",
+                  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
                   "description": "Canal de telenovelas y entretenimiento mexicano."
                 },
                 {
                   "Title": "Las Estrellas MX 2",
                   "Stream": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
-                  "Logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",
+                  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
                   "description": "Canal de telenovelas y entretenimiento mexicano."
                 },
                 {
@@ -6361,160 +6361,10 @@
                   "description": "Canal de televisión estadounidense en español."
                 },
                 {
-                  "Title": "Univision",
-                  "Stream": "http://179.60.51.134:8888/UNIVISION/index.m3u8",
-                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
-                  "description": "Canal de televisión estadounidense en español."
-                },
-                {
-                  "Title": "Azteca Uno",
-                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23300",
-                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
-                  "description": "Canal de televisión mexicano."
-                },
-                {
-                  "Title": "Las Estrellas",
-                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23301",
-                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
-                  "description": "Canal de telenovelas y entretenimiento mexicano."
-                },
-                {
-                  "Title": "Imagen TV",
-                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23302",
-                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
-                  "description": "Canal de televisión mexicano."
-                },
-                {
-                  "Title": "Canal 5",
-                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23303",
-                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
-                  "description": "Canal de televisión abierta mexicano."
-                },
-                {
-                  "Title": "Azteca 7",
-                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23304",
-                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
-                  "description": "Canal de televisión mexicano."
-                },
-                {
-                  "Title": "Star Channel",
-                  "Stream": "http://179.60.51.134:8888/STAR-CHANNEL/index.m3u8",
-                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
-                  "description": "Canal de series y películas."
-                },
-                {
-                  "Title": "Universal TV",
-                  "Stream": "http://179.60.51.134:8888/UNIVERSAL/index.m3u8",
-                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
-                  "description": "Canal de entretenimiento."
-                },
-                {
-                  "Title": "Warner Bros",
-                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23308",
-                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
-                  "description": "Canal de películas de Warner."
-                },
-                {
-                  "Title": "AMC",
-                  "Stream": "https://m3u.tvcluboficial.com/free/ReachBot/Kip/33.m3u8",
-                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
-                  "description": "Canal de series premium."
-                },
-                {
-                  "Title": "AXN",
-                  "Stream": "http://179.60.51.134:8888/AXN/index.m3u8",
-                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
-                  "description": "Canal de acción y suspenso."
-                },
-                {
-                  "Title": "FX",
-                  "Stream": "http://179.60.51.134:8888/FX/index.m3u8",
-                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
-                  "description": "Canal de series originales."
-                },
-                {
-                  "Title": "Space",
-                  "Stream": "http://179.60.51.134:8888/SPACE/index.m3u8",
-                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
-                  "description": "Canal de ciencia ficción."
-                },
-                {
-                  "Title": "TNT",
-                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23348",
-                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
-                  "description": "Canal de series y películas."
-                },
-                {
-                  "Title": "HBO",
-                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23356",
-                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
-                  "description": "Canal premium de series y películas."
-                },
-                {
-                  "Title": "ESPN",
-                  "Stream": "http://104.250.145.76/livehttpplay?channel_id=23342",
-                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
-                  "description": "Canal de deportes."
-                },
-                {
-                  "Title": "Discovery Channel",
-                  "Stream": "http://179.60.51.134:8888/DISCOVERY-CHANNEL/index.m3u8",
-                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
-                  "description": "Canal de documentales."
-                },
-                {
-                  "Title": "National Geographic",
-                  "Stream": "http://179.60.51.134:8888/NATGEO/index.m3u8",
-                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
-                  "description": "Canal de naturaleza y ciencia."
-                },
-                {
-                  "Title": "Paramount",
-                  "Stream": "http://179.60.51.134:8888/PARAMOUNT/index.m3u8",
-                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
-                  "description": "Canal de historia y documentales."
-                },
-                {
-                  "Title": "Nick Jr",
-                  "Stream": "http://179.60.51.134:8888/NICK-JR/index.m3u8",
-                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
-                  "description": "Canal de historia y documentales."
-                },
-                {
-                  "Title": "History",
-                  "Stream": "http://179.60.51.134:8888/HISTORY/index.m3u8",
-                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
-                  "description": "Canal de historia y documentales."
-                },
-                {
-                  "Title": "History 2",
-                  "Stream": "http://179.60.51.134:8888/HISTORY2/index.m3u8",
-                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
-                  "description": "Canal de historia y documentales."
-                },
-                {
-                  "Title": "Cinemax",
-                  "Stream": "http://179.60.51.134:8888/CINEMAX/index.m3u8",
-                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
-                  "description": "Canal de historia y documentales."
-                },
-                {
-                  "Title": "Animal Planet",
-                  "Stream": "http://179.60.51.134:8888/ANIMAL-PLANET/index.m3u8",
-                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
-                  "description": "Canal de historia y documentales."
-                },
-                {
-                  "Title": "Cartonito",
-                  "Stream": "http://179.60.51.134:8888/CARTOONITO/index.m3u8",
-                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
-                  "description": "Canal de historia y documentales."
-                },
-                {
-                  "Title": "Carton Network",
-                  "Stream": "http://179.60.51.134:8888/CARTOON-NETWORK/index.m3u8",
-                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
-                  "description": "Canal de historia y documentales."
+  "Title": "AYM SPORTS",
+  "Stream": "https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de deportes AYM SPORTS."
                 }
               ]
             }
