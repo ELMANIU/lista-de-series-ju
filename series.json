@@ -6313,27 +6313,27 @@
   "description": "Transmisión en vivo de la Copa Sub 2026. Sigue todos los partidos del torneo de fútbol Sub-20."
                 },
                 {
-                  "Title": "ALF",
-                  "Stream": "http://m3u.tvcluboficial.com/free/ReachBot/Kip/28.m3u8",
-                  "Logo": "https://ejemplo.com/logo-musica-tv.jpg",
+                  "Title": "UNIVISION 24/7",
+                  "Stream": "https://linear-254.frequency.stream:443/mt/studio/254/hls/master/playlist_1280x720.m3u8",
+                  "Logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg",
                   "description": "Canal 24/7 con los mejores videos musicales, éxitos del momento y clásicos inolvidables."
                 },
                 {
-                  "Title": "TCM",
-                  "Stream": "http://179.60.51.134:8888/TCM/index.m3u8",
-                  "Logo": "https://ejemplo.com/logo-d-pelicula.jpg",
+                  "Title": "TELEFORMULA",
+                  "Stream": "https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8",
+                  "Logo": "https://m.media-amazon.com/images/I/619X4kMohBL.png",
                   "description": "Canal de cine con variedad de películas para toda la familia."
                 },
                 {
-                  "Title": "FMH KIDS",
-                  "Stream": "https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_720p/chunks.m3u8",
-                  "Logo": "https://imageserver.srv.win.i.mtvreg.com/jpg?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fstatic%2Fbackdrops%2F949%2F1648949_1280.jpg&width=1280",
+                  "Title": "CLARO SPORT",
+                  "Stream": "https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8",
+                  "Logo": "https://media.muckrack.com/groups/icons/Screenshot_2024-08-22_at_3.16.27PM.png",
                   "description": "Canal infantil con programación educativa y entretenimiento para toda la familia."
                 },
                 {
-                  "Title": "FMH MOVIES",
-                  "Stream": "https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_720p/chunks.m3u8",
-                  "Logo": "https://i.vimeocdn.com/video/1373141836-8765e5275812fecbffa2e2f4ba890fb77feb278823d52a78f6b5752f80ee3450-d",
+                  "Title": "IMAGEN TV",
+                  "Stream": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149",
+                  "Logo": "https://img.utdstc.com/icon/76e/b75/76eb75a7dc44c516a9b2c9f7b124bf51a55c5366d87d8e834b52285e065ca70b:600",
                   "description": "Canal de cine con las mejores películas y series."
                 },
                 {
@@ -6355,9 +6355,9 @@
                   "description": "Canal de telenovelas y entretenimiento mexicano."
                 },
                 {
-                  "Title": "Telemundo",
-                  "Stream": "http://179.60.51.134:8888/TELEMUNDO/index.m3u8",
-                  "Logo": "https://dl.dropbox.com/scl/fi/qevf3nsve2sdtmu3yyjhl/servidor2_default_logo.png.jpg",
+                  "Title": "IMAGEN TV OPC 2",
+                  "Stream": "https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8",
+                  "Logo": "https://img.utdstc.com/icon/76e/b75/76eb75a7dc44c516a9b2c9f7b124bf51a55c5366d87d8e834b52285e065ca70b:600",
                   "description": "Canal de televisión estadounidense en español."
                 },
                 {
