@@ -13,6 +13,12 @@
       "title": "NOVEDADES",
       "episodes": [
         {
+  "Title": "Lo que el agua se llevó (2018)",
+  "Stream": "https://1a-1791.com/video/fwe2/ac/s8/2/A/B/P/F/ABPFA.aaa.mkv",
+  "Logo": "https://image.tmdb.org/t/p/w500/5X0KFPzFAZrPNeLY4GF6kBCPghL.jpg",
+  "description": "Tras un huracán, una mujer despierta en un hospital sin memoria. Debe reconstruir su pasado mientras descubre oscuros secretos."
+        },
+        {
   "Title": "La novia de Chucky (1998)",
   "Stream": "https://1a-1791.com/video/fww1/6b/s8/2/8/m/A/F/8mAFA.aaa.mp4",
   "Logo": "https://image.tmdb.org/t/p/w500/lf8hJ7cvF5jQ8xzAH4in9NaGDtR.jpg",
@@ -751,6 +757,12 @@
             {
               "title": "PELÍCULAS DE ANIMACIÓN SECCIÓN 1",
               "episodes": [
+                {
+  "Title": "Lo que el agua se llevó (2018)",
+  "Stream": "https://1a-1791.com/video/fwe2/ac/s8/2/A/B/P/F/ABPFA.aaa.mkv",
+  "Logo": "https://image.tmdb.org/t/p/w500/5X0KFPzFAZrPNeLY4GF6kBCPghL.jpg",
+  "description": "Tras un huracán, una mujer despierta en un hospital sin memoria. Debe reconstruir su pasado mientras descubre oscuros secretos."
+},
                 {
   "Title": "Metegol (2013)",
   "Stream": "https://1a-1791.com/video/fwe2/64/s8/2/-/v/G/F/-vGFA.aaa.mp4",
