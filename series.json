@@ -1082,6 +1082,30 @@
               "title": "PELÍCULAS DE TERROR SECCIÓN 1",
               "episodes": [
                 {
+  "Title": "Terror en el río (2025)",
+  "Stream": "https://1a-1791.com/video/fww1/fe/s8/2/S/r/S/F/SrSFA.aaa.mkv",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/a8f87388527c6e314d0bae7ddb20c621750c495bce8baa53237df750e33026ce.jpg",
+  "description": "Un grupo de amigos enfrenta a una criatura mortal mientras navega por un río remoto."
+},
+{
+  "Title": "Chucky: El muñeco diabólico (1988)",
+  "Stream": "https://1a-1791.com/video/fww1/5a/s8/2/A/R/X/F/ARXFA.aaa.mkv",
+  "Logo": "https://image.tmdb.org/t/p/w500/8R1AMYd4m31RpHXoyyjp7SfNWlq.jpg",
+  "description": "Un muñeco poseído por el alma de un asesino aterroriza a una familia."
+},
+                {
+  "Title": "Destino final: Lazos de sangre (2026)",
+  "Stream": "https://1a-1791.com/video/fww1/e8/s8/2/8/a/S/F/8aSFA.aaa.mkv",
+  "Logo": "https://m.media-amazon.com/images/M/MV5BNTUwNzJhOWMtN2E2NC00NWQxLWI1NTctZTY0MzZiZGNiOGFjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "description": "La muerte vuelve a acechar a un grupo de personas que intentan escapar de su destino."
+                },
+                {
+  "Title": "El pasajero del diablo (2026)",
+  "Stream": "https://1a-1791.com/video/fww1/32/s8/2/u/I/Q/F/uIQFA.aaa.mkv",
+  "Logo": "https://static.wikia.nocookie.net/doblaje/images/8/89/Passenger.jpg/revision/latest/scale-to-width-down/1200?cb=20260520235827&path-prefix=es",
+  "description": "Un viaje en autobús se convierte en una pesadilla cuando los pasajeros descubren que uno de ellos no es humano."
+},
+                {
   "Title": "La novia de Chucky (1998)",
   "Stream": "https://1a-1791.com/video/fww1/6b/s8/2/8/m/A/F/8mAFA.aaa.mp4",
   "Logo": "https://image.tmdb.org/t/p/w500/lf8hJ7cvF5jQ8xzAH4in9NaGDtR.jpg",
