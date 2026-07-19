@@ -158,6 +158,18 @@
               "title": "PELÍCULAS DE ACCIÓN SECCIÓN 1",
               "episodes": [
                 {
+  "Title": "El infierno (2010)",
+  "Stream": "https://1a-1791.com/video/fwe2/02/s8/2/O/A/5/G/OA5GA.aaa.mkv",
+  "Logo": "https://image.tmdb.org/t/p/original/vry7NyLM6I0fL53H2KxCX4uAz5H.jpg",
+  "description": "Un hombre se enfrenta al narcotráfico mexicano tras la muerte de su hermano."
+                },
+                {
+  "Title": "Trol: Destrucción total (2010)",
+  "Stream": "https://1a-1791.com/video/fwe2/9e/s8/2/u/I/P/H/uIPHA.aaa.mkv",
+  "Logo": "https://image.tmdb.org/t/p/original/fWjIxgdoku53awbUG0abpI661Vs.jpg",
+  "description": "Un trol gigante amenaza con destruir una ciudad noruega."
+                },
+                {
   "Title": "Proyecto salvación (2025)",
   "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/4f/s8/2/0/n/U/w/0nUwA.aaa.mp4",
   "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsgkSHAJxMn05nBp_4g2Gk87sDE-yUmCLEL_Sv_bLqPrk8P5sbITqLfqs&s=10",
@@ -352,7 +364,7 @@
                 },
                 {
                   "Title": "La guerra del mañana (2021)",
-                  "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/94/s8/2/g/l/Y/r/glYrA.aaa.mp4",
+                  "Stream": "https://1a-1791.com/video/fww1/c1/s8/2/Y/f/R/H/YfRHA.aaa.mkv",
                   "Logo": "https://m.media-amazon.com/images/S/pv-target-images/33a83055d8f3773dc3ad9f4f2180bff71257dcd02cc1bdb18b4569e7f942bd15.png",
                   "description": "Un grupo de viajeros del tiempo llega desde el año 2051 para advertir que la humanidad está perdiendo una guerra."
                 },
@@ -470,6 +482,12 @@
             {
               "title": "Películas",
               "episodes": [
+                {
+  "Title": "Las minas del rey Salomón (2004)",
+  "Stream": "https://1a-1791.com/video/fwe2/2e/s8/2/a/S/P/H/aSPHA.aaa.mkv",
+  "Logo": "https://image.tmdb.org/t/p/original/7WcZ4fGZYTdqyICpH4eqPfemC4i.jpg",
+  "description": "Aventureros buscan las legendarias minas del rey Salomón en África."
+                },
                 {
   "Title": "Hansel y Gretel: Cazadores de brujas (2013)",
   "Stream": "https://1a-1791.com/video/fwe2/52/s8/2/I/P/G/F/IPGFA.aaa.mp4",
@@ -703,6 +721,18 @@
               "title": "Películas",
               "episodes": [
                 {
+  "Title": "Bohemian Rhapsody (2018)",
+  "Stream": "https://1a-1791.com/video/fwe2/6c/s8/2/U/r/9/G/Ur9GA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/w500/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+  "description": "Biopic de Freddie Mercury y la banda Queen."
+                },
+                {
+  "Title": "23.000 vidas (2026)",
+  "Stream": "https://1a-1791.com/video/fwe2/45/s8/2/g/k/P/H/gkPHA.aaa.mkv",
+  "Logo": "https://es.web.img3.acsta.net/img/d2/63/d2635648f3d125bbd63949f66ae1a323.jpg",
+  "description": "Drama basado en hechos reales sobre la masacre de 23.000 personas."
+                },
+                {
   "Title": "La Bamba (1987)",
   "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/3e/s8/2/w/v/p/z/wvpzA.aaa.mp4",
   "Logo": "https://m.media-amazon.com/images/S/pv-target-images/1c9aeefc85c8ab3acda93517235088f70e91bb87a5d5c3283d22e61e4e3a767a.jpg",
@@ -757,6 +787,12 @@
             {
               "title": "PELÍCULAS DE ANIMACIÓN SECCIÓN 1",
               "episodes": [
+                {
+  "Title": "Elemental (2023)",
+  "Stream": "https://1a-1791.com/video/fwe2/30/s8/2/Y/Q/c/H/YQcHA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/original/q1XezehElJBs6v5RRjdyOv9gvnL.jpg",
+  "description": "En Ciudad Elementos, una chica de fuego y un chico de agua se enamoran."
+                },
                 {
   "Title": "Lo que el agua se llevó (2018)",
   "Stream": "https://1a-1791.com/video/fwe2/ac/s8/2/A/B/P/F/ABPFA.aaa.mkv",
@@ -1321,6 +1357,12 @@
             {
               "title": "Películas",
               "episodes": [
+                {
+  "Title": "Noé (2014)",
+  "Stream": "https://1a-1791.com/video/fww1/76/s8/2/A/x/P/H/AxPHA.aaa.mkv",
+  "Logo": "https://image.tmdb.org/t/p/original/jI4o6FXeHnUdtKGozXhtg1ImIG4.jpg",
+  "description": "Noé construye un arca para salvar a la humanidad del diluvio universal."
+                },
                 {
                   "Title": "La Pasión de Cristo (2004)",
                   "Stream": "https://nas1.d.tube/videos/f4da0bf5-93e3-4e19-9120-5ce54806fdf3/1080p/playlist.m3u8",
