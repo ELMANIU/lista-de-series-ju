@@ -158,6 +158,60 @@
               "title": "PELÍCULAS DE ACCIÓN SECCIÓN 1",
               "episodes": [
                 {
+  "Title": "Guasón (2024)",
+  "Stream": "https://1a-1791.com/video/fwe2/14/s8/2/o/M/f/G/oMfGA.aaa.mkv",
+  "Logo": "https://image.tmdb.org/t/p/original/g9l7iLYusH82bbEbwGCJzhVkOe2.jpg",
+  "description": "Secuela del Joker. Arthur Fleck enfrenta las consecuencias de sus actos."
+                },
+                {
+  "Title": "Apocalypto (2006)",
+  "Stream": "https://1a-1791.com/video/fww1/03/s8/2/i/c/A/G/icAGA.aaa.mkv",
+  "Logo": "https://image.tmdb.org/t/p/w500/yQ4uC13IYVerbxMMXeSogSQUkOT.jpg",
+  "description": "Un guerrero maya lucha por sobrevivir y regresar a su familia antes del colapso de su civilización."
+                },
+                {
+  "Title": "Megalodon (2018)",
+  "Stream": "https://1a-1791.com/video/fww1/04/s8/2/C/l/A/G/ClAGA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/original/kBl4wXkKVZep4AVVxju67uh6uVV.jpg",
+  "description": "Un grupo de científicos se enfrenta a un megalodón que ha emergido de las profundidades."
+                },
+                {
+  "Title": "Megalodon 2: El gran abismo (2023)",
+  "Stream": "https://1a-1791.com/video/fwe2/f2/s8/2/s/T/K/G/sTKGA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/w500/mBgynPDplmo5JTY9VfGqY35OjDu.jpg",
+  "description": "Secuela. Un equipo de investigación se adentra en la fosa de las Marianas y se enfrenta a megalodones."
+                },
+                {
+  "Title": "Van Helsing (2004)",
+  "Stream": "https://1a-1791.com/video/fwe2/95/s8/2/O/j/L/G/OjLGA.aaa.mkv",
+  "Logo": "https://image.tmdb.org/t/p/w500/gsFun8nATm52aGHeT8ueAel98nE.jpg",
+  "description": "El cazador de monstruos Van Helsing combate al Conde Drácula y sus secuaces."
+                },
+                {
+  "Title": "Rápidos y furiosos 6 (2013)",
+  "Stream": "https://1a-1791.com/video/fwe2/c9/s8/2/Q/5/K/G/Q5KGA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/original/6zUkjB5OtiFhN2DiqdT1IllNJTa.jpg",
+  "description": "Dom y su equipo ayudan a Hobbs a capturar a un mercenario a cambio de sus antecedentes penales."
+                },
+                {
+  "Title": "Super rápidos y mega furiosos (2015)",
+  "Stream": "https://1a-1791.com/video/fwe2/42/s8/2/C/l/N/G/ClNGA.aaa.mkv",
+  "Logo": "https://image.tmdb.org/t/p/w500/65nizg9kZ3kWHvE4QLqUDbBLIXa.jpg",
+  "description": "Parodia de la saga Rápidos y furiosos."
+                },
+                {
+  "Title": "Rápidos y furiosos: Hobbs & Shaw (2019)",
+  "Stream": "https://1a-1791.com/video/fwe2/26/s8/2/U/E/N/G/UENGA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/original/v9YVnivfV77vQKOkcANxlWh5XuI.jpg",
+  "description": "Hobbs y Shaw deben unir fuerzas para detener una amenaza biológica."
+                },
+                {
+  "Title": "Skyline (2010)",
+  "Stream": "https://1a-1791.com/video/fwe2/7f/s8/2/I/N/N/G/INNGA.aaa.mkv",
+  "Logo": "https://m.media-amazon.com/images/M/MV5BOTgwNzA0ZjEtNzkzMi00ZTFlLWI5NDgtMTM1MzM3ZTc4MTIyXkEyXkFqcGc@._V1_.jpg",
+  "description": "Una invasión alienígena arrasa Los Ángeles y un grupo de personas lucha por sobrevivir."
+                },
+                {
   "Title": "El infierno (2010)",
   "Stream": "https://1a-1791.com/video/fwe2/02/s8/2/O/A/5/G/OA5GA.aaa.mkv",
   "Logo": "https://image.tmdb.org/t/p/original/vry7NyLM6I0fL53H2KxCX4uAz5H.jpg",
@@ -417,10 +471,10 @@
 },
                 {
   "Title": "Black Adam (2022)",
-  "Stream": "https://nas1.d.tube/videos/a4473f71-6726-4589-bf9e-8c3a87b67106/720p/playlist.m3u8",
-  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/b40ed1074e479b616588d36263078a4ecdab233790f1442b62d5ace51b5ab262.jpg",
-  "description": "Black Adam, un dios antiguo liberado de su tumba, desata su forma única de justicia en el mundo moderno."
-                },
+  "Stream": "https://1a-1791.com/video/fww1/27/s8/2/6/k/q/G/6kqGA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/original/rCtreCr4xiYEWDQTebybolIh6Xe.jpg",
+  "description": "Un antiguo dios liberado de su tumba desata su justicia en el mundo moderno."
+},
                 {
                   "Title": "El Hombre Araña (2002)",
                   "Stream": "https://nas1.d.tube/videos/1be76108-d764-44f4-b286-a420a5d83fb4/720p/playlist.m3u8",
@@ -624,6 +678,12 @@
               "title": "PELÍCULAS SECCIÓN 1",
               "episodes": [
                 {
+  "Title": "Más allá de los sueños (2008)",
+  "Stream": "https://1a-1791.com/video/fwe2/46/s8/2/u/h/5/G/uh5GA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/original/8KL5iWGQHuQsKJzuZmkZNYpLnJ9.jpg",
+  "description": "Un hombre descubre que los cuentos que le cuenta a sus sobrinos se hacen realidad."
+                },
+                {
   "Title": "Píxeles (2015)",
   "Stream": "https://1a-1791.com/video/fwe2/44/s8/2/O/j/6/E/Oj6EA.aaa.mp4",
   "Logo": "https://image.tmdb.org/t/p/original/d45faoiDeZsrdIdYpLy34vtYf3S.jpg",
@@ -721,6 +781,12 @@
               "title": "Películas",
               "episodes": [
                 {
+  "Title": "La Astronauta (2025)",
+  "Stream": "https://1a-1791.com/video/fww1/a5/s8/2/A/Z/X/F/AZXFA.aaa.mkv",
+  "Logo": "https://image.tmdb.org/t/p/original/wXwJw65dMa84x5TWHMtZMaiCrri.jpg",
+  "description": "Una astronauta regresa a la Tierra y descubre que no está sola."
+                },
+                {
   "Title": "Bohemian Rhapsody (2018)",
   "Stream": "https://1a-1791.com/video/fwe2/6c/s8/2/U/r/9/G/Ur9GA.aaa.mp4",
   "Logo": "https://image.tmdb.org/t/p/w500/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
@@ -779,7 +845,7 @@
           ]
         },
         {
-          "Title": "ANIMACIÓN",
+          "Title": "INFANTILES",
           "Logo": "https://img.magnific.com/vector-gratis/fondo-super-cine_52683-1698.jpg?semt=ais_hybrid&w=740&q=80",
           "type": "series",
           "description": "Películas animadas para toda la familia.",
@@ -787,6 +853,18 @@
             {
               "title": "PELÍCULAS DE ANIMACIÓN SECCIÓN 1",
               "episodes": [
+                {
+  "Title": "Soul (2020)",
+  "Stream": "https://1a-1791.com/video/fww1/9e/s8/2/4/p/-/F/4p-FA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/original/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg",
+  "description": "Un músico de jazz viaja al mundo de las almas para encontrar el verdadero significado de la vida."
+                },
+                {
+  "Title": "Looney Tunes: De nuevo en acción (2003)",
+  "Stream": "https://1a-1791.com/video/fwe2/ed/s8/2/U/q/5/G/Uq5GA.aaa.mkv",
+  "Logo": "https://image.tmdb.org/t/p/original/aHGRd6q5iq4t3sXJwj9Us9cYit9.jpg",
+  "description": "Bugs Bunny, el Pato Lucas y el resto de los Looney Tunes se embarcan en una aventura para encontrar una gema mágica."
+                },
                 {
   "Title": "Elemental (2023)",
   "Stream": "https://1a-1791.com/video/fwe2/30/s8/2/Y/Q/c/H/YQcHA.aaa.mp4",
@@ -1117,6 +1195,24 @@
             {
               "title": "PELÍCULAS DE TERROR SECCIÓN 1",
               "episodes": [
+                {
+  "Title": "Satanás (2007)",
+  "Stream": "https://1a-1791.com/video/fww1/e0/s8/2/C/g/r/G/CgrGA.aaa.mkv",
+  "Logo": "https://image.tmdb.org/t/p/original/mMqcQJABAC2w1x5ZDTy7c00aOCj.jpg",
+  "description": "Tres historias entrelazadas sobre el mal y la obsesión en la ciudad de Bogotá."
+                },
+                {
+  "Title": "El elixir de la inmortalidad (2025)",
+  "Stream": "https://1a-1791.com/video/fww1/3a/s8/2/y/Y/f/G/yYfGA.aaa.mkv",
+  "Logo": "https://image.tmdb.org/t/p/original/eAvV8ITNS4M8Zt8sxOK6g3XBLBr.jpg",
+  "description": "Un grupo de exploradores busca una poción legendaria que concede la vida eterna."
+                },
+                {
+  "Title": "13 días en el lago de la muerte (2025)",
+  "Stream": "https://1a-1791.com/video/fww1/32/s8/2/Q/h/-/F/Qh-FA.aaa.mkv",
+  "Logo": "https://image.tmdb.org/t/p/original/xL0MYWgZjjCpsoA2vNBgg2bbNfm.jpg",
+  "description": "Un grupo de amigos queda atrapado en un lago donde una criatura mortal los acecha."
+                },
                 {
   "Title": "Terror en el río (2025)",
   "Stream": "https://1a-1791.com/video/fww1/fe/s8/2/S/r/S/F/SrSFA.aaa.mkv",
@@ -7724,8 +7820,29 @@
       ]
     },
     {
-      "title": "SERIES",
+      "title": "SERIES ANIMADAS, LIVES Y MAS",
       "items": [
+        {
+  "Title": "FORKY HACE UNA PREGUNTA (2019)",
+  "Logo": "https://image.tmdb.org/t/p/original/1133dOvznBO0C3148jjvn3Rtvbx.jpg",
+  "Poster": "https://image.tmdb.org/t/p/original/1133dOvznBO0C3148jjvn3Rtvbx.jpg",
+  "type": "series",
+  "description": "Forky, el tenedor de Toy Story, hace preguntas importantes sobre el mundo.",
+  "seasons": [
+    {
+      "title": "TEMPORADA 1",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjZlZWYyMTEtMzQwOS00YzgxLWIzYzQtM2MyOGU4MDQ4NDY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "episodes": [
+        {
+          "Title": "S01 E01 - ¿Qué es el dinero?",
+          "Stream": "https://1a-1791.com/video/fww1/45/s8/2/E/5/7/F/E57FA.aaa.mkv",
+          "Logo": "https://m.media-amazon.com/images/M/MV5BNjZlZWYyMTEtMzQwOS00YzgxLWIzYzQtM2MyOGU4MDQ4NDY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+          "description": "Hamm intenta enseñarle a Forky cómo funciona el sistema monetario de EE. UU."
+        }
+      ]
+    }
+  ]
+        },
         {
   "Title": "MALCOLM EL DE ENMEDIO (2000)",
   "Logo": "https://image.tmdb.org/t/p/w500/fiHv0SXSdW3SqnviTHn8dVVPnOh.jpg",
@@ -9016,6 +9133,27 @@
     {
       "title": "SERIES DE ANIME",
       "items": [
+        {
+  "Title": "BLACK TORCH (2026)",
+  "Logo": "https://image.tmdb.org/t/p/original/iWTBUy7tyJVnzSLFuV6os5G0J04.jpg",
+  "Poster": "https://image.tmdb.org/t/p/original/iWTBUy7tyJVnzSLFuV6os5G0J04.jpg",
+  "type": "series",
+  "description": "Un joven ninja adquiere el poder de un mononoke y lucha contra el mal.",
+  "seasons": [
+    {
+      "title": "TEMPORADA 1",
+      "Poster": "https://image.tmdb.org/t/p/original/m0Y86byoQXcxbYPdg4pQ8feEjE1.jpg",
+      "episodes": [
+        {
+          "Title": "S01 E01 - El futuro en la palma de nuestra mano",
+          "Stream": "https://1a-1791.com/video/fwe2/62/s8/2/A/l/t/G/AltGA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/original/m0Y86byoQXcxbYPdg4pQ8feEjE1.jpg",
+          "description": "Episodio 1."
+        }
+      ]
+    }
+  ]
+        },
         {
   "Title": "THE GHOST IN THE SHELL (2026)",
   "Logo": "https://m.media-amazon.com/images/M/MV5BODVlMDUwMmUtNTg4Ny00NWI1LWI5YTQtOGNmZWQ3NzViNzg4XkEyXkFqcGc@._V1_.jpg",
