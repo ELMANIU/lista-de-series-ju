@@ -13,6 +13,12 @@
       "title": "NOVEDADES",
       "episodes": [
         {
+  "Title": "Toy Story (1995)",
+  "Stream": "https://1a-1791.com/video/fww1/88/s8/2/K/s/7/H/Ks7HA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/original/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+  "description": "Woody y Buzz Lightyear compiten por el afecto de su dueño Andy."
+},
+        {
   "Title": "Lo que el agua se llevó (2018)",
   "Stream": "https://1a-1791.com/video/fwe2/ac/s8/2/A/B/P/F/ABPFA.aaa.mkv",
   "Logo": "https://image.tmdb.org/t/p/w500/5X0KFPzFAZrPNeLY4GF6kBCPghL.jpg",
@@ -877,6 +883,12 @@
             {
               "title": "PELÍCULAS DE ANIMACIÓN SECCIÓN 1",
               "episodes": [
+                {
+  "Title": "Toy Story (1995)",
+  "Stream": "https://1a-1791.com/video/fww1/88/s8/2/K/s/7/H/Ks7HA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/original/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+  "description": "Woody y Buzz Lightyear compiten por el afecto de su dueño Andy."
+},
                 {
   "Title": "TMNT: Tortugas Ninja Jóvenes Mutantes (2007)",
   "Stream": "https://1a-1791.com/video/fwe2/c5/s8/2/W/h/Y/H/WhYHA.aaa.mkv",
