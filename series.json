@@ -158,6 +158,30 @@
               "title": "PELÍCULAS DE ACCIÓN SECCIÓN 1",
               "episodes": [
                 {
+  "Title": "Los indestructibles (2010)",
+  "Stream": "https://1a-1791.com/video/fwe2/a3/s8/2/u/Q/Z/H/uQZHA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/original/y8ZqlmkZTAoDXCkhCXDlWBiLwBq.jpg",
+  "description": "Un grupo de mercenarios es contratado para derrocar a un dictador en Sudamérica."
+},
+{
+  "Title": "Los indestructibles 2 (2012)",
+  "Stream": "https://1a-1791.com/video/fww1/4f/s8/2/g/Y/Z/H/gYZHA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/original/vqFq6aylDrY23wfPdCgUAIA4bO0.jpg",
+  "description": "Los mercenarios se enfrentan a un traficante de armas que busca venganza."
+},
+{
+  "Title": "Los indestructibles 3 (2014)",
+  "Stream": "https://1a-1791.com/video/fwe2/5e/s8/2/-/D/0/H/-D0HA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/original/ezw5eT6Zzo821SbyQnXbMwa2p0.jpg",
+  "description": "Barney y su equipo se enfrentan a un enemigo imparable con tecnología de punta."
+},
+                {
+  "Title": "Los indestructibles 4 (2023)",
+  "Stream": "https://1a-1791.com/video/fwe2/37/s8/2/E/X/0/H/EX0HA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/original/vmewChx3Vc2PRvltj7YCGqnK5WI.jpg",
+  "description": "La última misión de los mercenarios más letales del mundo."
+                },
+                {
   "Title": "Guasón (2024)",
   "Stream": "https://1a-1791.com/video/fwe2/14/s8/2/o/M/f/G/oMfGA.aaa.mkv",
   "Logo": "https://image.tmdb.org/t/p/original/g9l7iLYusH82bbEbwGCJzhVkOe2.jpg",
@@ -854,6 +878,18 @@
               "title": "PELÍCULAS DE ANIMACIÓN SECCIÓN 1",
               "episodes": [
                 {
+  "Title": "TMNT: Tortugas Ninja Jóvenes Mutantes (2007)",
+  "Stream": "https://1a-1791.com/video/fwe2/c5/s8/2/W/h/Y/H/WhYHA.aaa.mkv",
+  "Logo": "https://image.tmdb.org/t/p/original/90ZvyneZWwGnuVvNWMU2aabRbMT.jpg",
+  "description": "Las tortugas ninja se reúnen para enfrentar una nueva amenaza en Nueva York."
+                },
+                {
+  "Title": "Rio (2011)",
+  "Stream": "https://1a-1791.com/video/fww1/7d/s8/2/u/o/Y/H/uoYHA.aaa.mkv",
+  "Logo": "https://image.tmdb.org/t/p/original/scjaS4XzbGicYLYAVbhmffwZtqq.jpg",
+  "description": "Un guacamayo azul domesticado viaja a Río de Janeiro para encontrar pareja."
+                },
+                {
   "Title": "Soul (2020)",
   "Stream": "https://1a-1791.com/video/fww1/9e/s8/2/4/p/-/F/4p-FA.aaa.mp4",
   "Logo": "https://image.tmdb.org/t/p/original/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg",
@@ -1196,6 +1232,24 @@
               "title": "PELÍCULAS DE TERROR SECCIÓN 1",
               "episodes": [
                 {
+  "Title": "El conjuro (2013)",
+  "Stream": "https://1a-1791.com/video/fwe2/0d/s8/2/u/U/Y/H/uUYHA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/original/10ir0eISr3p1MF1mjZwGTx7u4vv.jpg",
+  "description": "Los Warren investigan una casa embrujada en Rhode Island."
+                },
+                {
+  "Title": "El conjuro 2 (2016)",
+  "Stream": "https://1a-1791.com/video/fwe2/37/s8/2/y/_/Y/H/y_YHA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/original/x4jUJ0fF60SSOeUUTkaRtmnDvwG.jpg",
+  "description": "Los Warren viajan a Londres para ayudar a una familia atormentada por un poltergeist."
+                },
+                {
+  "Title": "El conjuro 3: El diablo me obligó a hacerlo (2021)",
+  "Stream": "https://1a-1791.com/video/fww1/d8/s8/2/C/j/Z/H/CjZHA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/original/k8HN29t4VxiOagq9jaVVwZJ6wIB.jpg",
+  "description": "Los Warren investigan un caso de posesión demoníaca usado como defensa en un juicio."
+                },
+                {
   "Title": "Satanás (2007)",
   "Stream": "https://1a-1791.com/video/fww1/e0/s8/2/C/g/r/G/CgrGA.aaa.mkv",
   "Logo": "https://image.tmdb.org/t/p/original/mMqcQJABAC2w1x5ZDTy7c00aOCj.jpg",
@@ -1334,24 +1388,6 @@
                   "description": "Dos pescadores encuentran videos que revelan el encuentro de exploradores con criaturas prehistóricas."
                 },
                 {
-                  "Title": "El Conjuro (2013)",
-                  "Stream": "https://rumble.com/hls-vod/76052q/playlist.m3u8?u=0&b=0",
-                  "Logo": "https://i0.wp.com/cinedeterror65.wordpress.com/wp-content/uploads/2017/06/the-conjuring-movie-poster-wallpaper.jpg?w=458&h=257&ssl=1",
-                  "description": "Una familia se muda a una granja y comienza a sufrir fenómenos paranormales."
-                },
-                {
-                  "Title": "El Conjuro 2 (2016)",
-                  "Stream": "https://nas1.d.tube/videos/4c8e90c2-bca5-485b-83a1-d9fef66bee8d/720p/playlist.m3u8",
-                  "Logo": "https://noticias.unju.edu.ar/noticias/serv/notis/958_Elconjuro.jpg",
-                  "description": "Los Warren viajan a Londres para ayudar a una madre soltera aterrorizada por un poltergeist."
-                },
-                {
-                  "Title": "El Conjuro 3: El Diablo me obligó a hacerlo (2021)",
-                  "Stream": "https://nas1.d.tube/videos/1fa83b06-f71d-480a-bd0d-bbf1f9a79474/720p/playlist.m3u8",
-                  "Logo": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/5ed8a825-101d-4438-8153-f6d5c9b405f9/6b296408b2561dffca113d566b8c5cd7bfec158f.jpg",
-                  "description": "Los Warren investigan el primer caso donde un asesino alegó posesión demoníaca como defensa."
-                },
-                {
                   "Title": "La monja (2018)",
                   "Stream": "https://nas1.d.tube/videos/db63b93e-5457-4bae-9422-82ed6b22f551/1080p/playlist.m3u8",
                   "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQreYMGiUux_ZbbdHkSMZUuA0NKZa5gH1BfBaxIvw--NQrjGtf-BAPr5so&s=10",
@@ -1462,13 +1498,13 @@
                 {
                   "Title": "La Pasión de Cristo (2004)",
                   "Stream": "https://nas1.d.tube/videos/f4da0bf5-93e3-4e19-9120-5ce54806fdf3/1080p/playlist.m3u8",
-                  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQr2WbtC7tU6jzLLw-VKjaoUj14rdLNs-XcEuHjYYcdkfQv6lcmRKTM7c&s=10",
+                  "Logo": "https://image.tmdb.org/t/p/original/qPSyfz3yzTHXh1s8KRNy5YMNQJL.jpg",
                   "description": "Las últimas doce horas en la vida de Jesús de Nazaret, desde su agonía hasta su crucifixión."
                 },
                 {
                   "Title": "Jesús (1979)",
                   "Stream": "https://nas1.d.tube/videos/a20370d5-7249-4502-84b1-13ce1a2fcf70/1080p/playlist.m3u8",
-                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/c614224c428e7846e8a4a46fa5a085445dde1fc11b148e0f197157855a84dde4.jpg",
+                  "Logo": "https://m.media-amazon.com/images/M/MV5BMTQzMTg3NDcxMl5BMl5BanBnXkFtZTgwODk4NjMzMTE@._V1_.jpg",
                   "description": "La vida y ministerio de Jesucristo, desde su nacimiento hasta su resurrección, basada en el Evangelio de Lucas."
                 }
               ]
@@ -8522,73 +8558,71 @@
   ]
 },
             {
-              "title": "TEMPORADA 3",
-              "Poster": "https://m.media-amazon.com/images/S/pv-target-images/3bb6a465a35f05abd66da4c1b2487871d455803cb0235a946370b578081af34b.jpg",
-              "episodes": [
-                {
-                  "Title": "S03 E01 - Rompiendo",
-                  "Stream": "https://nas1.d.tube/videos/13c900df-23e5-4ad0-9b79-78c29770ddd5/1080p/playlist.m3u8",
-                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/3bb6a465a35f05abd66da4c1b2487871d455803cb0235a946370b578081af34b.jpg",
-                  "description": "Boyd siente que el pueblo se le escapa de las manos mientras el clima se vuelve más frío. Jim y Kenny se adentran en el bosque para buscar a Tabitha, quien emprende una búsqueda frenética por su cuenta."
-                },
-                {
-                  "Title": "S03 E02 - Cuando nos vayamos",
-                  "Stream": "https://nas1.d.tube/videos/4672be51-70a2-419e-8786-60ff180ff0a6/720p/playlist.m3u8",
-                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/3bb6a465a35f05abd66da4c1b2487871d455803cb0235a946370b578081af34b.jpg",
-                  "description": "Boyd lucha por encontrar un camino a seguir mientras el pueblo se despide de uno de los suyos. La salud de Fatima empeora. Tabitha recibe ayuda de un aliado inesperado."
-                },
-                {
-                  "Title": "S03 E03 - Ratonera",
-                  "Stream": "https://nas1.d.tube/videos/b745839c-3660-4d08-bc64-0c70aad34b1c/720p/playlist.m3u8",
-                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/3bb6a465a35f05abd66da4c1b2487871d455803cb0235a946370b578081af34b.jpg",
-                  "description": "Kenny lidera un grupo al bosque en busca de comida. Donna y Ellis intentan disuadir a Boyd de un plan peligroso. Tabitha hace un descubrimiento alucinante."
-                },
-                {
-                  "Title": "S03 E04 - Ida y vuelta",
-                  "Stream": "https://nas1.d.tube/videos/06d76a34-ffd5-4d97-942f-cca3950a7177/720p/playlist.m3u8",
-                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/3bb6a465a35f05abd66da4c1b2487871d455803cb0235a946370b578081af34b.jpg",
-                  "description": "Boyd se ve obligado a tomar una decisión difícil cuando llegan recién llegados al pueblo al anochecer. Víctor desentierra recuerdos del pasado con la esperanza de encontrar respuestas."
-                },
-                {
-                  "Title": "S03 E05 - La luz del día",
-                  "Stream": "https://nas1.d.tube/videos/c77128c4-a8d6-4d77-9044-d43f8d5d3c11/720p/playlist.m3u8",
-                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/3bb6a465a35f05abd66da4c1b2487871d455803cb0235a946370b578081af34b.jpg",
-                  "description": "Víctor debe enfrentar un doloroso recordatorio de su pasado. Julie busca formas de lidiar con su trauma. Boyd lucha por mantener el pueblo a salvo mientras los residentes comienzan a cuestionar su juicio."
-                },
-                {
-                  "Title": "S03 E06 - Tejido cicatricial",
-                  "Stream": "https://nas1.d.tube/videos/97c85da6-d472-4977-867a-3dc618e4b42b/720p/playlist.m3u8",
-                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/3bb6a465a35f05abd66da4c1b2487871d455803cb0235a946370b578081af34b.jpg",
-                  "description": "Fatima y Ellis toman una gran decisión sobre su embarazo. Boyd teme por el futuro de su familia. Las tensiones aumentan en la casa de los Matthews."
-                },
-                {
-                  "Title": "S03 E07 - Estos son los que están",
-                  "Stream": "https://nas1.d.tube/videos/9fc74afe-1ebf-4f95-bcc4-38abbe4cc398/1080p/playlist.m3u8",
-                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/06fa57b93841b7d447458b2dc663ee7316075066a2c4d110d8960b74209d197a.jpg",
-                  "description": "Los residentes se enfrentan a un duro invierno y la comida empieza a escasear. Boyd toma una decisión desesperada que podría cambiar todo. Tabitha sigue investigando los misterios del pueblo."
-                },
-                {
-                  "Title": "S03 E08 - Umbral",
-                  "Stream": "https://nas1.d.tube/videos/a7f9a8d8-61a5-43d5-a758-804f95f7f404/1080p/playlist.m3u8",
-                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/06fa57b93841b7d447458b2dc663ee7316075066a2c4d110d8960b74209d197a.jpg",
-                  "description": "Un descubrimiento impactante en el bosque cambia todo lo que los residentes creían saber. Julie experimenta visiones extrañas. Victor se enfrenta a su pasado de una manera que nunca imaginó."
-                },
-                {
-                  "Title": "S03 E09 - Revelaciones",
-                  "Stream": "https://nas1.d.tube/videos/808f7681-8f63-445b-8574-8d0131348f5f/1080p/playlist.m3u8",
-                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/06fa57b93841b7d447458b2dc663ee7316075066a2c4d110d8960b74209d197a.jpg",
-                  "description": "Las piezas comienzan a encajar mientras Boyd conecta los puntos entre los eventos más extraños del pueblo. Kenny toma una decisión que podría costarle todo. El nuevo refugio revela secretos aterradores."
-                },
-                {
-                  "Title": "S03 E10 - El final del camino",
-                  "Stream": "https://nas1.d.tube/videos/e599f491-32e8-453b-8fb6-61920073d11d/1080p/playlist.m3u8",
-                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/06fa57b93841b7d447458b2dc663ee7316075066a2c4d110d8960b74209d197a.jpg",
-                  "description": "Final de temporada. Una batalla decisiva se acerca mientras los residentes se enfrentan a la mayor amenaza que han conocido. Alguien no sobrevivirá. Las respuestas llegan, pero a un costo devastador."
-                }
-              ]
-            }
-          ]
-        },
+  "title": "TEMPORADA 3",
+  "Poster": "https://image.tmdb.org/t/p/original/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
+  "episodes": [
+    {
+      "Title": "S03 E01 - Destrozar",
+      "Stream": "https://1a-1791.com/video/fwe2/09/s8/2/2/Z/q/H/2ZqHA.aaa.mkv",
+      "Logo": "https://image.tmdb.org/t/p/original/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
+      "description": "Boyd siente que el pueblo se le escapa a medida que el clima se vuelve más frío y los habitantes más desesperados."
+    },
+    {
+      "Title": "S03 E02 - Cuando nos vayamos",
+      "Stream": "https://1a-1791.com/video/fww1/bb/s8/2/6/3/q/H/63qHA.aaa.mkv",
+      "Logo": "https://image.tmdb.org/t/p/original/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
+      "description": "Boyd lucha por encontrar un camino a seguir mientras el pueblo se despide de uno de los suyos."
+    },
+    {
+      "Title": "S03 E03 - Ratonera",
+      "Stream": "https://1a-1791.com/video/fwe2/13/s8/2/k/q/r/H/kqrHA.aaa.mkv",
+      "Logo": "https://image.tmdb.org/t/p/original/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
+      "description": "Kenny lidera un grupo al bosque en busca de comida. Tabitha hace un descubrimiento alucinante."
+    },
+    {
+      "Title": "S03 E04 - Ir y volver",
+      "Stream": "https://1a-1791.com/video/fww1/9a/s8/2/Q/U/v/H/QUvHA.aaa.mkv",
+      "Logo": "https://image.tmdb.org/t/p/original/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
+      "description": "Boyd toma una decisión difícil cuando llegan recién llegados al anochecer."
+    },
+    {
+      "Title": "S03 E05 - La luz del día",
+      "Stream": "https://1a-1791.com/video/fwe2/8c/s8/2/M/0/v/H/M0vHA.aaa.mkv",
+      "Logo": "https://image.tmdb.org/t/p/original/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
+      "description": "Victor debe enfrentar un doloroso recuerdo de su pasado. Boyd lucha por mantener el pueblo a salvo."
+    },
+    {
+      "Title": "S03 E06 - Cicatrices",
+      "Stream": "https://1a-1791.com/video/fww1/21/s8/2/e/4/v/H/e4vHA.aaa.mkv",
+      "Logo": "https://image.tmdb.org/t/p/original/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
+      "description": "Fatima y Ellis toman una gran decisión sobre su embarazo. Boyd teme por el futuro de su familia."
+    },
+    {
+      "Title": "S03 E07 - Estas frágiles vidas",
+      "Stream": "https://1a-1791.com/video/fwe2/6e/s8/2/g/7/v/H/g7vHA.aaa.mkv",
+      "Logo": "https://image.tmdb.org/t/p/original/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
+      "description": "Las preocupaciones por el embarazo de Fatima se profundizan. Jade sigue un rastro de pistas en el bosque."
+    },
+    {
+      "Title": "S03 E08 - Umbrales",
+      "Stream": "https://1a-1791.com/video/fwe2/e9/s8/2/6/9/v/H/69vHA.aaa.mkv",
+      "Logo": "https://image.tmdb.org/t/p/original/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
+      "description": "Acusaciones y verdades salen a la luz tras una tragedia. Victor lucha por recuperar recuerdos del pasado."
+    },
+    {
+      "Title": "S03 E09 - Revelación, capítulo 1",
+      "Stream": "https://1a-1791.com/video/fwe2/bd/s8/2/4/b/w/H/4bwHA.aaa.mkv",
+      "Logo": "https://image.tmdb.org/t/p/original/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
+      "description": "Las tensiones están al máximo cuando los residentes descubren que uno de los suyos ha desaparecido."
+    },
+    {
+      "Title": "S03 E10 - Revelación, capítulo 2",
+      "Stream": "https://1a-1791.com/video/fww1/cf/s8/2/S/_/O/H/S_OHA.aaa.mkv",
+      "Logo": "https://image.tmdb.org/t/p/original/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
+      "description": "Boyd es llevado al límite cuando el tiempo se agota para alguien que ama. El viaje de Tabitha da un giro impactante."
+    }
+  ]
+            },
         {
           "Title": "PERROS DE CAZA (2021)",
           "Logo": "https://image.tmdb.org/t/p/w500/5utMaM6TGm2GhlmauFFS2BTnuPP.jpg",
