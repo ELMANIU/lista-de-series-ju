@@ -19,6 +19,24 @@
   "fondo": "https://media.themoviedb.org/t/p/w1000_and_h563_face/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
   "description": "Woody y Buzz Lightyear compiten por el afecto de su dueño Andy."
 },
+ {
+  "Title": "Toy Story 2 (1999)",
+  "Stream": "https://1a-1791.com/video/fww1/8c/s8/2/g/g/j/I/ggjIA.aaa.mp4",
+  "Logo": "https://m.media-amazon.com/images/M/MV5BNzVmODlhMDEtY2YxZi00OTVjLTlkNTktN2Q2OTRlM2I4M2FhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "description": "Woody es secuestrado por un coleccionista y Buzz y sus amigos van a rescatarlo."
+},
+{
+  "Title": "Toy Story 4 (2019)",
+  "Stream": "https://1a-1791.com/video/fww1/1e/s8/2/G/p/j/I/GpjIA.aaa.mp4",
+  "Logo": "https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_FMjpg_UX1000_.jpg",
+  "description": "Woody y sus amigos emprenden un viaje con un nuevo juguete llamado Forky."
+},
+        {
+  "Title": "El regalo prometido (2026)",
+  "Stream": "https://1a-1791.com/video/fwe2/20/s8/2/2/y/j/I/2yjIA.aaa.mkv",
+  "Logo": "https://m.media-amazon.com/images/M/MV5BMDMzMGZlYTYtY2JiNi00ODVmLWIxZmItNWMxYTFkZTk2ODEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "description": "Un grupo de animales busca un regalo especial para salvar su hogar."
+        },
         {
   "Title": "Lo que el agua se llevó (2018)",
   "Stream": "https://1a-1791.com/video/fwe2/ac/s8/2/A/B/P/F/ABPFA.aaa.mkv",
