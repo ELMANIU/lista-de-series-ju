@@ -13,6 +13,24 @@
       "title": "NOVEDADES",
       "episodes": [
         {
+  "Title": "Moon: Mi amigo el panda (2024)",
+  "Stream": "https://1a-1791.com/video/fwe2/93/s8/2/G/h/f/J/GhfJA.aaa.mkv",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/54b0accf38642702c6c0ec72ca84de3e54bd14af672567bcd25977420bb1c9aa.jpg",
+  "description": "Un panda y su amigo viven aventuras en la naturaleza."
+        },
+        {
+  "Title": "Super Mario Galaxy: la película (2026)",
+  "Stream": "https://1a-1791.com/video/fwe2/ce/s8/2/O/n/k/J/OnkJA.aaa.mkv",
+  "Logo": "https://m.media-amazon.com/images/M/MV5BNTRkODc0MmItYzQ2NS00MGU3LTkwMTUtMGRmZjMwODNiNmI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "description": "Mario viaja al espacio para rescatar a la Princesa Peach y derrotar a Bowser."
+        },
+        {
+  "Title": "Intercambiados (2026)",
+  "Stream": "https://1a-1791.com/video/fwe2/be/s8/2/M/w/k/J/MwkJA.aaa.mkv",
+  "Logo": "https://m.media-amazon.com/images/M/MV5BNWFlNWM2Y2YtY2VhOC00MWFiLWExNWYtYWViYzJhMDQyMTJiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "description": "Un Pookoo y un Javan intercambian sus cuerpos y deben sobrevivir juntos."
+},
+        {
   "Title": "Toy Story (1995)",
   "Stream": "https://1a-1791.com/video/fww1/88/s8/2/K/s/7/H/Ks7HA.aaa.mp4",
   "Logo": "https://m.media-amazon.com/images/M/MV5BZTA3OWVjOWItNjE1NS00NzZiLWE1MjgtZDZhMWI1ZTlkNzYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -665,6 +683,12 @@
               "title": "Películas",
               "episodes": [
                 {
+  "Title": "Baki vs Kengan Ashura (2021)",
+  "Stream": "https://1a-1791.com/video/fww1/e2/s8/2/k/a/d/J/kadJA.aaa.mkv",
+  "Logo": "https://m.media-amazon.com/images/M/MV5BOTNkMTU1OWQtNTE5Yi00OTViLTlhOTMtZmYxZWJiMTU2MTAwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "description": "Crossover de los universos de Baki y Kengan Ashura."
+},
+                {
   "Title": "El viaje de Chihiro (2001)",
   "Stream": "https://hugh.cdn.rumble.cloud/video/fwe2/c7/s8/2/o/3/l/A/o3lAA.aaa.mp4",
   "Logo": "https://i.ytimg.com/vi/5Fgq4Osh6XQ/maxresdefault.jpg",
@@ -932,6 +956,30 @@
             {
               "title": "PELÍCULAS DE ANIMACIÓN SECCIÓN 1",
               "episodes": [
+                {
+  "Title": "Intercambiados (2026)",
+  "Stream": "https://1a-1791.com/video/fwe2/be/s8/2/M/w/k/J/MwkJA.aaa.mkv",
+  "Logo": "https://m.media-amazon.com/images/M/MV5BNWFlNWM2Y2YtY2VhOC00MWFiLWExNWYtYWViYzJhMDQyMTJiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "description": "Un Pookoo y un Javan intercambian sus cuerpos y deben sobrevivir juntos."
+                },
+                {
+  "Title": "Super Mario Galaxy: la película (2026)",
+  "Stream": "https://1a-1791.com/video/fwe2/ce/s8/2/O/n/k/J/OnkJA.aaa.mkv",
+  "Logo": "https://m.media-amazon.com/images/M/MV5BNTRkODc0MmItYzQ2NS00MGU3LTkwMTUtMGRmZjMwODNiNmI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "description": "Mario viaja al espacio para rescatar a la Princesa Peach y derrotar a Bowser."
+                },
+                {
+  "Title": "Una película de Minecraft (2025)",
+  "Stream": "https://1a-1791.com/video/fwe2/48/s8/2/k/_/j/J/k_jJA.aaa.mkv",
+  "Logo": "https://m.media-amazon.com/images/M/MV5BMGJjMDZiNzYtOWNjNS00MmYwLTg4NjAtYTJmYjZmODBlMzYzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "description": "Cuatro inadaptados son transportados al mundo de Minecraft y deben encontrar el camino a casa."
+                },
+                {
+  "Title": "Moon: Mi amigo el panda (2024)",
+  "Stream": "https://1a-1791.com/video/fwe2/93/s8/2/G/h/f/J/GhfJA.aaa.mkv",
+  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/54b0accf38642702c6c0ec72ca84de3e54bd14af672567bcd25977420bb1c9aa.jpg",
+  "description": "Un panda y su amigo viven aventuras en la naturaleza."
+                },
                 {
   "Title": "Casper (1995)",
   "Stream": "https://1a-1791.com/video/fwe2/19/s8/2/K/g/2/I/Kg2IA.aaa.mkv",
