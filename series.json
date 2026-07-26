@@ -1681,799 +1681,6 @@
       "title": "TV PREMIUM",
       "items": [
         {
-  "Title": "TV SERVIDOR RAPIDO",
-  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-  "type": "series",
-  "description": "Canales en vivo del servidor rápido.",
-  "seasons": [
-    {
-      "title": "Canales",
-      "episodes": [
-        {
-          "Title": "AE HD",
-          "Stream": "http://190.60.39.221/play/a063/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal AE HD."
-        },
-        {
-          "Title": "ALERTA BOGOTA",
-          "Stream": "http://190.60.39.221/play/a08y/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal ALERTA BOGOTA."
-        },
-        {
-          "Title": "AMC HD",
-          "Stream": "http://190.60.39.221/play/a06b/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal AMC HD."
-        },
-        {
-          "Title": "AXN HD",
-          "Stream": "http://190.60.39.221/play/a072/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal AXN HD."
-        },
-        {
-          "Title": "Adult Swim",
-          "Stream": "http://190.60.39.221/play/a05x/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Adult Swim."
-        },
-        {
-          "Title": "America TV HD",
-          "Stream": "http://190.60.39.221/play/a08o/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal America TV HD."
-        },
-        {
-          "Title": "Animal Planet",
-          "Stream": "http://190.60.39.221/play/a06t/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Animal Planet."
-        },
-        {
-          "Title": "BETHEL TV",
-          "Stream": "http://190.60.39.221/play/a06r/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal BETHEL TV."
-        },
-        {
-          "Title": "Baby TV",
-          "Stream": "http://190.60.39.221/play/a05n/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Baby TV."
-        },
-        {
-          "Title": "CARACOL HD 2",
-          "Stream": "http://190.60.39.221/play/a08v/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal CARACOL HD 2."
-        },
-        {
-          "Title": "CARACOL TV HD",
-          "Stream": "http://190.60.39.221/play/a00b/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal CARACOL TV HD."
-        },
-        {
-          "Title": "CNN Español",
-          "Stream": "http://190.60.39.221/play/a05o/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal CNN Español."
-        },
-        {
-          "Title": "CRISTO VISION",
-          "Stream": "http://190.60.39.221/play/a058/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal CRISTO VISION."
-        },
-        {
-          "Title": "Canal Caracol",
-          "Stream": "http://190.60.39.221/play/a07w/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Caracol."
-        },
-        {
-          "Title": "Canal Institucional",
-          "Stream": "http://190.60.39.221/play/a07y/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Institucional."
-        },
-        {
-          "Title": "Canal RCN",
-          "Stream": "http://190.60.39.221/play/a07x/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal RCN."
-        },
-        {
-          "Title": "Canal Uno",
-          "Stream": "http://190.60.39.221/play/a07v/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Uno."
-        },
-        {
-          "Title": "Canal del Congreso",
-          "Stream": "http://190.60.39.221/play/a07z/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal del Congreso."
-        },
-        {
-          "Title": "Capital",
-          "Stream": "http://190.60.39.221/play/a085/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Capital."
-        },
-        {
-          "Title": "Cartoon Network HD",
-          "Stream": "http://190.60.39.221/play/a06h/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Cartoon Network HD."
-        },
-        {
-          "Title": "Cartoonito",
-          "Stream": "http://190.60.39.221/play/a061/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Cartoonito."
-        },
-        {
-          "Title": "Cinecanal HD",
-          "Stream": "http://190.60.39.221/play/a06y/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Cinecanal HD."
-        },
-        {
-          "Title": "Cinemax",
-          "Stream": "http://190.60.39.221/play/a05p/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Cinemax."
-        },
-        {
-          "Title": "City TV",
-          "Stream": "http://190.60.39.221/play/a084/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal City TV."
-        },
-        {
-          "Title": "Comedy Central HD",
-          "Stream": "http://190.60.39.221/play/a064/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Comedy Central HD."
-        },
-        {
-          "Title": "DHE HD",
-          "Stream": "http://190.60.39.221/play/a08j/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal DHE HD."
-        },
-        {
-          "Title": "DW Español",
-          "Stream": "http://190.60.39.221/play/a07u/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal DW Español."
-        },
-        {
-          "Title": "De Pelicula",
-          "Stream": "http://190.60.39.221/play/a08h/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal De Película."
-        },
-        {
-          "Title": "Discovery Channel HD",
-          "Stream": "http://190.60.39.221/play/a06u/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Discovery Channel HD."
-        },
-        {
-          "Title": "Discovery H&H",
-          "Stream": "http://190.60.39.221/play/a07r/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Discovery H&H."
-        },
-        {
-          "Title": "Discovery Kids HD",
-          "Stream": "http://190.60.39.221/play/a05z/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Discovery Kids HD."
-        },
-        {
-          "Title": "Discovery Science",
-          "Stream": "http://190.60.39.221/play/a05s/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Discovery Science."
-        },
-        {
-          "Title": "Discovery Turbo",
-          "Stream": "http://190.60.39.221/play/a05q/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Discovery Turbo."
-        },
-        {
-          "Title": "Disney Channel",
-          "Stream": "http://190.60.39.221/play/a08g/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Disney Channel."
-        },
-        {
-          "Title": "Disney Jr.",
-          "Stream": "http://190.60.39.221/play/a08f/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Disney Jr."
-        },
-        {
-          "Title": "Distrito Comedia",
-          "Stream": "http://190.60.39.221/play/a08m/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Distrito Comedia."
-        },
-        {
-          "Title": "E! Entertainment TV",
-          "Stream": "http://190.60.39.221/play/a08n/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal E! Entertainment TV."
-        },
-        {
-          "Title": "ESPN 2 HD",
-          "Stream": "http://190.60.39.221/play/a06l/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal ESPN 2 HD."
-        },
-        {
-          "Title": "ESPN 3 HD",
-          "Stream": "http://190.60.39.221/play/a06e/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal ESPN 3 HD."
-        },
-        {
-          "Title": "ESPN 4 HD",
-          "Stream": "http://190.60.39.221/play/a075/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal ESPN 4 HD."
-        },
-        {
-          "Title": "ESPN 5 HD",
-          "Stream": "http://190.60.39.221/play/a069/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal ESPN 5 HD."
-        },
-        {
-          "Title": "ESPN 6 HD",
-          "Stream": "http://190.60.39.221/play/a062/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal ESPN 6 HD."
-        },
-        {
-          "Title": "ESPN 7 HD",
-          "Stream": "http://190.60.39.221/play/a06z/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal ESPN 7 HD."
-        },
-        {
-          "Title": "ESPN HD",
-          "Stream": "http://190.60.39.221/play/a06g/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal ESPN HD."
-        },
-        {
-          "Title": "ESPN Premium HD",
-          "Stream": "http://190.60.39.221/play/a06q/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal ESPN Premium HD."
-        },
-        {
-          "Title": "ETC",
-          "Stream": "http://190.60.39.221/play/a05m/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal ETC."
-        },
-        {
-          "Title": "EWTN",
-          "Stream": "http://190.60.39.221/play/a05v/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal EWTN."
-        },
-        {
-          "Title": "El Gourmet HD",
-          "Stream": "http://190.60.39.221/play/a065/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal El Gourmet HD."
-        },
-        {
-          "Title": "Enlace",
-          "Stream": "http://190.60.39.221/play/a08l/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Enlace."
-        },
-        {
-          "Title": "FMH ANIMOTION",
-          "Stream": "http://190.60.39.221/play/a03d/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal FMH ANIMOTION."
-        },
-        {
-          "Title": "FMH ATLAS",
-          "Stream": "http://190.60.39.221/play/a01u/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal FMH ATLAS."
-        },
-        {
-          "Title": "FMH FAMILY",
-          "Stream": "http://190.60.39.221/play/a01v/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal FMH FAMILY."
-        },
-        {
-          "Title": "FMH KIDS",
-          "Stream": "http://190.60.39.221/play/a01w/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal FMH KIDS."
-        },
-        {
-          "Title": "FMH KIZZT",
-          "Stream": "http://190.60.39.221/play/a01x/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal FMH KIZZT."
-        },
-        {
-          "Title": "FMH MOVIES",
-          "Stream": "http://190.60.39.221/play/a01y/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal FMH MOVIES."
-        },
-        {
-          "Title": "FMH PACK",
-          "Stream": "http://190.60.39.221/play/a095/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal FMH PACK."
-        },
-        {
-          "Title": "FMH REWIND",
-          "Stream": "http://190.60.39.221/play/a01z/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal FMH REWIND."
-        },
-        {
-          "Title": "FULL SYSTEM TV",
-          "Stream": "http://190.60.39.221/play/a040/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal FULL SYSTEM TV."
-        },
-        {
-          "Title": "FX HD",
-          "Stream": "http://190.60.39.221/play/a076/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal FX HD."
-        },
-        {
-          "Title": "Food Network",
-          "Stream": "http://190.60.39.221/play/a05y/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Food Network."
-        },
-        {
-          "Title": "France 24",
-          "Stream": "http://190.60.39.221/play/a07t/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal France 24."
-        },
-        {
-          "Title": "Golden Edge",
-          "Stream": "http://190.60.39.221/play/a07m/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Golden Edge."
-        },
-        {
-          "Title": "Golden HD",
-          "Stream": "http://190.60.39.221/play/a07g/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Golden HD."
-        },
-        {
-          "Title": "HEI HD",
-          "Stream": "http://190.60.39.221/play/a067/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal HEI HD."
-        },
-        {
-          "Title": "HTV",
-          "Stream": "http://190.60.39.221/play/a07j/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal HTV."
-        },
-        {
-          "Title": "History 2",
-          "Stream": "http://190.60.39.221/play/a07h/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal History 2."
-        },
-        {
-          "Title": "History Channel HD",
-          "Stream": "http://190.60.39.221/play/a06v/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal History Channel HD."
-        },
-        {
-          "Title": "Hogar TV",
-          "Stream": "http://190.60.39.221/play/a02o/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Hogar TV."
-        },
-        {
-          "Title": "Home & Health HD",
-          "Stream": "http://190.60.39.221/play/a06i/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Home & Health HD."
-        },
-        {
-          "Title": "ID",
-          "Stream": "http://190.60.39.221/play/a08r/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal ID."
-        },
-        {
-          "Title": "ID HD",
-          "Stream": "http://190.60.39.221/play/a073/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal ID HD."
-        },
-        {
-          "Title": "LA FM RADIO",
-          "Stream": "http://190.60.39.221/play/a08x/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal LA FM RADIO."
-        },
-        {
-          "Title": "LA KALLE",
-          "Stream": "http://190.60.39.221/play/a00d/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal LA KALLE."
-        },
-        {
-          "Title": "LA MEGA",
-          "Stream": "http://190.60.39.221/play/a090/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal LA MEGA."
-        },
-        {
-          "Title": "Las Estrellas HD",
-          "Stream": "http://190.60.39.221/play/a06p/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Las Estrellas HD."
-        },
-        {
-          "Title": "Latina HD",
-          "Stream": "http://190.60.39.221/play/a08p/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Latina HD."
-        },
-        {
-          "Title": "Lifetime",
-          "Stream": "http://190.60.39.221/play/a05w/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Lifetime."
-        },
-        {
-          "Title": "MEMORIAS CLASICC",
-          "Stream": "http://190.60.39.221/play/a020/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal MEMORIAS CLASICC."
-        },
-        {
-          "Title": "MEMORIAS CORAZON",
-          "Stream": "http://190.60.39.221/play/a021/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal MEMORIAS CORAZON."
-        },
-        {
-          "Title": "MEMORIAS FILM",
-          "Stream": "http://190.60.39.221/play/a022/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal MEMORIAS FILM."
-        },
-        {
-          "Title": "MEMORIAS PACK",
-          "Stream": "http://190.60.39.221/play/a096/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal MEMORIAS PACK."
-        },
-        {
-          "Title": "MEMORIAS POP",
-          "Stream": "http://190.60.39.221/play/a023/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal MEMORIAS POP."
-        },
-        {
-          "Title": "MEMORIAS SALSA",
-          "Stream": "http://190.60.39.221/play/a024/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal MEMORIAS SALSA."
-        },
-        {
-          "Title": "MEMORIAS SERIES",
-          "Stream": "http://190.60.39.221/play/a025/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal MEMORIAS SERIES."
-        },
-        {
-          "Title": "MEMORIAS TOONS",
-          "Stream": "http://190.60.39.221/play/a026/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal MEMORIAS TOONS."
-        },
-        {
-          "Title": "MTV HD",
-          "Stream": "http://190.60.39.221/play/a06f/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal MTV HD."
-        },
-        {
-          "Title": "NTN24",
-          "Stream": "http://190.60.39.221/play/a07k/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal NTN24."
-        },
-        {
-          "Title": "Nat Geo HD",
-          "Stream": "http://190.60.39.221/play/a06w/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Nat Geo HD."
-        },
-        {
-          "Title": "Nick Jr",
-          "Stream": "http://190.60.39.221/play/a08a/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Nick Jr."
-        },
-        {
-          "Title": "Nickelodeon HD",
-          "Stream": "http://190.60.39.221/play/a06m/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Nickelodeon HD."
-        },
-        {
-          "Title": "Nuestra Tele",
-          "Stream": "http://190.60.39.221/play/a07i/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Nuestra Tele."
-        },
-        {
-          "Title": "OROMAR TV",
-          "Stream": "http://190.60.39.221/play/a093/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal OROMAR TV."
-        },
-        {
-          "Title": "Pasiones HD",
-          "Stream": "http://190.60.39.221/play/a06k/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Pasiones HD."
-        },
-        {
-          "Title": "RCN HD",
-          "Stream": "http://190.60.39.221/play/a008/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal RCN HD."
-        },
-        {
-          "Title": "RCN HD 2",
-          "Stream": "http://190.60.39.221/play/a08w/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal RCN HD 2."
-        },
-        {
-          "Title": "RCN Novelas",
-          "Stream": "http://190.60.39.221/play/a08q/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal RCN Novelas."
-        },
-        {
-          "Title": "RCN RADIO UNO",
-          "Stream": "http://190.60.39.221/play/a08z/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal RCN RADIO UNO."
-        },
-        {
-          "Title": "RTV",
-          "Stream": "http://190.60.39.221/play/a02a/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal RTV."
-        },
-        {
-          "Title": "Rumba TV HD",
-          "Stream": "http://190.60.39.221/play/a03u/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Rumba TV HD."
-        },
-        {
-          "Title": "Senal Colombia",
-          "Stream": "http://190.60.39.221/play/a080/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Senal Colombia."
-        },
-        {
-          "Title": "Sony HD",
-          "Stream": "http://190.60.39.221/play/a070/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Sony HD."
-        },
-        {
-          "Title": "Sony Movies",
-          "Stream": "http://190.60.39.221/play/a060/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Sony Movies."
-        },
-        {
-          "Title": "Space HD",
-          "Stream": "http://190.60.39.221/play/a074/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Space HD."
-        },
-        {
-          "Title": "Star Channel HD",
-          "Stream": "http://190.60.39.221/play/a077/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Star Channel HD."
-        },
-        {
-          "Title": "Studio Universal HD",
-          "Stream": "http://190.60.39.221/play/a07a/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Studio Universal HD."
-        },
-        {
-          "Title": "TCM",
-          "Stream": "http://190.60.39.221/play/a07o/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal TCM."
-        },
-        {
-          "Title": "TELEMUNDO FUT",
-          "Stream": "http://190.60.39.221/play/a094/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal TELEMUNDO FUT."
-        },
-        {
-          "Title": "TLC",
-          "Stream": "http://190.60.39.221/play/a05r/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal TLC."
-        },
-        {
-          "Title": "TNT HD",
-          "Stream": "http://190.60.39.221/play/a06x/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal TNT HD."
-        },
-        {
-          "Title": "TNT Novelas",
-          "Stream": "http://190.60.39.221/play/a08t/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal TNT Novelas."
-        },
-        {
-          "Title": "TNT Novelas HD",
-          "Stream": "http://190.60.39.221/play/a06d/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal TNT Novelas HD."
-        },
-        {
-          "Title": "TNT Series HD",
-          "Stream": "http://190.60.39.221/play/a06c/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal TNT Series HD."
-        },
-        {
-          "Title": "TRO",
-          "Stream": "http://190.60.39.221/play/a082/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal TRO."
-        },
-        {
-          "Title": "Tele Nostalgia HD",
-          "Stream": "http://190.60.39.221/play/a03s/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Tele Nostalgia HD."
-        },
-        {
-          "Title": "Teleantioquia",
-          "Stream": "http://190.60.39.221/play/a087/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Teleantioquia."
-        },
-        {
-          "Title": "Telecafe",
-          "Stream": "http://190.60.39.221/play/a08d/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Telecafe."
-        },
-        {
-          "Title": "Telecaribe",
-          "Stream": "http://190.60.39.221/play/a08c/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Telecaribe."
-        },
-        {
-          "Title": "Teleislas",
-          "Stream": "http://190.60.39.221/play/a083/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Teleislas."
-        },
-        {
-          "Title": "Telemundo",
-          "Stream": "http://190.60.39.221/play/a05t/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Telemundo."
-        },
-        {
-          "Title": "Telepacifico",
-          "Stream": "http://190.60.39.221/play/a089/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Telepacifico."
-        },
-        {
-          "Title": "Telesur",
-          "Stream": "http://190.60.39.221/play/a02t/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Telesur."
-        },
-        {
-          "Title": "Tlnovelas",
-          "Stream": "http://190.60.39.221/play/a08k/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Tlnovelas."
-        },
-        {
-          "Title": "Tooncast",
-          "Stream": "http://190.60.39.221/play/a05u/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Tooncast."
-        },
-        {
-          "Title": "Trece",
-          "Stream": "http://190.60.39.221/play/a08e/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Trece."
-        },
-        {
-          "Title": "Tv Agro",
-          "Stream": "http://190.60.39.221/play/a02m/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Tv Agro."
-        },
-        {
-          "Title": "UNIVERSAL CHANNEL HD",
-          "Stream": "http://190.60.39.221/play/a066/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal UNIVERSAL CHANNEL HD."
-        },
-        {
-          "Title": "USA",
-          "Stream": "http://190.60.39.221/play/a07l/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal USA."
-        },
-        {
-          "Title": "Warner TV HD",
-          "Stream": "http://190.60.39.221/play/a071/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Warner TV HD."
-        },
-        {
-          "Title": "Win",
-          "Stream": "http://190.60.39.221/play/a088/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Win."
-        },
-        {
-          "Title": "Zoom",
-          "Stream": "http://190.60.39.221/play/a081/index.m3u8",
-          "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Canal Zoom."
-        }
-      ]
-    }
-  ]
-},
-        {
   "Title": "TV 1",
   "Logo": "https://static.vecteezy.com/system/resources/previews/000/931/914/non_2x/retro-television-poster-vector.jpg",
   "type": "series",
@@ -7543,6 +6750,786 @@
   "Stream": "https://d3xpfoln9sj56.cloudfront.net/ts:abr.m3u8",
   "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
   "description": "Canal de series clásicas TV Land."
+},
+                {
+  "Title": "AE HD",
+  "Stream": "http://190.60.39.221/play/a063/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal AE HD."
+},
+{
+  "Title": "ALERTA BOGOTA",
+  "Stream": "http://190.60.39.221/play/a08y/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal ALERTA BOGOTA."
+},
+{
+  "Title": "AMC HD",
+  "Stream": "http://190.60.39.221/play/a06b/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal AMC HD."
+},
+{
+  "Title": "AXN HD",
+  "Stream": "http://190.60.39.221/play/a072/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal AXN HD."
+},
+{
+  "Title": "Adult Swim",
+  "Stream": "http://190.60.39.221/play/a05x/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Adult Swim."
+},
+{
+  "Title": "America TV HD",
+  "Stream": "http://190.60.39.221/play/a08o/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal America TV HD."
+},
+{
+  "Title": "Animal Planet",
+  "Stream": "http://190.60.39.221/play/a06t/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Animal Planet."
+},
+{
+  "Title": "BETHEL TV",
+  "Stream": "http://190.60.39.221/play/a06r/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal BETHEL TV."
+},
+{
+  "Title": "Baby TV",
+  "Stream": "http://190.60.39.221/play/a05n/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Baby TV."
+},
+{
+  "Title": "CARACOL HD 2",
+  "Stream": "http://190.60.39.221/play/a08v/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal CARACOL HD 2."
+},
+{
+  "Title": "CARACOL TV HD",
+  "Stream": "http://190.60.39.221/play/a00b/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal CARACOL TV HD."
+},
+{
+  "Title": "CNN Español",
+  "Stream": "http://190.60.39.221/play/a05o/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal CNN Español."
+},
+{
+  "Title": "CRISTO VISION",
+  "Stream": "http://190.60.39.221/play/a058/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal CRISTO VISION."
+},
+{
+  "Title": "Canal Caracol",
+  "Stream": "http://190.60.39.221/play/a07w/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Caracol."
+},
+{
+  "Title": "Canal Institucional",
+  "Stream": "http://190.60.39.221/play/a07y/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Institucional."
+},
+{
+  "Title": "Canal RCN",
+  "Stream": "http://190.60.39.221/play/a07x/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal RCN."
+},
+{
+  "Title": "Canal Uno",
+  "Stream": "http://190.60.39.221/play/a07v/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Uno."
+},
+{
+  "Title": "Canal del Congreso",
+  "Stream": "http://190.60.39.221/play/a07z/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal del Congreso."
+},
+{
+  "Title": "Capital",
+  "Stream": "http://190.60.39.221/play/a085/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Capital."
+},
+{
+  "Title": "Cartoon Network HD",
+  "Stream": "http://190.60.39.221/play/a06h/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Cartoon Network HD."
+},
+{
+  "Title": "Cartoonito",
+  "Stream": "http://190.60.39.221/play/a061/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Cartoonito."
+},
+{
+  "Title": "Cinecanal HD",
+  "Stream": "http://190.60.39.221/play/a06y/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Cinecanal HD."
+},
+{
+  "Title": "Cinemax",
+  "Stream": "http://190.60.39.221/play/a05p/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Cinemax."
+},
+{
+  "Title": "City TV",
+  "Stream": "http://190.60.39.221/play/a084/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal City TV."
+},
+{
+  "Title": "Comedy Central HD",
+  "Stream": "http://190.60.39.221/play/a064/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Comedy Central HD."
+},
+{
+  "Title": "DHE HD",
+  "Stream": "http://190.60.39.221/play/a08j/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal DHE HD."
+},
+{
+  "Title": "DW Español",
+  "Stream": "http://190.60.39.221/play/a07u/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal DW Español."
+},
+{
+  "Title": "De Pelicula",
+  "Stream": "http://190.60.39.221/play/a08h/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal De Película."
+},
+{
+  "Title": "Discovery Channel HD",
+  "Stream": "http://190.60.39.221/play/a06u/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Discovery Channel HD."
+},
+{
+  "Title": "Discovery H&H",
+  "Stream": "http://190.60.39.221/play/a07r/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Discovery H&H."
+},
+{
+  "Title": "Discovery Kids HD",
+  "Stream": "http://190.60.39.221/play/a05z/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Discovery Kids HD."
+},
+{
+  "Title": "Discovery Science",
+  "Stream": "http://190.60.39.221/play/a05s/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Discovery Science."
+},
+{
+  "Title": "Discovery Turbo",
+  "Stream": "http://190.60.39.221/play/a05q/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Discovery Turbo."
+},
+{
+  "Title": "Disney Channel",
+  "Stream": "http://190.60.39.221/play/a08g/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Disney Channel."
+},
+{
+  "Title": "Disney Jr.",
+  "Stream": "http://190.60.39.221/play/a08f/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Disney Jr."
+},
+{
+  "Title": "Distrito Comedia",
+  "Stream": "http://190.60.39.221/play/a08m/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Distrito Comedia."
+},
+{
+  "Title": "E! Entertainment TV",
+  "Stream": "http://190.60.39.221/play/a08n/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal E! Entertainment TV."
+},
+{
+  "Title": "ESPN 2 HD",
+  "Stream": "http://190.60.39.221/play/a06l/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal ESPN 2 HD."
+},
+{
+  "Title": "ESPN 3 HD",
+  "Stream": "http://190.60.39.221/play/a06e/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal ESPN 3 HD."
+},
+{
+  "Title": "ESPN 4 HD",
+  "Stream": "http://190.60.39.221/play/a075/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal ESPN 4 HD."
+},
+{
+  "Title": "ESPN 5 HD",
+  "Stream": "http://190.60.39.221/play/a069/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal ESPN 5 HD."
+},
+{
+  "Title": "ESPN 6 HD",
+  "Stream": "http://190.60.39.221/play/a062/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal ESPN 6 HD."
+},
+{
+  "Title": "ESPN 7 HD",
+  "Stream": "http://190.60.39.221/play/a06z/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal ESPN 7 HD."
+},
+{
+  "Title": "ESPN HD",
+  "Stream": "http://190.60.39.221/play/a06g/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal ESPN HD."
+},
+{
+  "Title": "ESPN Premium HD",
+  "Stream": "http://190.60.39.221/play/a06q/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal ESPN Premium HD."
+},
+{
+  "Title": "ETC",
+  "Stream": "http://190.60.39.221/play/a05m/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal ETC."
+},
+{
+  "Title": "EWTN",
+  "Stream": "http://190.60.39.221/play/a05v/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal EWTN."
+},
+{
+  "Title": "El Gourmet HD",
+  "Stream": "http://190.60.39.221/play/a065/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal El Gourmet HD."
+},
+{
+  "Title": "Enlace",
+  "Stream": "http://190.60.39.221/play/a08l/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Enlace."
+},
+{
+  "Title": "FMH ANIMOTION",
+  "Stream": "http://190.60.39.221/play/a03d/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal FMH ANIMOTION."
+},
+{
+  "Title": "FMH ATLAS",
+  "Stream": "http://190.60.39.221/play/a01u/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal FMH ATLAS."
+},
+{
+  "Title": "FMH FAMILY",
+  "Stream": "http://190.60.39.221/play/a01v/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal FMH FAMILY."
+},
+{
+  "Title": "FMH KIDS",
+  "Stream": "http://190.60.39.221/play/a01w/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal FMH KIDS."
+},
+{
+  "Title": "FMH KIZZT",
+  "Stream": "http://190.60.39.221/play/a01x/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal FMH KIZZT."
+},
+{
+  "Title": "FMH MOVIES",
+  "Stream": "http://190.60.39.221/play/a01y/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal FMH MOVIES."
+},
+{
+  "Title": "FMH PACK",
+  "Stream": "http://190.60.39.221/play/a095/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal FMH PACK."
+},
+{
+  "Title": "FMH REWIND",
+  "Stream": "http://190.60.39.221/play/a01z/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal FMH REWIND."
+},
+{
+  "Title": "FULL SYSTEM TV",
+  "Stream": "http://190.60.39.221/play/a040/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal FULL SYSTEM TV."
+},
+{
+  "Title": "FX HD",
+  "Stream": "http://190.60.39.221/play/a076/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal FX HD."
+},
+{
+  "Title": "Food Network",
+  "Stream": "http://190.60.39.221/play/a05y/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Food Network."
+},
+{
+  "Title": "France 24",
+  "Stream": "http://190.60.39.221/play/a07t/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal France 24."
+},
+{
+  "Title": "Golden Edge",
+  "Stream": "http://190.60.39.221/play/a07m/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Golden Edge."
+},
+{
+  "Title": "Golden HD",
+  "Stream": "http://190.60.39.221/play/a07g/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Golden HD."
+},
+{
+  "Title": "HEI HD",
+  "Stream": "http://190.60.39.221/play/a067/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal HEI HD."
+},
+{
+  "Title": "HTV",
+  "Stream": "http://190.60.39.221/play/a07j/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal HTV."
+},
+{
+  "Title": "History 2",
+  "Stream": "http://190.60.39.221/play/a07h/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal History 2."
+},
+{
+  "Title": "History Channel HD",
+  "Stream": "http://190.60.39.221/play/a06v/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal History Channel HD."
+},
+{
+  "Title": "Hogar TV",
+  "Stream": "http://190.60.39.221/play/a02o/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Hogar TV."
+},
+{
+  "Title": "Home & Health HD",
+  "Stream": "http://190.60.39.221/play/a06i/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Home & Health HD."
+},
+{
+  "Title": "ID",
+  "Stream": "http://190.60.39.221/play/a08r/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal ID."
+},
+{
+  "Title": "ID HD",
+  "Stream": "http://190.60.39.221/play/a073/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal ID HD."
+},
+{
+  "Title": "LA FM RADIO",
+  "Stream": "http://190.60.39.221/play/a08x/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal LA FM RADIO."
+},
+{
+  "Title": "LA KALLE",
+  "Stream": "http://190.60.39.221/play/a00d/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal LA KALLE."
+},
+{
+  "Title": "LA MEGA",
+  "Stream": "http://190.60.39.221/play/a090/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal LA MEGA."
+},
+{
+  "Title": "Las Estrellas HD",
+  "Stream": "http://190.60.39.221/play/a06p/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Las Estrellas HD."
+},
+{
+  "Title": "Latina HD",
+  "Stream": "http://190.60.39.221/play/a08p/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Latina HD."
+},
+{
+  "Title": "Lifetime",
+  "Stream": "http://190.60.39.221/play/a05w/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Lifetime."
+},
+{
+  "Title": "MEMORIAS CLASICC",
+  "Stream": "http://190.60.39.221/play/a020/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal MEMORIAS CLASICC."
+},
+{
+  "Title": "MEMORIAS CORAZON",
+  "Stream": "http://190.60.39.221/play/a021/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal MEMORIAS CORAZON."
+},
+{
+  "Title": "MEMORIAS FILM",
+  "Stream": "http://190.60.39.221/play/a022/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal MEMORIAS FILM."
+},
+{
+  "Title": "MEMORIAS PACK",
+  "Stream": "http://190.60.39.221/play/a096/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal MEMORIAS PACK."
+},
+{
+  "Title": "MEMORIAS POP",
+  "Stream": "http://190.60.39.221/play/a023/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal MEMORIAS POP."
+},
+{
+  "Title": "MEMORIAS SALSA",
+  "Stream": "http://190.60.39.221/play/a024/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal MEMORIAS SALSA."
+},
+{
+  "Title": "MEMORIAS SERIES",
+  "Stream": "http://190.60.39.221/play/a025/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal MEMORIAS SERIES."
+},
+{
+  "Title": "MEMORIAS TOONS",
+  "Stream": "http://190.60.39.221/play/a026/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal MEMORIAS TOONS."
+},
+{
+  "Title": "MTV HD",
+  "Stream": "http://190.60.39.221/play/a06f/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal MTV HD."
+},
+{
+  "Title": "NTN24",
+  "Stream": "http://190.60.39.221/play/a07k/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal NTN24."
+},
+{
+  "Title": "Nat Geo HD",
+  "Stream": "http://190.60.39.221/play/a06w/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Nat Geo HD."
+},
+{
+  "Title": "Nick Jr",
+  "Stream": "http://190.60.39.221/play/a08a/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Nick Jr."
+},
+{
+  "Title": "Nickelodeon HD",
+  "Stream": "http://190.60.39.221/play/a06m/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Nickelodeon HD."
+},
+{
+  "Title": "Nuestra Tele",
+  "Stream": "http://190.60.39.221/play/a07i/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Nuestra Tele."
+},
+{
+  "Title": "OROMAR TV",
+  "Stream": "http://190.60.39.221/play/a093/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal OROMAR TV."
+},
+{
+  "Title": "Pasiones HD",
+  "Stream": "http://190.60.39.221/play/a06k/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Pasiones HD."
+},
+{
+  "Title": "RCN HD",
+  "Stream": "http://190.60.39.221/play/a008/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal RCN HD."
+},
+{
+  "Title": "RCN HD 2",
+  "Stream": "http://190.60.39.221/play/a08w/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal RCN HD 2."
+},
+{
+  "Title": "RCN Novelas",
+  "Stream": "http://190.60.39.221/play/a08q/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal RCN Novelas."
+},
+{
+  "Title": "RCN RADIO UNO",
+  "Stream": "http://190.60.39.221/play/a08z/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal RCN RADIO UNO."
+},
+{
+  "Title": "RTV",
+  "Stream": "http://190.60.39.221/play/a02a/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal RTV."
+},
+{
+  "Title": "Rumba TV HD",
+  "Stream": "http://190.60.39.221/play/a03u/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Rumba TV HD."
+},
+{
+  "Title": "Senal Colombia",
+  "Stream": "http://190.60.39.221/play/a080/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Senal Colombia."
+},
+{
+  "Title": "Sony HD",
+  "Stream": "http://190.60.39.221/play/a070/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Sony HD."
+},
+{
+  "Title": "Sony Movies",
+  "Stream": "http://190.60.39.221/play/a060/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Sony Movies."
+},
+{
+  "Title": "Space HD",
+  "Stream": "http://190.60.39.221/play/a074/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Space HD."
+},
+{
+  "Title": "Star Channel HD",
+  "Stream": "http://190.60.39.221/play/a077/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Star Channel HD."
+},
+{
+  "Title": "Studio Universal HD",
+  "Stream": "http://190.60.39.221/play/a07a/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Studio Universal HD."
+},
+{
+  "Title": "TCM",
+  "Stream": "http://190.60.39.221/play/a07o/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal TCM."
+},
+{
+  "Title": "TELEMUNDO FUT",
+  "Stream": "http://190.60.39.221/play/a094/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal TELEMUNDO FUT."
+},
+{
+  "Title": "TLC",
+  "Stream": "http://190.60.39.221/play/a05r/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal TLC."
+},
+{
+  "Title": "TNT HD",
+  "Stream": "http://190.60.39.221/play/a06x/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal TNT HD."
+},
+{
+  "Title": "TNT Novelas",
+  "Stream": "http://190.60.39.221/play/a08t/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal TNT Novelas."
+},
+{
+  "Title": "TNT Novelas HD",
+  "Stream": "http://190.60.39.221/play/a06d/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal TNT Novelas HD."
+},
+{
+  "Title": "TNT Series HD",
+  "Stream": "http://190.60.39.221/play/a06c/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal TNT Series HD."
+},
+{
+  "Title": "TRO",
+  "Stream": "http://190.60.39.221/play/a082/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal TRO."
+},
+{
+  "Title": "Tele Nostalgia HD",
+  "Stream": "http://190.60.39.221/play/a03s/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Tele Nostalgia HD."
+},
+{
+  "Title": "Teleantioquia",
+  "Stream": "http://190.60.39.221/play/a087/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Teleantioquia."
+},
+{
+  "Title": "Telecafe",
+  "Stream": "http://190.60.39.221/play/a08d/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Telecafe."
+},
+{
+  "Title": "Telecaribe",
+  "Stream": "http://190.60.39.221/play/a08c/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Telecaribe."
+},
+{
+  "Title": "Teleislas",
+  "Stream": "http://190.60.39.221/play/a083/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Teleislas."
+},
+{
+  "Title": "Telemundo",
+  "Stream": "http://190.60.39.221/play/a05t/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Telemundo."
+},
+{
+  "Title": "Telepacifico",
+  "Stream": "http://190.60.39.221/play/a089/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Telepacifico."
+},
+{
+  "Title": "Telesur",
+  "Stream": "http://190.60.39.221/play/a02t/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Telesur."
+},
+{
+  "Title": "Tlnovelas",
+  "Stream": "http://190.60.39.221/play/a08k/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Tlnovelas."
+},
+{
+  "Title": "Tooncast",
+  "Stream": "http://190.60.39.221/play/a05u/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Tooncast."
+},
+{
+  "Title": "Trece",
+  "Stream": "http://190.60.39.221/play/a08e/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Trece."
+},
+{
+  "Title": "Tv Agro",
+  "Stream": "http://190.60.39.221/play/a02m/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Tv Agro."
+},
+{
+  "Title": "UNIVERSAL CHANNEL HD",
+  "Stream": "http://190.60.39.221/play/a066/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal UNIVERSAL CHANNEL HD."
+},
+{
+  "Title": "USA",
+  "Stream": "http://190.60.39.221/play/a07l/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal USA."
+},
+{
+  "Title": "Warner TV HD",
+  "Stream": "http://190.60.39.221/play/a071/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Warner TV HD."
+},
+{
+  "Title": "Win",
+  "Stream": "http://190.60.39.221/play/a088/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Win."
+},
+{
+  "Title": "Zoom",
+  "Stream": "http://190.60.39.221/play/a081/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal Zoom."
 }
               ]
             }
