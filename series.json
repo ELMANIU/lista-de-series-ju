@@ -763,6 +763,12 @@
               "title": "PELÍCULAS SECCIÓN 1",
               "episodes": [
                 {
+  "Title": "De ladrón a policía (1999)",
+  "Stream": "https://1a-1791.com/video/fww1/7a/s8/2/i/7/U/J/i7UJA.aaa.mkv",
+  "Logo": "https://m.media-amazon.com/images/M/MV5BY2RmODQxZmQtZjAzYy00MWQxLWFmN2MtMWJiOGIxOGQxOWU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "description": "Un ladrón de joyas se hace pasar por policía y termina resolviendo crímenes."
+                },
+                {
   "Title": "La Cosa Más Dulce (2002)",
   "Stream": "https://1a-1791.com/video/fwe2/e9/s8/2/A/g/V/I/AgVIA.aaa.mkv",
   "Logo": "https://m.media-amazon.com/images/M/MV5BZWVhNWUwY2UtNWYzMS00YjAwLTlhZmItMDkyMGIyYjAwYjkxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -872,6 +878,12 @@
               "title": "Películas",
               "episodes": [
                 {
+  "Title": "Vijay 69 (2024)",
+  "Stream": "https://1a-1791.com/video/fww1/14/s8/2/E/d/V/J/EdVJA.aaa.mkv",
+  "Logo": "https://m.media-amazon.com/images/M/MV5BYTNjZDM3OGMtYmMzYy00YWQxLWI2MzktMTcwYzZiYzYwZjdkXkEyXkFqcGc@._V1_.jpg",
+  "description": "Un hombre de 69 años decide cumplir su sueño de competir en un triatlón."
+                },
+                {
   "Title": "El Rey Perdido (2022)",
   "Stream": "https://1a-1791.com/video/fww1/65/s8/2/A/B/2/I/AB2IA.aaa.mkv",
   "Logo": "https://m.media-amazon.com/images/M/MV5BNGUzMTY2M2YtZGMxZi00NTVhLWFiZDQtM2E4ZTQwOTcwMjc3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -956,6 +968,24 @@
             {
               "title": "PELÍCULAS DE ANIMACIÓN SECCIÓN 1",
               "episodes": [
+                {
+  "Title": "Kung Fu Panda (2008)",
+  "Stream": "https://1a-1791.com/video/fwe2/d0/s8/2/6/l/V/J/6lVJA.aaa.mp4",
+  "Logo": "https://m.media-amazon.com/images/M/MV5BZDU5MDNiMGItYjVmZi00NDUxLTg2OTktNGE0NzNlNzM4NzgyXkEyXkFqcGc@._V1_.jpg",
+  "description": "Un panda gordito y torpe es elegido como el Guerrero Dragón para salvar el Valle de la Paz."
+                },
+                {
+  "Title": "Kung Fu Panda 2 (2011)",
+  "Stream": "https://1a-1791.com/video/fww1/30/s8/2/4/s/V/J/4sVJA.aaa.mp4",
+  "Logo": "https://m.media-amazon.com/images/M/MV5BYmIxMGYzMTUtZDQzYy00ODc4LWE1YzQtZGMwYTc0YTYyYTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "description": "Po y los Cinco Furiosos enfrentan a un villano que planea conquistar China con un arma secreta."
+                },
+                {
+  "Title": "Kung Fu Panda 4 (2024)",
+  "Stream": "https://1a-1791.com/video/fww1/47/s8/2/W/-/V/J/W-VJA.aaa.mp4",
+  "Logo": "https://m.media-amazon.com/images/M/MV5BZGQ1NjE0MmItZDNkOS00Y2E2LTkzZDUtNTgwMjc3OGJmODc0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "description": "Po debe entrenar a un nuevo Guerrero Dragón mientras enfrenta a una poderosa hechicera."
+},
                 {
   "Title": "Intercambiados (2026)",
   "Stream": "https://1a-1791.com/video/fwe2/be/s8/2/M/w/k/J/MwkJA.aaa.mkv",
