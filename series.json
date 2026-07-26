@@ -6744,6 +6744,12 @@
   "Stream": "http://190.60.39.221:8000/play/a06y/index.m3u8",
   "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
   "description": "Canal de series clásicas TV Land."
+},
+                {
+  "Title": "CANAL 4",
+  "Stream": "https://d3xpfoln9sj56.cloudfront.net/ts:abr.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de series clásicas TV Land."
 }
               ]
             }
