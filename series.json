@@ -8839,6 +8839,39 @@
       "title": "SERIES ANIMADAS, LIVES Y MAS",
       "items": [
         {
+  "Title": "MONSTRUO: LA HISTORIA DE JEFFREY DAHMER (2022)",
+  "Logo": "https://image.tmdb.org/t/p/original/vlUMBgKO1HOwPMJwHnHzr99BHwN.jpg",
+  "Poster": "https://image.tmdb.org/t/p/original/vlUMBgKO1HOwPMJwHnHzr99BHwN.jpg",
+  "type": "series",
+  "description": "La historia del asesino en serie Jeffrey Dahmer, que asesinó a 17 jóvenes entre 1978 y 1991.",
+  "seasons": [
+    {
+      "title": "TEMPORADA 1",
+      "Poster": "https://image.tmdb.org/t/p/original/vlUMBgKO1HOwPMJwHnHzr99BHwN.jpg",
+      "episodes": [
+        {
+          "Title": "S01 E01 - Episodio uno",
+          "Stream": "https://1a-1791.com/video/fww1/09/s8/2/E/R/4/J/ER4JA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/original/hx8tkNuBbFMWmbZsKpVJRYSYa9Q.jpg",
+          "description": "Después de que su vecino se queje del olor que sale de su apartamento, Jeff va a un bar y un desconocido acepta una tentadora oferta."
+        },
+        {
+          "Title": "S01 E02 - No te vayas",
+          "Stream": "https://1a-1791.com/video/fwe2/65/s8/2/Y/Z/4/J/YZ4JA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/original/hx8tkNuBbFMWmbZsKpVJRYSYa9Q.jpg",
+          "description": "Un joven Jeff lidia con problemas en casa y en la escuela. Años después, su extraño comportamiento evoluciona hasta convertirse en actos asesinos que la policía ignora."
+        },
+        {
+          "Title": "S01 E03 - Haciendo un Dahmer",
+          "Stream": "https://1a-1791.com/video/fww1/93/s8/2/q/8/4/J/q84JA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/original/hx8tkNuBbFMWmbZsKpVJRYSYa9Q.jpg",
+          "description": "Tras el turbulento divorcio de sus padres, Jeff vive solo y rompe la rutina al invitar a un autoestopista a su casa."
+        }
+      ]
+    }
+  ]
+},
+        {
   "Title": "FORKY HACE UNA PREGUNTA (2019)",
   "Logo": "https://image.tmdb.org/t/p/original/1133dOvznBO0C3148jjvn3Rtvbx.jpg",
   "Poster": "https://image.tmdb.org/t/p/original/1133dOvznBO0C3148jjvn3Rtvbx.jpg",
