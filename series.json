@@ -519,6 +519,12 @@
               "title": "PELÍCULAS DE ACCIÓN SECCIÓN 2",
               "episodes": [
                 {
+  "Title": "El hombre de acero (2013)",
+  "Stream": "https://1a-1791.com/video/fwe2/ad/s8/2/g/v/q/K/gvqKA.aaa.mp4",
+  "Logo": "https://m.media-amazon.com/images/M/MV5BZWMwNDExMTEtNGQyNy00ZDliLTk1OWMtNDM2MWQ3MTlhMTgxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "description": "Un joven extraterrestre descubre su origen y debe decidir si salvar a la humanidad."
+},
+                {
   "Title": "RoboCop (1987)",
   "Stream": "https://1a-1791.com/video/fwe2/b5/s8/2/-/j/c/K/-jcKA.aaa.mkv",
   "Logo": "https://m.media-amazon.com/images/M/MV5BZWM1YzRhODktZDE1MC00NzBlLTk0NGMtOGNhZDQyMmJiZGFiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -1526,6 +1532,12 @@
   "Logo": "https://image.tmdb.org/t/p/original/s22QR8eKHG23uYsCAuTRX9TBWxO.jpg",
   "description": "Burt Gummer regresa a la ciudad de Perfection, Nevada, donde descubre que los Graboides han evolucionado y ahora pueden salir a la superficie. Junto a un viejo amigo y un documentalista, deberá enfrentar una nueva amenaza subterránea."
                 },
+                {
+  "Title": "Terror bajo la tierra 4: El principio de la leyenda (2004)",
+  "Stream": "https://1a-1791.com/video/fww1/43/s8/2/E/p/w/K/EpwKA.aaa.mp4",
+  "Logo": "https://m.media-amazon.com/images/M/MV5BYjIwMzlhMDYtNWE4My00M2I5LThlZGQtZTg4NDMwZjM4ZjRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "description": "Burt Gummer viaja a México para enfrentar a una nueva especie de gusano gigante."
+},
                 {
   "Title": "Tiburón (1975)",
   "Stream": "https://hugh.cdn.rumble.cloud/video/fww1/e0/s8/2/a/_/j/x/a_jxA.aaa.mp4",
