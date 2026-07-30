@@ -7819,6 +7819,93 @@
              ]
            },
         {
+  "Title": "TV ADULTOS PROHIBIDOS",
+  "Logo": "https://ih1.redbubble.net/image.3871981668.1124/flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
+  "Poster": "https://ih1.redbubble.net/image.3871981668.1124/flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
+  "type": "series",
+  "description": "Canales exclusivos para adultos. Contenido +18.",
+  "seasons": [
+    {
+      "title": "CANALES ADULTOS",
+      "Poster": "https://st.depositphotos.com/1915171/3561/i/950/depositphotos_35616855-stock-photo-adults-only-content-sign-xxx.jpg",
+      "episodes": [
+        {
+          "Title": "Reality Kings",
+          "Stream": "http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8",
+          "Logo": "https://st.depositphotos.com/1915171/3561/i/950/depositphotos_35616855-stock-photo-adults-only-content-sign-xxx.jpg",
+          "description": "Canal de Reality Kings."
+        },
+        {
+          "Title": "Playboy",
+          "Stream": "http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8",
+          "Logo": "https://st.depositphotos.com/1915171/3561/i/950/depositphotos_35616855-stock-photo-adults-only-content-sign-xxx.jpg",
+          "description": "Canal Playboy HD."
+        },
+        {
+          "Title": "Babes",
+          "Stream": "http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8",
+          "Logo": "https://st.depositphotos.com/1915171/3561/i/950/depositphotos_35616855-stock-photo-adults-only-content-sign-xxx.jpg",
+          "description": "Canal Babes."
+        },
+        {
+          "Title": "Brazzers",
+          "Stream": "http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8",
+          "Logo": "https://st.depositphotos.com/1915171/3561/i/950/depositphotos_35616855-stock-photo-adults-only-content-sign-xxx.jpg",
+          "description": "Canal Brazzers."
+        },
+        {
+          "Title": "Dorcel",
+          "Stream": "http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8",
+          "Logo": "https://st.depositphotos.com/1915171/3561/i/950/depositphotos_35616855-stock-photo-adults-only-content-sign-xxx.jpg",
+          "description": "Canal Dorcel."
+        },
+        {
+          "Title": "Porn Classic",
+          "Stream": "http://200.194.238.229:8383/live/pornclassic/tracks-v1a1/mono.m3u8",
+          "Logo": "https://st.depositphotos.com/1915171/3561/i/950/depositphotos_35616855-stock-photo-adults-only-content-sign-xxx.jpg",
+          "description": "Canal de clásicos del cine para adultos."
+        },
+        {
+          "Title": "Extasy",
+          "Stream": "http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8",
+          "Logo": "https://st.depositphotos.com/1915171/3561/i/950/depositphotos_35616855-stock-photo-adults-only-content-sign-xxx.jpg",
+          "description": "Canal Extasy."
+        },
+        {
+          "Title": "Leo",
+          "Stream": "http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8",
+          "Logo": "https://st.depositphotos.com/1915171/3561/i/950/depositphotos_35616855-stock-photo-adults-only-content-sign-xxx.jpg",
+          "description": "Canal Leo."
+        },
+        {
+          "Title": "Eroxxx",
+          "Stream": "http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8",
+          "Logo": "https://st.depositphotos.com/1915171/3561/i/950/depositphotos_35616855-stock-photo-adults-only-content-sign-xxx.jpg",
+          "description": "Canal Eroxxx."
+        },
+        {
+          "Title": "Erox",
+          "Stream": "http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8",
+          "Logo": "https://st.depositphotos.com/1915171/3561/i/950/depositphotos_35616855-stock-photo-adults-only-content-sign-xxx.jpg",
+          "description": "Canal Erox."
+        },
+        {
+          "Title": "Dusk",
+          "Stream": "http://88.212.7.11/live/test_dusk_sd_hevc/playlist.m3u8",
+          "Logo": "https://st.depositphotos.com/1915171/3561/i/950/depositphotos_35616855-stock-photo-adults-only-content-sign-xxx.jpg",
+          "description": "Canal Dusk."
+        },
+        {
+          "Title": "Desire",
+          "Stream": "http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8",
+          "Logo": "https://st.depositphotos.com/1915171/3561/i/950/depositphotos_35616855-stock-photo-adults-only-content-sign-xxx.jpg",
+          "description": "Canal Desire."
+        }
+      ]
+    }
+  ]
+},
+        {
           "Title": "PLUTO TV",
           "Logo": "https://static.vecteezy.com/system/resources/previews/000/931/914/non_2x/retro-television-poster-vector.jpg",
           "type": "series",
