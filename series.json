@@ -11113,6 +11113,38 @@
       ]
     }
   ]
+},
+    {
+  "title": "VOD +18",
+  "items": [
+    {
+      "Title": "BRAZZER",
+      "Logo": "https://thumbs.dreamstime.com/b/m%C3%A1s-icono-de-pel%C3%ADcula-roja-al-estilo-moda-grunge-aislado-en-fondo-blanco-contenido-para-adultos-signo-menos-dieciocho-a%C3%B1os-170206198.jpg",
+      "Poster": "https://thumbs.dreamstime.com/b/m%C3%A1s-icono-de-pel%C3%ADcula-roja-al-estilo-moda-grunge-aislado-en-fondo-blanco-contenido-para-adultos-signo-menos-dieciocho-a%C3%B1os-170206198.jpg",
+      "type": "series",
+      "description": "Contenido exclusivo para adultos de Brazzer.",
+      "seasons": [
+        {
+          "title": "TEMPORADA 1",
+          "Poster": "https://thumbs.dreamstime.com/b/m%C3%A1s-icono-de-pel%C3%ADcula-roja-al-estilo-moda-grunge-aislado-en-fondo-blanco-contenido-para-adultos-signo-menos-dieciocho-a%C3%B1os-170206198.jpg",
+          "episodes": [
+            {
+              "Title": "S01 E01",
+              "Stream": "",
+              "Logo": "https://thumbs.dreamstime.com/b/m%C3%A1s-icono-de-pel%C3%ADcula-roja-al-estilo-moda-grunge-aislado-en-fondo-blanco-contenido-para-adultos-signo-menos-dieciocho-a%C3%B1os-170206198.jpg",
+              "description": "Episodio 1."
+            },
+            {
+              "Title": "S01 E02",
+              "Stream": "",
+              "Logo": "https://thumbs.dreamstime.com/b/m%C3%A1s-icono-de-pel%C3%ADcula-roja-al-estilo-moda-grunge-aislado-en-fondo-blanco-contenido-para-adultos-signo-menos-dieciocho-a%C3%B1os-170206198.jpg",
+              "description": "Episodio 2."
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
   ]
 }
