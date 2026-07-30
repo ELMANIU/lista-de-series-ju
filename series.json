@@ -9536,11 +9536,77 @@
         },
         {
           "Title": "FROM (2022)",
-          "Logo": "https://image.tmdb.org/t/p/original/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg",
+          "Logo": "https://image.tmdb.org/t/p/original/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
           "Poster": "https://m.media-amazon.com/images/S/pv-target-images/06fa57b93841b7d447458b2dc663ee7316075066a2c4d110d8960b74209d197a.jpg",
           "type": "series",
           "description": "Un pueblo pesadillesco en medio de Estados Unidos atrapa a sus residentes. Monstruos que salen por la noche, árboles que teletransportan y secretos bajo tierra. Cuando la esperanza se desvanece, la única regla es: sobrevivir al anochecer.",
           "seasons": [
+            {
+  "title": "TEMPORADA 1",
+  "Poster": "https://image.tmdb.org/t/p/original/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg",
+  "episodes": [
+    {
+      "Title": "S01 E01 - El largo viaje del día hacia la noche",
+      "Stream": "https://1a-1791.com/video/fww1/bd/s8/2/A/j/G/K/AjGKA.aaa.mp4",
+      "Logo": "https://image.tmdb.org/t/p/original/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg",
+      "description": "La familia Matthews se desvía hacia un pueblo del que no pueden salir. Boyd y los residentes intentan salvarlos antes del anochecer."
+    },
+    {
+      "Title": "S01 E02 - Cómo son las cosas ahora",
+      "Stream": "https://1a-1791.com/video/fwe2/1f/s8/2/C/o/G/K/CoGKA.aaa.mp4",
+      "Logo": "https://image.tmdb.org/t/p/original/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg",
+      "description": "Tabitha y Julie enfrentan su nueva realidad en Colony House. En el bosque, intentan salvar a Ethan mientras una nueva amenaza surge entre los residentes."
+    },
+    {
+      "Title": "S01 E03 - El día de la elección",
+      "Stream": "https://1a-1791.com/video/fww1/d6/s8/2/G/A/G/K/GAGKA.aaa.mp4",
+      "Logo": "https://image.tmdb.org/t/p/original/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg",
+      "description": "Los Matthews deben elegir entre dos asentamientos. Boyd enfrenta una decisión imposible sobre el castigo en el pueblo."
+    },
+    {
+      "Title": "S01 E04 - Una roca y una lejanía",
+      "Stream": "https://1a-1791.com/video/fww1/91/s8/2/O/J/G/K/OJGKA.aaa.mp4",
+      "Logo": "https://image.tmdb.org/t/p/original/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg",
+      "description": "Julie encuentra consuelo en sus nuevos amigos. Ethan se adentra en el bosque con Victor. Sara recibe una nueva y aterradora instrucción."
+    },
+    {
+      "Title": "S01 E05 - Siluetas",
+      "Stream": "https://1a-1791.com/video/fwe2/5b/s8/2/G/L/K/K/GLKKA.aaa.mp4",
+      "Logo": "https://image.tmdb.org/t/p/original/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg",
+      "description": "Jim, Tabitha y Ethan buscan respuestas sobre su paradero. Jade intenta entender su situación mientras Boyd busca orientación."
+    },
+    {
+      "Title": "S01 E06 - Libro 74",
+      "Stream": "https://1a-1791.com/video/fwe2/7f/s8/2/w/Y/K/K/wYKKA.aaa.mp4",
+      "Logo": "https://image.tmdb.org/t/p/original/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg",
+      "description": "El plan de Boyd de adentrarse en el bosque provoca una reacción inesperada en Kenny. Tabitha hace un descubrimiento escalofriante."
+    },
+    {
+      "Title": "S01 E07 - Todas las cosas buenas",
+      "Stream": "https://1a-1791.com/video/fwe2/ff/s8/2/C/e/T/K/CeTKA.aaa.mp4",
+      "Logo": "https://image.tmdb.org/t/p/original/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg",
+      "description": "Khatri le dice a Boyd por qué Sara podría ser útil. Colony House celebra el aniversario de Fatima con una fiesta que sale terriblemente mal."
+    },
+    {
+      "Title": "S01 E08 - Ventanas rotas, puertas abiertas",
+      "Stream": "https://1a-1791.com/video/fwe2/38/s8/2/a/w/T/K/awTKA.aaa.mp4",
+      "Logo": "https://image.tmdb.org/t/p/original/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg",
+      "description": "Boyd cuestiona su decisión de irse. Kenny asume su nuevo rol. Jim reúne al pueblo para construir una torre de radio. Ellis intenta reconciliarse con su padre."
+    },
+    {
+      "Title": "S01 E09 - Hacia el bosque",
+      "Stream": "https://1a-1791.com/video/fww1/af/s8/2/a/t/1/K/at1KA.aaa.mp4",
+      "Logo": "https://image.tmdb.org/t/p/original/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg",
+      "description": "Boyd y Sara se adentran más en el bosque que nunca, encontrando nuevos y aterradores misterios. Una tragedia hace que Donna se desmorone."
+    },
+    {
+      "Title": "S01 E10 - Oh, los lugares que visitaremos",
+      "Stream": "https://1a-1791.com/video/fww1/21/s8/2/U/y/1/K/Uy1KA.aaa.mp4",
+      "Logo": "https://image.tmdb.org/t/p/original/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg",
+      "description": "La torre de radio de Jim trae consecuencias que lo sacuden. El agujero que Tabitha ha estado cavando la lleva a un lugar que nunca imaginó."
+    }
+  ]
+},
             {
   "title": "TEMPORADA 2",
   "Poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg",
