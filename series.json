@@ -7533,6 +7533,192 @@
   "description": "Transmisión en vivo de la Copa Sub 2026. Sigue todos los partidos del torneo de fútbol Sub-20."
                 },
                 {
+  "Title": "Star Channel",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/starchannel_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de series y películas de Star Channel."
+},
+{
+  "Title": "Animal Planet",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/animalplanet_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de documentales de naturaleza y vida animal."
+},
+{
+  "Title": "Investigation Discovery (ID)",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/discoveryid_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de crímenes y misterios."
+},
+{
+  "Title": "FX",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/fx_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de series originales y entretenimiento."
+},
+{
+  "Title": "Disney Channel",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/disneychannel_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de series y películas infantiles."
+},
+{
+  "Title": "Disney Junior",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/disneyjunior_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de programación infantil para los más pequeños."
+},
+{
+  "Title": "Discovery Kids",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/discoverykids_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal educativo y de entretenimiento para niños."
+},
+{
+  "Title": "Cinecanal",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/cinecanal_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de películas y cine en español."
+},
+{
+  "Title": "Space",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/space_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de ciencia ficción y fantasía."
+},
+{
+  "Title": "Bandamax",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/bandamax_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de música regional mexicana."
+},
+{
+  "Title": "Telemundo",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/telemundo_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de televisión estadounidense en español."
+},
+{
+  "Title": "TL Novelas",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/tlnovelas_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de telenovelas y series románticas."
+},
+{
+  "Title": "AZ Corazón",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/azcorazon_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de telenovelas y dramas de Azteca."
+},
+{
+  "Title": "TNT",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/tnt_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de series y películas de TNT."
+},
+{
+  "Title": "TNT Series",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/tntseries_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de series de TNT."
+},
+{
+  "Title": "Cartoon Network",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/cartoonnetwork_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de series animadas clásicas."
+},
+{
+  "Title": "Discovery Science",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/discoveryscience_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de ciencia y tecnología."
+},
+{
+  "Title": "BitMe",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/bitme_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de entretenimiento y música."
+},
+{
+  "Title": "ESPN",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de deportes ESPN."
+},
+{
+  "Title": "ESPN 2",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/espn2_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de deportes ESPN 2."
+},
+{
+  "Title": "ESPN 3",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/espn3_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de deportes ESPN 3."
+},
+{
+  "Title": "ESPN 4",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/espn4_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de deportes ESPN 4."
+},
+{
+  "Title": "ESPN 5",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/espn5_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de deportes ESPN 5."
+},
+{
+  "Title": "ESPN 6",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/espn6_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de deportes ESPN 6."
+},
+{
+  "Title": "ESPN 7",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/espn7_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de deportes ESPN 7."
+},
+{
+  "Title": "Golden Edge",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/goldenedge_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de películas de acción y aventura."
+},
+{
+  "Title": "Universal Channel",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/universalchannel_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de series y películas de Universal."
+},
+{
+  "Title": "DHE",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/dhe_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de películas y entretenimiento."
+},
+{
+  "Title": "Morbido",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/morbido_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de cine de terror y culto."
+},
+{
+  "Title": "Discovery HD",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/discoveryhd_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de documentales de Discovery en HD."
+},
+{
+  "Title": "National Geographic",
+  "Stream": "https://cablered.iptvperu.tv:1936/cablered/natgeo_new/playlist.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de documentales de naturaleza y ciencia."
+},
+                {
                   "Title": "UNIVISION 24/7",
                   "Stream": "https://linear-254.frequency.stream:443/mt/studio/254/hls/master/playlist_1280x720.m3u8",
                   "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
