@@ -519,6 +519,12 @@
               "title": "PELÍCULAS DE ACCIÓN SECCIÓN 2",
               "episodes": [
                 {
+  "Title": "Ready Player One: Comienza el juego (2018)",
+  "Stream": "https://1a-1791.com/video/fwe2/30/s8/2/U/F/j/L/UFjLA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/original/2iuVrtC5IpwLtSFSgkIIIKLs0Zq.jpg",
+  "description": "En un futuro distópico, un joven compite en una búsqueda dentro de un mundo virtual para heredar una fortuna."
+                },
+                {
   "Title": "El hombre de acero (2013)",
   "Stream": "https://1a-1791.com/video/fwe2/ad/s8/2/g/v/q/K/gvqKA.aaa.mp4",
   "Logo": "https://m.media-amazon.com/images/M/MV5BZWMwNDExMTEtNGQyNy00ZDliLTk1OWMtNDM2MWQ3MTlhMTgxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -1756,7 +1762,18 @@
                   "description": "Los dinosaurios ahora viven entre humanos. Owen y Claire emprenden una misión para rescatar a la hija de su amigo, mientras los protagonistas originales de Jurassic Park se unen para exponer una conspiración global."
                 }
               ]
-            }
+            },
+            {
+  "title": "SAGAS - DEPREDADOR",
+  "episodes": [
+    {
+      "Title": "Depredador (1987)",
+      "Stream": "https://1a-1791.com/video/fww1/4d/s8/2/S/W/j/L/SWjLA.aaa.mkv",
+      "Logo": "https://image.tmdb.org/t/p/original/ydozKP1UCW5BCe2FW5bJ3r2OJsC.jpg",
+      "description": "Un grupo de comandos es cazado por una criatura alienígena en la selva centroamericana."
+    }
+  ]
+}
           ]
         }
       ]
