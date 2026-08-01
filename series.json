@@ -805,6 +805,12 @@
               "title": "PELÍCULAS SECCIÓN 1",
               "episodes": [
                 {
+  "Title": "La culpa no es mía (2025)",
+  "Stream": "https://1a-1791.com/video/fww1/57/s8/2/4/T/J/L/4TJLA.aaa.mkv",
+  "Logo": "https://image.tmdb.org/t/p/original/3wGZ9QvjFH3wrNChYFFqbsW0Qge.jpg",
+  "description": "Un hombre intenta demostrar su inocencia en una serie de malentendidos que arruinan su vida."
+                },
+                {
   "Title": "Ricos, sin duda (2025)",
   "Stream": "https://1a-1791.com/video/fwe2/b6/s8/2/O/v/s/L/OvsLA.aaa.mkv",
   "Logo": "https://image.tmdb.org/t/p/original/oSdrcmHeFPvIIm4Es15rrWc3nkn.jpg",
@@ -1016,6 +1022,12 @@
             {
               "title": "PELÍCULAS DE ANIMACIÓN SECCIÓN 1",
               "episodes": [
+                {
+  "Title": "La sirenita (2023)",
+  "Stream": "https://1a-1791.com/video/fww1/44/s8/2/I/X/s/L/IXsLA.aaa.mp4",
+  "Logo": "https://m.media-amazon.com/images/M/MV5BYjRjNzQxNjQtOGI3Zi00YTZmLTkzZjEtMTg3NjY0ZDIzMTUxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "description": "Ariel, una joven sirena, se enamora de un príncipe humano y hace un trato con la bruja del mar para tener piernas."
+                },
                 {
   "Title": "El despertar de los poderes (2022)",
   "Stream": "https://1a-1791.com/video/fww1/f2/s8/2/4/e/G/K/4eGKA.aaa.mkv",
@@ -1777,6 +1789,24 @@
       "Stream": "https://1a-1791.com/video/fww1/4d/s8/2/S/W/j/L/SWjLA.aaa.mkv",
       "Logo": "https://image.tmdb.org/t/p/original/ydozKP1UCW5BCe2FW5bJ3r2OJsC.jpg",
       "description": "Un grupo de comandos es cazado por una criatura alienígena en la selva centroamericana."
+    },
+    {
+  "Title": "Depredadores (2010)",
+  "Stream": "https://1a-1791.com/video/fwe2/d0/s8/2/C/X/D/L/CXDLA.aaa.mkv",
+  "Logo": "https://image.tmdb.org/t/p/original/90Op5jzIzcKN8RJHhgbuTbpP61N.jpg",
+  "description": "Un grupo de mercenarios es llevado a un planeta donde son cazados por Depredadores."
+    },
+    {
+  "Title": "Depredador: Cazador de asesinos (2025)",
+  "Stream": "https://1a-1791.com/video/fwe2/db/s8/2/E/7/F/L/E7FLA.aaa.mkv",
+  "Logo": "https://image.tmdb.org/t/p/original/dTlMY8qQ0721i1r7kURqvM4T7us.jpg",
+  "description": "Tres guerreros legendarios de diferentes épocas son cazados por un Depredador. Unidos por la fuerza, deben enfrentar al cazador definitivo."
+    },
+    {
+  "Title": "Depredador: Tierras salvajes (2025)",
+  "Stream": "https://1a-1791.com/video/fwe2/7b/s8/2/I/g/G/L/IgGLA.aaa.mkv",
+  "Logo": "https://image.tmdb.org/t/p/original/r7TEWHLr1lsIsTkiEFwtM3hAWma.jpg",
+  "description": "Un joven Depredador exiliado se alía con una androide dañada para sobrevivir en un planeta lleno de peligros."
     }
   ]
 }
