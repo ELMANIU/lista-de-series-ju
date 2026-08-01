@@ -6937,6 +6937,24 @@
   "description": "Canal 24/7 de El Chavo del 8 Clásico."
 },
                 {
+  "Title": "Dragon Ball 24/7",
+  "Stream": "https://lb1.tvar.io/hls20/204_.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal 24/7 de Dragon Ball."
+                },
+                {
+  "Title": "Dragon Ball GT 24/7",
+  "Stream": "https://lb1.tvar.io/hls20/205_.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal 24/7 de Dragon Ball GT."
+                },
+                {
+  "Title": "Dragon Ball Super 24/7",
+  "Stream": "https://lb1.tvar.io/hls20/206_.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal 24/7 de Dragon Ball Super."
+                },
+                {
                   "Title": "UNIVISION 24/7",
                   "Stream": "https://linear-254.frequency.stream:443/mt/studio/254/hls/master/playlist_1280x720.m3u8",
                   "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
