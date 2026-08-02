@@ -6985,6 +6985,12 @@
   "description": "Canal de documentales de naturaleza y ciencia."
 },
                 {
+  "Title": "HBO",
+  "Stream": "https://s2.bufaloweb.com:443/bufalo15/tracks-v4a1/mono.ts.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal premium de series y películas HBO."
+                },
+                {
   "Title": "Los Simpson 24/7",
   "Stream": "http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8",
   "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
