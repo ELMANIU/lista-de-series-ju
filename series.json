@@ -7159,7 +7159,48 @@
   "description": "Canal de series clásicas TV Land."
                    }
                  ]
-               }
+               },
+            {
+  "title": "Canales Latin TV",
+  "episodes": [
+    {
+      "Title": "Liga 1",
+      "Stream": "http://cdnhrz01.latincable.com.pe/Panel_LIGA1/index.m3u8",
+      "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+      "description": "Canal de deportes Liga 1."
+    },
+    {
+      "Title": "Cinecanal",
+      "Stream": "http://cdnhrz01.latincable.com.pe/Panel-Cinecanal-HD/index.m3u8",
+      "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+      "description": "Canal de películas Cinecanal."
+    },
+    {
+      "Title": "FX",
+      "Stream": "http://cdnhrz01.latincable.com.pe/Panel-Fx-HD/index.m3u8",
+      "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+      "description": "Canal de series y entretenimiento FX."
+    },
+    {
+      "Title": "TNT",
+      "Stream": "http://cdnhrz01.latincable.com.pe/TNT-HD/playlist.m3u8",
+      "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+      "description": "Canal de series y películas TNT."
+    },
+    {
+      "Title": "Universal Channel",
+      "Stream": "http://cdnhrz01.latincable.com.pe/Panel-Universal-Channel-HD/index.m3u8",
+      "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+      "description": "Canal de series y películas de Universal."
+    },
+    {
+      "Title": "AXN HD",
+      "Stream": "http://cdnhrz01.latincable.com.pe/Panel-Axn-HD/index.m3u8",
+      "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+      "description": "Canal de series y entretenimiento AXN HD."
+    }
+  ]
+}
              ]
            },
         {
