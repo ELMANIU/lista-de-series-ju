@@ -1783,30 +1783,30 @@
           "description": "Colección de sagas completas de franquicias cinematográficas.",
           "seasons": [
             {
-              "title": "SAGAS - JURASSIC PARK",
-              "episodes": [
-                {
-                  "Title": "Jurassic Park (1993)",
-                  "Stream": "https://dl.dropbox.com/scl/fi/gwd4mmfev89ryrsdtvx66/Jurassic-Park-Parque-Jur-sico-1993-1080p-DUAL-id_329_19-4-2026_10-11-41-p-m.mkv?rlkey=q17kn7s8y1aq5zfizzjpi122h&st=3avc2w8z&raw=1",
-                  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoAcqXX5igBID9395Mv4vnskr9YyFQHFoBGqQJACjzgKMxzF58d7bbd3bH&s=10",
-                  "description": "Un empresario crea un parque con dinosaurios clonados. Una falla en el sistema libera a las bestias y un grupo de científicos lucha por sobrevivir."
-                },
-                {
-                  "Title": "El Mundo Perdido: Jurassic Park (1997)",
-                  "Stream": "https://dl.dropbox.com/scl/fi/88ih6cd6l3kz6js1gkt75/Jurassic-Park-II-1997-DUAL-1080p-id_330.mkv?rlkey=l6xsjk17ihhh804woh51ra3y9&st=nasl4sbe&raw=1",
-                  "Logo": "https://cdn.sincroguia.tv/uploads/programs/e/l/-/xel-mundo-perdido-jurassic-park-491_SPA-24.jpg.pagespeed.ic.Ro6B8Rb-L5.jpg",
-                  "description": "Un equipo viaja a la Isla Sorna, donde los dinosaurios viven libres. Deberán rescatar a un grupo atrapado mientras escapan de depredadores."
-                },
-                {
-                  "Title": "Jurassic World: Dominion (2022)",
-                  "Stream": "https://dl.dropbox.com/scl/fi/4elgwxhg7nxnyftty6u3s/Jurassic.World.Dominion.2022.1080P-Dual-Lat.mp4?rlkey=qn4wt17qp9bcyup9o5yxmrtlp&st=t1e2ztee&raw=1",
-                  "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnubRnt6j-4KNN9OO50xloeh9fTRWSR3gjUCI4Otel2cr2SGseIPZyb9Ru&s=10",
-                  "description": "Los dinosaurios ahora viven entre humanos. Owen y Claire emprenden una misión para rescatar a la hija de su amigo, mientras los protagonistas originales de Jurassic Park se unen para exponer una conspiración global."
-                }
-              ]
-            },
+  "title": "SAGA - TERMINATOR",
+  "episodes": [
+    {
+      "Title": "Terminator (1984)",
+      "Stream": "https://1a-1791.com/video/fww1/c9/s8/2/e/p/_/L/ep_LA.aaa.mp4",
+      "Logo": "https://image.tmdb.org/t/p/original/9KI49SBnwAOzGcMw1onIki7vd2.jpg",
+      "description": "Un cyborg asesino del futuro es enviado al pasado para eliminar a Sarah Connor."
+    },
+    {
+      "Title": "Terminator 2: El juicio final (1991)",
+      "Stream": "https://1a-1791.com/video/fwe2/15/s8/2/C/2/a/M/C2aMA.aaa.mkv",
+      "Logo": "https://image.tmdb.org/t/p/original/10xtoK2SFv6ADIeWxr3mcrjko72.jpg",
+      "description": "Un Terminator reprogramado protege a John Connor de un nuevo cyborg más letal."
+    },
+    {
+      "Title": "Terminator 3: La rebelión de las máquinas (2003)",
+      "Stream": "https://1a-1791.com/video/fww1/77/s8/2/S/f/b/M/SfbMA.aaa.mp4",
+      "Logo": "https://image.tmdb.org/t/p/original/ugVNhnnH3DKUZZ3JtzRkViIh4L9.jpg",
+      "description": "John Connor debe evitar el apocalipsis mientras es perseguido por una nueva Terminator."
+    }
+  ]
+},
             {
-  "title": "SAGAS - DEPREDADOR",
+  "title": "SAGA - DEPREDADOR",
   "episodes": [
     {
       "Title": "Depredador (1987)",
