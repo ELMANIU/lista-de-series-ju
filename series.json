@@ -11079,36 +11079,83 @@
   ]
 },
     {
-  "title": "VOD +18",
+  "title": "RETROCARTOONS Y SERIES ANTIGUAS",
   "items": [
     {
-      "Title": "BRAZZER",
-      "adult": true,
-      "Logo": "https://thumbs.dreamstime.com/b/m%C3%A1s-icono-de-pel%C3%ADcula-roja-al-estilo-moda-grunge-aislado-en-fondo-blanco-contenido-para-adultos-signo-menos-dieciocho-a%C3%B1os-170206198.jpg",
-      "Poster": "https://thumbs.dreamstime.com/b/m%C3%A1s-icono-de-pel%C3%ADcula-roja-al-estilo-moda-grunge-aislado-en-fondo-blanco-contenido-para-adultos-signo-menos-dieciocho-a%C3%B1os-170206198.jpg",
-      "type": "series",
-      "description": "Contenido exclusivo para adultos de Brazzer.",
-      "seasons": [
+  "Title": "EL GALLO CLAUDIO (1946)",
+  "Logo": "https://image.tmdb.org/t/p/original/tOLph1YIulhLxpPblq6jdatAJyU.jpg",
+  "Poster": "https://image.tmdb.org/t/p/original/tOLph1YIulhLxpPblq6jdatAJyU.jpg",
+  "type": "series",
+  "description": "Las divertidas aventuras del gallo más famoso de Looney Tunes, con su característico acento sureño y sus ocurrencias.",
+  "seasons": [
+    {
+      "title": "TEMPORADA 1",
+      "Poster": "https://image.tmdb.org/t/p/original/pJofvpiwQVT1FMANBDTHoIQg68Z.jpg",
+      "episodes": [
         {
-          "title": "TEMPORADA 1",
-          "Poster": "https://thumbs.dreamstime.com/b/m%C3%A1s-icono-de-pel%C3%ADcula-roja-al-estilo-moda-grunge-aislado-en-fondo-blanco-contenido-para-adultos-signo-menos-dieciocho-a%C3%B1os-170206198.jpg",
-          "episodes": [
-            {
-              "Title": "S01 E01",
-              "Stream": "",
-              "Logo": "https://thumbs.dreamstime.com/b/m%C3%A1s-icono-de-pel%C3%ADcula-roja-al-estilo-moda-grunge-aislado-en-fondo-blanco-contenido-para-adultos-signo-menos-dieciocho-a%C3%B1os-170206198.jpg",
-              "description": "Episodio 1."
-            },
-            {
-              "Title": "S01 E02",
-              "Stream": "",
-              "Logo": "https://thumbs.dreamstime.com/b/m%C3%A1s-icono-de-pel%C3%ADcula-roja-al-estilo-moda-grunge-aislado-en-fondo-blanco-contenido-para-adultos-signo-menos-dieciocho-a%C3%B1os-170206198.jpg",
-              "description": "Episodio 2."
-            }
-          ]
+          "Title": "S01 E01 - Cazando Pollos al Amanecer (1946)",
+          "Stream": "https://1a-1791.com/video/fww1/e6/s8/2/K/a/c/M/KacMA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/original/pJofvpiwQVT1FMANBDTHoIQg68Z.jpg",
+          "description": "El Gallo Claudio convence a Quique Gavilán de que el perro de la granja es realmente un pollo [citation:6]."
+        },
+        {
+          "Title": "S01 E02 - El Gallo Claudio (1948)",
+          "Stream": "https://1a-1791.com/video/fwe2/e7/s8/2/-/a/c/M/-acMA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/original/pJofvpiwQVT1FMANBDTHoIQg68Z.jpg",
+          "description": "Quique Gavilán intenta cazar al Gallo Claudio, pero el gallo siempre tiene un plan para salirse con la suya [citation:2]."
+        },
+        {
+          "Title": "S01 E03 - Una Pelea de Locos (1956)",
+          "Stream": "https://1a-1791.com/video/fww1/9f/s8/2/C/i/c/M/CicMA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/original/pJofvpiwQVT1FMANBDTHoIQg68Z.jpg",
+          "description": "El Gallo Claudio y el perro de la granja se enfrentan en una guerra de bromas cuando un vendedor llamado Lucas aparece [citation:1]."
+        },
+        {
+          "Title": "S01 E04 - El Gallo y el Gusano (1950)",
+          "Stream": "https://1a-1791.com/video/fww1/92/s8/2/O/i/c/M/OicMA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/original/pJofvpiwQVT1FMANBDTHoIQg68Z.jpg",
+          "description": "El Gallo Claudio y un gato se enfrentan por un gusano que el gallo persigue [citation:3]."
+        },
+        {
+          "Title": "S01 E05 - El Gallo y la Comadreja (1951)",
+          "Stream": "https://1a-1791.com/video/fwe2/fa/s8/2/2/i/c/M/2icMA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/original/pJofvpiwQVT1FMANBDTHoIQg68Z.jpg",
+          "description": "Durante el invierno, el Gallo Claudio utiliza a una comadreja para enfrentarse al perro guardián [citation:9]."
+        },
+        {
+          "Title": "S01 E06 - Gallo de Corazón (1956)",
+          "Stream": "https://1a-1791.com/video/fww1/8c/s8/2/w/j/c/M/wjcMA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/original/pJofvpiwQVT1FMANBDTHoIQg68Z.jpg",
+          "description": "El Gallo Claudio intenta hacerse amigo de la Gallina Viuda para poder vivir en su cálida casa [citation:5]."
+        },
+        {
+          "Title": "S01 E07 - El Gallo y el Mago (2021)",
+          "Stream": "https://1a-1791.com/video/fwe2/a5/s8/2/2/j/c/M/2jcMA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/original/pJofvpiwQVT1FMANBDTHoIQg68Z.jpg",
+          "description": "El Gallo Claudio debe impresionar a su futuro suegro [citation:11]."
+        },
+        {
+          "Title": "S01 E08 - Gallo y el Huevo (1952)",
+          "Stream": "https://1a-1791.com/video/fwe2/87/s8/2/k/k/c/M/kkcMA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/original/pJofvpiwQVT1FMANBDTHoIQg68Z.jpg",
+          "description": "El Gallo Claudio se enfrenta a un problema con un huevo ."
+        },
+        {
+          "Title": "S01 E09 - El Gallo y el Mago (2023)",
+          "Stream": "https://1a-1791.com/video/fwe2/d3/s8/2/E/k/c/M/EkcMA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/original/pJofvpiwQVT1FMANBDTHoIQg68Z.jpg",
+          "description": "Lucas hace un truco de magia [citation:11]."
+        },
+        {
+          "Title": "S01 E10 - El Gallo y su Sombra",
+          "Stream": "https://1a-1791.com/video/fww1/63/s8/2/Y/k/c/M/YkcMA.aaa.mp4",
+          "Logo": "https://image.tmdb.org/t/p/original/pJofvpiwQVT1FMANBDTHoIQg68Z.jpg",
+          "description": "Nuevas aventuras del Gallo Claudio."
         }
       ]
     }
+  ]
+}
   ]
 }
   ]
