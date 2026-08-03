@@ -7198,7 +7198,43 @@
       "Stream": "http://cdnhrz01.latincable.com.pe/Panel-Axn-HD/index.m3u8",
       "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
       "description": "Canal de series y entretenimiento AXN HD."
-    }
+    },
+    {
+  "Title": "Discovery HD",
+  "Stream": "https://cdn1tlinkgo.tlink.cl/discoveryhd/tracks-v1a1/mono.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de documentales Discovery HD."
+},
+{
+  "Title": "AMC",
+  "Stream": "https://cdn1tlinkgo.tlink.cl/amchd/tracks-v1a1/mono.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de series y películas AMC."
+},
+{
+  "Title": "National Geographic HD",
+  "Stream": "https://cdn1tlinkgo.tlink.cl/natgeohd/tracks-v1a1/mono.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de documentales National Geographic HD."
+},
+{
+  "Title": "FMH Kids HD",
+  "Stream": "https://cdn1tlinkgo.tlink.cl/fmhkidshd/tracks-v1a1/mono.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal infantil FMH Kids HD."
+},
+{
+  "Title": "Discovery World HD",
+  "Stream": "https://cdn1tlinkgo.tlink.cl/discoveryworldhd/tracks-v1a1/mono.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de documentales Discovery World HD."
+},
+{
+  "Title": "Discovery Theater HD",
+  "Stream": "https://cdn1tlinkgo.tlink.cl/discoverytheaterhd/tracks-v1a1/mono.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de documentales Discovery Theater HD."
+}
   ]
 }
              ]
