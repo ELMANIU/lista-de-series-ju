@@ -7200,6 +7200,90 @@
       "description": "Canal de series y entretenimiento AXN HD."
     },
     {
+  "Title": "Adult Swin",
+  "Stream": "http://cdnhrz01.latincable.com.pe/AdultSwin/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de Adult Swin."
+},
+{
+  "Title": "Cartoonito-HD",
+  "Stream": "http://cdnhrz01.latincable.com.pe/Cartoonito-HD/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de Cartoonito HD."
+},
+{
+  "Title": "CartoonNetwork-HD",
+  "Stream": "http://cdnhrz01.latincable.com.pe/CartoonNetwork-HD/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de Cartoon Network HD."
+},
+{
+  "Title": "CineLatino",
+  "Stream": "http://cdnhrz01.latincable.com.pe/CineLatino/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de Cine Latino."
+},
+{
+  "Title": "Cinemax",
+  "Stream": "http://cdnhrz01.latincable.com.pe/Cinemax/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de Cinemax."
+},
+{
+  "Title": "DistritoComediaHD",
+  "Stream": "http://cdnhrz01.latincable.com.pe/DistritoComediaHD/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de Distrito Comedia HD."
+},
+{
+  "Title": "ESPN_HD",
+  "Stream": "http://cdnhrz01.latincable.com.pe/ESPN_HD/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de ESPN HD."
+},
+{
+  "Title": "ESPN3_HD",
+  "Stream": "http://cdnhrz01.latincable.com.pe/ESPN3_HD/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de ESPN 3 HD."
+},
+{
+  "Title": "ESPN5_HD",
+  "Stream": "http://cdnhrz01.latincable.com.pe/ESPN5_HD/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de ESPN 5 HD."
+},
+{
+  "Title": "HTV",
+  "Stream": "http://cdnhrz01.latincable.com.pe/HTV/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de HTV."
+},
+{
+  "Title": "Pasiones_HD",
+  "Stream": "http://cdnhrz01.latincable.com.pe/Pasiones_HD/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de Pasiones HD."
+},
+{
+  "Title": "PLAYBOY_HD",
+  "Stream": "http://cdnhrz01.latincable.com.pe/PLAYBOY_HD/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de Playboy HD."
+},
+{
+  "Title": "SonyHD",
+  "Stream": "http://cdnhrz01.latincable.com.pe/SonyHD/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de Sony HD."
+},
+{
+  "Title": "Space_HD",
+  "Stream": "http://cdnhrz01.latincable.com.pe/Space_HD/index.m3u8",
+  "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
+  "description": "Canal de Space HD."
+},
+    {
   "Title": "Discovery HD",
   "Stream": "https://cdn1tlinkgo.tlink.cl/discoveryhd/tracks-v1a1/mono.m3u8",
   "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
