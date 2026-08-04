@@ -519,6 +519,12 @@
               "title": "PELÍCULAS DE ACCIÓN SECCIÓN 2",
               "episodes": [
                 {
+  "Title": "Free Guy (2021)",
+  "Stream": "https://1a-1791.com/video/fwe2/04/s8/2/I/4/C/M/I4CMA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/original/dxraF0qPr1OEgJk17ltQTO84kQF.jpg",
+  "description": "Un empleado bancario descubre que es un personaje de un videojuego y decide salvar su mundo."
+                },
+                {
   "Title": "Ready Player One: Comienza el juego (2018)",
   "Stream": "https://1a-1791.com/video/fwe2/30/s8/2/U/F/j/L/UFjLA.aaa.mp4",
   "Logo": "https://image.tmdb.org/t/p/original/2iuVrtC5IpwLtSFSgkIIIKLs0Zq.jpg",
@@ -1788,6 +1794,29 @@
           "type": "series",
           "description": "Colección de sagas completas de franquicias cinematográficas.",
           "seasons": [
+            {
+  "title": "SAGA - JEEPERS CREEPERS",
+  "episodes": [
+    {
+      "Title": "Jeepers Creepers (2001)",
+      "Stream": "https://1a-1791.com/video/fwe2/50/s8/2/-/p/x/M/-pxMA.aaa.mp4",
+      "Logo": "https://image.tmdb.org/t/p/original/g410Y1U1ELbmJG14Zru3UAimm1G.jpg",
+      "description": "Dos hermanos descubren una criatura que emerge cada 23 años para alimentarse."
+    },
+    {
+      "Title": "Jeepers Creepers 2 (2003)",
+      "Stream": "https://1a-1791.com/video/fww1/33/s8/2/M/F/x/M/MFxMA.aaa.mp4",
+      "Logo": "https://image.tmdb.org/t/p/original/u2ghDfjcs3y5c8ata3COc4pWiAN.jpg",
+      "description": "El Creeper ataca a un autobús escolar en su período de caza de 23 días."
+    },
+    {
+      "Title": "Jeepers Creepers 3 (2017)",
+      "Stream": "https://1a-1791.com/video/fwe2/6f/s8/2/6/O/C/M/6OCMA.aaa.mkv",
+      "Logo": "https://image.tmdb.org/t/p/original/pK7ge28ubs45av9aGEbVWW7ZbA8.jpg",
+      "description": "El sheriff Tashtego y su equipo cazan al Creeper antes de que complete su ciclo."
+    }
+  ]
+},
             {
   "title": "SAGA - TERMINATOR",
   "episodes": [
