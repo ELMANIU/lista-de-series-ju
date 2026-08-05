@@ -6,7 +6,7 @@
         {
   "Title": "AGREGADO RECIENTEMENTE",
   "Logo": "https://img.magnific.com/vector-gratis/fondo-super-cine_52683-1698.jpg?semt=ais_hybrid&w=740&q=80",
-  "type": "series",
+  "type": "movie",
   "description": "Las películas más recientes y destacadas.",
   "seasons": [
     {
@@ -16,6 +16,7 @@
   "Title": "Moon: Mi amigo el panda (2024)",
   "Stream": "https://1a-1791.com/video/fwe2/93/s8/2/G/h/f/J/GhfJA.aaa.mkv",
   "Logo": "https://m.media-amazon.com/images/S/pv-target-images/54b0accf38642702c6c0ec72ca84de3e54bd14af672567bcd25977420bb1c9aa.jpg",
+  "type": "movie",       
   "description": "Un panda y su amigo viven aventuras en la naturaleza."
         },
         {
