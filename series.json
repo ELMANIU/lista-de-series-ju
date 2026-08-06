@@ -473,18 +473,6 @@
                   "description": "Paul Atreides se une a los Fremen en una guerra de venganza mientras enfrenta una elección entre el amor y su destino."
                 },
                 {
-                  "Title": "Depredador: La Presa (2022)",
-                  "Stream": "https://nas1.d.tube/videos/5a712d8d-3ebe-4971-b363-32565f6966d8/720p/playlist.m3u8",
-                  "Logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/4abc54b8-4f77-425e-97c8-d6d5b920d05d/compose?aspectRatio=1.78&format=webp&width=1200",
-                  "description": "Naru, una joven comanche, debe demostrar su valía enfrentando a uno de los primeros Depredadores en la Tierra."
-                },
-                {
-                  "Title": "Depredador: Tierras Salvajes (2025)",
-                  "Stream": "https://rumble.com/hls-vod/75zvnk/playlist.m3u8?u=0&b=0",
-                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/511ecb2aeb4e3be41671c22c2521a777f8b2ae1d424e7452b6884f927460a19c.jpg",
-                  "description": "Un joven Depredador exiliado se alía con una androide dañada para sobrevivir en un planeta lleno de peligros."
-                },
-                {
                   "Title": "La guerra del mañana (2021)",
                   "Stream": "https://1a-1791.com/video/fww1/c1/s8/2/Y/f/R/H/YfRHA.aaa.mkv",
                   "Logo": "https://m.media-amazon.com/images/S/pv-target-images/33a83055d8f3773dc3ad9f4f2180bff71257dcd02cc1bdb18b4569e7f942bd15.png",
@@ -507,18 +495,18 @@
                   "Stream": "https://rumble.com/hls-vod/75z7cu/playlist.m3u8?u=0&b=0",
                   "Logo": "https://m.media-amazon.com/images/S/pv-target-images/6bc25eb36945ed2aed23961857f828f1084fda7273ca8b45ac462a2f6ca87b61.jpg",
                   "description": "El detective Axel Foley viaja a Beverly Hills para investigar el asesinato de su mejor amigo."
-                },
-                {
-                  "Title": "Los indestructibles (2010)",
-                  "Stream": "https://rumble.com/hls-vod/75zwtw/playlist.m3u8?u=0&b=0",
-                  "Logo": "https://m.media-amazon.com/images/S/pv-target-images/02694268267c79c5974cff87ab06de7868e3e302ad1521e9deb30dc8f459e59c.jpg",
-                  "description": "Un grupo de mercenarios es contratado para infiltrarse en un país sudamericano y derrocar a su dictador."
                 }
               ]
             },
             {
               "title": "PELÍCULAS DE ACCIÓN SECCIÓN 2",
               "episodes": [
+                {
+  "Title": "El beso del dragón (2001)",
+  "Stream": "https://1a-1791.com/video/fwe2/2a/s8/2/8/R/8/M/8R8MA.aaa.mkv",
+  "Logo": "https://m.media-amazon.com/images/M/MV5BMzZjY2MyZjEtMjRkNy00NzdhLTk5MGItZWJkNzYxMjJjZWUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "description": "Un agente de la inteligencia china se enfrenta a la mafia en París para rescatar a una niña huérfana."
+},
                 {
   "Title": "Free Guy (2021)",
   "Stream": "https://1a-1791.com/video/fwe2/04/s8/2/I/4/C/M/I4CMA.aaa.mp4",
