@@ -5542,8 +5542,8 @@
   "title": "LISTA 1",
   "episodes": [
     {
-      "Title": "A&E HD",
-      "Stream": "http://152.231.29.139:8000/play/a0fg/index.m3u8",
+      "Title": "HBO FAMILY",
+      "Stream": "http://45.190.13.90:8090/HBO_FAMILY/index.m3u8",
       "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
       "description": "Canal A&E HD."
     },
