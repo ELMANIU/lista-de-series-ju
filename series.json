@@ -800,6 +800,12 @@
               "title": "PELÍCULAS SECCIÓN 1",
               "episodes": [
                 {
+  "Title": "Scary Movie: Terroríficamente incorrecta (2026)",
+  "Stream": "https://1a-1791.com/video/fwe2/fa/s8/2/U/m/-/M/Um-MA.aaa.mkv",
+  "Logo": "https://image.tmdb.org/t/p/original/cAvdDPtiuVCauhjCwqK4EX2woHL.jpg",
+  "description": "Una nueva entrega de la saga de parodias de terror, llena de humor irreverente y referencias al cine de miedo."
+                },
+                {
   "Title": "Rudo y cursi (2008)",
   "Stream": "https://1a-1791.com/video/fwe2/f0/s8/2/O/v/i/M/OviMA.aaa.mkv",
   "Logo": "https://image.tmdb.org/t/p/original/xFGuhPSe1mCRcOllLlJYoNUknNt.jpg",
@@ -945,6 +951,12 @@
               "title": "Películas",
               "episodes": [
                 {
+  "Title": "El silencio de Marcos Tremmer (2024)",
+  "Stream": "https://1a-1791.com/video/fwe2/a8/s8/2/q/O/-/M/qO-MA.aaa.mkv",
+  "Logo": "https://image.tmdb.org/t/p/original/jB26CKrdHYbqZPKotbUfieqkbNl.jpg",
+  "description": "Un hombre debe enfrentar los fantasmas de su pasado cuando su silencio pone en peligro a quienes ama."
+                },
+                {
   "Title": "Correr Para Vivir (2024)",
   "Stream": "https://1a-1791.com/video/fwe2/7a/s8/2/Q/Q/W/M/QQWMA.aaa.mkv",
   "Logo": "https://image.tmdb.org/t/p/original/sXTlI8tWGmB2CL8OQZsjMZvj1cb.jpg",
@@ -1065,6 +1077,18 @@
             {
               "title": "PELÍCULAS DE ANIMACIÓN SECCIÓN 1",
               "episodes": [
+                {
+  "Title": "Space Jam: Una nueva era (2021)",
+  "Stream": "https://1a-1791.com/video/fwe2/9a/s8/2/U/s/d/N/UsdNA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/original/1BjZAcj4oGokaIGoMDWh6njWzVr.jpg",
+  "description": "LeBron James se une a los Looney Tunes para enfrentar a una inteligencia artificial en la cancha de baloncesto."
+                },
+                {
+  "Title": "Alvin y las Ardillas: Aventura sobre ruedas (2015)",
+  "Stream": "https://1a-1791.com/video/fww1/63/s8/2/6/A/d/N/6AdNA.aaa.mp4",
+  "Logo": "https://image.tmdb.org/t/p/original/isz4uh337srL6PIYiKXTS5Htssq.jpg",
+  "description": "Alvin, Simón y Teodoro se embarcan en una divertida aventura sobre ruedas."
+                },
                 {
   "Title": "La sirenita (2023)",
   "Stream": "https://1a-1791.com/video/fww1/44/s8/2/I/X/s/L/IXsLA.aaa.mp4",
