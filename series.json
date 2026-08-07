@@ -646,6 +646,18 @@
             {
               "title": "Películas",
               "episodes": [
+  {
+    "Title": "Misión a Marte (2000)",
+    "Stream": "https://1a-1791.com/video/fww1/7a/s8/2/C/R/v/N/CRvNA.aaa.mkv",
+    "Logo": "https://image.tmdb.org/t/p/original/fQM0eyV5b7jQefpSLvQS6b0e1yc.jpg",
+    "description": "Un equipo de rescate viaja a Marte para investigar una misión fallida."
+  },
+  {
+    "Title": "127 horas (2010)",
+    "Stream": "https://1a-1791.com/video/fww1/82/s8/2/w/Q/p/N/wQpNA.aaa.mp4",
+    "Logo": "https://image.tmdb.org/t/p/original/1XbNkZMLXD9dYGZJ87nmQ62Mp2l.jpg",
+    "description": "Un alpinista queda atrapado por una roca y lucha por sobrevivir durante 5 días."
+  },
                 {
   "Title": "La Reina de Fuego (2023)",
   "Stream": "https://1a-1791.com/video/fwe2/09/s8/2/M/8/U/I/M8UIA.aaa.mkv",
@@ -1077,6 +1089,12 @@
             {
               "title": "PELÍCULAS DE ANIMACIÓN SECCIÓN 1",
               "episodes": [
+  {
+    "Title": "Nuestra Pandilla (1993)",
+    "Stream": "https://1a-1791.com/video/fww1/ec/s8/2/Q/z/g/N/QzgNA.aaa.mkv",
+    "Logo": "https://image.tmdb.org/t/p/original/dpimdVQRGJp6lv9fNACxCrhKXGY.jpg",
+    "description": "Un niño se muda y aprende a jugar béisbol con un grupo de amigos en un verano inolvidable."
+  },
                 {
   "Title": "Space Jam: Una nueva era (2021)",
   "Stream": "https://1a-1791.com/video/fwe2/9a/s8/2/U/s/d/N/UsdNA.aaa.mp4",
