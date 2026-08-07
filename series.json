@@ -4611,10 +4611,226 @@
   "title": "LISTA 1",
   "episodes": [
     {
-      "Title": "HBO FAMILY",
+      "Title": "AMC HD",
+      "Stream": "http://190.83.2.182:8090/AMC_HD/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal AMC HD."
+    },
+    {
+      "Title": "Antena 3",
+      "Stream": "http://45.190.13.8/Antena3/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal Antena 3."
+    },
+    {
+      "Title": "AZ Mundo",
+      "Stream": "http://190.83.2.182:8090/AZMUNDO/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal AZ Mundo."
+    },
+    {
+      "Title": "Baby TV",
+      "Stream": "http://45.190.13.8/BabyTV/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal Baby TV."
+    },
+    {
+      "Title": "Banda Max",
+      "Stream": "http://45.190.13.90:8090/BANDAMAX/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal Banda Max."
+    },
+    {
+      "Title": "Cartoonito",
+      "Stream": "http://45.190.13.90:8090/CARTOONITO/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal Cartoonito."
+    },
+    {
+      "Title": "Cine Latino",
+      "Stream": "http://45.190.13.8/CineLatino/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal Cine Latino."
+    },
+    {
+      "Title": "Cinemax",
+      "Stream": "http://45.190.13.90:8090/CINEMAX/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal Cinemax."
+    },
+    {
+      "Title": "Concert Channel",
+      "Stream": "http://190.83.2.182:8090/CONCERTCHANNEL/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal Concert Channel."
+    },
+    {
+      "Title": "De Película",
+      "Stream": "http://45.190.13.90:8090/DEPELICULA/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal De Película."
+    },
+    {
+      "Title": "Distrito Comedia",
+      "Stream": "http://190.83.2.182:8090/DISTRITOCOMEDIA/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal Distrito Comedia."
+    },
+    {
+      "Title": "DW",
+      "Stream": "http://190.83.2.182:8090/DW/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal DW."
+    },
+    {
+      "Title": "ESPN 2",
+      "Stream": "http://45.190.13.90:8090/ESPN2/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal ESPN 2."
+    },
+    {
+      "Title": "ESPN Deportes HD",
+      "Stream": "http://45.190.13.8/ESPNDeportesHD/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal ESPN Deportes HD."
+    },
+    {
+      "Title": "Estrellas",
+      "Stream": "http://190.83.2.182:8090/ESTRELLAS/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal Estrellas."
+    },
+    {
+      "Title": "FUTV",
+      "Stream": "http://190.83.2.180:8090/FUTV/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal FUTV."
+    },
+    {
+      "Title": "Guatevisión",
+      "Stream": "http://190.83.2.182:8090/GUATEVISION/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal Guatevisión."
+    },
+    {
+      "Title": "HBO",
+      "Stream": "http://45.190.13.90:8090/HBO/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal HBO."
+    },
+    {
+      "Title": "HBO 2",
+      "Stream": "http://45.190.13.90:8090/HBO2/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal HBO 2."
+    },
+    {
+      "Title": "HBO Family",
       "Stream": "http://45.190.13.90:8090/HBO_FAMILY/index.m3u8",
-      "Logo": "https://img.magnific.com/vector-gratis/diseno-logotipo-dia-mundial-television_1308-116965.jpg?semt=ais_hybrid&w=740&q=80",
-      "description": "Canal A&E HD."
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal HBO Family."
+    },
+    {
+      "Title": "Hola TV",
+      "Stream": "http://190.83.2.182:8090/HOLATV/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal Hola TV."
+    },
+    {
+      "Title": "Nat Geo",
+      "Stream": "http://45.190.13.90:8090/NAT_GEO/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal Nat Geo."
+    },
+    {
+      "Title": "Pasiones",
+      "Stream": "http://45.190.13.90:8090/PASIONES/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal Pasiones."
+    },
+    {
+      "Title": "RCN Novelas",
+      "Stream": "http://45.190.13.90:8090/RCNNOVELAS/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal RCN Novelas."
+    },
+    {
+      "Title": "Space",
+      "Stream": "http://190.83.2.182:8090/SPACE/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal Space."
+    },
+    {
+      "Title": "Studio Universal",
+      "Stream": "http://45.190.13.90:8090/STUDIO_UNIVERSAL/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal Studio Universal."
+    },
+    {
+      "Title": "TNT Novelas",
+      "Stream": "http://45.190.13.90:8090/TNTNOVELAS/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal TNT Novelas."
+    },
+    {
+      "Title": "TV Chile Deportes",
+      "Stream": "http://190.83.2.182:8090/TVCDEPORTES/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal TV Chile Deportes."
+    },
+    {
+      "Title": "TV Chile Deportes #2",
+      "Stream": "http://45.190.13.90:8090/TVCDEPORTES/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal TV Chile Deportes #2."
+    },
+    {
+      "Title": "TeleHit Música",
+      "Stream": "http://190.83.2.182:8090/TELEHITMUSICA/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal TeleHit Música."
+    },
+    {
+      "Title": "Telemundo HD",
+      "Stream": "http://45.190.13.8/TelemundoHD/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal Telemundo HD."
+    },
+    {
+      "Title": "Tooncast",
+      "Stream": "http://190.83.2.182:8090/TOONCAST/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal Tooncast."
+    },
+    {
+      "Title": "TUDN",
+      "Stream": "http://190.83.2.182:8090/TUDN/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal TUDN."
+    },
+    {
+      "Title": "Universal Crime",
+      "Stream": "http://45.190.13.90:8090/UNIVERSALCRIME/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal Universal Crime."
+    },
+    {
+      "Title": "Univision HD",
+      "Stream": "http://45.190.13.8/UnivisionHD/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal Univision HD."
+    },
+    {
+      "Title": "VTV",
+      "Stream": "http://190.83.2.180:8090/VTV/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal VTV."
+    },
+    {
+      "Title": "Zoomoo",
+      "Stream": "http://190.83.2.182:8090/ZOOMOO/index.m3u8",
+      "Logo": "https://static.vecteezy.com/system/resources/previews/001/933/892/non_2x/old-retro-tv-poster-vector.jpg",
+      "description": "Canal Zoomoo."
     }
   ]
 }
