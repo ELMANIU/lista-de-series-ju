@@ -6184,6 +6184,57 @@
       "title": "SERIES ANIMADAS, LIVES Y MAS",
       "items": [
         {
+  "Title": "Villanos (2021)",
+  "Logo": "https://image.tmdb.org/t/p/original/p8B66Qhp03Wyiag4lLZ6uHsGAZt.jpg",
+  "Poster": "https://image.tmdb.org/t/p/original/p8B66Qhp03Wyiag4lLZ6uHsGAZt.jpg",
+  "type": "series",
+  "description": "La Organización Black Hat, dirigida por el villano más malvado del mundo, ofrece servicios malvados a otros villanos para ayudarlos a lograr sus objetivos.",
+  "seasons": [
+    {
+      "title": "TEMPORADA 1",
+      "Poster": "https://image.tmdb.org/t/p/original/t8O32zAPfR8nscoIqqppBdxVl1s.jpg",
+      "episodes": [
+        {
+          "Title": "S01 E01 - ¡Boo-Lldozer!",
+          "Stream": "https://1a-1791.com/video/fww1/68/s8/2/8/T/v/N/8TvNA.aaa.mkv",
+          "Logo": "https://image.tmdb.org/t/p/original/t8O32zAPfR8nscoIqqppBdxVl1s.jpg",
+          "description": "Un cliente contrata a la BH Org para asustar al héroe Bulldozer."
+        },
+        {
+          "Title": "S01 E02 - Secretos Satelitales",
+          "Stream": "https://1a-1791.com/video/fww1/4e/s8/2/c/Y/v/N/cYvNA.aaa.mkv",
+          "Logo": "https://image.tmdb.org/t/p/original/t8O32zAPfR8nscoIqqppBdxVl1s.jpg",
+          "description": "La BH Org ayuda a un virus informático a escapar de un guardia espacial."
+        },
+        {
+          "Title": "S01 E03 - La VVV",
+          "Stream": "https://1a-1791.com/video/fww1/40/s8/2/q/1/v/N/q1vNA.aaa.mkv",
+          "Logo": "https://image.tmdb.org/t/p/original/t8O32zAPfR8nscoIqqppBdxVl1s.jpg",
+          "description": "El equipo viaja a Guardalajarra para derrotar a un luchador."
+        },
+        {
+          "Title": "S01 E04 - El Atroz Amanecer",
+          "Stream": "https://1a-1791.com/video/fwe2/0f/s8/2/M/1/I/N/M1INA.aaa.mkv",
+          "Logo": "https://image.tmdb.org/t/p/original/t8O32zAPfR8nscoIqqppBdxVl1s.jpg",
+          "description": "La villana Penumbra contrata a la BH Org para detener a un superhéroe."
+        },
+        {
+          "Title": "S01 E05 - La Musculosa Malventura De MBH",
+          "Stream": "https://1a-1791.com/video/fww1/bf/s8/2/C/9/I/N/C9INA.aaa.mkv",
+          "Logo": "https://image.tmdb.org/t/p/original/t8O32zAPfR8nscoIqqppBdxVl1s.jpg",
+          "description": "Alguien roba la identidad de la BH Org y el equipo debe investigar."
+        },
+        {
+          "Title": "S01 E06 - El Corazón Cruel",
+          "Stream": "https://1a-1791.com/video/fwe2/f6/s8/2/o/D/N/N/oDNNA.aaa.mkv",
+          "Logo": "https://image.tmdb.org/t/p/original/t8O32zAPfR8nscoIqqppBdxVl1s.jpg",
+          "description": "Un cliente leal desaparece y el equipo debe rescatarlo."
+        }
+      ]
+    }
+  ]
+},
+        {
   "Title": "ESTAMOS MUERTOS (2022)",
   "Logo": "https://image.tmdb.org/t/p/original/erEJz0JgS3pVZAl7fl38cShK1Bs.jpg",
   "Poster": "https://image.tmdb.org/t/p/original/erEJz0JgS3pVZAl7fl38cShK1Bs.jpg",
