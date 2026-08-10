@@ -6184,6 +6184,33 @@
       "title": "SERIES ANIMADAS, LIVES Y MAS",
       "items": [
         {
+  "Title": "EL JUEGO DEL CALAMAR (2021)",
+  "Logo": "https://image.tmdb.org/t/p/original/xx3Zurg2mVep7UhXAjeYuetOvsB.jpg",
+  "Poster": "https://image.tmdb.org/t/p/original/xx3Zurg2mVep7UhXAjeYuetOvsB.jpg",
+  "type": "series",
+  "description": "Cientos de personas endeudadas compiten en juegos infantiles mortales para ganar un premio de 45.6 mil millones de wones.",
+  "seasons": [
+    {
+      "title": "TEMPORADA 1",
+      "Poster": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+      "episodes": [
+        {
+          "Title": "S01 E01 - Luz Roja, Luz Verde",
+          "Stream": "https://1a-1791.com/video/fwe2/8c/s8/2/s/W/8/N/sW8NA.aaa.mkv",
+          "Logo": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+          "description": "Un grupo de personas en crisis financiera acepta una misteriosa invitación para participar en un juego de supervivencia."
+        },
+        {
+          "Title": "S01 E02 - El Infierno",
+          "Stream": "https://1a-1791.com/video/fww1/8c/s8/2/k/M/j/O/kMjOA.aaa.mkv",
+          "Logo": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+          "description": "Los participantes descubren la cruel realidad del juego tras la primera eliminación."
+        }
+      ]
+    }
+  ]
+},
+        {
   "Title": "Animal (2021)",
   "Logo": "https://image.tmdb.org/t/p/original/dTUzqX7Ude2JskIBQVgldRLEaaS.jpg",
   "Poster": "https://image.tmdb.org/t/p/original/dTUzqX7Ude2JskIBQVgldRLEaaS.jpg",
