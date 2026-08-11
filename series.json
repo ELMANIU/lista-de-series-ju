@@ -6205,13 +6205,25 @@
           "Stream": "https://1a-1791.com/video/fww1/8c/s8/2/k/M/j/O/kMjOA.aaa.mkv",
           "Logo": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
           "description": "Los participantes descubren la cruel realidad del juego tras la primera eliminación."
-        }
+        },
+          {
+    "Title": "S01 E03 - El Hombre Con El Paraguas",
+    "Stream": "https://1a-1791.com/video/fwe2/5c/s8/2/0/y/v/O/0yvOA.aaa.mkv",
+    "Logo": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+    "description": "Los jugadores se enfrentan a una nueva prueba mientras intentan descubrir quién está detrás del juego."
+  },
+  {
+    "Title": "S01 E04 - El Equipo",
+    "Stream": "https://1a-1791.com/video/fwe2/73/s8/2/Q/A/x/O/QAxOA.aaa.mkv",
+    "Logo": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+    "description": "Los participantes deben formar equipos para superar la siguiente ronda."
+  }
       ]
     }
   ]
 },
         {
-  "Title": "Animal (2021)",
+  "Title": "ANIMAL (2021)",
   "Logo": "https://image.tmdb.org/t/p/original/dTUzqX7Ude2JskIBQVgldRLEaaS.jpg",
   "Poster": "https://image.tmdb.org/t/p/original/dTUzqX7Ude2JskIBQVgldRLEaaS.jpg",
   "type": "series",
@@ -6232,7 +6244,7 @@
   ]
         },
         {
-  "Title": "Villanos (2021)",
+  "Title": "VILLANOS (2021)",
   "Logo": "https://image.tmdb.org/t/p/original/p8B66Qhp03Wyiag4lLZ6uHsGAZt.jpg",
   "Poster": "https://image.tmdb.org/t/p/original/p8B66Qhp03Wyiag4lLZ6uHsGAZt.jpg",
   "type": "series",
