@@ -1,56 +1,46 @@
 {
-  "rows": [
-    {
-      "title": "ANIMES",
-      "type": "section",
+      "title": "SERIES ANIMADAS, LIVES Y MAS",
       "items": [
         {
-          "Title": "ANIME POPULAR",
-          "type": "subsection",
-          "Logo": "https://img.magnific.com/vector-gratis/fondo-super-cine_52683-1698.jpg?semt=ais_hybrid&w=740&q=80",
-          "description": "Los animes más populares del momento.",
-          "items": [
-            {
-              "Title": "Demon Slayer: Kimetsu no Yaiba",
-              "type": "series",
-              "Logo": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/edc1ed59a29a27fa88f2c9273ddd9a2d.jpg",
-              "description": "Tanjiro y sus amigos enfrentan demonios en el Japón Taisho.",
-              "seasons": [
-                {
-                  "title": "Temporada 1",
-                  "episodes": [
-                    {
-                      "Title": "Episodio 1: Crueldad",
-                      "Stream": "https://1a-1791.com/video/...",
-                      "Logo": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/edc1ed59a29a27fa88f2c9273ddd9a2d.jpg",
-                      "description": "Tanjiro descubre que su familia ha sido asesinada por demonios.",
-                      "EpisodeNumber": 1
-                    },
-                    {
-                      "Title": "Episodio 2: El entrenador",
-                      "Stream": "https://1a-1791.com/video/...",
-                      "Logo": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/edc1ed59a29a27fa88f2c9273ddd9a2d.jpg",
-                      "description": "Tanjiro comienza su entrenamiento como cazador de demonios.",
-                      "EpisodeNumber": 2
-                    }
-                  ]
-                },
-                {
-                  "title": "Temporada 2",
-                  "episodes": [
-                    {
-                      "Title": "Episodio 1: El Tren Infinito",
-                      "Stream": "https://1a-1791.com/video/...",
-                      "Logo": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/edc1ed59a29a27fa88f2c9273ddd9a2d.jpg",
-                      "description": "Tanjiro aborda el Tren Infinito con Rengoku.",
-                      "EpisodeNumber": 1
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
+  "Title": "EL JUEGO DEL CALAMAR (2021)",
+  "Logo": "https://image.tmdb.org/t/p/original/xx3Zurg2mVep7UhXAjeYuetOvsB.jpg",
+  "Poster": "https://image.tmdb.org/t/p/original/xx3Zurg2mVep7UhXAjeYuetOvsB.jpg",
+  "type": "series",
+  "description": "Cientos de personas endeudadas compiten en juegos infantiles mortales para ganar un premio de 45.6 mil millones de wones.",
+  "seasons": [
+    {
+      "title": "TEMPORADA 1",
+      "Poster": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+      "episodes": [
+        {
+          "Title": "S01 E01 - Luz Roja, Luz Verde",
+          "Stream": "https://1a-1791.com/video/fwe2/8c/s8/2/s/W/8/N/sW8NA.aaa.mkv",
+          "Logo": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+          "description": "Un grupo de personas en crisis financiera acepta una misteriosa invitación para participar en un juego de supervivencia."
+        },
+        {
+          "Title": "S01 E02 - El Infierno",
+          "Stream": "https://1a-1791.com/video/fww1/8c/s8/2/k/M/j/O/kMjOA.aaa.mkv",
+          "Logo": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+          "description": "Los participantes descubren la cruel realidad del juego tras la primera eliminación."
+        },
+          {
+    "Title": "S01 E03 - El Hombre Con El Paraguas",
+    "Stream": "https://1a-1791.com/video/fwe2/5c/s8/2/0/y/v/O/0yvOA.aaa.mkv",
+    "Logo": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+    "description": "Los jugadores se enfrentan a una nueva prueba mientras intentan descubrir quién está detrás del juego."
+  },
+  {
+    "Title": "S01 E04 - El Equipo",
+    "Stream": "https://1a-1791.com/video/fwe2/73/s8/2/Q/A/x/O/QAxOA.aaa.mkv",
+    "Logo": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+    "description": "Los participantes deben formar equipos para superar la siguiente ronda."
+  }
       ]
     }
-  
+  ]
+}
+      ]
+}
+]
+}
