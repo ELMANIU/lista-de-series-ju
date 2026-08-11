@@ -6259,7 +6259,10 @@
           "Title": "S01 E01 - ¡Boo-Lldozer!",
           "Stream": "https://1a-1791.com/video/fww1/68/s8/2/8/T/v/N/8TvNA.aaa.mkv",
           "Logo": "https://image.tmdb.org/t/p/original/t8O32zAPfR8nscoIqqppBdxVl1s.jpg",
-          "description": "Un cliente contrata a la BH Org para asustar al héroe Bulldozer."
+          "description": "Un cliente contrata a la BH Org para asustar al héroe Bulldozer.",
+          "skipIntro": {
+    "start": 305,
+    "end": 396
         },
         {
           "Title": "S01 E02 - Secretos Satelitales",
