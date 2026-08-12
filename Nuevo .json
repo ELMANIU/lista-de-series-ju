@@ -6201,7 +6201,9 @@
           "Title": "S01 E01 - Luz Roja, Luz Verde",
           "Stream": "https://1a-1791.com/video/fwe2/8c/s8/2/s/W/8/N/sW8NA.aaa.mkv",
           "Logo": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
-          "description": "Un grupo de personas en crisis financiera acepta una misteriosa invitación para participar en un juego de supervivencia."
+          "description": "Un grupo de personas en crisis financiera acepta una misteriosa invitación para participar en un juego de supervivencia.",
+          "introStart": 35,
+"introEnd": 95
         },
         {
           "Title": "S01 E02 - El Infierno",
