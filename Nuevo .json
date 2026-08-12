@@ -17,7 +17,9 @@
   "Stream": "https://1a-1791.com/video/fwe2/93/s8/2/G/h/f/J/GhfJA.aaa.mkv",
   "Logo": "https://m.media-amazon.com/images/S/pv-target-images/54b0accf38642702c6c0ec72ca84de3e54bd14af672567bcd25977420bb1c9aa.jpg",
   "type": "movie",       
-  "description": "Un panda y su amigo viven aventuras en la naturaleza."
+  "description": "Un panda y su amigo viven aventuras en la naturaleza.",
+          "introStart": 35,
+"introEnd": 95
         },
         {
   "Title": "Super Mario Galaxy: la película (2026)",
