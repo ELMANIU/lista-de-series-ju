@@ -6201,9 +6201,7 @@
           "Title": "S01 E01 - Luz Roja, Luz Verde",
           "Stream": "https://1a-1791.com/video/fwe2/8c/s8/2/s/W/8/N/sW8NA.aaa.mkv",
           "Logo": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
-          "description": "Un grupo de personas en crisis financiera acepta una misteriosa invitación para participar en un juego de supervivencia.",
-          "introStart": 35,
-"introEnd": 95
+          "description": "Un grupo de personas en crisis financiera acepta una misteriosa invitación para participar en un juego de supervivencia."
         },
         {
           "Title": "S01 E02 - El Infierno",
@@ -6263,7 +6261,15 @@
           "Title": "S01 E01 - ¡Boo-Lldozer!",
           "Stream": "https://1a-1791.com/video/fww1/68/s8/2/8/T/v/N/8TvNA.aaa.mkv",
           "Logo": "https://image.tmdb.org/t/p/original/t8O32zAPfR8nscoIqqppBdxVl1s.jpg",
-          "description": "Un cliente contrata a la BH Org para asustar al héroe Bulldozer."
+          "description": "Un cliente contrata a la BH Org para asustar al héroe Bulldozer.",
+          "TimedItems": [
+    {
+      "time": 10,
+      "title": "S01 E02 - Secretos Satelitales",
+      "description": "La BH Org ayuda a un virus informático a escapar de un guardia espacial.",
+      "stream": "https://1a-1791.com/video/fww1/4e/s8/2/c/Y/v/N/cYvNA.aaa.mkv",
+      "streamFormat": "progressive",
+      "poster": "https://image.tmdb.org/t/p/original/t8O32zAPfR8nscoIqqppBdxVl1s.jpg"
         },
         {
           "Title": "S01 E02 - Secretos Satelitales",
