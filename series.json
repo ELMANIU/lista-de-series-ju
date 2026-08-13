@@ -6269,7 +6269,25 @@
           "Stream": "https://1a-1791.com/video/fwe2/b6/s8/2/S/l/W/N/SlWNA.aaa.mkv",
           "Logo": "https://image.tmdb.org/t/p/original/liRTyk8o1Vw3dTsjQ7dO8VJVNiB.jpg",
           "description": "Explora la vida de los grandes felinos en su hábitat natural."
-        }
+        },
+        {
+    "Title": "S01 E02 - Simios",
+    "Stream": "https://1a-1791.com/video/fww1/35/s8/2/G/7/W/N/G7WNA.aaa.mkv",
+    "Logo": "https://image.tmdb.org/t/p/original/liRTyk8o1Vw3dTsjQ7dO8VJVNiB.jpg",
+    "description": "Descubre el fascinante mundo de los simios y su comportamiento social."
+  },
+  {
+    "Title": "S01 E03 - Criaturas Gigantes",
+    "Stream": "https://1a-1791.com/video/fww1/0a/s8/2/A/g/5/N/Ag5NA.aaa.mkv",
+    "Logo": "https://image.tmdb.org/t/p/original/liRTyk8o1Vw3dTsjQ7dO8VJVNiB.jpg",
+    "description": "Explora la vida de las criaturas más grandes del planeta."
+  },
+  {
+    "Title": "S01 E04 - Aves Rapaces",
+    "Stream": "https://1a-1791.com/video/fww1/54/s8/2/i/3/d/O/i3dOA.aaa.mkv",
+    "Logo": "https://image.tmdb.org/t/p/original/liRTyk8o1Vw3dTsjQ7dO8VJVNiB.jpg",
+    "description": "Admira la destreza y velocidad de las aves rapaces en acción."
+  }
       ]
     }
   ]
